@@ -21,9 +21,8 @@ Modern Dark Theme: Easy on the eyes for extended analysis sessions
 
 **Installation**
 
-Clone the repository:
-
-bashCopygit clone https://github.com/yourusername/mergergonis.git
+Download the executable:
+Download Mergergonis.exe
 
 Load an EVTX file using either:
 
