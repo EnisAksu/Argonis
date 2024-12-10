@@ -5,6 +5,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue)
 ![License](https://img.shields.io/badge/License-Unlicense-lightgrey)
 
+![image](https://github.com/user-attachments/assets/8e1e36d1-dfbf-4b2f-b661-b61f0f55cc39)
+
+
 IRgonis is a PowerShell-based incident response automation tool designed to help security professionals and system administrators quickly respond to security incidents on Windows systems. The tool provides a menu-driven interface to execute common incident response actions with proper logging and safety checks.
 
 ## Features
