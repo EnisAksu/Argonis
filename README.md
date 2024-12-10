@@ -87,75 +87,74 @@ All Argonis projects are released into the public domain under the Unlicense. Th
 Intended Use and Liability
 Argonis tools are developed and released with the sole intention of improving cybersecurity and protecting digital assets through legal and ethical means. These tools are meant to be used by security professionals, researchers, and organizations for legitimate security purposes such as:
 
-System administration and security
-Incident response and forensics
-Security research and education
-Network and system protection
-Threat detection and analysis
+- System administration and security
+- Incident response and forensics
+- Security research and education
+- Network and system protection
+- Threat detection and analysis
 
-Legal Framework
+#Legal Framework
 This disclaimer is governed by and constructed in accordance with:
 
-German Criminal Code (Strafgesetzbuch, StGB) §202a-d (Data espionage, phishing, acts preparatory to data espionage and phishing)
-EU Cybercrime Convention (Budapest Convention)
-International Cybercrime Treaty provisions
-Computer Fraud and Abuse Act (CFAA) principles
-EU General Data Protection Regulation (GDPR)
+- German Criminal Code (Strafgesetzbuch, StGB) §202a-d (Data espionage, phishing, acts preparatory to data espionage and phishing)
+- EU Cybercrime Convention (Budapest Convention)
+- International Cybercrime Treaty provisions
+- Computer Fraud and Abuse Act (CFAA) principles
+- EU General Data Protection Regulation (GDPR)
 
-Liability Exclusion
+#Liability Exclusion
 In accordance with § 823 BGB (German Civil Code) and international law:
 
 Argonis and its contributors exclude all liability for any damage, harm, or consequences arising from:
 
-Misuse of the tools
-Use for illegal purposes
-Unauthorized access to systems or data
-Any actions violating applicable laws or regulations
+- Misuse of the tools
+- Use for illegal purposes
+- Unauthorized access to systems or data
+- Any actions violating applicable laws or regulations
 
 
 Users are solely responsible for:
 
-Ensuring they have proper authorization for system access
-Complying with all applicable local, national, and international laws
-Obtaining necessary permissions before using tools
-Understanding and accepting the risks involved
+- Ensuring they have proper authorization for system access
+- Complying with all applicable local, national, and international laws
+- Obtaining necessary permissions before using tools
+- Understanding and accepting the risks involved
 
 
 This software is provided "as is" without warranty of any kind, as stipulated in:
 
-§ 521 BGB (German Civil Code)
-Article 101 of the CISG (UN Convention on Contracts for the International Sale of Goods)
-Principles of international software licensing law
+- § 521 BGB (German Civil Code)
+- Article 101 of the CISG (UN Convention on Contracts for the International Sale of Goods)
+- Principles of international software licensing law
 
 
-
-Prohibited Use
+#Prohibited Use
 The use of Argonis tools is strictly prohibited for:
 
-Unauthorized system access
-Data theft or manipulation
-Network attacks or disruption
-Any illegal or malicious activities
-Violation of privacy rights
-Actions causing harm to individuals or organizations
+- Unauthorized system access
+- Data theft or manipulation
+- Network attacks or disruption
+- Any illegal or malicious activities
+- Violation of privacy rights
+- Actions causing harm to individuals or organizations
 
-Compliance Requirements
+#Compliance Requirements
 Users must comply with:
 
-EU Network and Information Security (NIS) Directive
-National cybersecurity regulations
-Data protection laws
-Professional codes of ethics
-Industry-specific security standards
+- EU Network and Information Security (NIS) Directive
+- National cybersecurity regulations
+- Data protection laws
+- Professional codes of ethics
+- Industry-specific security standards
 
-Legal Consequences
+#Legal Consequences
 Misuse of these tools may constitute criminal offenses under:
 
-§202a StGB (Data Espionage)
-§303a StGB (Data Manipulation)
-§303b StGB (Computer Sabotage)
-Comparable international cybercrime laws
-Regional cyber security regulations
+- §202a StGB (Data Espionage)
+- §303a StGB (Data Manipulation)
+- §303b StGB (Computer Sabotage)
+- Comparable international cybercrime laws
+- Regional cyber security regulations
 
 By using any Argonis tool, you acknowledge that you have read, understood, and agreed to this disclaimer. If you do not agree with these terms, you are not authorized to use, modify, or distribute Argonis tools.
 
