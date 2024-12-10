@@ -96,7 +96,7 @@ This is free and unencumbered software released into the public domain. See the 
 
 ## Author
 
-Enis Aksu - https://github.com/EnisAksu
+Enis Aksu - [GitHub Profile](https://github.com/EnisAksu)
 
 ## Version History
 
@@ -108,6 +108,6 @@ Enis Aksu - https://github.com/EnisAksu
 
 ## Acknowledgments
 
-- Catbox.moe for providing the file hosting service
+- [Catbox.moe](https://catbox.moe/) for providing the file hosting service
 - TQDM library for progress bar functionality
 - Requests library for HTTP handling
