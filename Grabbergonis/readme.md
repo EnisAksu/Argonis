@@ -47,20 +47,14 @@ The script will:
 
 ### Windows (PowerShell):
 ```powershell
-# Upload a document
+# Upload a document/file
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py" -OutFile "$env:temp\Grabbergonis.py"; python "$env:temp\Grabbergonis.py" .\document.pdf
-
-# Upload an image
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py" -OutFile "$env:temp\Grabbergonis.py"; python "$env:temp\Grabbergonis.py" .\image.jpg
 ```
 
 ### Linux/Mac:
 ```bash
-# Upload a document
+# Upload a document/file
 curl -s https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py | python - ./document.pdf
-
-# Upload an image
-curl -s https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py | python - ./image.jpg
 ```
 
 ## Troubleshooting
