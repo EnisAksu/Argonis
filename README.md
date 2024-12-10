@@ -59,7 +59,7 @@ We believe in the power of community collaboration to make cybersecurity more ac
 - Share your expertise and knowledge
 - Contribute to code development
 - Help with documentation
-- Spread the word about Argonis
+- Spread the word about #Argonis
 
 ## Future Direction
 
