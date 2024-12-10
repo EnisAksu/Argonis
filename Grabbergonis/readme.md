@@ -4,7 +4,7 @@ Grabbergonis is a lightweight command-line tool that allows you to quickly uploa
 
 ## Features
 
-- Simple command-line interface
+- No installation required - run directly from GitHub
 - Automatic dependency management
 - Progress bar for upload tracking
 - Permanent file storage
@@ -16,31 +16,19 @@ Grabbergonis is a lightweight command-line tool that allows you to quickly uploa
 
 - Python 3.6 or higher
 - Internet connection
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/grabbergonis.git
-cd grabbergonis
-```
-
-2. Make the script executable (Linux/Mac):
-```bash
-chmod +x grabbergonis.py
-```
-
-No additional installation steps are required as the script automatically installs its dependencies when first run.
+- PowerShell (for Windows users)
+- Terminal (for Linux/Mac users)
 
 ## Usage
 
-```bash
-python grabbergonis.py <file_path>
+### Windows (PowerShell):
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py" -OutFile "$env:temp\Grabbergonis.py"; python "$env:temp\Grabbergonis.py" your_file.txt
 ```
 
-Example:
+### Linux/Mac:
 ```bash
-python grabbergonis.py ./document.pdf
+curl -s https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py | python - your_file.txt
 ```
 
 The script will:
@@ -55,31 +43,24 @@ The script will:
 - Internet connection required
 - Files are stored on Catbox.moe servers
 
-## Dependencies
-
-The script automatically installs these dependencies if they're not present:
-- `requests`: For handling HTTP requests
-- `tqdm`: For progress bar functionality
-
-## Error Handling
-
-The script includes comprehensive error handling for:
-- Network connectivity issues
-- File size limitations
-- Invalid file paths
-- Upload failures
-- Server response errors
-
 ## Examples
 
-Upload a text file:
-```bash
-python grabbergonis.py ./README.txt
+### Windows (PowerShell):
+```powershell
+# Upload a document
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py" -OutFile "$env:temp\Grabbergonis.py"; python "$env:temp\Grabbergonis.py" .\document.pdf
+
+# Upload an image
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py" -OutFile "$env:temp\Grabbergonis.py"; python "$env:temp\Grabbergonis.py" .\image.jpg
 ```
 
-Upload an image:
+### Linux/Mac:
 ```bash
-python grabbergonis.py ./image.png
+# Upload a document
+curl -s https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py | python - ./document.pdf
+
+# Upload an image
+curl -s https://raw.githubusercontent.com/EnisAksu/Argonis/refs/heads/main/Grabbergonis/Grabbergonis.py | python - ./image.jpg
 ```
 
 ## Troubleshooting
@@ -90,7 +71,8 @@ If you encounter any issues:
 2. Verify the file exists and is accessible
 3. Ensure the file is under 200MB
 4. Check if the file type is allowed
-5. Try running the script with administrator/sudo privileges if dependency installation fails
+5. Try running with administrator/sudo privileges if dependency installation fails
+6. For Windows, ensure you're using PowerShell
 
 ## Technical Details
 
@@ -98,28 +80,7 @@ If you encounter any issues:
 - Files are uploaded using multipart/form-data
 - Progress tracking through TQDM library
 - Automatic dependency management using pip
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This is free and unencumbered software released into the public domain. See the [UNLICENSE](UNLICENSE) file for details.
-
-## Acknowledgments
-
-- [Catbox.moe](https://catbox.moe/) for providing the file hosting service
-- TQDM library for progress bar functionality
-- Requests library for HTTP handling
-
-## Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+- Dependencies (`requests` and `tqdm`) are installed automatically if needed
 
 ## Security Notice
 
@@ -129,6 +90,14 @@ Please be aware that:
 - No encryption is performed on the files
 - Exercise caution when uploading sensitive information
 
+## License
+
+This is free and unencumbered software released into the public domain. See the [UNLICENSE](UNLICENSE) file for details.
+
+## Author
+
+Enis Aksu - https://github.com/EnisAksu
+
 ## Version History
 
 - 1.0.0
@@ -137,10 +106,8 @@ Please be aware that:
     - Progress bar implementation
     - Automatic dependency management
 
-## TODO
+## Acknowledgments
 
-- [ ] Add file encryption option
-- [ ] Implement custom retention periods
-- [ ] Add batch upload functionality
-- [ ] Include file type verification
-- [ ] Add upload history tracking
+- Catbox.moe for providing the file hosting service
+- TQDM library for progress bar functionality
+- Requests library for HTTP handling
