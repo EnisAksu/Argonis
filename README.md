@@ -113,7 +113,7 @@ Argonis and its contributors exclude all liability for any damage, harm, or cons
 - Any actions violating applicable laws or regulations
 
 
-Users are solely responsible for:
+#Users are solely responsible for:
 
 - Ensuring they have proper authorization for system access
 - Complying with all applicable local, national, and international laws
