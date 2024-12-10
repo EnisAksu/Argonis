@@ -83,7 +83,7 @@ All Argonis projects are released into the public domain under the Unlicense. Th
 - GitHub: [github.com/EnisAksu](https://github.com/EnisAksu)
 - LinkedIn: [[LinkedIn/EnisAksu](https://www.linkedin.com/in/enisaksu/)]
 
-##Legal Disclaimer
+## Legal Disclaimer
 Intended Use and Liability
 Argonis tools are developed and released with the sole intention of improving cybersecurity and protecting digital assets through legal and ethical means. These tools are meant to be used by security professionals, researchers, and organizations for legitimate security purposes such as:
 
