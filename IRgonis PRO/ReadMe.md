@@ -5,7 +5,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue)
 ![License](https://img.shields.io/badge/License-Unlicense-lightgrey)
 
-![image](https://github.com/user-attachments/assets/8e1e36d1-dfbf-4b2f-b661-b61f0f55cc39)
+![image](https://github.com/user-attachments/assets/a9953d80-d748-4f4c-934b-a831fad8d581)
+
 
 IRgonis Pro is a comprehensive PowerShell-based Incident Response and Security Automation tool. It provides a streamlined and efficient way to perform a wide range of incident response and security-related tasks on Windows systems.
 
@@ -27,6 +28,9 @@ IRgonis Pro is a comprehensive PowerShell-based Incident Response and Security A
 1. Download the latest release of IRgonis Pro from the GitHub repository.
 2. Run the script as an administrator.
 3. Follow the on-screen instructions to perform the desired incident response or security actions.
+
+## How to run
+powershell -ExecutionPolicy Bypass -File .\IRgonis_Pro.ps1
 
 ## Contributing
 
