@@ -9,10 +9,11 @@ class ThreatIntelCollector:
     def __init__(self):
         self.data_dir = Path(".")
         
-        # Updated C2 Intel Feeds URLs - using the correct paths from the repository
+        # Updated C2 Intel Feeds URLs
         self.c2_feeds = {
             "c2_trackers": "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/C2_tracker.txt",
-            "master_feed": "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/master-feed.txt"
+            "master_feed": "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/master-feed.txt",
+            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt"
         }
         
         # Base Feeds
@@ -20,12 +21,14 @@ class ThreatIntelCollector:
             "ips": [
                 "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
                 "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
-                "https://raw.githubusercontent.com/pan-unit42/iocs/master/known_good_ip.txt"
+                "https://raw.githubusercontent.com/pan-unit42/iocs/master/known_good_ip.txt",
+                "https://threatview.io/Downloads/IP-High-Confidence-Feed.txt"
             ],
             "urls": [
                 "https://urlhaus.abuse.ch/downloads/text_recent/",
                 "https://openphish.com/feed.txt",
-                "https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/malicious.txt"
+                "https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/malicious.txt",
+                "https://threatview.io/Downloads/Experimental-IOC-Tweets.txt"
             ],
             "hashes": [
                 "https://bazaar.abuse.ch/export/txt/sha256/recent/",
