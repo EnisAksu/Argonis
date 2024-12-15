@@ -6,11 +6,7 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 permissions:
-  actions: read
   contents: write
-  id-token: write
-  issues: write
-  pull-requests: write
 
 jobs:
   update-feeds:
@@ -20,7 +16,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch all history for proper updates
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
         
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -37,22 +34,17 @@ jobs:
         cd ArgonisIntel
         python argonisintel_v2.py
         
-    - name: Debug Info
-      run: |
-        pwd
-        ls -la
-        git status
-        
     - name: Commit and push if changes exist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add ArgonisIntel/argonisintel_*_Feed.txt || echo "No files to add"
-        git status
-        git diff --staged
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Auto-update threat intel feeds"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push
         fi
