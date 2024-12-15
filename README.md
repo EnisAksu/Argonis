@@ -22,6 +22,7 @@ Argonis is committed to democratizing cybersecurity by developing free, open-sou
 - **Mergergonis**: Enhanced PowerShell ScriptBlock log merger for forensic analysis
 - **Grabbergonis**: Efficient file sharing tool for security analysts
 - **IRgonis**: Incident Response Automation Tool for security analysts
+- **IRgonis Pro**: Advanced Investigation and Incident Response Automation Tool for security analysts
   
 ### In Development
 - **SCOUT**: [Coming Soon]
