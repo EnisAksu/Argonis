@@ -1,0 +1,48 @@
+name: Update Threat Intel Feeds
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Run threat intel collector
+      run: |
+        cd ArgonisIntel
+        python argonisintel_v2.py
+        
+    - name: Commit and push if changes exist
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git config pull.rebase false
+        git pull origin main --no-rebase
+        git add ArgonisIntel/argonisintel_*_Feed.txt || echo "No files to add"
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update threat intel feeds"
+          git push origin main
+        fi
