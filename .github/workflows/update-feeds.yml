@@ -2,11 +2,17 @@ name: Update Threat Intel Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
+# Only need contents:write to push changes to the repository
 permissions:
   contents: write
+
+defaults:
+  run:
+    shell: bash
+    working-directory: ./ArgonisIntel
 
 jobs:
   update-feeds:
@@ -16,7 +22,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
         
     - name: Set up Python
@@ -30,21 +35,16 @@ jobs:
         pip install requests
         
     - name: Run threat intel collector
-      run: |
-        cd ArgonisIntel
-        python argonisintel_v2.py
+      run: python argonisintel_v2.py
         
     - name: Commit and push if changes exist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add ArgonisIntel/argonisintel_*_Feed.txt || echo "No files to add"
+        git add argonisintel_*_Feed.txt || echo "No files to add"
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Auto-update threat intel feeds"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push
         fi
