@@ -28,39 +28,21 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
         
-    - name: Directory Check
-      run: |
-        pwd
-        ls -la
-        echo "Current directory contents:"
-        ls -R
-        
     - name: Run threat intel collector
       run: |
-        cd ArgonisIntel || exit 1
-        echo "ArgonisIntel directory contents:"
-        ls -la
-        python -v argonisintel_v2.py
-      
-    - name: Git Status Check
-      if: always()
-      run: |
-        git status
-        echo "Current directory:"
-        pwd
-        echo "Directory contents:"
-        ls -la
+        cd ArgonisIntel
+        python argonisintel_v2.py
         
     - name: Commit and push if changes exist
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        cd ArgonisIntel
-        git add argonisintel_*_Feed.txt || echo "No files to add"
-        git status
+        git config pull.rebase false
+        git pull origin main --no-rebase
+        git add ArgonisIntel/argonisintel_*_Feed.txt || echo "No files to add"
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Auto-update threat intel feeds"
-          git push
+          git push origin main
         fi
