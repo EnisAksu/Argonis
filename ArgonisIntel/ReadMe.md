@@ -19,6 +19,8 @@ Argonis Threat Intelligence Feeds is an automated threat intelligence collection
   - C2 Tracker Feed
   - Master Feed
   - *Attribution: These feeds provide command and control server information and associated indicators*
+- [ThreatView CobaltStrike C2 Feed](https://threatview.io/)
+  - *Attribution: High confidence CobaltStrike Command and Control server indicators*
 
 ### IP Reputation Data
 - [Stamparm/IPsum](https://github.com/stamparm/ipsum)
@@ -27,6 +29,8 @@ Argonis Threat Intelligence Feeds is an automated threat intelligence collection
   - *Attribution: A list of known malicious IP addresses*
 - [Palo Alto Unit42 IOCs](https://github.com/pan-unit42/iocs)
   - *Attribution: Known good IP addresses maintained by Palo Alto Networks Unit 42 team*
+- [ThreatView IP Feed](https://threatview.io/)
+  - *Attribution: High confidence malicious IP feed with aggregated threat intelligence data*
 
 ### Malicious URL Sources
 - [URLhaus by abuse.ch](https://urlhaus.abuse.ch/)
@@ -35,6 +39,8 @@ Argonis Threat Intelligence Feeds is an automated threat intelligence collection
   - *Attribution: A public feed of phishing URLs discovered using OpenPhish technology*
 - [Maltrail Suspicious URLs](https://github.com/stamparm/maltrail)
   - *Attribution: Collection of suspicious and malicious URLs from the Maltrail project*
+- [ThreatView IOC Tweets](https://threatview.io/)
+  - *Attribution: Experimental feed of IOCs extracted from security researchers' tweets*
 
 ### Hash Intelligence
 - [Bazaar by abuse.ch](https://bazaar.abuse.ch/)

@@ -83,7 +83,7 @@ All Argonis projects are released into the public domain under the Unlicense. Th
 ## Stay Connected
 
 - GitHub: [github.com/EnisAksu](https://github.com/EnisAksu)
-- LinkedIn: [[LinkedIn/EnisAksu](https://www.linkedin.com/in/enisaksu/)]
+- LinkedIn: [LinkedIn/EnisAksu](https://www.linkedin.com/in/enisaksu/)
 
 ## Legal Disclaimer
 Intended Use and Liability
