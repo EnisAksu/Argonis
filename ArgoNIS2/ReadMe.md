@@ -53,7 +53,7 @@ cd ArgoNIS2
 
 3. Run the tool:
 ```bash
-python nis2_compliance_tool.py
+python ArgoNIS2 compliance tool.py
 ```
 
 ## Usage
