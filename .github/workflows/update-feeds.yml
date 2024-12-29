@@ -24,14 +24,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Debug directory structure
+        run: |
+          pwd
+          ls -la
+          find . -type f -name "*.py"
+
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
       - name: Run feed collector
-        run: python src/argonisintel_v2.py
-        working-directory: ${{ github.workspace }}
+        run: |
+          # This will run from wherever the Python file actually is
+          python $(find . -type f -name "argonisintel_v2.py")
 
       - name: Commit and push if changes exist
         run: |
