@@ -7,8 +7,8 @@ import concurrent.futures
 
 class ThreatIntelCollector:
     def __init__(self):
-        self.data_dir = Path("ArgonisIntel")
-        self.data_dir.mkdir(exist_ok=True)
+        # Since we're running from the ArgonisIntel directory, use current directory
+        self.data_dir = Path(".")
         
         # Updated C2 Intel Feeds URLs - Verified Working
         self.c2_feeds = {
@@ -148,7 +148,7 @@ class ThreatIntelCollector:
         
         # Write IP feed
         print("Writing IP feed...")
-        with open(self.data_dir / "argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
+        with open("argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel IP Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total IPs: {len(all_data['ips'])}\n")
@@ -158,7 +158,7 @@ class ThreatIntelCollector:
         
         # Write URL feed
         print("Writing URL feed...")
-        with open(self.data_dir / "argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
+        with open("argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel URL Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total URLs: {len(all_data['urls'])}\n")
@@ -168,7 +168,7 @@ class ThreatIntelCollector:
         
         # Write Hash feed
         print("Writing Hash feed...")
-        with open(self.data_dir / "argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
+        with open("argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel Hash Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total Hashes: {len(all_data['hashes'])}\n")
