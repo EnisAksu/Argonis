@@ -1,19 +1,19 @@
 import requests
+import json
 from datetime import datetime
 from pathlib import Path
 import time
 import concurrent.futures
 
+# Version 2.2 - Updated feed sources and improved error handling
 class ThreatIntelCollector:
     def __init__(self):
         self.data_dir = Path(".")
+        
+        # Updated C2 Intel Feeds URLs - Verified Working
         self.c2_feeds = {
-            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt"
-        }
-        self.base_feeds = {
-            "ips": ["https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt"],
-            "urls": ["https://urlhaus.abuse.ch/downloads/text_recent/"],
-            "hashes": ["https://bazaar.abuse.ch/export/txt/sha256/recent/"]
+            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt",
+            "cyber_crime_tracker": "https://cybercrime-tracker.net/all.php"
         }
         
         # Verified Working Base Feeds
