@@ -7,9 +7,6 @@ import concurrent.futures
 
 class ThreatIntelCollector:
     def __init__(self):
-        # Get the repository root directory (where the script is running from)
-        self.repo_root = Path(__file__).parent.parent
-        # Create the output directory if it doesn't exist
         self.data_dir = Path("ArgonisIntel")
         self.data_dir.mkdir(exist_ok=True)
         
@@ -54,12 +51,10 @@ class ThreatIntelCollector:
         }
 
     def fetch_feed(self, url, feed_name):
-        """Fetch data from a feed URL with error handling and rate limiting"""
         try:
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
             }
-            # Add delay to prevent rate limiting
             time.sleep(2)
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
@@ -69,7 +64,6 @@ class ThreatIntelCollector:
             return []
 
     def parse_c2_feed(self, lines):
-        """Parse C2 feed data with enhanced validation"""
         data = {
             "urls": set(),
             "ips": set(),
@@ -80,12 +74,10 @@ class ThreatIntelCollector:
             if line and not line.startswith('#'):
                 parts = line.strip().split(',')
                 if len(parts) >= 1:
-                    # Enhanced URL validation
                     url = parts[0].strip().lower()
                     if url.startswith(('http://', 'https://')):
                         data["urls"].add(url)
                     
-                    # Enhanced IP validation
                     if len(parts) >= 2 and parts[1]:
                         ip = parts[1].strip()
                         try:
@@ -95,7 +87,6 @@ class ThreatIntelCollector:
                         except (ValueError, IndexError):
                             continue
                     
-                    # Enhanced hash validation
                     if len(parts) >= 3:
                         hash_value = parts[2].strip().lower()
                         if all(c in '0123456789abcdef' for c in hash_value):
@@ -105,7 +96,6 @@ class ThreatIntelCollector:
         return data
 
     def collect_feeds(self):
-        """Collect all feed data with parallel processing"""
         all_data = {
             "ips": set(),
             "urls": set(),
@@ -151,7 +141,6 @@ class ThreatIntelCollector:
         return all_data
 
     def generate_feeds(self):
-        """Generate the three required feed files with enhanced metadata"""
         print("Collecting data from all sources...")
         all_data = self.collect_feeds()
         
@@ -159,7 +148,7 @@ class ThreatIntelCollector:
         
         # Write IP feed
         print("Writing IP feed...")
-        with open("argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
+        with open(self.data_dir / "argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel IP Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total IPs: {len(all_data['ips'])}\n")
@@ -169,7 +158,7 @@ class ThreatIntelCollector:
         
         # Write URL feed
         print("Writing URL feed...")
-        with open("argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
+        with open(self.data_dir / "argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel URL Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total URLs: {len(all_data['urls'])}\n")
@@ -179,7 +168,7 @@ class ThreatIntelCollector:
         
         # Write Hash feed
         print("Writing Hash feed...")
-        with open("argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
+        with open(self.data_dir / "argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
             f.write("# Argonis Intel Hash Feed\n")
             f.write(f"# Generated: {timestamp}\n")
             f.write(f"# Total Hashes: {len(all_data['hashes'])}\n")
