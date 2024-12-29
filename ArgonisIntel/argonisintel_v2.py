@@ -1,67 +1,109 @@
 import requests
-import json
 from datetime import datetime
 from pathlib import Path
 import time
 import concurrent.futures
+import sys
+import logging
+import traceback
 
-# Version 2.2 - Updated feed sources and improved error handling
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(sys.stdout),
+        logging.FileHandler('threat_intel.log')
+    ]
+)
+logger = logging.getLogger(__name__)
+
 class ThreatIntelCollector:
     def __init__(self):
-        self.data_dir = Path(".")
-        
-        # Updated C2 Intel Feeds URLs - Verified Working
-        self.c2_feeds = {
-            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt",
-            "cyber_crime_tracker": "https://cybercrime-tracker.net/all.php"
-        }
-        
-        # Verified Working Base Feeds
-        self.base_feeds = {
-            "ips": [
-                "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
-                "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
-                "https://lists.blocklist.de/lists/all.txt",
-                "https://cinsscore.com/list/ci-badguys.txt",
-                "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
-                "https://reputation.alienvault.com/reputation.generic",
-                "https://www.blocklist.de/downloads/export-ips_all.txt",
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
-                "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset"
-            ],
-            "urls": [
-                "https://urlhaus.abuse.ch/downloads/text_recent/",
-                "https://openphish.com/feed.txt",
-                "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-ACTIVE.txt",
-                "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list",
-                "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
-                "https://phishing.army/download/phishing_army_blocklist_extended.txt",
-                "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt",
-                "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
-            ],
-            "hashes": [
-                "https://bazaar.abuse.ch/export/txt/sha256/recent/",
-                "https://bazaar.abuse.ch/export/txt/md5/recent/",
-                "https://sslbl.abuse.ch/blacklist/sslblacklist.csv",
-                "https://raw.githubusercontent.com/Yara-Rules/rules/master/crypto/crypto_signatures.yar",
-                "https://bazaar.abuse.ch/export/txt/sha1/recent/",
-                "https://malshare.com/daily/malshare.current.txt",
-                "https://www.hybrid-analysis.com/feed?json"
-            ]
-        }
+        try:
+            self.data_dir = Path(".")
+            if not self.data_dir.exists():
+                self.data_dir.mkdir(parents=True, exist_ok=True)
+                
+            # Updated C2 Intel Feeds URLs - Verified Working
+            self.c2_feeds = {
+                "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt",
+                "cyber_crime_tracker": "https://cybercrime-tracker.net/all.php"
+            }
+            
+            # Verified Working Base Feeds
+            self.base_feeds = {
+                "ips": [
+                    "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
+                    "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
+                    "https://lists.blocklist.de/lists/all.txt",
+                    "https://cinsscore.com/list/ci-badguys.txt",
+                    "https://feodotracker.abuse.ch/downloads/ipblocklist.txt",
+                    "https://reputation.alienvault.com/reputation.generic",
+                    "https://www.blocklist.de/downloads/export-ips_all.txt",
+                    "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
+                    "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset"
+                ],
+                "urls": [
+                    "https://urlhaus.abuse.ch/downloads/text_recent/",
+                    "https://openphish.com/feed.txt",
+                    "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-links-ACTIVE.txt",
+                    "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list",
+                    "https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list",
+                    "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+                    "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt",
+                    "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+                ],
+                "hashes": [
+                    "https://bazaar.abuse.ch/export/txt/sha256/recent/",
+                    "https://bazaar.abuse.ch/export/txt/md5/recent/",
+                    "https://sslbl.abuse.ch/blacklist/sslblacklist.csv",
+                    "https://raw.githubusercontent.com/Yara-Rules/rules/master/crypto/crypto_signatures.yar",
+                    "https://bazaar.abuse.ch/export/txt/sha1/recent/",
+                    "https://malshare.com/daily/malshare.current.txt",
+                    "https://www.hybrid-analysis.com/feed?json"
+                ]
+            }
+            logger.info("ThreatIntelCollector initialized successfully")
+        except Exception as e:
+            logger.error(f"Error initializing ThreatIntelCollector: {str(e)}")
+            logger.error(traceback.format_exc())
+            raise
 
     def fetch_feed(self, url, feed_name):
-        try:
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
-            time.sleep(2)
-            response = requests.get(url, headers=headers, timeout=30)
-            response.raise_for_status()
-            return response.text.splitlines()
-        except Exception as e:
-            print(f"Error fetching {feed_name} ({url}): {e}")
-            return []
+        retries = 3
+        for attempt in range(retries):
+            try:
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                }
+                logger.info(f"Fetching {feed_name} from {url} (Attempt {attempt + 1}/{retries})")
+                
+                response = requests.get(url, headers=headers, timeout=30)
+                response.raise_for_status()
+                
+                lines = response.text.splitlines()
+                logger.info(f"Successfully fetched {feed_name}: {len(lines)} lines")
+                return lines
+                
+            except requests.exceptions.Timeout:
+                logger.warning(f"Timeout while fetching {feed_name} (Attempt {attempt + 1}/{retries})")
+                if attempt < retries - 1:
+                    time.sleep(5 * (attempt + 1))  # Exponential backoff
+                    continue
+                    
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Error fetching {feed_name} ({url}): {str(e)}")
+                if attempt < retries - 1:
+                    time.sleep(5 * (attempt + 1))
+                    continue
+                    
+            except Exception as e:
+                logger.error(f"Unexpected error fetching {feed_name}: {str(e)}")
+                logger.error(traceback.format_exc())
+                break
+        
+        return []
 
     def parse_c2_feed(self, lines):
         data = {
@@ -96,99 +138,111 @@ class ThreatIntelCollector:
         return data
 
     def collect_feeds(self):
-        all_data = {
-            "ips": set(),
-            "urls": set(),
-            "hashes": set()
-        }
-        
-        # Collect from C2 feeds
-        with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
-            future_to_feed = {
-                executor.submit(self.fetch_feed, feed_url, feed_name): (feed_name, feed_url)
-                for feed_name, feed_url in self.c2_feeds.items()
-            }
+        try:
+            all_data = {"ips": set(), "urls": set(), "hashes": set()}
+            total_feeds = len(self.base_feeds["ips"]) + len(self.base_feeds["urls"]) + len(self.base_feeds["hashes"])
+            successful_feeds = 0
             
-            for future in concurrent.futures.as_completed(future_to_feed):
-                feed_name, feed_url = future_to_feed[future]
-                try:
-                    lines = future.result()
-                    c2_data = self.parse_c2_feed(lines)
-                    all_data["ips"].update(c2_data["ips"])
-                    all_data["urls"].update(c2_data["urls"])
-                    all_data["hashes"].update(c2_data["hashes"])
-                except Exception as e:
-                    print(f"Error processing {feed_name}: {e}")
-        
-        # Collect from base feeds
-        with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
-            for feed_type, urls in self.base_feeds.items():
-                future_to_url = {
-                    executor.submit(self.fetch_feed, url, f"base-{feed_type}"): url
-                    for url in urls
+            # Collect from C2 feeds
+            with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+                future_to_feed = {
+                    executor.submit(self.fetch_feed, feed_url, feed_name): (feed_name, feed_url)
+                    for feed_name, feed_url in self.c2_feeds.items()
                 }
                 
-                for future in concurrent.futures.as_completed(future_to_url):
-                    url = future_to_url[future]
+                for future in concurrent.futures.as_completed(future_to_feed):
+                    feed_name, feed_url = future_to_feed[future]
                     try:
                         lines = future.result()
-                        for line in lines:
-                            if line and not line.startswith('#'):
-                                all_data[feed_type].add(line.strip())
+                        c2_data = self.parse_c2_feed(lines)
+                        all_data["ips"].update(c2_data["ips"])
+                        all_data["urls"].update(c2_data["urls"])
+                        all_data["hashes"].update(c2_data["hashes"])
+                        successful_feeds += 1
                     except Exception as e:
-                        print(f"Error processing {url}: {e}")
+                        logger.error(f"Error processing {feed_name}: {e}")
+
+            # Collect from base feeds
+            with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+                for feed_type, urls in self.base_feeds.items():
+                    future_to_url = {
+                        executor.submit(self.fetch_feed, url, f"base-{feed_type}"): url
+                        for url in urls
+                    }
+                    
+                    for future in concurrent.futures.as_completed(future_to_url):
+                        url = future_to_url[future]
+                        try:
+                            lines = future.result()
+                            if lines:
+                                successful_feeds += 1
+                                for line in lines:
+                                    if line and not line.startswith('#'):
+                                        all_data[feed_type].add(line.strip())
+                        except Exception as e:
+                            logger.error(f"Error processing {url}: {e}")
+            
+            success_rate = (successful_feeds / total_feeds) * 100 if total_feeds > 0 else 0
+            logger.info(f"Feed collection complete. Success rate: {success_rate:.2f}%")
+            
+            if success_rate < 50:
+                logger.warning("Less than 50% of feeds were successfully collected!")
+            
+            return all_data
         
-        return all_data
+        except Exception as e:
+            logger.error(f"Error in collect_feeds: {str(e)}")
+            logger.error(traceback.format_exc())
+            return {"ips": set(), "urls": set(), "hashes": set()}
 
     def generate_feeds(self):
-        print("Collecting data from all sources...")
-        all_data = self.collect_feeds()
+        try:
+            logger.info("Starting feed generation...")
+            all_data = self.collect_feeds()
+            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
+            
+            for feed_type in ['ips', 'urls', 'hashes']:
+                try:
+                    filename = f"argonisintel_{feed_type.upper()}_Feed.txt"
+                    logger.info(f"Writing {filename}...")
+                    
+                    with open(filename, 'w', encoding='utf-8') as f:
+                        f.write(f"# Argonis Intel {feed_type.upper()} Feed\n")
+                        f.write(f"# Generated: {timestamp}\n")
+                        f.write(f"# Total: {len(all_data[feed_type])}\n")
+                        f.write("# Feed Version: 2.2\n\n")
+                        
+                        for item in sorted(all_data[feed_type]):
+                            f.write(f"{item}\n")
+                    
+                    logger.info(f"Successfully wrote {len(all_data[feed_type])} entries to {filename}")
+                    
+                except IOError as e:
+                    logger.error(f"Error writing {filename}: {str(e)}")
+                    continue
+                    
+            return {k: len(v) for k, v in all_data.items()}
         
-        timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
-        
-        # Write IP feed
-        print("Writing IP feed...")
-        with open("argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write("# Argonis Intel IP Feed\n")
-            f.write(f"# Generated: {timestamp}\n")
-            f.write(f"# Total IPs: {len(all_data['ips'])}\n")
-            f.write("# Feed Version: 2.2\n\n")
-            for ip in sorted(all_data["ips"]):
-                f.write(f"{ip}\n")
-        
-        # Write URL feed
-        print("Writing URL feed...")
-        with open("argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write("# Argonis Intel URL Feed\n")
-            f.write(f"# Generated: {timestamp}\n")
-            f.write(f"# Total URLs: {len(all_data['urls'])}\n")
-            f.write("# Feed Version: 2.2\n\n")
-            for url in sorted(all_data["urls"]):
-                f.write(f"{url}\n")
-        
-        # Write Hash feed
-        print("Writing Hash feed...")
-        with open("argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write("# Argonis Intel Hash Feed\n")
-            f.write(f"# Generated: {timestamp}\n")
-            f.write(f"# Total Hashes: {len(all_data['hashes'])}\n")
-            f.write("# Feed Version: 2.2\n\n")
-            for hash_value in sorted(all_data["hashes"]):
-                f.write(f"{hash_value}\n")
-        
-        return {
-            "ips": len(all_data["ips"]),
-            "urls": len(all_data["urls"]),
-            "hashes": len(all_data["hashes"])
-        }
+        except Exception as e:
+            logger.error(f"Error in generate_feeds: {str(e)}")
+            logger.error(traceback.format_exc())
+            return {"ips": 0, "urls": 0, "hashes": 0}
 
 if __name__ == "__main__":
-    collector = ThreatIntelCollector()
-    
-    print("Starting threat intelligence collection...")
-    stats = collector.generate_feeds()
-    
-    print("\nCollection complete!")
-    print(f"Generated argonisintel_IP_Feed.txt with {stats['ips']} IPs")
-    print(f"Generated argonisintel_URL_Feed.txt with {stats['urls']} URLs")
-    print(f"Generated argonisintel_Hash_Feed.txt with {stats['hashes']} hashes")
+    try:
+        logger.info("Starting threat intelligence collection...")
+        collector = ThreatIntelCollector()
+        stats = collector.generate_feeds()
+        
+        logger.info("\nCollection complete!")
+        for feed_type, count in stats.items():
+            logger.info(f"Generated {feed_type} feed with {count} entries")
+        
+        if sum(stats.values()) == 0:
+            logger.error("No data was collected! Check the logs for errors.")
+            sys.exit(1)
+            
+    except Exception as e:
+        logger.error(f"Critical error in main execution: {str(e)}")
+        logger.error(traceback.format_exc())
+        sys.exit(1)
