@@ -1,10 +1,13 @@
 name: Update Threat Intel Feeds
+
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   update-feeds:
     runs-on: ubuntu-latest
@@ -24,179 +27,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
-      
-    - name: Create Python script
-      run: |
-        cat > ArgonisIntel/argonisintel_v2.py << 'EOL'
-        import requests
-        from datetime import datetime
-        from pathlib import Path
-        import time
-        import concurrent.futures
-        import sys
-        import logging
-        import traceback
         
-        # Setup logging
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.StreamHandler(sys.stdout),
-                logging.FileHandler('threat_intel.log')
-            ]
-        )
-        logger = logging.getLogger(__name__)
-
-        class ThreatIntelCollector:
-            def __init__(self):
-                try:
-                    self.data_dir = Path(".")
-                    if not self.data_dir.exists():
-                        self.data_dir.mkdir(parents=True, exist_ok=True)
-                    self.c2_feeds = {
-                        "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt"
-                    }
-                    self.base_feeds = {
-                        "ips": ["https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt"],
-                        "urls": ["https://urlhaus.abuse.ch/downloads/text_recent/"],
-                        "hashes": ["https://bazaar.abuse.ch/export/txt/sha256/recent/"]
-                    }
-                    logger.info("ThreatIntelCollector initialized successfully")
-                except Exception as e:
-                    logger.error(f"Error initializing ThreatIntelCollector: {str(e)}")
-                    logger.error(traceback.format_exc())
-                    raise
-
-            def fetch_feed(self, url, feed_name):
-                retries = 3
-                for attempt in range(retries):
-                    try:
-                        headers = {'User-Agent': 'Mozilla/5.0'}
-                        logger.info(f"Fetching {feed_name} from {url} (Attempt {attempt + 1}/{retries})")
-                        
-                        response = requests.get(url, headers=headers, timeout=30)
-                        response.raise_for_status()
-                        
-                        lines = response.text.splitlines()
-                        logger.info(f"Successfully fetched {feed_name}: {len(lines)} lines")
-                        return lines
-                    
-                    except requests.exceptions.Timeout:
-                        logger.warning(f"Timeout while fetching {feed_name} (Attempt {attempt + 1}/{retries})")
-                        if attempt < retries - 1:
-                            time.sleep(5 * (attempt + 1))  # Exponential backoff
-                            continue
-                            
-                    except requests.exceptions.RequestException as e:
-                        logger.error(f"Error fetching {feed_name} ({url}): {str(e)}")
-                        if attempt < retries - 1:
-                            time.sleep(5 * (attempt + 1))
-                            continue
-                            
-                    except Exception as e:
-                        logger.error(f"Unexpected error fetching {feed_name}: {str(e)}")
-                        logger.error(traceback.format_exc())
-                        break
-                
-                return []
-
-            def collect_feeds(self):
-                try:
-                    all_data = {"ips": set(), "urls": set(), "hashes": set()}
-                    total_feeds = len(self.base_feeds["ips"]) + len(self.base_feeds["urls"]) + len(self.base_feeds["hashes"])
-                    successful_feeds = 0
-
-                    for feed_type, urls in self.base_feeds.items():
-                        for url in urls:
-                            lines = self.fetch_feed(url, feed_type)
-                            if lines:
-                                successful_feeds += 1
-                                for line in lines:
-                                    if line and not line.startswith('#'):
-                                        all_data[feed_type].add(line.strip())
-                    
-                    success_rate = (successful_feeds / total_feeds) * 100 if total_feeds > 0 else 0
-                    logger.info(f"Feed collection complete. Success rate: {success_rate:.2f}%")
-                    
-                    if success_rate < 50:
-                        logger.warning("Less than 50% of feeds were successfully collected!")
-                    
-                    return all_data
-                
-                except Exception as e:
-                    logger.error(f"Error in collect_feeds: {str(e)}")
-                    logger.error(traceback.format_exc())
-                    return {"ips": set(), "urls": set(), "hashes": set()}
-
-            def generate_feeds(self):
-                try:
-                    logger.info("Starting feed generation...")
-                    all_data = self.collect_feeds()
-                    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
-                    
-                    for feed_type in ['ips', 'urls', 'hashes']:
-                        try:
-                            filename = f"argonisintel_{feed_type.upper()}_Feed.txt"
-                            logger.info(f"Writing {filename}...")
-                            
-                            with open(filename, 'w', encoding='utf-8') as f:
-                                f.write(f"# Argonis Intel {feed_type.upper()} Feed\n")
-                                f.write(f"# Generated: {timestamp}\n")
-                                f.write(f"# Total: {len(all_data[feed_type])}\n\n")
-                                
-                                for item in sorted(all_data[feed_type]):
-                                    f.write(f"{item}\n")
-                            
-                            logger.info(f"Successfully wrote {len(all_data[feed_type])} entries to {filename}")
-                            
-                        except IOError as e:
-                            logger.error(f"Error writing {filename}: {str(e)}")
-                            continue
-                            
-                    return {k: len(v) for k, v in all_data.items()}
-                
-                except Exception as e:
-                    logger.error(f"Error in generate_feeds: {str(e)}")
-                    logger.error(traceback.format_exc())
-                    return {"ips": 0, "urls": 0, "hashes": 0}
-
-        if __name__ == "__main__":
-            try:
-                logger.info("Starting threat intelligence collection...")
-                collector = ThreatIntelCollector()
-                stats = collector.generate_feeds()
-                
-                logger.info("\nCollection complete!")
-                for feed_type, count in stats.items():
-                    logger.info(f"Generated {feed_type} feed with {count} entries")
-                
-                if sum(stats.values()) == 0:
-                    logger.error("No data was collected! Check the logs for errors.")
-                    sys.exit(1)
-                    
-            except Exception as e:
-                logger.error(f"Critical error in main execution: {str(e)}")
-                logger.error(traceback.format_exc())
-                sys.exit(1)
-        EOL
-
-    - name: Run script
+    - name: Run threat intel collector
       run: |
         cd ArgonisIntel
         python argonisintel_v2.py
         
-    - name: Check log file
-      if: always()
-      run: |
-        cd ArgonisIntel
-        if [ -f threat_intel.log ]; then
-          echo "=== Threat Intel Collection Log ==="
-          cat threat_intel.log
-        fi
-        
     - name: Commit and push if changes exist
-      if: success()
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
