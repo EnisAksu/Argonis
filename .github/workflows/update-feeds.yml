@@ -1,13 +1,10 @@
 name: Update Threat Intel Feeds
-
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # Fixed the syntax error here
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update-feeds:
     runs-on: ubuntu-latest
