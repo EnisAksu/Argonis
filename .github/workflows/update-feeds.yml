@@ -30,7 +30,8 @@ jobs:
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
       - name: Run feed collector
-        run: python argonisintel_v2.py
+        run: python src/argonisintel_v2.py
+        working-directory: ${{ github.workspace }}
 
       - name: Commit and push if changes exist
         run: |
