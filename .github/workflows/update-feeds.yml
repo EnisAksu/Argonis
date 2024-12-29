@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Fetch all history for all branches and tags
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,23 +26,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Debug directory structure
-        run: |
-          pwd
-          ls -la
-          find . -type f -name "*.py"
-
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-      - name: Run feed collector
+      - name: Reset local changes
         run: |
-          # This will run from wherever the Python file actually is
-          python $(find . -type f -name "argonisintel_v2.py")
+          git fetch origin
+          git reset --hard origin/main
+          git clean -fd
 
-      - name: Commit and push if changes exist
+      - name: Run feed collector
+        run: python argonisintel_v2.py
+
+      - name: Commit and push changes
         run: |
-          git add ArgonisIntel/*.txt
-          git diff --staged --quiet || (git commit -m "Auto-update threat feeds" && git push)
+          git add -A
+          git diff --staged --quiet || (git commit -m "Auto-update threat feeds [skip ci]" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
