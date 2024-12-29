@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # Fetch all history for all branches and tags
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,11 +38,17 @@ jobs:
           git clean -fd
 
       - name: Run feed collector
-        run: python argonisintel_v2.py
+        run: python ArgonisIntel/argonisintel_v2.py
+        working-directory: ${{ github.workspace }}
+
+      - name: Debug on failure
+        if: failure()
+        run: |
+          pwd
+          ls -la
+          cat ArgonisIntel/argonisintel_v2.py
 
       - name: Commit and push changes
         run: |
           git add -A
           git diff --staged --quiet || (git commit -m "Auto-update threat feeds [skip ci]" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
