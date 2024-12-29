@@ -123,8 +123,7 @@ The Unlicense is a public domain dedication that allows you to do whatever you w
 
 
 ## Contact
-Connect with the developer on LinkedIn:
-Enis Aksu
+Connect with the developer on LinkedIn:[EnisAksu](https://www.linkedin.com/in/enisaksu/)
 
 ## Acknowledgments
 - NIS2 Directive documentation
