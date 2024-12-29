@@ -1,5 +1,4 @@
 import requests
-import json
 from datetime import datetime
 from pathlib import Path
 import time
@@ -7,13 +6,14 @@ import concurrent.futures
 
 class ThreatIntelCollector:
     def __init__(self):
-        # Since we're running from the ArgonisIntel directory, use current directory
         self.data_dir = Path(".")
-        
-        # Updated C2 Intel Feeds URLs - Verified Working
         self.c2_feeds = {
-            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt",
-            "cyber_crime_tracker": "https://cybercrime-tracker.net/all.php"
+            "CobaltStrike-TPs": "https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt"
+        }
+        self.base_feeds = {
+            "ips": ["https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt"],
+            "urls": ["https://urlhaus.abuse.ch/downloads/text_recent/"],
+            "hashes": ["https://bazaar.abuse.ch/export/txt/sha256/recent/"]
         }
         
         # Verified Working Base Feeds
