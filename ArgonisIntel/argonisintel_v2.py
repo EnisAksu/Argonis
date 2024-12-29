@@ -7,13 +7,11 @@ import concurrent.futures
 
 class ThreatIntelCollector:
     def __init__(self):
-	# Get the repository root directory (where the script is running from)
-    self.repo_root = Path(__file__).parent.parent
-    # Create the output directory if it doesn't exist
-    self.data_dir = self.repo_root / "ArgonisIntel"
-    self.data_dir.mkdir(exist_ok=True)
-
-        self.data_dir = Path(".")
+        # Get the repository root directory (where the script is running from)
+        self.repo_root = Path(__file__).parent.parent
+        # Create the output directory if it doesn't exist
+        self.data_dir = Path("ArgonisIntel")
+        self.data_dir.mkdir(exist_ok=True)
         
         # Updated C2 Intel Feeds URLs - Verified Working
         self.c2_feeds = {
