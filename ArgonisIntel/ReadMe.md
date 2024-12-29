@@ -4,49 +4,68 @@ Argonis Threat Intelligence Feeds is an automated threat intelligence collection
 
 ## Features
 
-- Automated collection every 6 hours
+- Automated collection of threat intelligence
 - Three distinct feed types:
   - IP addresses
   - URLs
   - File hashes (MD5, SHA1, SHA256)
 - Deduplication of indicators
 - Automatic format standardization
+- Parallel processing for efficient data collection
+- Rate limiting to respect source feed restrictions
+- Robust error handling
 
 ## Feed Sources
 
 ### Command and Control (C2) Intelligence
-- [drb-ra/C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
-  - C2 Tracker Feed
-  - Master Feed
-  - *Attribution: These feeds provide command and control server information and associated indicators*
 - [ThreatView CobaltStrike C2 Feed](https://threatview.io/)
   - *Attribution: High confidence CobaltStrike Command and Control server indicators*
+- [Cybercrime Tracker](https://cybercrime-tracker.net/)
+  - *Attribution: Tracking various cybercrime activities and C2 servers*
 
 ### IP Reputation Data
 - [Stamparm/IPsum](https://github.com/stamparm/ipsum)
-  - *Attribution: A daily updated IP reputation list of known malicious hosts*
+  - *Attribution: Daily updated IP reputation list of known malicious hosts*
 - [Stamparm/Blackbook](https://github.com/stamparm/blackbook)
-  - *Attribution: A list of known malicious IP addresses*
-- [Palo Alto Unit42 IOCs](https://github.com/pan-unit42/iocs)
-  - *Attribution: Known good IP addresses maintained by Palo Alto Networks Unit 42 team*
-- [ThreatView IP Feed](https://threatview.io/)
-  - *Attribution: High confidence malicious IP feed with aggregated threat intelligence data*
+  - *Attribution: List of known malicious IP addresses*
+- [Blocklist.de](https://www.blocklist.de/)
+  - *Attribution: Various attack-based IP blocklists*
+- [CI Army List](https://cinsscore.com/)
+  - *Attribution: Collective Intelligence Network Security IP blocklist*
+- [Feodo Tracker](https://feodotracker.abuse.ch/)
+  - *Attribution: Tracking botnet C2 infrastructure*
+- [AlienVault Reputation](https://reputation.alienvault.com/)
+  - *Attribution: Community-driven IP reputation data*
+- [FireHOL IP Lists](https://github.com/firehol/blocklist-ipsets)
+  - *Attribution: Comprehensive IP blocklists for various threats*
 
 ### Malicious URL Sources
 - [URLhaus by abuse.ch](https://urlhaus.abuse.ch/)
-  - *Attribution: A project by abuse.ch to collect and share malicious URLs used for malware distribution*
+  - *Attribution: Collection of malware distribution URLs*
 - [OpenPhish](https://openphish.com/)
-  - *Attribution: A public feed of phishing URLs discovered using OpenPhish technology*
-- [Maltrail Suspicious URLs](https://github.com/stamparm/maltrail)
-  - *Attribution: Collection of suspicious and malicious URLs from the Maltrail project*
-- [ThreatView IOC Tweets](https://threatview.io/)
-  - *Attribution: Experimental feed of IOCs extracted from security researchers' tweets*
+  - *Attribution: Phishing URL feed using OpenPhish technology*
+- [Mitchell Krogza's Phishing Database](https://github.com/mitchellkrogza/Phishing.Database)
+  - *Attribution: Extensive collection of phishing URLs*
+- [Malware Web Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+  - *Attribution: Comprehensive list of compromised websites*
+- [Phishing Army](https://phishing.army/)
+  - *Attribution: Community-driven phishing URL blocklist*
+- [Malware Filter](https://gitlab.com/malware-filter/urlhaus-filter)
+  - *Attribution: Filtered and processed URLhaus data*
+- [Steven Black Hosts](https://github.com/StevenBlack/hosts)
+  - *Attribution: Unified hosts file with base extensions*
 
 ### Hash Intelligence
-- [Bazaar by abuse.ch](https://bazaar.abuse.ch/)
-  - *Attribution: Recent SHA256 hashes of malware samples*
-- [Maltrail Suspicious Hashes](https://github.com/stamparm/maltrail)
-  - *Attribution: Collection of suspicious and malicious file hashes from the Maltrail project*
+- [Malware Bazaar](https://bazaar.abuse.ch/)
+  - *Attribution: Various hash types of recent malware samples*
+- [SSL Blacklist](https://sslbl.abuse.ch/)
+  - *Attribution: SSL certificate hashes associated with malicious activities*
+- [YARA Rules Crypto](https://github.com/Yara-Rules/rules)
+  - *Attribution: Cryptographic signatures for malware detection*
+- [MalShare](https://malshare.com/)
+  - *Attribution: Community-driven malware repository*
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+  - *Attribution: Automated malware analysis service feed*
 
 ## Feed Formats
 
@@ -56,16 +75,36 @@ Each feed is provided in a simple text format with metadata headers:
 # Argonis Intel [FEED_TYPE] Feed
 # Generated: YYYY-MM-DD HH:MM:SS UTC
 # Total [INDICATORS]: COUNT
+# Feed Version: 2.2
 
 [indicator entries - one per line]
 ```
 
 ## Usage
 
-The feeds are automatically updated every 6 hours and can be found in the following files:
-- `ArgonisIntel/argonisintel_IP_Feed.txt`
-- `ArgonisIntel/argonisintel_URL_Feed.txt`
-- `ArgonisIntel/argonisintel_Hash_Feed.txt`
+The script generates three distinct feed files:
+- `argonisintel_IP_Feed.txt`
+- `argonisintel_URL_Feed.txt`
+- `argonisintel_Hash_Feed.txt`
+
+To use the script:
+1. Install the required dependencies:
+```bash
+pip install requests
+```
+
+2. Run the script:
+```bash
+python argonisintel_v2.py
+```
+
+## Implementation Details
+
+- Concurrent processing using ThreadPoolExecutor
+- Rate limiting with 2-second delays between requests
+- Custom User-Agent headers for reliable data collection
+- Enhanced validation for IPs, URLs, and hashes
+- Robust error handling for network issues
 
 ## Disclaimer
 
@@ -73,11 +112,15 @@ These feeds are aggregated from public sources and should be used as additional 
 
 ## License
 
-Please respect the licenses and attribution requirements of the original feed sources when using this data.
+This project is open-source. However, please respect the licenses and attribution requirements of the original feed sources when using this data.
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you have suggestions for additional feeds or improvements.
+Feel free to submit issues or pull requests if you have suggestions for:
+- Additional feed sources
+- Code improvements
+- Bug fixes
+- Documentation updates
 
 ---
 
