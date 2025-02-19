@@ -31,7 +31,7 @@ jobs:
     - name: Run threat intel collector
       run: |
         cd ArgonisIntel
-        python argonisintel_v2.py
+        python argonisintel_v2.1.py
         
     - name: Commit and push if changes exist
       run: |
