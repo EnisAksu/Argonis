@@ -3,10 +3,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 import time
-import re
 import concurrent.futures
-from urllib.parse import urlparse
-import ipaddress
 
 class ThreatIntelCollector:
     def __init__(self):
@@ -107,7 +104,22 @@ class ThreatIntelCollector:
                 "https://urlabuse.com/public/data/malware_url.txt",
                 "https://urlabuse.com/public/data/phishing_url.txt",
                 "https://urlabuse.com/public/data/hacked_url.txt",
-                "https://osint.digitalside.it/Threat-Intel/lists/latesturls.txt"
+                "https://osint.digitalside.it/Threat-Intel/lists/latesturls.txt",
+		"https://threatfox.abuse.ch/downloads/hostfile/",
+                "https://iocfeed.mrlooquer.com/feed.csv",
+                "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s.csv",
+                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv",
+                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv",
+                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/month.csv",
+                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/year.csv",
+                "https://www.botvrij.eu/data/blocklist/blocklist_domain.csv",
+                "https://trends.netcraft.com/cybercrime/tlds",
+                "https://raw.githubusercontent.com/tsirolnik/spam-domains-list/master/spamdomains.txt",
+                "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+                "https://nocdn.nrd-list.com/0/nrd-list-32-days.txt",
+                "https://nocdn.threat-list.com/0/domains.txt",
+                "https://nocdn.threat-list.com/1/domains.txt",
+                "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt"
             ],
             "hashes": [
                 "https://bazaar.abuse.ch/export/txt/sha256/recent/",
@@ -128,34 +140,9 @@ class ThreatIntelCollector:
                 "https://www.botvrij.eu/data/feed-osint/hashes.csv",
                 "https://threatview.io/Downloads/MD5-HASH-ALL.txt",
                 "https://threatview.io/Downloads/SHA-HASH-FEED.txt"
-            ],
-            "domains": [
-                "https://threatfox.abuse.ch/downloads/hostfile/",
-                "https://iocfeed.mrlooquer.com/feed.csv",
-                "https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/blob/master/feeds/domainC2s.csv",
-                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv",
-                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv",
-                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/month.csv",
-                "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/year.csv",
-                "https://www.botvrij.eu/data/blocklist/blocklist_domain.csv",
-                "https://trends.netcraft.com/cybercrime/tlds",
-                "https://raw.githubusercontent.com/tsirolnik/spam-domains-list/master/spamdomains.txt",
-                "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
-                "https://nocdn.nrd-list.com/0/nrd-list-32-days.txt",
-                "https://nocdn.threat-list.com/0/domains.txt",
-                "https://nocdn.threat-list.com/1/domains.txt",
-                "https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt"
             ]
         }
-        
-        # Regex patterns for validation
-        self.ip_pattern = re.compile(r'^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$')
-        self.cidr_pattern = re.compile(r'^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)/\d{1,2}$')
-        self.url_pattern = re.compile(r'^https?://')
-        self.domain_pattern = re.compile(r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$')
-        self.md5_pattern = re.compile(r'^[a-fA-F0-9]{32}$')
-        self.sha1_pattern = re.compile(r'^[a-fA-F0-9]{40}$')
-        self.sha256_pattern = re.compile(r'^[a-fA-F0-9]{64}$')
+
 
     def fetch_feed(self, url, feed_name):
         """Fetch data from a feed URL with error handling"""
@@ -170,101 +157,35 @@ class ThreatIntelCollector:
             print(f"Error fetching {feed_name} ({url}): {e}")
             return []
 
-    def expand_cidr(self, cidr_notation):
-        """Expand a CIDR notation to individual IP addresses"""
-        try:
-            network = ipaddress.ip_network(cidr_notation, strict=False)
-            # For very large networks (larger than /16), we'll limit expansion to avoid memory issues
-            if network.prefixlen < 16:
-                print(f"Warning: CIDR {cidr_notation} is too large to expand (contains more than 65,536 IPs). Skipping expansion.")
-                return []
-            return [str(ip) for ip in network.hosts()]
-        except Exception as e:
-            print(f"Error expanding CIDR {cidr_notation}: {e}")
-            return []
-
-    def is_ip(self, value):
-        """Check if the value is an IP address"""
-        return bool(self.ip_pattern.match(value))
-    
-    def is_cidr(self, value):
-        """Check if the value is in CIDR notation"""
-        return bool(self.cidr_pattern.match(value))
-    
-    def is_url(self, value):
-        """Check if the value is a URL"""
-        return bool(self.url_pattern.match(value))
-    
-    def is_domain(self, value):
-        """Check if the value is a domain"""
-        return bool(self.domain_pattern.match(value))
-    
-    def is_hash(self, value):
-        """Check if the value is an MD5, SHA1 or SHA256 hash"""
-        return (bool(self.md5_pattern.match(value)) or 
-                bool(self.sha1_pattern.match(value)) or 
-                bool(self.sha256_pattern.match(value)))
-
-    def extract_url_components(self, url):
-        """Extract domain and IP from URL if possible"""
-        try:
-            parsed = urlparse(url)
-            domain = parsed.netloc
-            return domain
-        except:
-            return None
-
     def parse_c2_feed(self, lines):
         """Parse C2 feed data"""
         data = {
             "urls": set(),
             "ips": set(),
-            "hashes": set(),
-            "domains": set()
+            "hashes": set()
         }
         
         for line in lines:
             if line and not line.startswith('#'):
                 parts = line.strip().split(',')
                 if len(parts) >= 1:
-                    item = parts[0].strip()
+                    # Clean and validate URL
+                    url = parts[0].strip()
+                    if url.startswith(('http://', 'https://')):
+                        data["urls"].add(url)
                     
-                    # Determine the type and add to appropriate set
-                    if self.is_url(item):
-                        data["urls"].add(item)
-                        # Try to extract domain from URL
-                        domain = self.extract_url_components(item)
-                        if domain and self.is_domain(domain):
-                            data["domains"].add(domain)
-                    elif self.is_cidr(item):
-                        expanded_ips = self.expand_cidr(item)
-                        data["ips"].update(expanded_ips)
-                    elif self.is_ip(item):
-                        data["ips"].add(item)
-                    elif self.is_domain(item):
-                        data["domains"].add(item)
-                    elif self.is_hash(item):
-                        data["hashes"].add(item)
-                    
-                    # Process additional parts if present
+                    # Extract IP if present
                     if len(parts) >= 2 and parts[1]:
-                        item2 = parts[1].strip()
-                        if self.is_cidr(item2):
-                            expanded_ips = self.expand_cidr(item2)
-                            data["ips"].update(expanded_ips)
-                        elif self.is_ip(item2):
-                            data["ips"].add(item2)
-                        elif self.is_url(item2):
-                            data["urls"].add(item2)
-                        elif self.is_domain(item2):
-                            data["domains"].add(item2)
-                        elif self.is_hash(item2):
-                            data["hashes"].add(item2)
+                        ip = parts[1].strip()
+                        # Basic IP validation
+                        if all(x.isdigit() and 0 <= int(x) <= 255 for x in ip.split('.')):
+                            data["ips"].add(ip)
                     
-                    if len(parts) >= 3 and parts[2]:
-                        item3 = parts[2].strip()
-                        if self.is_hash(item3):
-                            data["hashes"].add(item3)
+                    # Extract hash if present
+                    if len(parts) >= 3:
+                        hash_value = parts[2].strip()
+                        if len(hash_value) in [32, 40, 64]:  # MD5, SHA1, or SHA256
+                            data["hashes"].add(hash_value)
         
         return data
 
@@ -273,8 +194,7 @@ class ThreatIntelCollector:
         all_data = {
             "ips": set(),
             "urls": set(),
-            "hashes": set(),
-            "domains": set()
+            "hashes": set()
         }
         
         # Collect from C2 feeds
@@ -284,74 +204,26 @@ class ThreatIntelCollector:
             all_data["ips"].update(c2_data["ips"])
             all_data["urls"].update(c2_data["urls"])
             all_data["hashes"].update(c2_data["hashes"])
-            all_data["domains"].update(c2_data["domains"])
         
-        # Process each base feed and properly categorize items
+        # Collect from base feeds
         for feed_type, urls in self.base_feeds.items():
             for url in urls:
                 lines = self.fetch_feed(url, f"base-{feed_type}")
                 for line in lines:
                     if line and not line.startswith('#'):
-                        item = line.strip()
-                        
-                        # Recategorize based on actual content, not just feed type
-                        if self.is_cidr(item):
-                            expanded_ips = self.expand_cidr(item)
-                            all_data["ips"].update(expanded_ips)
-                        elif self.is_ip(item):
-                            all_data["ips"].add(item)
-                        elif self.is_url(item):
-                            all_data["urls"].add(item)
-                            # Try to extract domain from URL
-                            domain = self.extract_url_components(item)
-                            if domain and self.is_domain(domain):
-                                all_data["domains"].add(domain)
-                        elif self.is_domain(item):
-                            all_data["domains"].add(item)
-                        elif self.is_hash(item):
-                            all_data["hashes"].add(item)
+                        all_data[feed_type].add(line.strip())
         
         return all_data
 
-    def create_disclaimer(self):
-        """Generate disclaimer text for feed files"""
-        disclaimer = [
-            "# +----------------------------------------------------------------------+",
-            "# |                   Argonis Intelligence Threat Feed                    |",
-            "# +----------------------------------------------------------------------+",
-            "# | DISCLAIMER:                                                           |",
-            "# | This feed contains threat intelligence collected from various sources. |",
-            "# | The data is provided for security research and defense purposes only.  |",
-            "# | Use at your own risk. Always verify indicators before taking action.   |",
-            "# |                                                                        |",
-            "# | For more information and updates, visit:                               |",
-            "# | https://github.com/EnisAksu/Argonis/tree/main/ArgonisIntel            |",
-            "# +----------------------------------------------------------------------+",
-            "#",
-            "# This feed is aggregated from multiple threat intelligence sources",
-            "# including but not limited to: abuse.ch, VirusTotal, PhishTank,",
-            "# Emerging Threats, ThreatView.io, Blocklist.de, and many others.",
-            "#",
-            "# Note: All CIDR ranges have been expanded to individual IP addresses",
-            "# for easier implementation in security tools.",
-            "#",
-            "# For commercial use or customized threat intelligence solutions, please",
-            "# contact the original data providers directly.",
-            "#"
-        ]
-        return "\n".join(disclaimer)
-
     def generate_feeds(self):
-        """Generate the feed files"""
+        """Generate the three required feed files"""
         print("Collecting data from all sources...")
         all_data = self.collect_feeds()
-        
-        disclaimer = self.create_disclaimer()
         
         # Write IP feed
         print("Writing IP feed...")
         with open("argonisintel_IP_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write(disclaimer + "\n\n")
+            f.write("# Argonis Intel IP Feed\n")
             f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total IPs: {len(all_data['ips'])}\n\n")
             for ip in sorted(all_data["ips"]):
@@ -359,18 +231,17 @@ class ThreatIntelCollector:
         
         # Write URL feed
         print("Writing URL feed...")
-        combined_urls = all_data["urls"].union(all_data["domains"])
         with open("argonisintel_URL_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write(disclaimer + "\n\n")
+            f.write("# Argonis Intel URL Feed\n")
             f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
-            f.write(f"# Total URLs and Domains: {len(combined_urls)}\n\n")
-            for url_item in sorted(combined_urls):
-                f.write(f"{url_item}\n")
+            f.write(f"# Total URLs: {len(all_data['urls'])}\n\n")
+            for url in sorted(all_data["urls"]):
+                f.write(f"{url}\n")
         
         # Write Hash feed
         print("Writing Hash feed...")
         with open("argonisintel_Hash_Feed.txt", 'w', encoding='utf-8') as f:
-            f.write(disclaimer + "\n\n")
+            f.write("# Argonis Intel Hash Feed\n")
             f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
             f.write(f"# Total Hashes: {len(all_data['hashes'])}\n\n")
             for hash_value in sorted(all_data["hashes"]):
@@ -378,7 +249,7 @@ class ThreatIntelCollector:
         
         return {
             "ips": len(all_data["ips"]),
-            "urls_and_domains": len(combined_urls),
+            "urls": len(all_data["urls"]),
             "hashes": len(all_data["hashes"])
         }
 
@@ -390,5 +261,5 @@ if __name__ == "__main__":
     
     print("\nCollection complete!")
     print(f"Generated argonisintel_IP_Feed.txt with {stats['ips']} IPs")
-    print(f"Generated argonisintel_URL_Feed.txt with {stats['urls_and_domains']} URLs and domains")
+    print(f"Generated argonisintel_URL_Feed.txt with {stats['urls']} URLs")
     print(f"Generated argonisintel_Hash_Feed.txt with {stats['hashes']} hashes")
