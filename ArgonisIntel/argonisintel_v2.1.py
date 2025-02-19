@@ -390,6 +390,5 @@ if __name__ == "__main__":
     
     print("\nCollection complete!")
     print(f"Generated argonisintel_IP_Feed.txt with {stats['ips']} IPs")
-    print(f"Generated argonisintel_URL_Feed.txt with {stats['urls']} URLs")
+    print(f"Generated argonisintel_URL_Feed.txt with {stats['urls_and_domains']} URLs and domains")
     print(f"Generated argonisintel_Hash_Feed.txt with {stats['hashes']} hashes")
-    print(f"Generated argonisintel_Domain_Feed.txt with {stats['domains']} domains")
