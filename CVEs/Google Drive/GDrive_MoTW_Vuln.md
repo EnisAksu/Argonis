@@ -99,7 +99,7 @@ Discovered and reported by **Enis Aksu**
 - [Microsoft Docs - MoTW](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview)
 - CVEs of similar nature:
   - [CVE-2025-33026 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-33026)
-  - [CVE-2025-33027 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-33027)
-  - [CVE-2025-46652 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-46652)
+  - [CVE-2025-33027 – BandiZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-33027)
+  - [CVE-2025-46652 – IZArc MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-46652)
   - [CVE-2025-0411 – 7-Zip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-0411)
   - [CVE-2024-8811 – WinRAR MoTW issue](https://nvd.nist.gov/vuln/detail/CVE-2024-8811)
