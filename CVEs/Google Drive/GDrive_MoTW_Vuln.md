@@ -14,7 +14,7 @@ A vulnerability in the **Google Drive Desktop App** allows files downloaded or s
 ## 📌 Affected Product
 
 - **Product**: Google Drive for Desktop  
-- **Version**: Latest as of [Insert date tested – e.g., May 2025]  
+- **Version**: Version 108.0 as of May 2025 and also previous Version 107.0
 - **Platform**: Windows  
 
 ---
@@ -24,7 +24,7 @@ A vulnerability in the **Google Drive Desktop App** allows files downloaded or s
 This vulnerability allows a remote attacker to:
 
 - Send a malicious executable (e.g., `.bat`, `.exe`, `.scr`) to a Google user via **Drive "Shared with Me"**.
-- If the user **copies** the shared file into their own Drive (a common behavior), the file is synced to their local computer by the **Google Drive Desktop App**.
+- If the user **copies** the shared file into their own Drive (a common behavior) via "make a copy" function, the file is synced to their local computer by the **Google Drive Desktop App**.
 - **Because MoTW is not applied**, Windows Defender and SmartScreen **do not display warnings** when the file is opened.
 - This makes it easier to execute malicious code **without any defense mechanisms triggering**.
 
@@ -34,7 +34,7 @@ This vulnerability allows a remote attacker to:
 
 1. **Attacker** uploads a malicious `.bat` or `.exe` file to their own Google Drive.
 2. They **share the file** with a victim’s Gmail account.
-3. Victim sees the file under **"Shared with Me"** and chooses **“Make a copy”** (standard behavior to use it in their own Drive).
+3. Victim sees the file under **"Shared with Me"** and goes for **“Make a copy”** (standard behavior to use it in their own Drive).
 4. The file is synced to their **local drive** via Google Drive for Desktop.
 5. Victim **double-clicks** the file, which runs without any security warning.
 6. Malicious code is executed. For example:
@@ -67,8 +67,7 @@ They are written to disk **without** any MoTW marking (i.e., no `Zone.Identifier
 A working PoC video and files are available in this repository:
 
 - 📹 `Gdrive_MoTW_Exploit.mp4` (demo of the attack)
-- 🦠 `malicious.bat` (PoC batch file that adds a local admin)
-- 📄 `attack_steps.txt` (step-by-step instructions)
+- 🦠 `GDrivebypass.bat` (PoC batch file that adds a local admin)
 
 ---
 
@@ -83,7 +82,8 @@ A working PoC video and files are available in this repository:
 ## 👤 Credits
 
 Discovered and reported by **Enis Aksu**  
-Contact: [insert your email or GitHub handle]
+[GitHub](https://github.com/EnisAksu)  
+[LinkedIn](https://www.linkedin.com/in/EnisAksu/)
 
 ---
 
@@ -100,5 +100,8 @@ Contact: [insert your email or GitHub handle]
 
 - [Microsoft Docs - MoTW](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-smartscreen/windows-defender-smartscreen-overview)
 - CVEs of similar nature:
+  - [CVE-2025-33026 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-33026)
+  - [CVE-2025-33027 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-33027)
+  - [CVE-2025-46652 – PeaZip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-46652)
   - [CVE-2025-0411 – 7-Zip MoTW bypass](https://nvd.nist.gov/vuln/detail/CVE-2025-0411)
   - [CVE-2024-8811 – WinRAR MoTW issue](https://nvd.nist.gov/vuln/detail/CVE-2024-8811)
