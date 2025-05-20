@@ -8,8 +8,7 @@ A vulnerability in the **Google Drive Desktop App** allows files downloaded or s
 **Status**: Reported to Google  
 **Google Response**: Rejected as a duplicate (no public CVE associated)  
 **ZDI Response**: Rejected as duplicate  
-**Public Disclosure Date**: [Insert Date]
-
+**Public Disclosure Date**: 20.05.2025
 ---
 
 ## 📌 Affected Product
