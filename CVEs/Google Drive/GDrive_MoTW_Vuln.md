@@ -90,7 +90,6 @@ Discovered and reported by **Enis Aksu**
 
 - **April 2025**: Reported to Google  
 - **April 2025**: Google declined as duplicate  
-- **May 2025**: Rejected by ZDI  
 - **May 2025**: Public disclosure
 
 ---
