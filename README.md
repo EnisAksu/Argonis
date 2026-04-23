@@ -21,10 +21,15 @@ Argonis is committed to democratizing cybersecurity by developing free, open-sou
 ## Current Projects
 
 ### Released Tools
-- **Mergergonis**: Enhanced PowerShell ScriptBlock log merger for forensic analysis
-- **Grabbergonis**: Efficient file sharing tool for security analysts
-- **IRgonis**: Incident Response Automation Tool for security analysts
-- **IRgonis Pro**: Advanced Investigation and Incident Response Automation Tool for security analysts
+- **Mergergonis**: Mergergonis is a graphical tool for forensic analysts to extract, filter, and merge PowerShell ScriptBlock logging data from Windows Event Log files.
+- **Grabbergonis**: Grabbergonis is a CLI tool for quickly uploading files and generating shareable download links from the terminal.
+- **IRgonis**: IRgonis is a PowerShell incident response tool that automates common security response actions on Windows systems through a menu-driven interface.
+- **IRgonis Pro**: IRgonis Pro is an advanced PowerShell tool for performing a wide range of incident response and security tasks on Windows systems.
+- **ArgoNIS2**: ArgoNIS2 is a desktop tool that helps organizations assess and understand their NIS2 Directive compliance requirements based on their specific characteristics.
+- **BatchScriptDecodergonis**: BatchScriptDecodergonis is a GUI tool for decoding obfuscated Windows batch scripts, helping security analysts quickly analyze encoded payloads.
+- **DORAgonis**: DORAgonis is a bilingual (German/English) Excel-based DORA compliance tracker.
+- **HashCalculator**: Argonis Hash Calculator is a lightweight offline desktop utility for calculating cryptographic file hashes via drag-and-drop.
+
   
 ### In Development
 - **SCOUT**: [Coming Soon]
