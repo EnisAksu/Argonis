@@ -1,7 +1,9 @@
 # Argonis - Open Source Cybersecurity Solutions
 
+Argonis is an open source cyber defense tooling project focused on incident response automation, detection engineering support, SOC workflow improvement, and scalable operational security response processes.
+
 <p align="center">
-  <i>"Make Cybersecurity available and accessible for everyone"</i>
+  <i>"Make cybersecurity available and accessible for everyone"</i>
 </p>
 
 ## Our Vision
