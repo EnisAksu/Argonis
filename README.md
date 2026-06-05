@@ -1,7 +1,9 @@
 # Argonis - Open Source Cybersecurity Solutions
 
+Argonis is an open source cyber defense tooling project focused on incident response automation, detection engineering support, SOC workflow improvement, and scalable operational security response processes.
+
 <p align="center">
-  <i>"Make Cybersecurity available and accessible for everyone"</i>
+  <i>"Make cybersecurity available and accessible for everyone"</i>
 </p>
 
 ## Our Vision
@@ -19,14 +21,28 @@ Argonis is committed to democratizing cybersecurity by developing free, open-sou
 ## Current Projects
 
 ### Released Tools
-- **Mergergonis**: Enhanced PowerShell ScriptBlock log merger for forensic analysis
-- **Grabbergonis**: Efficient file sharing tool for security analysts
-- **IRgonis**: Incident Response Automation Tool for security analysts
-- **IRgonis Pro**: Advanced Investigation and Incident Response Automation Tool for security analysts
+- **Mergergonis**: Mergergonis is a graphical tool for forensic analysts to extract, filter, and merge PowerShell ScriptBlock logging data from Windows Event Log files.
+- **Grabbergonis**: Grabbergonis is a CLI tool for quickly uploading files and generating shareable download links from the terminal.
+- **IRgonis**: IRgonis is a PowerShell incident response tool that automates common security response actions on Windows systems through a menu-driven interface.
+- **IRgonis Pro**: IRgonis Pro is an advanced PowerShell tool for performing a wide range of incident response and security tasks on Windows systems.
+- **ArgoNIS2**: ArgoNIS2 is a desktop tool that helps organizations assess and understand their NIS2 Directive compliance requirements based on their specific characteristics.
+- **BatchScriptDecodergonis**: BatchScriptDecodergonis is a GUI tool for decoding obfuscated Windows batch scripts, helping security analysts quickly analyze encoded payloads.
+- **DORAgonis**: DORAgonis is a bilingual (German/English) Excel-based DORA compliance tracker.
+- **HashCalculator**: Argonis Hash Calculator is a lightweight offline desktop utility for calculating cryptographic file hashes via drag-and-drop.
+
+## Design Principles
+
+Argonis tooling follows several core engineering principles:
+
+- automation first incident response workflows
+- analyst productivity improvement
+- investigation quality consistency
+- reduction of false positive operational overhead
+- accessible security capabilities without licensing barriers
   
 ### In Development
 - **SCOUT**: [Coming Soon]
-- **ArgonisIntel**: Free threat intelligence feed for everyone
+- **ArgonisIntel**: Community accessible threat intelligence feed supporting detection engineering workflows
 
 ## Why Argonis?
 
@@ -86,16 +102,14 @@ All Argonis projects are released into the public domain under the Unlicense. Th
 - LinkedIn: [LinkedIn/EnisAksu](https://www.linkedin.com/in/enisaksu/)
 
 ## Legal Disclaimer
-Intended Use and Liability
-Argonis tools are developed and released with the sole intention of improving cybersecurity and protecting digital assets through legal and ethical means. These tools are meant to be used by security professionals, researchers, and organizations for legitimate security purposes such as:
 
-- System administration and security
-- Incident response and forensics
-- Security research and education
-- Network and system protection
-- Threat detection and analysis
+Argonis tools are developed for defensive security purposes including incident response, investigation support, compliance preparation, and security research.
 
-#Legal Framework
+Users are responsible for ensuring they have appropriate authorization before using any tool.
+
+All software is provided as-is without warranty.
+
+# Legal Framework
 This disclaimer is governed by and constructed in accordance with:
 
 - German Criminal Code (Strafgesetzbuch, StGB) §202a-d (Data espionage, phishing, acts preparatory to data espionage and phishing)
