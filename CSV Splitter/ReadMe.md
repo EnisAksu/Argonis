@@ -39,10 +39,8 @@ CSV loaded → choose split mode → click split → done
 
 Make sure you have Python installed (3.8+ recommended).
 
-```bash
 pip install customtkinter
 python CSVSplitter.py
-```bash
 
 ### Option 2: Run Executable (Windows)
 
