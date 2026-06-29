@@ -42,7 +42,7 @@ Make sure you have Python installed (3.8+ recommended).
 pip install customtkinter
 python CSVSplitter.py
 
-Option 2: Run Executable (Windows)
+### Option 2: Run Executable (Windows)
 
 Simply download and run:
 
@@ -50,7 +50,7 @@ CSVSplitter.exe
 
 No installation required.
 
-How to Use
+### How to Use
 Open the application
 Click "Browse CSV" and select your file
 Choose split mode:
@@ -59,7 +59,7 @@ Split into Pieces
 Select option (MB size or number of chunks)
 Click "Split CSV"
 Output files will be created in the same folder as the original file
-Output Format
+## Output Format
 
 Split files are saved in the same directory as:
 
@@ -67,7 +67,7 @@ originalname_chunk1.csv
 originalname_chunk2.csv
 originalname_chunk3.csv
 ...
-Technical Details
+## Technical Details
 Language: Python 3
 UI Framework: CustomTkinter
 Standard Libraries:
@@ -76,30 +76,23 @@ os
 math
 sys
 subprocess
-Notes
+
+## Notes
 Large CSV files may take time depending on disk speed.
 Files are split safely using streaming (no full file load into memory).
 UTF-8 encoding is used with error tolerance for compatibility.
-Possible Improvements (Roadmap)
+
+## Possible Improvements (Roadmap)
 Progress bar for splitting process
 Drag & drop file support
 Custom output directory selection
 Multi-threaded splitting for very large files
 macOS/Linux builds
-License
+
+## License
 
 This project is open-source and free to use for personal and commercial purposes.
 
-Author
+## Author
 
 Created by Enis Aksu
-
-
----
-
-If you want, I can also:
-- make it look more “startup SaaS level” (very polished marketing style)
-- add GitHub badges (Python version, license, etc.)
-- or write a release page description for your `.exe` download
-
-Just tell me 👍
