@@ -41,6 +41,7 @@ Make sure you have Python installed (3.8+ recommended).
 ```bash
 pip install customtkinter
 python CSVSplitter.py
+```
 
 ### Option 2: Run Executable (Windows)
 
