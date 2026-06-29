@@ -24,8 +24,9 @@ You can use either:
 ---
 
 ## Screenshots
+<img width="514" height="455" alt="image" src="https://github.com/user-attachments/assets/d7eb144b-5678-4dde-8474-afd279af5022" />
 
-*(Add screenshots here if available)*
+
 
 Example:
 CSV loaded → choose split mode → click split → done
@@ -41,7 +42,7 @@ Make sure you have Python installed (3.8+ recommended).
 ```bash
 pip install customtkinter
 python CSVSplitter.py
-```
+```bash
 
 ### Option 2: Run Executable (Windows)
 
