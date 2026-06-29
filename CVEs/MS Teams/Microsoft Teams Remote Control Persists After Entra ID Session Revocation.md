@@ -1,5 +1,3 @@
-
-
 > Responsible Disclosure Research by Enis Aksu
 > 
 > This research is published to help defenders, security teams, and incident responders understand a potential limitation of Microsoft Teams session revocation when remote control sessions are already active.
@@ -7,6 +5,14 @@
 > No exploit code is provided. The goal of this publication is to improve defensive awareness and encourage organizations to evaluate their Teams remote control policies.
 
 ---
+
+## 🎥 Proof of Concept
+
+[![Watch the PoC Video](https://img.youtube.com/vi/0T12F7WIBQM/maxresdefault.jpg)](https://www.youtube.com/watch?v=0T12F7WIBQM)
+
+---
+
+
 
 ## Executive Summary
 
