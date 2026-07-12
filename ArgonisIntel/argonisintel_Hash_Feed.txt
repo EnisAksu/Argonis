@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-07-12 15:26:07 UTC
-# Total Hashes: 144628
+# Generated: 2026-07-12 16:29:53 UTC
+# Total Hashes: 144298
 
 "2026-03-14 17:20:39", "1766348", "b6d4ad0231941e0637485ac5833e0fdc75db35289b54e70f3858b70d36d04c80", "sha256_hash", "payload", "win.netsupportmanager_rat", "NetSupport", "NetSupportManager RAT", "2026-07-10 22:27:26", "90", "False", "https://www.proofpoint.com/us/blog/threat-insight/security-brief-clickfix-social-engineering-technique-floods-threat-landscape", "clickfix,netsupport", "0", "Lenny_3BO"
 "2026-07-11 05:29:28", "1848395", "bd894e0e215af7fa9a6c99cb939efd7183b5cbf845c9e0b5e6038a95bd58c11a", "sha256_hash", "payload", "elf.cpuminer", "None", "Cpuminer", "", "100", "False", "", "chronic-nightmare,credential-theft,monero-miner,rootkit,tor-c2,worm", "0", "MatthewBurford"
@@ -1513,7 +1513,6 @@
 0b4154c712a2b747b1011f1086e95a78,a80e5be0-fedf-4d0a-b364-58e22b936b94
 0b448037205562955c39fdd2511c9670,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
 0b4494f573327f4662a4ef086035795d,f65efb02-c563-44a7-9036-516219a24243
-0b454d10005df0fbe3be6963d95956ae87b32345f8c487feb13b2fa380817184
 0b48aea4ea23f95247a69017f6bb23af,58408896-9290-4af1-8bc8-0b29c0a8ab16
 0b4bfd9422eb241b2d324cb69d65900b
 0b4c7a81a89e097f1564a0926d26d901,5badbf47-50c4-4f60-bdde-32aac0a8ab16
@@ -2159,7 +2158,6 @@
 1000dfbd920be5af7c9fe161be8768a9,a80e5be0-fedf-4d0a-b364-58e22b936b94
 1003e17424c43149298276dba22d993b,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 100406803ebe590db38727c523f65ca7,3e089ded-cac6-4b7b-bbc6-be2161abd39f
-100498a8d749a4fab8176bde19dc864190fcff5c1d38008a5bbbeda0e8254027
 1007420557c9fe7085f1ff37a8df9bbe,6181159d-d7e0-422f-b7f5-26cc0abe1822
 100787cea3a9bf6ca5eb3e9153955eca,c5107fff-968b-4267-bc27-cafbc6553d1d
 1008775210392df9362edc523074d4ef,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
@@ -6604,7 +6602,6 @@
 2025-07-17 06:30:09,romonlyht,ip,192.244.97.170,#phishing,https://x.com/romonlyht/status/1945732737522143672
 2025-07-17 06:30:09,romonlyht,ip,217.154.225.163,#phishing,https://x.com/romonlyht/status/1945732739698987405
 2025-07-17 06:30:09,romonlyht,url,https://khamarsheba.com//pw/jp?uid=aaaa%40example.jp,#phishing,https://x.com/romonlyht/status/1945732739698987405
-2025-07-17 06:30:09,romonlyht,url,https://www.google.com/url?q=https%3A%2F%2Fpx.cpipxn3.sa.com%2Fcnn.html&sa=D&sntz=1&usg=AOvVaw2LvXzrLoVaEOonVZHsU,#phishing,https://x.com/romonlyht/status/1945732737522143672
 2025-07-17 06:30:10,romonlyht,domain,khamarsheba.com,#phishing,https://x.com/romonlyht/status/1945732741410271704
 2025-07-17 06:30:10,romonlyht,url,https://khamarsheba.com/pw/jp/?uid=aaaa%40example.jp,#phishing,https://x.com/romonlyht/status/1945732741410271704
 2025-07-17 06:46:38,drb_ra,ip,35.241.90.34,#C2,https://x.com/drb_ra/status/1945736887873773855
@@ -7149,8 +7146,6 @@
 2025-07-19 02:00:09,urldna_bot,url,https://rga158.webwave.dev,#phishing #scam,https://x.com/urldna_bot/status/1946389568132964796
 2025-07-19 04:00:05,urldna_bot,domain,mostofadev.github.io,#scam #phishing,https://x.com/urldna_bot/status/1946419750575239328
 2025-07-19 04:00:05,urldna_bot,url,https://mostofadev.github.io/module-11/,#scam #phishing,https://x.com/urldna_bot/status/1946419750575239328
-2025-07-19 06:00:06,urldna_bot,domain,itstharun1.github.io,#scam #phishing,https://x.com/urldna_bot/status/1946449952122528134
-2025-07-19 06:00:06,urldna_bot,url,http://itstharun1.github.io/netflix-clone,#scam #phishing,https://x.com/urldna_bot/status/1946449952122528134
 2025-07-19 06:47:18,drb_ra,ip,103.230.69.188,#C2 #Dcrat,https://x.com/drb_ra/status/1946461830538248333
 2025-07-19 06:47:18,drb_ra,url,http://103.230.69.188:6000,#C2 #Dcrat,https://x.com/drb_ra/status/1946461830538248333
 2025-07-19 06:47:23,drb_ra,ip,76.68.146.89,#C2 #Qakbot,https://x.com/drb_ra/status/1946461851501441031
@@ -7775,8 +7770,6 @@
 2025-07-21 19:44:14,skocherhan,md5,4c0a8a568317573f312728542ef577c2,#Lumma,https://x.com/skocherhan/status/1947382128519352730
 2025-07-21 19:44:14,skocherhan,url,http://swalocf.lat/atxi,#Lumma,https://x.com/skocherhan/status/1947382128519352730
 2025-07-21 19:44:14,skocherhan,url,http://t.me/partisanclan,#Lumma,https://x.com/skocherhan/status/1947382128519352730
-2025-07-21 20:00:06,urldna_bot,domain,sake-siromani.github.io,#phishing #scam,https://x.com/urldna_bot/status/1947386120154583252
-2025-07-21 20:00:06,urldna_bot,url,http://sake-siromani.github.io/Amazon-Clone,#phishing #scam,https://x.com/urldna_bot/status/1947386120154583252
 2025-07-21 20:18:15,skocherhan,ip,45.191.66.77,,https://x.com/skocherhan/status/1947390688288772266
 2025-07-21 21:00:16,threatquery,url,http://76.223.6.48,#C2 #malware,https://x.com/threatquery/status/1947401261663281251
 2025-07-21 21:00:18,threatquery,url,http://5.166.42.9,#C2 #Havoc #malware,https://x.com/threatquery/status/1947401272073626072
@@ -8583,8 +8576,6 @@
 2025-07-23 20:00:00,setThreatTitle,url,http://justlittleluxuriedrs.shop,,https://x.com/setThreatTitle/status/1948110870820577464
 2025-07-23 20:00:00,setThreatTitle,url,http://longstoryshortdesigndes.shop,,https://x.com/setThreatTitle/status/1948110870820577464
 2025-07-23 20:00:00,setThreatTitle,url,http://magneticcitizen.shop,,https://x.com/setThreatTitle/status/1948110870820577464
-2025-07-23 20:00:10,urldna_bot,domain,karandevgan452.github.io,#phishing #scam,https://x.com/urldna_bot/status/1948110913141178408
-2025-07-23 20:00:10,urldna_bot,url,http://karandevgan452.github.io/Netflix-Clone,#phishing #scam,https://x.com/urldna_bot/status/1948110913141178408
 2025-07-23 21:00:03,threatquery,ip,116.203.165.217,#C2 #malware,https://x.com/threatquery/status/1948125983866749126
 2025-07-23 21:00:03,threatquery,url,http://116.203.165.217,#C2 #malware,https://x.com/threatquery/status/1948125983866749126
 2025-07-23 21:00:04,threatquery,url,http://107.174.147.15,#C2 #CobaltStrike #malware,https://x.com/threatquery/status/1948125987444510782
@@ -11690,8 +11681,6 @@
 2025-08-03 06:00:10,urldna_bot,url,https://0592asre850.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1951885784878862793
 2025-08-03 06:12:33,harugasumi,domain,www1-janetbank-inforelease-rog.tuanlan.shop,#phishing,https://x.com/harugasumi/status/1951888904157827230
 2025-08-03 06:12:33,harugasumi,url,https://www1-janetbank-inforelease-rog.tuanlan.shop,#phishing,https://x.com/harugasumi/status/1951888904157827230
-2025-08-03 08:00:10,urldna_bot,domain,ashish-v-ai.github.io,#phishing #scam,https://x.com/urldna_bot/status/1951915985604075869
-2025-08-03 08:00:10,urldna_bot,url,https://ashish-v-ai.github.io/Netflix-clone/,#phishing #scam,https://x.com/urldna_bot/status/1951915985604075869
 2025-08-03 09:07:07,galkofahi,ip,92.118.112.17,#opendir #malware #Trojan,https://x.com/galkofahi/status/1951932833158619176
 2025-08-03 09:07:07,galkofahi,sha256,db09f8ba6b1ec60f3e02eb61451690beedecb2ff2cf8ef9731736c22f17b32d2,#opendir #malware #Trojan,https://x.com/galkofahi/status/1951932833158619176
 2025-08-03 09:07:07,galkofahi,url,http://92.118.112.17:8080,#opendir #malware #Trojan,https://x.com/galkofahi/status/1951932833158619176
@@ -11891,8 +11880,6 @@
 2025-08-04 03:30:00,momomopas,url,http://define-clusters-american-counters.trycloudflare.com,#opendir,https://x.com/momomopas/status/1952210385504719274
 2025-08-04 03:30:00,momomopas,url,http://inbox-mixer-mysql-gmbh.trycloudflare.com,#opendir,https://x.com/momomopas/status/1952210385504719274
 2025-08-04 03:30:00,momomopas,url,http://rush-poetry-stations-disciplinary.trycloudflare.com,#opendir,https://x.com/momomopas/status/1952210385504719274
-2025-08-04 04:00:07,urldna_bot,domain,italocovas.github.io,#scam #phishing,https://x.com/urldna_bot/status/1952217963370516808
-2025-08-04 04:00:07,urldna_bot,url,https://italocovas.github.io/instagram-ui-clone/index.html,#scam #phishing,https://x.com/urldna_bot/status/1952217963370516808
 2025-08-04 05:26:58,K_N1kolenko,domain,fillettx.xin,#LummaStealer,https://x.com/K_N1kolenko/status/1952239821210165479
 2025-08-04 05:26:58,K_N1kolenko,url,http://fillettx.xin/otiq,#LummaStealer,https://x.com/K_N1kolenko/status/1952239821210165479
 2025-08-04 05:26:58,K_N1kolenko,url,http://t.me/sadfgsdfgdfg124,#LummaStealer,https://x.com/K_N1kolenko/status/1952239821210165479
@@ -12050,8 +12037,6 @@
 2025-08-04 21:46:16,skocherhan,ip,96.9.124.209,,https://x.com/skocherhan/status/1952486268518240349
 2025-08-04 21:46:16,skocherhan,url,http://64.7.198.123/win.ps1,,https://x.com/skocherhan/status/1952486268518240349
 2025-08-04 21:46:16,skocherhan,url,http://96.9.124.209:8080/getcmd,,https://x.com/skocherhan/status/1952486268518240349
-2025-08-04 22:00:07,urldna_bot,domain,developwithjamal.github.io,#scam #phishing,https://x.com/urldna_bot/status/1952489752663355836
-2025-08-04 22:00:07,urldna_bot,url,https://developwithjamal.github.io/Netflix-Clone/,#scam #phishing,https://x.com/urldna_bot/status/1952489752663355836
 2025-08-04 22:23:17,1ZRR4H,ip,144.91.103.204,#opendir,https://x.com/1ZRR4H/status/1952495584730071482
 2025-08-04 22:23:17,1ZRR4H,sha256,aa23f21bae3d3bbe722bcd03aaf8c440bede9a5ec01d3840f87567ea41925c98,#opendir,https://x.com/1ZRR4H/status/1952495584730071482
 2025-08-04 22:23:17,1ZRR4H,url,http://144.91.103.204/optimization/ExplOpt.exe,#opendir,https://x.com/1ZRR4H/status/1952495584730071482
@@ -12063,8 +12048,6 @@
 2025-08-05 00:00:19,SarlackLab,url,http://147.185.221.26:26089,#C2 #Njrat,https://x.com/SarlackLab/status/1952520002541637801
 2025-08-05 02:00:06,urldna_bot,domain,updatedemployeemanual.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1952550147373535398
 2025-08-05 02:00:06,urldna_bot,url,https://updatedemployeemanual.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1952550147373535398
-2025-08-05 04:00:07,urldna_bot,domain,edgeecoder.github.io,#phishing #scam,https://x.com/urldna_bot/status/1952580350401564917
-2025-08-05 04:00:07,urldna_bot,url,https://edgeecoder.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/1952580350401564917
 2025-08-05 05:31:42,TIntel2255,domain,indiandefenceforce.link,#phishing,https://x.com/TIntel2255/status/1952603397536010609
 2025-08-05 05:31:42,TIntel2255,url,http://indiandefenceforce.link,#phishing,https://x.com/TIntel2255/status/1952603397536010609
 2025-08-05 06:00:06,urldna_bot,domain,mariner.okta-ssl.com,#phishing #scam,https://x.com/urldna_bot/status/1952610547322482776
@@ -12659,8 +12642,6 @@
 2025-08-05 23:20:06,masaomi346,url,https://l6ngod.top/KSDvDjZYR/,#phishing,https://x.com/masaomi346/status/1952872271657550092
 2025-08-05 23:20:06,masaomi346,url,https://lfwnb4.top/KSDvDjZYR/,#phishing,https://x.com/masaomi346/status/1952872271657550092
 2025-08-05 23:20:06,masaomi346,url,https://qr7mpl.top/KSDvDjZYR/,#phishing,https://x.com/masaomi346/status/1952872271657550092
-2025-08-06 00:00:14,urldna_bot,domain,pikay13.github.io,#scam #phishing,https://x.com/urldna_bot/status/1952882370907902094
-2025-08-06 00:00:14,urldna_bot,url,http://pikay13.github.io/Netflix-Clone,#scam #phishing,https://x.com/urldna_bot/status/1952882370907902094
 2025-08-06 00:54:53,ShadowChasing1,domain,ccltdcn.org,#APT,https://x.com/ShadowChasing1/status/1952896123871666364
 2025-08-06 00:54:53,ShadowChasing1,md5,3f5bbba1d885e2a120dc93a4d8a7b59d,#APT,https://x.com/ShadowChasing1/status/1952896123871666364
 2025-08-06 00:54:53,ShadowChasing1,md5,cf5d60617ad12c3e480c9d69326a53eb,#APT,https://x.com/ShadowChasing1/status/1952896123871666364
@@ -14332,8 +14313,6 @@
 2025-08-10 15:03:14,skocherhan,md5,f46e75eb89214e2fbb850b9d29b9f515,,https://x.com/skocherhan/status/1954559167345107439
 2025-08-10 15:03:14,skocherhan,url,http://18.206.193.214,,https://x.com/skocherhan/status/1954559167345107439
 2025-08-10 15:03:14,skocherhan,url,http://50.16.27.236,,https://x.com/skocherhan/status/1954559167345107439
-2025-08-10 16:00:07,urldna_bot,domain,pahularora.github.io,#scam #phishing,https://x.com/urldna_bot/status/1954573482198503550
-2025-08-10 16:00:07,urldna_bot,url,https://pahularora.github.io/amazon-clone/,#scam #phishing,https://x.com/urldna_bot/status/1954573482198503550
 2025-08-10 16:06:27,volrant136,domain,Railway.app,#APT #phishing,https://x.com/volrant136/status/1954575077359698237
 2025-08-10 16:06:27,volrant136,domain,b4a.run,#APT #phishing,https://x.com/volrant136/status/1954575077359698237
 2025-08-10 16:06:27,volrant136,url,http://Railway.app,#APT #phishing,https://x.com/volrant136/status/1954575077359698237
@@ -15220,8 +15199,6 @@
 2025-08-13 08:09:07,suyog41,md5,113e9b383a82031c1934885448c267e5,#stealer,https://x.com/suyog41/status/1955542116958081446
 2025-08-13 09:50:26,drb_ra,ip,209.38.214.215,#C2 #CobaltStrike,https://x.com/drb_ra/status/1955567614354469202
 2025-08-13 09:50:26,drb_ra,url,http://209.38.214.215:80,#C2 #CobaltStrike,https://x.com/drb_ra/status/1955567614354469202
-2025-08-13 10:00:09,urldna_bot,domain,patilkartik1.github.io,#phishing #scam,https://x.com/urldna_bot/status/1955570058454860180
-2025-08-13 10:00:09,urldna_bot,url,https://patilkartik1.github.io/netflix-Dashboard-clone/,#phishing #scam,https://x.com/urldna_bot/status/1955570058454860180
 2025-08-13 10:00:27,SarlackLab,ip,213.152.161.244,#C2 #NanoCore,https://x.com/SarlackLab/status/1955570136238231855
 2025-08-13 10:00:27,SarlackLab,url,http://213.152.161.244:61865,#C2 #NanoCore,https://x.com/SarlackLab/status/1955570136238231855
 2025-08-13 10:19:34,Fact_Finder03,ip,162.246.17.133,,https://x.com/Fact_Finder03/status/1955574944567574731
@@ -17257,8 +17234,6 @@
 2025-08-19 11:54:25,drb_ra,url,https://193.169.245.90:443,#C2,https://x.com/drb_ra/status/1957773141230375092
 2025-08-19 11:54:58,drb_ra,ip,43.156.137.45,#C2,https://x.com/drb_ra/status/1957773280540074027
 2025-08-19 11:54:58,drb_ra,url,http://43.156.137.45:80,#C2,https://x.com/drb_ra/status/1957773280540074027
-2025-08-19 12:00:08,urldna_bot,domain,coinbase-clone-app.vercel.app,#scam #phishing,https://x.com/urldna_bot/status/1957774582200365187
-2025-08-19 12:00:08,urldna_bot,url,https://coinbase-clone-app.vercel.app,#scam #phishing,https://x.com/urldna_bot/status/1957774582200365187
 2025-08-19 12:56:39,suyog41,md5,13544421ba7f8e47b7b5ab9c74d1861f,,https://x.com/suyog41/status/1957788805143961711
 2025-08-19 12:56:39,suyog41,md5,75f51daff0696bb59f14a9b3f12d3578,,https://x.com/suyog41/status/1957788805143961711
 2025-08-19 12:56:39,suyog41,url,https://github.com/sakq0a0a,,https://x.com/suyog41/status/1957788805143961711
@@ -22110,8 +22085,6 @@
 2025-09-04 03:45:07,harugasumi,ip,43.164.129.33,#phishing,https://x.com/harugasumi/status/1963448213475922261
 2025-09-04 03:45:07,harugasumi,url,https://domier.biz/LIsI4i/,#phishing,https://x.com/harugasumi/status/1963448213475922261
 2025-09-04 03:45:07,harugasumi,url,https://osbm.net/RJZvW,#phishing,https://x.com/harugasumi/status/1963448213475922261
-2025-09-04 04:00:09,urldna_bot,domain,sanebliss.github.io,#phishing #scam,https://x.com/urldna_bot/status/1963451995068485761
-2025-09-04 04:00:09,urldna_bot,url,http://sanebliss.github.io/Amazon-Clone-Website,#phishing #scam,https://x.com/urldna_bot/status/1963451995068485761
 2025-09-04 04:30:19,harugasumi,domain,gmoo-areaze.com,#phishing,https://x.com/harugasumi/status/1963459588272848911
 2025-09-04 04:30:19,harugasumi,domain,gnn0-dlera01-05.com,#phishing,https://x.com/harugasumi/status/1963459588272848911
 2025-09-04 04:30:19,harugasumi,url,https://gnn0-dlera01-05.com,#phishing,https://x.com/harugasumi/status/1963459588272848911
@@ -27921,8 +27894,6 @@
 2025-09-19 07:54:56,malwrhunterteam,domain,bigtrashbandit.com,,https://x.com/malwrhunterteam/status/1968946899039224197
 2025-09-19 07:54:56,malwrhunterteam,sha256,9036ae120b3e6cfccbd60440da5df402eaa8ea307fb62b42bea624ad34df7b24,,https://x.com/malwrhunterteam/status/1968946899039224197
 2025-09-19 07:54:56,malwrhunterteam,url,http://bigtrashbandit.com,,https://x.com/malwrhunterteam/status/1968946899039224197
-2025-09-19 08:00:07,urldna_bot,domain,sanjanaaaaa-zz.github.io,#scam #phishing,https://x.com/urldna_bot/status/1968948202997965079
-2025-09-19 08:00:07,urldna_bot,url,https://sanjanaaaaa-zz.github.io/Netflix-UI-Clone/,#scam #phishing,https://x.com/urldna_bot/status/1968948202997965079
 2025-09-19 08:23:12,JAMESWT_WT,domain,gp2.dbc.myftpupload.com,#phishing,https://x.com/JAMESWT_WT/status/1968954013686104171
 2025-09-19 08:23:12,JAMESWT_WT,domain,rapid-morning-7.ofi-73c.workers.dev,#phishing,https://x.com/JAMESWT_WT/status/1968954013686104171
 2025-09-19 08:23:12,JAMESWT_WT,url,https://gp2.dbc.myftpupload.com/IT.F4V1N/IT/SISTEMA.DI.SICUREZZA/LOGIN/index.php,#phishing,https://x.com/JAMESWT_WT/status/1968954013686104171
@@ -31482,8 +31453,6 @@
 2025-09-29 20:33:49,drb_ra,ip,39.100.73.214,#CobaltStrike #C2,https://x.com/drb_ra/status/1972761754771087462
 2025-09-29 20:33:49,drb_ra,url,http://39.100.73.214:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1972761754771087462
 2025-09-29 21:07:38,skocherhan,url,http://4.153.114.160,#malware #C2,https://x.com/skocherhan/status/1972770268285415842
-2025-09-29 22:00:06,urldna_bot,domain,zainab-bot-del.github.io,#scam #phishing,https://x.com/urldna_bot/status/1972783470926557680
-2025-09-29 22:00:06,urldna_bot,url,https://zainab-bot-del.github.io/Zainab-Tehreem-Justicewali-Coding-Book-3-Portfolio/,#scam #phishing,https://x.com/urldna_bot/status/1972783470926557680
 2025-09-29 22:44:49,drb_ra,ip,193.112.84.248,#C2 #CobaltStrike,https://x.com/drb_ra/status/1972794725129421162
 2025-09-29 22:44:49,drb_ra,ip,42.193.225.10,#C2 #CobaltStrike,https://x.com/drb_ra/status/1972794725129421162
 2025-09-29 22:44:49,drb_ra,url,http://42.193.225.10:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1972794725129421162
@@ -32621,8 +32590,6 @@
 2025-10-02 05:59:02,drb_ra,url,http://3.17.227.221:80,#Interactsh #C2,https://x.com/drb_ra/status/1973628775234723954
 2025-10-02 05:59:37,drb_ra,ip,207.174.1.242,#C2 #Dcrat,https://x.com/drb_ra/status/1973628918750982312
 2025-10-02 05:59:37,drb_ra,url,http://207.174.1.242:6667,#C2 #Dcrat,https://x.com/drb_ra/status/1973628918750982312
-2025-10-02 06:00:10,urldna_bot,domain,waleedfarrukh-code.github.io,#phishing #scam,https://x.com/urldna_bot/status/1973629058861744265
-2025-10-02 06:00:10,urldna_bot,url,https://waleedfarrukh-code.github.io/Amzon-clone/,#phishing #scam,https://x.com/urldna_bot/status/1973629058861744265
 2025-10-02 06:00:11,drb_ra,url,http://104.140.154.153:30137,#Deimos #C2,https://x.com/drb_ra/status/1973629063806984485
 2025-10-02 06:00:46,drb_ra,ip,104.140.154.153,#Deimos #C2,https://x.com/drb_ra/status/1973629207940042889
 2025-10-02 06:00:46,drb_ra,url,http://104.140.154.153:30079,#Deimos #C2,https://x.com/drb_ra/status/1973629207940042889
@@ -33789,8 +33756,6 @@
 2025-10-04 18:39:19,SarlackLab,domain,dianqi2.jiayongdianqi.xyz,,https://x.com/SarlackLab/status/1974544881105150246
 2025-10-04 18:39:19,SarlackLab,url,http://dianqi1.jiayongdianqi.xyz,,https://x.com/SarlackLab/status/1974544881105150246
 2025-10-04 18:39:19,SarlackLab,url,http://dianqi2.jiayongdianqi.xyz,,https://x.com/SarlackLab/status/1974544881105150246
-2025-10-04 20:00:06,urldna_bot,domain,wasid229.github.io,#phishing #scam,https://x.com/urldna_bot/status/1974565210779185503
-2025-10-04 20:00:06,urldna_bot,url,https://wasid229.github.io/facebook-clone,#phishing #scam,https://x.com/urldna_bot/status/1974565210779185503
 2025-10-04 21:00:05,threatquery,ip,31.57.97.83,#malware #C2 #Xworm,https://x.com/threatquery/status/1974580304024072235
 2025-10-04 21:00:05,threatquery,url,http://31.57.97.83,#malware #C2 #Xworm,https://x.com/threatquery/status/1974580304024072235
 2025-10-04 21:19:14,skocherhan,ip,185.93.89.62,,https://x.com/skocherhan/status/1974585124059803781
@@ -36898,8 +36863,6 @@
 2025-10-14 18:02:47,CarlyGriggs13,url,http://ww25.dev.coinbasecwn.com,#phishing,https://x.com/CarlyGriggs13/status/1978159564777308308
 2025-10-14 18:17:14,CarlyGriggs13,domain,hayallerdekievim.com,#phishing,https://x.com/CarlyGriggs13/status/1978163201779880312
 2025-10-14 18:17:14,CarlyGriggs13,url,http://hayallerdekievim.com,#phishing,https://x.com/CarlyGriggs13/status/1978163201779880312
-2025-10-14 18:17:45,CarlyGriggs13,domain,fullstack-netflix-clone-pi.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1978163333149638931
-2025-10-14 18:17:45,CarlyGriggs13,url,http://fullstack-netflix-clone-pi.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1978163333149638931
 2025-10-14 18:18:16,CarlyGriggs13,domain,home--itrustcapital--com-auth.webflow.io,#phishing,https://x.com/CarlyGriggs13/status/1978163463210901695
 2025-10-14 18:18:16,CarlyGriggs13,url,http://home--itrustcapital--com-auth.webflow.io,#phishing,https://x.com/CarlyGriggs13/status/1978163463210901695
 2025-10-14 18:18:48,CarlyGriggs13,domain,gxrxntifirxsxtlxrri.duckdns.org,#phishing,https://x.com/CarlyGriggs13/status/1978163594173763701
@@ -37557,8 +37520,6 @@
 2025-10-17 01:52:08,CarlyGriggs13,url,https://go9088.craftum.io,#phishing,https://x.com/CarlyGriggs13/status/1979002455875617205
 2025-10-17 01:52:30,CarlyGriggs13,domain,grociesmrocies.com,#phishing,https://x.com/CarlyGriggs13/status/1979002549526036527
 2025-10-17 01:52:30,CarlyGriggs13,url,https://grociesmrocies.com,#phishing,https://x.com/CarlyGriggs13/status/1979002549526036527
-2025-10-17 01:57:00,CarlyGriggs13,domain,instagram-home-feed-clone.vercel.app,#scam #phishing,https://x.com/CarlyGriggs13/status/1979003683288306083
-2025-10-17 01:57:00,CarlyGriggs13,url,https://instagram-home-feed-clone.vercel.app,#scam #phishing,https://x.com/CarlyGriggs13/status/1979003683288306083
 2025-10-17 02:03:26,Metemcyber,domain,goldenleafautumnwind.damaibjnnn.com,#phishing,https://x.com/Metemcyber/status/1979005301048107188
 2025-10-17 02:03:26,Metemcyber,domain,lonelytravelerroadhome.luanluwenhua.com,#phishing,https://x.com/Metemcyber/status/1979005301048107188
 2025-10-17 02:03:26,Metemcyber,ip,43.160.206.197,#phishing,https://x.com/Metemcyber/status/1979005301048107188
@@ -37638,8 +37599,6 @@
 2025-10-17 08:42:15,skocherhan,ip,83.172.134.186,#APT,https://x.com/skocherhan/status/1979105667630637288
 2025-10-17 09:50:38,AmberMille78556,domain,wallet-mtamsk-learn.pages.dev,#phishing,https://x.com/AmberMille78556/status/1979122875350040758
 2025-10-17 09:50:38,AmberMille78556,url,http://wallet-mtamsk-learn.pages.dev,#phishing,https://x.com/AmberMille78556/status/1979122875350040758
-2025-10-17 10:00:10,urldna_bot,domain,akash-muddhana.github.io,#phishing #scam,https://x.com/urldna_bot/status/1979125275192381488
-2025-10-17 10:00:10,urldna_bot,url,https://akash-muddhana.github.io/Amazon-clone/,#phishing #scam,https://x.com/urldna_bot/status/1979125275192381488
 2025-10-17 10:06:13,masaomi346,domain,secclike.authenticc.cfd,#phishing,https://x.com/masaomi346/status/1979126798802915466
 2025-10-17 10:06:13,masaomi346,url,https://secclike.authenticc.cfd/co-jp/,#phishing,https://x.com/masaomi346/status/1979126798802915466
 2025-10-17 10:31:43,AmberMille78556,domain,tanukicode.my,#phishing,https://x.com/AmberMille78556/status/1979133213395055017
@@ -37774,8 +37733,6 @@
 2025-10-18 08:00:06,urldna_bot,url,https://cy-etaxi.firebaseapp.com,#scam #phishing,https://x.com/urldna_bot/status/1979457445865881640
 2025-10-18 09:44:00,MNovofastovsky,domain,multipler0927.win,#malware,https://x.com/MNovofastovsky/status/1979483594591457317
 2025-10-18 09:44:00,MNovofastovsky,url,http://multipler0927.win,#malware,https://x.com/MNovofastovsky/status/1979483594591457317
-2025-10-18 10:00:08,urldna_bot,domain,ankit-tiwari-0.github.io,#scam #phishing,https://x.com/urldna_bot/status/1979487653461467615
-2025-10-18 10:00:08,urldna_bot,url,https://ankit-tiwari-0.github.io/Netflix-clone/,#scam #phishing,https://x.com/urldna_bot/status/1979487653461467615
 2025-10-18 14:00:10,urldna_bot,domain,xfinity-login-weebsite.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1979548058816766016
 2025-10-18 14:00:10,urldna_bot,url,https://xfinity-login-weebsite.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1979548058816766016
 2025-10-18 15:20:06,AddressIntel,domain,accounts.goog.report,#phishing,https://x.com/AddressIntel/status/1979568174526841099
@@ -39240,8 +39197,6 @@
 2025-10-20 13:00:23,SarlackLab,url,http://104.236.12.182:1177,#C2 #Njrat,https://x.com/SarlackLab/status/1980257792997883941
 2025-10-20 13:23:06,CarlyGriggs13,domain,ray-protocol.network,#phishing #scam,https://x.com/CarlyGriggs13/status/1980263509624590813
 2025-10-20 13:23:06,CarlyGriggs13,url,http://ray-protocol.network,#phishing #scam,https://x.com/CarlyGriggs13/status/1980263509624590813
-2025-10-20 13:25:56,CarlyGriggs13,domain,amazon-clone-psi-rust.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1980264219942502435
-2025-10-20 13:25:56,CarlyGriggs13,url,http://amazon-clone-psi-rust.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1980264219942502435
 2025-10-20 13:26:24,CarlyGriggs13,domain,app-rbr-whatshktw.com,#phishing,https://x.com/CarlyGriggs13/status/1980264339811528857
 2025-10-20 13:26:24,CarlyGriggs13,url,http://app-rbr-whatshktw.com,#phishing,https://x.com/CarlyGriggs13/status/1980264339811528857
 2025-10-20 13:26:27,AmberMille78556,domain,bet73010.com,#phishing,https://x.com/AmberMille78556/status/1980264350217597377
@@ -39805,8 +39760,6 @@
 2025-10-21 23:09:20,masaomi346,url,https://xingkong30.cyou,#phishing,https://x.com/masaomi346/status/1980773424613192025
 2025-10-21 23:12:14,RussianPanda9xx,domain,lummakrysy.rip,,https://x.com/RussianPanda9xx/status/1980774157630730528
 2025-10-21 23:12:14,RussianPanda9xx,url,http://lummakrysy.rip,,https://x.com/RussianPanda9xx/status/1980774157630730528
-2025-10-22 00:00:11,urldna_bot,domain,amazon-clone-tan-xi.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1980786223930048804
-2025-10-22 00:00:11,urldna_bot,url,http://amazon-clone-tan-xi.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1980786223930048804
 2025-10-22 00:13:11,fbgwls245,domain,genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion,#ransomware,https://x.com/fbgwls245/status/1980789494090768586
 2025-10-22 00:13:11,fbgwls245,url,http://genesis6ixpb5mcy4kudybtw5op2wqlrkocfogbnenz3c647ibqixiad.onion,#ransomware,https://x.com/fbgwls245/status/1980789494090768586
 2025-10-22 01:24:08,skocherhan,domain,orientedworld.com,,https://x.com/skocherhan/status/1980807351960805494
@@ -40378,8 +40331,6 @@
 2025-10-23 11:58:56,CarlyGriggs13,url,https://vanguardrwa.xyz,#phishing,https://x.com/CarlyGriggs13/status/1981329490144870864
 2025-10-23 12:11:06,Coolcarlos17,domain,yuriferramentas.com,#phishing #scam,https://x.com/Coolcarlos17/status/1981332554067111968
 2025-10-23 12:11:06,Coolcarlos17,url,https://yuriferramentas.com,#phishing #scam,https://x.com/Coolcarlos17/status/1981332554067111968
-2025-10-23 12:17:24,CarlyGriggs13,domain,airbnb-nextjs-ammar-ahmads-projects.vercel.app,#phishing #scam,https://x.com/CarlyGriggs13/status/1981334136821293175
-2025-10-23 12:17:24,CarlyGriggs13,url,http://airbnb-nextjs-ammar-ahmads-projects.vercel.app,#phishing #scam,https://x.com/CarlyGriggs13/status/1981334136821293175
 2025-10-23 12:21:21,CarlyGriggs13,domain,cocorost-556.jp,#phishing,https://x.com/CarlyGriggs13/status/1981335133157253191
 2025-10-23 12:21:21,CarlyGriggs13,url,http://cocorost-556.jp,#phishing,https://x.com/CarlyGriggs13/status/1981335133157253191
 2025-10-23 12:21:50,CarlyGriggs13,domain,droneacctivemicro.weebly.com,#phishing,https://x.com/CarlyGriggs13/status/1981335252363591802
@@ -40962,8 +40913,6 @@
 2025-10-25 13:02:49,CarlyGriggs13,url,http://alamarr.com,#phishing,https://x.com/CarlyGriggs13/status/1982070341783765056
 2025-10-25 13:03:20,CarlyGriggs13,domain,amazemotion.com,#phishing,https://x.com/CarlyGriggs13/status/1982070473790746832
 2025-10-25 13:03:20,CarlyGriggs13,url,https://amazemotion.com,#phishing,https://x.com/CarlyGriggs13/status/1982070473790746832
-2025-10-25 13:03:47,CarlyGriggs13,domain,amazon-clone-six-rho.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982070584914944456
-2025-10-25 13:03:47,CarlyGriggs13,url,https://amazon-clone-six-rho.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982070584914944456
 2025-10-25 13:04:20,CarlyGriggs13,domain,amglobemall.org,#phishing,https://x.com/CarlyGriggs13/status/1982070723742191751
 2025-10-25 13:04:20,CarlyGriggs13,url,http://amglobemall.org,#phishing,https://x.com/CarlyGriggs13/status/1982070723742191751
 2025-10-25 13:04:44,CarlyGriggs13,domain,app-mettamask-login.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1982070823864209698
@@ -41311,10 +41260,6 @@
 2025-10-25 16:43:44,CarlyGriggs13,url,http://app--live-ledge.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1982125937203319095
 2025-10-25 16:44:08,CarlyGriggs13,domain,rewardpudgypenguins.com,#phishing,https://x.com/CarlyGriggs13/status/1982126040819351776
 2025-10-25 16:44:08,CarlyGriggs13,url,https://rewardpudgypenguins.com,#phishing,https://x.com/CarlyGriggs13/status/1982126040819351776
-2025-10-25 16:45:04,CarlyGriggs13,domain,amazon-clone-olive-psi.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982126273649348897
-2025-10-25 16:45:04,CarlyGriggs13,url,https://amazon-clone-olive-psi.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982126273649348897
-2025-10-25 16:45:35,CarlyGriggs13,domain,amazon-clone-peach-eta.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982126403735691716
-2025-10-25 16:45:35,CarlyGriggs13,url,https://amazon-clone-peach-eta.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982126403735691716
 2025-10-25 16:47:19,CarlyGriggs13,domain,gohome-gohometoken.com,#phishing,https://x.com/CarlyGriggs13/status/1982126838873768416
 2025-10-25 16:47:19,CarlyGriggs13,url,https://gohome-gohometoken.com,#phishing,https://x.com/CarlyGriggs13/status/1982126838873768416
 2025-10-25 16:47:48,CarlyGriggs13,domain,jitosn.com,#phishing,https://x.com/CarlyGriggs13/status/1982126960391147728
@@ -41353,8 +41298,6 @@
 2025-10-25 17:04:51,CarlyGriggs13,url,http://bluefin.airdropsalert.life,#phishing,https://x.com/CarlyGriggs13/status/1982131253907263913
 2025-10-25 17:06:22,CarlyGriggs13,domain,zksync.airdrpalerts.sbs,#phishing,https://x.com/CarlyGriggs13/status/1982131633969905850
 2025-10-25 17:06:22,CarlyGriggs13,url,http://zksync.airdrpalerts.sbs,#phishing,https://x.com/CarlyGriggs13/status/1982131633969905850
-2025-10-25 17:06:48,CarlyGriggs13,domain,spotify-clone-iota-ashen.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982131743634145454
-2025-10-25 17:06:48,CarlyGriggs13,url,https://spotify-clone-iota-ashen.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1982131743634145454
 2025-10-25 17:07:22,CarlyGriggs13,domain,bnbgives.com,#phishing,https://x.com/CarlyGriggs13/status/1982131885317755318
 2025-10-25 17:07:22,CarlyGriggs13,url,https://bnbgives.com,#phishing,https://x.com/CarlyGriggs13/status/1982131885317755318
 2025-10-25 17:07:54,CarlyGriggs13,domain,dash.sky-frag.cc,#phishing,https://x.com/CarlyGriggs13/status/1982132018591715816
@@ -42102,8 +42045,6 @@
 2025-10-27 20:57:10,catnap707,domain,aq.jwgvb.cn,#phishing,https://x.com/catnap707/status/1982914492385403283
 2025-10-27 20:57:10,catnap707,url,http://172.67.154.182,#phishing,https://x.com/catnap707/status/1982914492385403283
 2025-10-27 20:57:10,catnap707,url,http://aq.jwgvb.cn/?Login=~,#phishing,https://x.com/catnap707/status/1982914492385403283
-2025-10-27 21:00:09,urldna_bot,domain,amazon-clone-psi-rust.vercel.app,#scam #phishing,https://x.com/urldna_bot/status/1982915245241766052
-2025-10-27 21:00:09,urldna_bot,url,https://amazon-clone-psi-rust.vercel.app/register,#scam #phishing,https://x.com/urldna_bot/status/1982915245241766052
 2025-10-27 22:53:53,skocherhan,domain,foundationasdasd.com,,https://x.com/skocherhan/status/1982943866039980124
 2025-10-27 22:53:53,skocherhan,url,http://foundationasdasd.com,,https://x.com/skocherhan/status/1982943866039980124
 2025-10-27 23:00:09,urldna_bot,domain,kujsou.cn,#phishing #scam,https://x.com/urldna_bot/status/1982945442347282813
@@ -43014,8 +42955,6 @@
 2025-10-31 04:53:38,CarlyGriggs13,url,https://news-linea.org,#phishing,https://x.com/CarlyGriggs13/status/1984121562879160415
 2025-10-31 04:54:04,CarlyGriggs13,domain,nexo.sushi-com.info,#phishing,https://x.com/CarlyGriggs13/status/1984121673294213614
 2025-10-31 04:54:04,CarlyGriggs13,url,https://nexo.sushi-com.info/pools/,#phishing,https://x.com/CarlyGriggs13/status/1984121673294213614
-2025-10-31 04:54:32,CarlyGriggs13,domain,next-ab-clone-apetta.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1984121788427583547
-2025-10-31 04:54:32,CarlyGriggs13,url,http://next-ab-clone-apetta.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1984121788427583547
 2025-10-31 04:59:24,CarlyGriggs13,domain,onchain-vsip.com,#scam #phishing,https://x.com/CarlyGriggs13/status/1984123013369880695
 2025-10-31 04:59:24,CarlyGriggs13,url,http://onchain-vsip.com,#scam #phishing,https://x.com/CarlyGriggs13/status/1984123013369880695
 2025-10-31 05:02:24,CarlyGriggs13,domain,opensea--login.pages.dev,#scam #phishing,https://x.com/CarlyGriggs13/status/1984123770508833140
@@ -47559,8 +47498,6 @@
 2025-11-11 06:44:57,c9lab_soc,url,http://eset.website,#phishing #scam,https://x.com/c9lab_soc/status/1988135844323213487
 2025-11-11 06:47:07,suyog41,ip,181.224.24.23,,https://x.com/suyog41/status/1988136389641465906
 2025-11-11 06:47:07,suyog41,md5,524862d76864472d66470fd6279f962c,,https://x.com/suyog41/status/1988136389641465906
-2025-11-11 07:00:06,urldna_bot,domain,sumanthvt.github.io,#scam #phishing,https://x.com/urldna_bot/status/1988139656030937364
-2025-11-11 07:00:06,urldna_bot,url,https://sumanthvt.github.io/amazon-clone/,#scam #phishing,https://x.com/urldna_bot/status/1988139656030937364
 2025-11-11 07:10:51,suyog41,md5,607141106ca1c224ff9840b4844400e8,,https://x.com/suyog41/status/1988142360442855695
 2025-11-11 07:10:51,suyog41,url,https://t.me/What_the_K,,https://x.com/suyog41/status/1988142360442855695
 2025-11-11 08:25:12,drb_ra,url,http://182.92.245.169:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1988161072465862902
@@ -48826,10 +48763,6 @@
 2025-11-15 13:55:09,CarlyGriggs13,url,https://henowecas.com,#phishing,https://x.com/CarlyGriggs13/status/1989693657809600619
 2025-11-15 13:55:35,CarlyGriggs13,domain,home-openlgn-en.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1989693766291038664
 2025-11-15 13:55:35,CarlyGriggs13,url,http://home-openlgn-en.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1989693766291038664
-2025-11-15 13:55:54,AmberMille78556,domain,instagram-clone-brown-seven.vercel.app,#phishing,https://x.com/AmberMille78556/status/1989693847320883654
-2025-11-15 13:55:54,AmberMille78556,url,http://instagram-clone-brown-seven.vercel.app,#phishing,https://x.com/AmberMille78556/status/1989693847320883654
-2025-11-15 13:56:11,CarlyGriggs13,domain,instagram-clone-gray-eight.vercel.app,#scam #phishing,https://x.com/CarlyGriggs13/status/1989693918351364212
-2025-11-15 13:56:11,CarlyGriggs13,url,http://instagram-clone-gray-eight.vercel.app,#scam #phishing,https://x.com/CarlyGriggs13/status/1989693918351364212
 2025-11-15 14:08:05,CarlyGriggs13,domain,luckroyal.net,#scam #phishing,https://x.com/CarlyGriggs13/status/1989696913130623193
 2025-11-15 14:08:05,CarlyGriggs13,url,https://luckroyal.net,#scam #phishing,https://x.com/CarlyGriggs13/status/1989696913130623193
 2025-11-15 14:10:31,CarlyGriggs13,domain,m.kra38-----cc.ru,#phishing,https://x.com/CarlyGriggs13/status/1989697524001591645
@@ -48956,8 +48889,6 @@
 2025-11-15 22:45:04,CarlyGriggs13,url,https://metadao.sale,#phishing,https://x.com/CarlyGriggs13/status/1989827015034429784
 2025-11-15 22:47:01,CarlyGriggs13,domain,sledgehammer.verfication.info,#scam #phishing,https://x.com/CarlyGriggs13/status/1989827507084795975
 2025-11-15 22:47:01,CarlyGriggs13,url,https://sledgehammer.verfication.info/verify/,#scam #phishing,https://x.com/CarlyGriggs13/status/1989827507084795975
-2025-11-15 23:00:07,urldna_bot,domain,amazon-clone-dhoblesakshi19-gmailcoms-projects.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1989830805208645904
-2025-11-15 23:00:07,urldna_bot,url,http://www.amazon-clone-dhoblesakshi19-gmailcoms-projects.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1989830805208645904
 2025-11-15 23:13:08,CarlyGriggs13,domain,bullishcoin.solhq.cc,#phishing,https://x.com/CarlyGriggs13/status/1989834078342840540
 2025-11-15 23:13:08,CarlyGriggs13,url,https://bullishcoin.solhq.cc,#phishing,https://x.com/CarlyGriggs13/status/1989834078342840540
 2025-11-15 23:15:25,CarlyGriggs13,domain,bullish-register.fun,#phishing,https://x.com/CarlyGriggs13/status/1989834653801578812
@@ -49127,8 +49058,6 @@
 2025-11-16 12:51:46,CarlyGriggs13,url,http://jupiterexchangedapps.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1990040096008179913
 2025-11-16 12:52:13,CarlyGriggs13,domain,meta-varyn-solix-mero.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1990040207966835188
 2025-11-16 12:52:13,CarlyGriggs13,url,http://meta-varyn-solix-mero.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1990040207966835188
-2025-11-16 12:53:05,CarlyGriggs13,domain,ibm-clone-website.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1990040427949646056
-2025-11-16 12:53:05,CarlyGriggs13,url,http://ibm-clone-website.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1990040427949646056
 2025-11-16 12:53:35,CarlyGriggs13,domain,j206f.xyz,#phishing,https://x.com/CarlyGriggs13/status/1990040554176995809
 2025-11-16 12:53:35,CarlyGriggs13,url,http://j206f.xyz,#phishing,https://x.com/CarlyGriggs13/status/1990040554176995809
 2025-11-16 12:54:11,CarlyGriggs13,domain,radial-domain.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1990040704115253389
@@ -52052,8 +51981,6 @@
 2025-11-27 10:41:06,smica83,url,http://185.163.204.237/google.json,#NetSupport,https://x.com/smica83/status/1993993478318027192
 2025-11-27 10:41:06,smica83,url,http://45.136.68.30/fakeurl.htm,#NetSupport,https://x.com/smica83/status/1993993478318027192
 2025-11-27 10:41:06,smica83,url,http://45.136.68.30:443/fakeurl.htm,#NetSupport,https://x.com/smica83/status/1993993478318027192
-2025-11-27 11:00:11,urldna_bot,domain,dtanishsai.github.io,,https://x.com/urldna_bot/status/1993998279390962007
-2025-11-27 11:00:11,urldna_bot,url,https://dtanishsai.github.io/netflix_clone_/,,https://x.com/urldna_bot/status/1993998279390962007
 2025-11-27 11:11:51,malwrhunterteam,domain,pawsandtailcare.com,,https://x.com/malwrhunterteam/status/1994001214795862270
 2025-11-27 11:11:51,malwrhunterteam,sha256,09647fabb086acf09fdc72f3e8703c77c65e27fa52de14c9976389ef1bf4a843,,https://x.com/malwrhunterteam/status/1994001214795862270
 2025-11-27 11:11:51,malwrhunterteam,url,http://www.pawsandtailcare.com,,https://x.com/malwrhunterteam/status/1994001214795862270
@@ -52547,8 +52474,6 @@
 2025-11-29 05:00:08,urldna_bot,url,https://fhdfshdfmbs.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1994632445036052858
 2025-11-29 06:17:50,masaomi346,domain,honorarynewyork.com,#phishing,https://x.com/masaomi346/status/1994652001247138208
 2025-11-29 06:17:50,masaomi346,url,https://honorarynewyork.com/DIUBCi,#phishing,https://x.com/masaomi346/status/1994652001247138208
-2025-11-29 07:00:11,urldna_bot,domain,devraj-s63.github.io,,https://x.com/urldna_bot/status/1994662658641932443
-2025-11-29 07:00:11,urldna_bot,url,https://devraj-s63.github.io/Netflix-clone/,,https://x.com/urldna_bot/status/1994662658641932443
 2025-11-29 09:00:10,urldna_bot,domain,bafybeihqsfz4c5jqmr2jejdxob2xnmyxpxgz6akgz7s6dqp2fdlggjkzca.ipfs.dweb.link,,https://x.com/urldna_bot/status/1994692854145315223
 2025-11-29 09:00:10,urldna_bot,url,http://bafybeihqsfz4c5jqmr2jejdxob2xnmyxpxgz6akgz7s6dqp2fdlggjkzca.ipfs.dweb.link,,https://x.com/urldna_bot/status/1994692854145315223
 2025-11-29 11:00:06,urldna_bot,domain,text-tee.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1994723037451624752
@@ -52925,8 +52850,6 @@
 2025-12-01 13:15:20,CarlyGriggs13,url,https://hyperliquid-tracking.xyz,,https://x.com/CarlyGriggs13/status/1995481845811560866
 2025-12-01 13:16:02,CarlyGriggs13,domain,ingreso-servicio.webcindario.com,,https://x.com/CarlyGriggs13/status/1995482020592447562
 2025-12-01 13:16:02,CarlyGriggs13,url,http://ingreso-servicio.webcindario.com,,https://x.com/CarlyGriggs13/status/1995482020592447562
-2025-12-01 13:16:35,CarlyGriggs13,domain,instagram-clone-lake-seven.vercel.app,,https://x.com/CarlyGriggs13/status/1995482157188342043
-2025-12-01 13:16:35,CarlyGriggs13,url,http://instagram-clone-lake-seven.vercel.app,,https://x.com/CarlyGriggs13/status/1995482157188342043
 2025-12-01 13:17:14,CarlyGriggs13,domain,instapro2.org.pk,,https://x.com/CarlyGriggs13/status/1995482322519400838
 2025-12-01 13:17:14,CarlyGriggs13,url,http://instapro2.org.pk,,https://x.com/CarlyGriggs13/status/1995482322519400838
 2025-12-01 13:23:35,suyog41,md5,896270054ebcdbf7ecb1904fce045fe4,,https://x.com/suyog41/status/1995483922013229396
@@ -53341,8 +53264,6 @@
 2025-12-02 00:59:11,CarlyGriggs13,url,http://cnggu.pages.dev,,https://x.com/CarlyGriggs13/status/1995658972804829488
 2025-12-02 00:59:46,CarlyGriggs13,domain,jsr-4tf.pages.dev,#scam,https://x.com/CarlyGriggs13/status/1995659120972632413
 2025-12-02 00:59:46,CarlyGriggs13,url,http://jsr-4tf.pages.dev,#scam,https://x.com/CarlyGriggs13/status/1995659120972632413
-2025-12-02 01:00:07,urldna_bot,domain,kalpana-chavhan.github.io,,https://x.com/urldna_bot/status/1995659207576633840
-2025-12-02 01:00:07,urldna_bot,url,http://kalpana-chavhan.github.io/netflix-clone,,https://x.com/urldna_bot/status/1995659207576633840
 2025-12-02 01:00:20,CarlyGriggs13,domain,ms-evn.pages.dev,,https://x.com/CarlyGriggs13/status/1995659264925601905
 2025-12-02 01:00:20,CarlyGriggs13,url,http://ms-evn.pages.dev,,https://x.com/CarlyGriggs13/status/1995659264925601905
 2025-12-02 01:01:04,CarlyGriggs13,domain,yy-als.pages.dev,,https://x.com/CarlyGriggs13/status/1995659447411376149
@@ -54181,8 +54102,6 @@
 2025-12-04 17:27:47,CarlyGriggs13,url,http://accounts.coinbase.earth,,https://x.com/CarlyGriggs13/status/1996632537914134971
 2025-12-04 17:28:21,CarlyGriggs13,domain,alyananx-nindoz.spaceinewsn.my.id,,https://x.com/CarlyGriggs13/status/1996632679245365687
 2025-12-04 17:28:21,CarlyGriggs13,url,http://alyananx-nindoz.spaceinewsn.my.id,,https://x.com/CarlyGriggs13/status/1996632679245365687
-2025-12-04 17:28:56,CarlyGriggs13,domain,amazon-clone-olive-eight.vercel.app,,https://x.com/CarlyGriggs13/status/1996632828508098861
-2025-12-04 17:28:56,CarlyGriggs13,url,http://amazon-clone-olive-eight.vercel.app,,https://x.com/CarlyGriggs13/status/1996632828508098861
 2025-12-04 17:29:40,CarlyGriggs13,domain,app-chaingpt.io,,https://x.com/CarlyGriggs13/status/1996633014110175550
 2025-12-04 17:29:40,CarlyGriggs13,url,http://app-chaingpt.io,,https://x.com/CarlyGriggs13/status/1996633014110175550
 2025-12-04 17:30:10,CarlyGriggs13,domain,app-kraaken-cdn.framer.ai,,https://x.com/CarlyGriggs13/status/1996633136898457951
@@ -54245,12 +54164,6 @@
 2025-12-04 18:09:56,CarlyGriggs13,url,http://nav-base-learn-cdn.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1996643145170538659
 2025-12-04 18:10:25,CarlyGriggs13,domain,navi.airdropsalert.app,#phishing,https://x.com/CarlyGriggs13/status/1996643268550127999
 2025-12-04 18:10:25,CarlyGriggs13,url,http://navi.airdropsalert.app,#phishing,https://x.com/CarlyGriggs13/status/1996643268550127999
-2025-12-04 18:10:54,CarlyGriggs13,domain,netflix-clone-olive-mu.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643387890643411
-2025-12-04 18:10:54,CarlyGriggs13,url,http://netflix-clone-olive-mu.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643387890643411
-2025-12-04 18:11:36,CarlyGriggs13,domain,netflix-clone-peach-kappa.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643567188783584
-2025-12-04 18:11:36,CarlyGriggs13,url,http://netflix-clone-peach-kappa.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643567188783584
-2025-12-04 18:12:13,CarlyGriggs13,domain,netflix-clone-topaz-kappa.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643722700939385
-2025-12-04 18:12:13,CarlyGriggs13,url,http://netflix-clone-topaz-kappa.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1996643722700939385
 2025-12-04 18:12:58,CarlyGriggs13,domain,null-null-3.baseportal.io,#phishing,https://x.com/CarlyGriggs13/status/1996643910463242544
 2025-12-04 18:12:58,CarlyGriggs13,url,http://null-null-3.baseportal.io,#phishing,https://x.com/CarlyGriggs13/status/1996643910463242544
 2025-12-04 18:13:31,CarlyGriggs13,domain,nysxa.com,#phishing,https://x.com/CarlyGriggs13/status/1996644046098587896
@@ -54900,8 +54813,6 @@
 2025-12-06 06:28:17,skocherhan,ip,196.251.86.145,,https://x.com/skocherhan/status/1997191343932670015
 2025-12-06 06:28:17,skocherhan,ip,51.79.214.125,,https://x.com/skocherhan/status/1997191343932670015
 2025-12-06 06:38:44,skocherhan,ip,213.209.143.85,,https://x.com/skocherhan/status/1997193975308988474
-2025-12-06 07:00:07,urldna_bot,domain,sumit2004-web.github.io,,https://x.com/urldna_bot/status/1997199356013806014
-2025-12-06 07:00:07,urldna_bot,url,http://sumit2004-web.github.io/uber-clone,,https://x.com/urldna_bot/status/1997199356013806014
 2025-12-06 08:54:43,malwrhunterteam,domain,res.qiqigece.top,,https://x.com/malwrhunterteam/status/1997228196581048336
 2025-12-06 08:54:43,malwrhunterteam,sha256,8de897a70f61b2b8d347a31adf154a80415ec03a75b3350acc2c90fb27975798,,https://x.com/malwrhunterteam/status/1997228196581048336
 2025-12-06 08:54:43,malwrhunterteam,url,http://res.qiqigece.top/nginx1,,https://x.com/malwrhunterteam/status/1997228196581048336
@@ -55033,12 +54944,6 @@
 2025-12-07 16:02:21,CarlyGriggs13,url,http://bonus-symbiotic.com,,https://x.com/CarlyGriggs13/status/1997698200212582905
 2025-12-07 16:02:59,CarlyGriggs13,domain,bonzsix.com,,https://x.com/CarlyGriggs13/status/1997698361953284186
 2025-12-07 16:02:59,CarlyGriggs13,url,https://bonzsix.com,,https://x.com/CarlyGriggs13/status/1997698361953284186
-2025-12-07 16:03:10,AmberMille78556,domain,booking-clone-flame.vercel.app,,https://x.com/AmberMille78556/status/1997698408971485342
-2025-12-07 16:03:10,AmberMille78556,url,http://booking-clone-flame.vercel.app,,https://x.com/AmberMille78556/status/1997698408971485342
-2025-12-07 16:03:32,CarlyGriggs13,domain,booking-clone-two.vercel.app,#scam,https://x.com/CarlyGriggs13/status/1997698498196865102
-2025-12-07 16:03:32,CarlyGriggs13,url,http://booking-clone-two.vercel.app,#scam,https://x.com/CarlyGriggs13/status/1997698498196865102
-2025-12-07 16:03:43,AmberMille78556,domain,booking-com-clone-kappa.vercel.app,,https://x.com/AmberMille78556/status/1997698546477506889
-2025-12-07 16:03:43,AmberMille78556,url,http://booking-com-clone-kappa.vercel.app,,https://x.com/AmberMille78556/status/1997698546477506889
 2025-12-07 16:04:03,CarlyGriggs13,domain,browser-chrome.gitbook.io,,https://x.com/CarlyGriggs13/status/1997698628241285126
 2025-12-07 16:04:03,CarlyGriggs13,url,http://browser-chrome.gitbook.io,,https://x.com/CarlyGriggs13/status/1997698628241285126
 2025-12-07 16:04:40,CarlyGriggs13,domain,bulishdegen.xyz,#scam,https://x.com/CarlyGriggs13/status/1997698786488197465
@@ -55811,8 +55716,6 @@
 2025-12-08 15:00:06,urldna_bot,domain,yuferycslaygcfsjm.weebly.com,,https://x.com/urldna_bot/status/1998044926148280810
 2025-12-08 15:00:06,urldna_bot,url,https://yuferycslaygcfsjm.weebly.com,,https://x.com/urldna_bot/status/1998044926148280810
 2025-12-08 16:00:48,petikvx,md5,8f718979876dd1050ce4f729d69e0072,#ransomware,https://x.com/petikvx/status/1998060201123995681
-2025-12-08 17:00:10,urldna_bot,domain,amazon-clone-lime-eight.vercel.app,,https://x.com/urldna_bot/status/1998075140219764772
-2025-12-08 17:00:10,urldna_bot,url,http://amazon-clone-lime-eight.vercel.app,,https://x.com/urldna_bot/status/1998075140219764772
 2025-12-08 17:58:13,malwrhunterteam,ip,45.76.61.101,,https://x.com/malwrhunterteam/status/1998089749668712478
 2025-12-08 17:58:13,malwrhunterteam,ip,83.172.150.218,,https://x.com/malwrhunterteam/status/1998089749668712478
 2025-12-08 17:58:13,malwrhunterteam,sha256,2eb1f0e79df57af300f05c95fd829742c3813217a630cce7d4e5dfc626abb416,,https://x.com/malwrhunterteam/status/1998089749668712478
@@ -56114,8 +56017,6 @@
 2025-12-09 12:14:33,CarlyGriggs13,url,http://bellsouth-att-sign-in-f487e4.webflow.io,,https://x.com/CarlyGriggs13/status/1998365652248346810
 2025-12-09 12:15:03,CarlyGriggs13,domain,geode-jaguar-5366.typedream.app,,https://x.com/CarlyGriggs13/status/1998365777725198754
 2025-12-09 12:15:03,CarlyGriggs13,url,http://geode-jaguar-5366.typedream.app,,https://x.com/CarlyGriggs13/status/1998365777725198754
-2025-12-09 12:15:33,CarlyGriggs13,domain,amazon-clone-lime-eight.vercel.app,,https://x.com/CarlyGriggs13/status/1998365902799008215
-2025-12-09 12:15:33,CarlyGriggs13,url,http://amazon-clone-lime-eight.vercel.app,,https://x.com/CarlyGriggs13/status/1998365902799008215
 2025-12-09 12:16:11,CarlyGriggs13,domain,tiktok.tkonb.com,,https://x.com/CarlyGriggs13/status/1998366062132568561
 2025-12-09 12:16:11,CarlyGriggs13,url,http://tiktok.tkonb.com,,https://x.com/CarlyGriggs13/status/1998366062132568561
 2025-12-09 12:16:46,CarlyGriggs13,domain,bafkreiezz7szm2v5hdurd4odopuw42wyqmyqeo4kmdafhzuhdqmshljdpa.ipfs.w3s.link,,https://x.com/CarlyGriggs13/status/1998366209130303804
@@ -56623,8 +56524,6 @@
 2025-12-10 23:23:42,skocherhan,url,http://enviormentsch.llanfairpwllgwyngllgogerychwyrndrobwllllantysiliogogogoch.co.uk/content/cdn/xyuWQfpKnTCk/eset.txt,,https://x.com/skocherhan/status/1998896434158985480
 2025-12-10 23:23:42,skocherhan,url,http://file.garden/aSvF7qd9m0vPzLvP/cHAh3J-8F62AF-tmJqoo.ps1,,https://x.com/skocherhan/status/1998896434158985480
 2025-12-10 23:23:42,skocherhan,url,http://i.ibb.co/Y401ZkF2/bvvm1wewr8.png,,https://x.com/skocherhan/status/1998896434158985480
-2025-12-11 01:00:07,urldna_bot,domain,pratik-mahamuni17.github.io,,https://x.com/urldna_bot/status/1998920697821749367
-2025-12-11 01:00:07,urldna_bot,url,http://pratik-mahamuni17.github.io/Amazon-Clone,,https://x.com/urldna_bot/status/1998920697821749367
 2025-12-11 01:01:27,romonlyht,domain,zgmvq.kefiro.cfd,#phishing,https://x.com/romonlyht/status/1998921032871415850
 2025-12-11 01:01:27,romonlyht,url,https://zgmvq.kefiro.cfd/na9i9,#phishing,https://x.com/romonlyht/status/1998921032871415850
 2025-12-11 01:02:46,romonlyht,domain,lkqeo.kefiro.cfd,#phishing,https://x.com/romonlyht/status/1998921367081857119
@@ -57210,8 +57109,6 @@
 2025-12-13 15:56:29,CarlyGriggs13,url,http://bellsouth-att-sign-in-verification.webflow.io,,https://x.com/CarlyGriggs13/status/1999871051539611846
 2025-12-13 15:57:10,CarlyGriggs13,domain,6h073.com,,https://x.com/CarlyGriggs13/status/1999871224097423764
 2025-12-13 15:57:10,CarlyGriggs13,url,http://6h073.com,,https://x.com/CarlyGriggs13/status/1999871224097423764
-2025-12-13 15:58:30,CarlyGriggs13,domain,shopify-clone-17.netlify.app,,https://x.com/CarlyGriggs13/status/1999871561927659987
-2025-12-13 15:58:30,CarlyGriggs13,url,http://shopify-clone-17.netlify.app,,https://x.com/CarlyGriggs13/status/1999871561927659987
 2025-12-13 15:59:05,CarlyGriggs13,domain,join-bullishsol.xyz,,https://x.com/CarlyGriggs13/status/1999871709315564008
 2025-12-13 15:59:05,CarlyGriggs13,url,http://join-bullishsol.xyz,,https://x.com/CarlyGriggs13/status/1999871709315564008
 2025-12-13 15:59:44,CarlyGriggs13,domain,6h301.com,,https://x.com/CarlyGriggs13/status/1999871872616526196
@@ -57244,8 +57141,6 @@
 2025-12-13 16:19:16,CarlyGriggs13,url,http://mayonetteofficialjob.com,,https://x.com/CarlyGriggs13/status/1999876786663165981
 2025-12-13 16:19:52,CarlyGriggs13,domain,sikard.site,,https://x.com/CarlyGriggs13/status/1999876936668266988
 2025-12-13 16:19:52,CarlyGriggs13,url,http://sikard.site,,https://x.com/CarlyGriggs13/status/1999876936668266988
-2025-12-13 16:20:35,CarlyGriggs13,domain,netflix-clone-teal-six.vercel.app,,https://x.com/CarlyGriggs13/status/1999877116419244528
-2025-12-13 16:20:35,CarlyGriggs13,url,http://netflix-clone-teal-six.vercel.app,,https://x.com/CarlyGriggs13/status/1999877116419244528
 2025-12-13 16:21:09,CarlyGriggs13,domain,mateimsklongin-usaa.godaddysites.com,,https://x.com/CarlyGriggs13/status/1999877261122732110
 2025-12-13 16:21:09,CarlyGriggs13,url,http://mateimsklongin-usaa.godaddysites.com,,https://x.com/CarlyGriggs13/status/1999877261122732110
 2025-12-13 16:22:01,CarlyGriggs13,domain,premium-subscribe.ra-bit.eu,,https://x.com/CarlyGriggs13/status/1999877479050391705
@@ -57258,8 +57153,6 @@
 2025-12-13 16:23:14,CarlyGriggs13,url,http://e117t.xyz,,https://x.com/CarlyGriggs13/status/1999877784475406513
 2025-12-13 16:24:00,CarlyGriggs13,domain,jj1505.com,,https://x.com/CarlyGriggs13/status/1999877979112128624
 2025-12-13 16:24:00,CarlyGriggs13,url,http://jj1505.com,,https://x.com/CarlyGriggs13/status/1999877979112128624
-2025-12-13 16:24:37,CarlyGriggs13,domain,netflix-clone-6.vercel.app,,https://x.com/CarlyGriggs13/status/1999878133189578837
-2025-12-13 16:24:37,CarlyGriggs13,url,http://netflix-clone-6.vercel.app,,https://x.com/CarlyGriggs13/status/1999878133189578837
 2025-12-13 16:25:21,CarlyGriggs13,domain,srturl.link,,https://x.com/CarlyGriggs13/status/1999878317965729823
 2025-12-13 16:25:21,CarlyGriggs13,url,http://srturl.link,,https://x.com/CarlyGriggs13/status/1999878317965729823
 2025-12-13 16:26:02,CarlyGriggs13,domain,followerincres.blogspot.com,,https://x.com/CarlyGriggs13/status/1999878491287007251
@@ -57270,8 +57163,6 @@
 2025-12-13 16:36:53,CarlyGriggs13,url,http://telstra243.blogspot.com,,https://x.com/CarlyGriggs13/status/1999881219878875473
 2025-12-13 16:37:40,CarlyGriggs13,domain,13355.vip,,https://x.com/CarlyGriggs13/status/1999881418130981229
 2025-12-13 16:37:40,CarlyGriggs13,url,http://13355.vip,,https://x.com/CarlyGriggs13/status/1999881418130981229
-2025-12-13 16:38:30,CarlyGriggs13,domain,airbnb-clone-final.vercel.app,,https://x.com/CarlyGriggs13/status/1999881626399215920
-2025-12-13 16:38:30,CarlyGriggs13,url,http://airbnb-clone-final.vercel.app,,https://x.com/CarlyGriggs13/status/1999881626399215920
 2025-12-13 16:39:21,CarlyGriggs13,domain,sandbox.allegromicro.cloud,,https://x.com/CarlyGriggs13/status/1999881842577867179
 2025-12-13 16:39:21,CarlyGriggs13,url,http://sandbox.allegromicro.cloud,,https://x.com/CarlyGriggs13/status/1999881842577867179
 2025-12-13 16:40:07,CarlyGriggs13,domain,6h605.com,,https://x.com/CarlyGriggs13/status/1999882033968066771
@@ -57332,14 +57223,11 @@
 2025-12-13 22:56:20,ian_kenefick,domain,TheCertGraveyard.org,,https://x.com/ian_kenefick/status/1999976710138437683
 2025-12-13 22:56:20,ian_kenefick,url,http://CertGraveyard.org,,https://x.com/ian_kenefick/status/1999976710138437683
 2025-12-13 22:56:20,ian_kenefick,url,http://TheCertGraveyard.org,,https://x.com/ian_kenefick/status/1999976710138437683
-2025-12-13 23:00:10,urldna_bot,url,http://www.netflix-clone-teal-six.vercel.app,,https://x.com/urldna_bot/status/1999977677629923567
 2025-12-13 23:12:16,CarlyGriggs13,domain,trxbuyer.org,#scam,https://x.com/CarlyGriggs13/status/1999980722879422732
 2025-12-13 23:12:16,CarlyGriggs13,url,https://trxbuyer.org,#scam,https://x.com/CarlyGriggs13/status/1999980722879422732
 2025-12-13 23:25:44,fbgwls245,domain,obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion,#ransomware,https://x.com/fbgwls245/status/1999984108538400912
 2025-12-13 23:25:44,fbgwls245,url,http://obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad.onion,#ransomware,https://x.com/fbgwls245/status/1999984108538400912
 2025-12-14 00:28:21,skocherhan,ip,185.196.11.58,,https://x.com/skocherhan/status/1999999866446237854
-2025-12-14 01:00:09,urldna_bot,domain,amazon-website-clone-one.vercel.app,,https://x.com/urldna_bot/status/2000007872755745065
-2025-12-14 01:00:09,urldna_bot,url,http://www.amazon-website-clone-one.vercel.app,,https://x.com/urldna_bot/status/2000007872755745065
 2025-12-14 01:16:31,CarlyGriggs13,domain,strxvs.org,#scam,https://x.com/CarlyGriggs13/status/2000011991163998699
 2025-12-14 01:16:31,CarlyGriggs13,url,https://strxvs.org,#scam,https://x.com/CarlyGriggs13/status/2000011991163998699
 2025-12-14 01:39:38,CarlyGriggs13,domain,fi-ca.digital,,https://x.com/CarlyGriggs13/status/2000017808399405354
@@ -57887,8 +57775,6 @@
 2025-12-16 03:00:06,urldna_bot,url,https://gixa.weebly.com,,https://x.com/urldna_bot/status/2000762834372727284
 2025-12-16 04:22:46,solostalking,ip,95.164.123.245,,https://x.com/solostalking/status/2000783638154371370
 2025-12-16 04:44:57,solostalking,ip,31.57.38.244,,https://x.com/solostalking/status/2000789219300794612
-2025-12-16 05:00:07,urldna_bot,domain,netflix-ui-clone-india.vercel.app,,https://x.com/urldna_bot/status/2000793037312561659
-2025-12-16 05:00:07,urldna_bot,url,https://netflix-ui-clone-india.vercel.app,,https://x.com/urldna_bot/status/2000793037312561659
 2025-12-16 06:22:58,suyog41,md5,f59095c8014ec46c89769b5bbcb00583,,https://x.com/suyog41/status/2000813884572361063
 2025-12-16 07:00:07,urldna_bot,domain,4bd582c4.chigozirim-garfield.workers.dev,,https://x.com/urldna_bot/status/2000823234812371098
 2025-12-16 07:00:07,urldna_bot,url,https://4bd582c4.chigozirim-garfield.workers.dev,,https://x.com/urldna_bot/status/2000823234812371098
@@ -58342,8 +58228,6 @@
 2025-12-17 10:51:35,malwrhunterteam,sha256,e15decd55971d328e0a404ae14278cbd2aa3c43305e27165565712639a8e94f8,,https://x.com/malwrhunterteam/status/2001243871909671411
 2025-12-17 11:00:05,AddressIntel,domain,zanzariereiuliano.it,,https://x.com/AddressIntel/status/2001246011457462404
 2025-12-17 11:00:05,AddressIntel,url,https://www.zanzariereiuliano.it/wp-content/plugins/Qaze/au,,https://x.com/AddressIntel/status/2001246011457462404
-2025-12-17 11:00:11,urldna_bot,domain,finu-fayiz.github.io,,https://x.com/urldna_bot/status/2001246038166741256
-2025-12-17 11:00:11,urldna_bot,url,https://finu-fayiz.github.io/Netflix-clone/,,https://x.com/urldna_bot/status/2001246038166741256
 2025-12-17 11:17:04,suyog41,md5,e64acfd5f965f8d4af32590f7a44115e,#stealer,https://x.com/suyog41/status/2001250286699209123
 2025-12-17 11:18:56,skocherhan,domain,divine-glitter-cfb4.elena-morales.workers.dev,,https://x.com/skocherhan/status/2001250758252224704
 2025-12-17 11:18:56,skocherhan,url,http://divine-glitter-cfb4.elena-morales.workers.dev,,https://x.com/skocherhan/status/2001250758252224704
@@ -60419,8 +60303,6 @@
 2025-12-26 00:15:21,CarlyGriggs13,url,http://y113v.xyz,,https://x.com/CarlyGriggs13/status/2004345249267851309
 2025-12-26 00:15:44,CarlyGriggs13,domain,1565222.com,,https://x.com/CarlyGriggs13/status/2004345349847257264
 2025-12-26 00:15:44,CarlyGriggs13,url,http://1565222.com,,https://x.com/CarlyGriggs13/status/2004345349847257264
-2025-12-26 00:16:08,CarlyGriggs13,domain,amazon-clone-gamma-ecru.vercel.app,,https://x.com/CarlyGriggs13/status/2004345447054454881
-2025-12-26 00:16:08,CarlyGriggs13,url,http://amazon-clone-gamma-ecru.vercel.app,,https://x.com/CarlyGriggs13/status/2004345447054454881
 2025-12-26 00:16:30,CarlyGriggs13,domain,bellsouth-att-sign-in-a4f187.webflow.io,,https://x.com/CarlyGriggs13/status/2004345540457517221
 2025-12-26 00:16:30,CarlyGriggs13,url,http://bellsouth-att-sign-in-a4f187.webflow.io,,https://x.com/CarlyGriggs13/status/2004345540457517221
 2025-12-26 00:16:50,CarlyGriggs13,domain,golden-capybara-730f55.netlify.app,,https://x.com/CarlyGriggs13/status/2004345623294963938
@@ -61387,8 +61269,6 @@
 2025-12-28 17:00:10,urldna_bot,url,http://secure.bytete.com/retail/geniusbar/,,https://x.com/urldna_bot/status/2005322897519161607
 2025-12-28 18:00:16,SarlackLab,ip,178.17.59.117,#Njrat #C2,https://x.com/SarlackLab/status/2005338020761710991
 2025-12-28 18:00:16,SarlackLab,url,http://178.17.59.117:5552,#Njrat #C2,https://x.com/SarlackLab/status/2005338020761710991
-2025-12-28 19:00:06,urldna_bot,domain,netflix-clone-9ncu0smoi-danish061296.vercel.app,,https://x.com/urldna_bot/status/2005353081437933733
-2025-12-28 19:00:06,urldna_bot,url,https://netflix-clone-9ncu0smoi-danish061296.vercel.app,,https://x.com/urldna_bot/status/2005353081437933733
 2025-12-28 20:27:30,skocherhan,domain,advent-of-the-relics-forum.htb.blue,,https://x.com/skocherhan/status/2005375076309549264
 2025-12-28 20:27:30,skocherhan,url,http://advent-of-the-relics-forum.htb.blue/api/v1/implant/cid=,,https://x.com/skocherhan/status/2005375076309549264
 2025-12-28 21:00:09,urldna_bot,domain,eduodu.weebly.com,,https://x.com/urldna_bot/status/2005383290794992059
@@ -62356,8 +62236,6 @@
 2026-01-02 05:00:09,urldna_bot,url,http://anandsr-dev.github.io/facebookclone,,https://x.com/urldna_bot/status/2006953638355218521
 2026-01-02 05:53:55,suyog41,ip,217.119.139.117,#stealer,https://x.com/suyog41/status/2006967170706924008
 2026-01-02 05:53:55,suyog41,md5,c0e3d7ecbefb1cd9768f6ec64bba9270,#stealer,https://x.com/suyog41/status/2006967170706924008
-2026-01-02 07:00:10,urldna_bot,domain,deepikahub2.github.io,,https://x.com/urldna_bot/status/2006983839797707148
-2026-01-02 07:00:10,urldna_bot,url,https://deepikahub2.github.io/amazon-clone/,,https://x.com/urldna_bot/status/2006983839797707148
 2026-01-02 07:11:07,suyog41,md5,8a396ea576bb769bd222739243867c8c,#stealer,https://x.com/suyog41/status/2006986596298666056
 2026-01-02 08:53:06,smica83,ip,144.172.114.238,,https://x.com/smica83/status/2007012261744030069
 2026-01-02 08:53:06,smica83,url,http://144.172.114.238:8087,,https://x.com/smica83/status/2007012261744030069
@@ -62409,8 +62287,6 @@
 2026-01-02 13:23:21,CarlyGriggs13,url,http://claim-orochi.network,,https://x.com/CarlyGriggs13/status/2007080274090426419
 2026-01-02 13:37:46,CarlyGriggs13,domain,76651166.com,,https://x.com/CarlyGriggs13/status/2007083903081939122
 2026-01-02 13:37:46,CarlyGriggs13,url,http://76651166.com,,https://x.com/CarlyGriggs13/status/2007083903081939122
-2026-01-02 13:38:08,CarlyGriggs13,domain,amazon-clone-by-shanmukh.vercel.app,,https://x.com/CarlyGriggs13/status/2007083993364349361
-2026-01-02 13:38:08,CarlyGriggs13,url,http://amazon-clone-by-shanmukh.vercel.app,,https://x.com/CarlyGriggs13/status/2007083993364349361
 2026-01-02 13:38:32,CarlyGriggs13,domain,bridgge-trezor.daftpage.com,,https://x.com/CarlyGriggs13/status/2007084093171986656
 2026-01-02 13:38:32,CarlyGriggs13,url,http://bridgge-trezor.daftpage.com,,https://x.com/CarlyGriggs13/status/2007084093171986656
 2026-01-02 13:38:54,CarlyGriggs13,domain,nauw-toezicht.com,,https://x.com/CarlyGriggs13/status/2007084188382728294
@@ -62447,8 +62323,6 @@
 2026-01-02 13:44:24,CarlyGriggs13,url,http://amcl.now.sh,,https://x.com/CarlyGriggs13/status/2007085570519085234
 2026-01-02 14:00:10,smica83,domain,gf.cancunsds.pro,,https://x.com/smica83/status/2007089539056271840
 2026-01-02 14:00:10,smica83,url,https://gf.cancunsds.pro/ZMIWWZXL/RLIYCZLQ,,https://x.com/smica83/status/2007089539056271840
-2026-01-02 14:29:46,CarlyGriggs13,domain,booking-clone-next-js.vercel.app,,https://x.com/CarlyGriggs13/status/2007096986986840220
-2026-01-02 14:29:46,CarlyGriggs13,url,http://booking-clone-next-js.vercel.app,,https://x.com/CarlyGriggs13/status/2007096986986840220
 2026-01-02 14:30:09,CarlyGriggs13,domain,bridge-trezo.blogspot.com,,https://x.com/CarlyGriggs13/status/2007097085095793079
 2026-01-02 14:30:09,CarlyGriggs13,url,http://bridge-trezo.blogspot.com,,https://x.com/CarlyGriggs13/status/2007097085095793079
 2026-01-02 14:30:30,CarlyGriggs13,domain,cennyfinthra-invest.com,,https://x.com/CarlyGriggs13/status/2007097172718919883
@@ -62701,8 +62575,6 @@
 2026-01-03 00:14:23,CarlyGriggs13,url,http://bafkreih3pbvbttbaqeuucxqnsmc6vt32fshfzwsdx7jnlru4idcxedz3si.ipfs.w3s.link,,https://x.com/CarlyGriggs13/status/2007244109250211854
 2026-01-03 00:14:53,CarlyGriggs13,domain,kuc0in-log.godaddysites.com,,https://x.com/CarlyGriggs13/status/2007244236027220267
 2026-01-03 00:14:53,CarlyGriggs13,url,http://kuc0in-log.godaddysites.com,,https://x.com/CarlyGriggs13/status/2007244236027220267
-2026-01-03 00:15:18,CarlyGriggs13,domain,spotify-clone-api-js.vercel.app,,https://x.com/CarlyGriggs13/status/2007244342877200792
-2026-01-03 00:15:18,CarlyGriggs13,url,http://spotify-clone-api-js.vercel.app,,https://x.com/CarlyGriggs13/status/2007244342877200792
 2026-01-03 00:15:42,CarlyGriggs13,domain,get.specialfor.za.com,,https://x.com/CarlyGriggs13/status/2007244442999349697
 2026-01-03 00:15:42,CarlyGriggs13,url,http://get.specialfor.za.com,,https://x.com/CarlyGriggs13/status/2007244442999349697
 2026-01-03 00:16:11,CarlyGriggs13,domain,rh.aodvb.today,,https://x.com/CarlyGriggs13/status/2007244563824685222
@@ -63052,8 +62924,6 @@
 2026-01-03 23:36:30,skocherhan,url,http://95.164.53.76/new/log/8320E1A4/success/1767499039,,https://x.com/skocherhan/status/2007596964142297542
 2026-01-03 23:36:30,skocherhan,url,http://lwebcontrol.com/nfront.php,,https://x.com/skocherhan/status/2007596964142297542
 2026-01-03 23:36:30,skocherhan,url,http://tester.attackzombie.com/api/auth,,https://x.com/skocherhan/status/2007596964142297542
-2026-01-04 01:00:06,urldna_bot,domain,sree93k.github.io,,https://x.com/urldna_bot/status/2007618005702779027
-2026-01-04 01:00:06,urldna_bot,url,http://sree93k.github.io/Netflix-clone/,,https://x.com/urldna_bot/status/2007618005702779027
 2026-01-04 01:57:04,masaomi346,domain,wwwamazu02.n272oz.sbs,#phishing,https://x.com/masaomi346/status/2007632341632798880
 2026-01-04 01:57:04,masaomi346,domain,wwwamazu03.l8qd3q.sbs,#phishing,https://x.com/masaomi346/status/2007632341632798880
 2026-01-04 01:57:04,masaomi346,domain,wwwamazu07.r0qoe0.sbs,#phishing,https://x.com/masaomi346/status/2007632341632798880
@@ -65390,8 +65260,6 @@
 2026-01-10 01:00:07,urldna_bot,url,https://lzlwj.pages.dev/-/zh/gp/most-gifted/books/7406072011/ref=zg_mg_nav_books_3_8953370011,,https://x.com/urldna_bot/status/2009792336763539759
 2026-01-10 01:59:20,skocherhan,sha256,63f972a90d68f3d8e646ad3f313abb4640a3a803490772c9d53ded240337b720,,https://x.com/skocherhan/status/2009807237301354812
 2026-01-10 02:06:59,skocherhan,sha256,6d14f3010603eee3a23e347e3e89a097aa1b9b7aa73a396b96be74865dbc6fce,,https://x.com/skocherhan/status/2009809162973380907
-2026-01-10 03:00:06,urldna_bot,domain,shamim07-ansari.github.io,,https://x.com/urldna_bot/status/2009822530404556992
-2026-01-10 03:00:06,urldna_bot,url,http://shamim07-ansari.github.io/Amazone-clone,,https://x.com/urldna_bot/status/2009822530404556992
 2026-01-10 05:00:06,urldna_bot,domain,roblox.com.ml,,https://x.com/urldna_bot/status/2009852728130855236
 2026-01-10 05:00:06,urldna_bot,md5,60502161064319268376933518296301,,https://x.com/urldna_bot/status/2009852728130855236
 2026-01-10 05:00:06,urldna_bot,url,https://www.roblox.com.ml/games/95713116726779/Sword-Fighting-530256?privateServerLinkCode=60502161064319268376933518296301,,https://x.com/urldna_bot/status/2009852728130855236
@@ -67643,8 +67511,6 @@
 2026-01-17 06:09:41,Fact_Finder03,url,https://82.146.60.30,#RAT #malware,https://x.com/Fact_Finder03/status/2012406954161758330
 2026-01-17 06:09:41,Fact_Finder03,url,https://albiriox.com,#RAT #malware,https://x.com/Fact_Finder03/status/2012406954161758330
 2026-01-17 06:09:41,Fact_Finder03,url,https://purchase.albiriox.com,#RAT #malware,https://x.com/Fact_Finder03/status/2012406954161758330
-2026-01-17 07:00:06,urldna_bot,domain,ishav5.github.io,,https://x.com/urldna_bot/status/2012419643776856513
-2026-01-17 07:00:06,urldna_bot,url,https://ishav5.github.io/Amazon-Clone/,,https://x.com/urldna_bot/status/2012419643776856513
 2026-01-17 07:38:14,yuni__333,url,https://t.co/XdnnE4DlFP,,https://x.com/yuni__333/status/2012429241560842365
 2026-01-17 08:16:56,masaomi346,domain,login.unlockaccount.cfd,#phishing,https://x.com/masaomi346/status/2012438977521885395
 2026-01-17 08:16:56,masaomi346,url,https://login.unlockaccount.cfd/login,#phishing,https://x.com/masaomi346/status/2012438977521885395
@@ -68124,8 +67990,6 @@
 2026-01-19 22:32:38,CarlyGriggs13,url,http://trovemakrets.com,,https://x.com/CarlyGriggs13/status/2013379100031819907
 2026-01-19 22:43:31,masaomi346,domain,jsnctech.com,#phishing,https://x.com/masaomi346/status/2013381837163503795
 2026-01-19 22:43:31,masaomi346,url,https://jsnctech.com/NTTdocomo/,#phishing,https://x.com/masaomi346/status/2013381837163503795
-2026-01-19 23:00:06,urldna_bot,domain,metamask-wagmi-demo.vercel.app,,https://x.com/urldna_bot/status/2013386010579571024
-2026-01-19 23:00:06,urldna_bot,url,https://metamask-wagmi-demo.vercel.app,,https://x.com/urldna_bot/status/2013386010579571024
 2026-01-19 23:30:39,skocherhan,domain,cardlowestgroup.com,,https://x.com/skocherhan/status/2013393698864656544
 2026-01-19 23:30:39,skocherhan,domain,froodlesphere.com,,https://x.com/skocherhan/status/2013393698864656544
 2026-01-19 23:30:39,skocherhan,domain,grandideapay.com,,https://x.com/skocherhan/status/2013393698864656544
@@ -68883,8 +68747,6 @@
 2026-01-23 03:38:02,skocherhan,md5,70237a7df7f72d98f7a90495661e7b90,#APT,https://x.com/skocherhan/status/2014543118222127581
 2026-01-23 03:39:43,skocherhan,ip,213.139.206.15,,https://x.com/skocherhan/status/2014543540534063175
 2026-01-23 03:39:43,skocherhan,url,http://213.139.206.15,,https://x.com/skocherhan/status/2014543540534063175
-2026-01-23 05:00:07,urldna_bot,domain,amazon-clone-project-alpha.vercel.app,,https://x.com/urldna_bot/status/2014563774003364248
-2026-01-23 05:00:07,urldna_bot,url,https://amazon-clone-project-alpha.vercel.app,,https://x.com/urldna_bot/status/2014563774003364248
 2026-01-23 05:55:30,1ZRR4H,domain,meucesscoreo126qkutd.sbs,,https://x.com/1ZRR4H/status/2014577711604208046
 2026-01-23 05:55:30,1ZRR4H,domain,meucesscoreo462bxdiye.sbs,,https://x.com/1ZRR4H/status/2014577711604208046
 2026-01-23 05:55:30,1ZRR4H,domain,meucesscoreo874klz.sbs,,https://x.com/1ZRR4H/status/2014577711604208046
@@ -70228,8 +70090,6 @@
 2026-01-27 00:22:37,skocherhan,md5,0453537b41727d041fe928e775a15afb,,https://x.com/skocherhan/status/2015943490404757899
 2026-01-27 00:36:00,JRoosen,domain,BreachForums.cz,,https://x.com/JRoosen/status/2015946861169795564
 2026-01-27 00:36:00,JRoosen,url,http://BreachForums.cz,,https://x.com/JRoosen/status/2015946861169795564
-2026-01-27 01:00:07,urldna_bot,domain,amazon-clone-plum-eight.vercel.app,,https://x.com/urldna_bot/status/2015952928176054290
-2026-01-27 01:00:07,urldna_bot,url,https://amazon-clone-plum-eight.vercel.app,,https://x.com/urldna_bot/status/2015952928176054290
 2026-01-27 02:21:24,Metemcyber,domain,hlshn.cn,,https://x.com/Metemcyber/status/2015973384908374352
 2026-01-27 02:21:24,Metemcyber,url,http://8.216.0.246,,https://x.com/Metemcyber/status/2015973384908374352
 2026-01-27 02:21:24,Metemcyber,url,https://hlshn.cn/zaksd/,,https://x.com/Metemcyber/status/2015973384908374352
@@ -71564,8 +71424,6 @@
 2026-01-30 12:59:34,CarlyGriggs13,url,https://Igobit.com,,https://x.com/CarlyGriggs13/status/2017221146014277690
 2026-01-30 13:00:04,CarlyGriggs13,domain,pudgys.claims,,https://x.com/CarlyGriggs13/status/2017221272539746791
 2026-01-30 13:00:04,CarlyGriggs13,url,https://pudgys.claims,,https://x.com/CarlyGriggs13/status/2017221272539746791
-2026-01-30 13:00:07,urldna_bot,domain,harshini-m30.github.io,,https://x.com/urldna_bot/status/2017221286783561826
-2026-01-30 13:00:07,urldna_bot,url,https://harshini-m30.github.io/Amazon_Web_Clone-main/,,https://x.com/urldna_bot/status/2017221286783561826
 2026-01-30 14:04:52,justabreach,domain,trace.plus,,https://x.com/justabreach/status/2017237583135174669
 2026-01-30 14:04:52,justabreach,url,http://trace.plus,,https://x.com/justabreach/status/2017237583135174669
 2026-01-30 14:47:07,PrakkiSathwik,domain,3xl6xhboulyuez6fuydyhj7pdvkshzn4ogsmgwbb3ukrkvgi6bcwvfyd.onion,#phishing #APT,https://x.com/PrakkiSathwik/status/2017248214513320070
@@ -72452,8 +72310,6 @@
 2026-02-02 23:00:06,urldna_bot,url,https://amazon-trial.vercel.app,,https://x.com/urldna_bot/status/2018459441285210510
 2026-02-03 00:46:30,masaomi346,domain,ytjuqfb.cn,#phishing,https://x.com/masaomi346/status/2018486218795913574
 2026-02-03 00:46:30,masaomi346,url,https://ytjuqfb.cn/eqwe2/das2/dsa=amazons/,#phishing,https://x.com/masaomi346/status/2018486218795913574
-2026-02-03 01:00:08,urldna_bot,domain,ashishsk123.github.io,,https://x.com/urldna_bot/status/2018489646338937228
-2026-02-03 01:00:08,urldna_bot,url,https://ashishsk123.github.io/Netflix-Clone/,,https://x.com/urldna_bot/status/2018489646338937228
 2026-02-03 02:08:58,luke92881,sha256,09474277051fc387a9b43f7f08a9bf4f6817c24768719b21f9f7163d9c5c8f74,,https://x.com/luke92881/status/2018506972585181469
 2026-02-03 02:14:40,masaomi346,domain,googsl.tokyo,#phishing,https://x.com/masaomi346/status/2018508404025893066
 2026-02-03 02:14:40,masaomi346,url,https://googsl.tokyo/new/login,#phishing,https://x.com/masaomi346/status/2018508404025893066
@@ -73570,8 +73426,6 @@
 2026-02-10 10:05:56,suyog41,url,http://fixyourallergywithus.com,,https://x.com/suyog41/status/2021163720328491126
 2026-02-10 10:27:56,smica83,domain,bikes-burns-beach-horizontal.trycloudflare.com,#opendir,https://x.com/smica83/status/2021169253160792450
 2026-02-10 10:27:56,smica83,url,https://bikes-burns-beach-horizontal.trycloudflare.com/ron/,#opendir,https://x.com/smica83/status/2021169253160792450
-2026-02-10 11:00:08,urldna_bot,domain,aryan029-cs.github.io,,https://x.com/urldna_bot/status/2021177358699381233
-2026-02-10 11:00:08,urldna_bot,url,https://aryan029-cs.github.io/Amazon-clone/,,https://x.com/urldna_bot/status/2021177358699381233
 2026-02-10 12:15:26,TeamDreier,domain,konto-fornyelse.com,#phishing,https://x.com/TeamDreier/status/2021196307315163229
 2026-02-10 12:15:26,TeamDreier,domain,opd-sundhed.com,#phishing,https://x.com/TeamDreier/status/2021196307315163229
 2026-02-10 12:15:26,TeamDreier,domain,skatterefusion.com,#phishing,https://x.com/TeamDreier/status/2021196307315163229
@@ -74033,8 +73887,6 @@
 2026-02-12 07:20:01,skocherhan,url,http://shimonoseki-hou.com,,https://x.com/skocherhan/status/2021846739674714196
 2026-02-12 07:20:01,skocherhan,url,http://shinikyo-kous.com,,https://x.com/skocherhan/status/2021846739674714196
 2026-02-12 07:20:01,skocherhan,url,http://vpas.hiraku-agentu.com,,https://x.com/skocherhan/status/2021846739674714196
-2026-02-12 09:00:08,urldna_bot,domain,srujan-poojary.github.io,,https://x.com/urldna_bot/status/2021871934103801961
-2026-02-12 09:00:08,urldna_bot,url,https://srujan-poojary.github.io/amazon-homepage-clone/,,https://x.com/urldna_bot/status/2021871934103801961
 2026-02-12 09:49:48,mugu_reporter,ip,51.68.132.245,#scam,https://x.com/mugu_reporter/status/2021884433670742303
 2026-02-12 09:49:48,mugu_reporter,ip,51.75.59.39,#scam,https://x.com/mugu_reporter/status/2021884433670742303
 2026-02-12 11:00:11,urldna_bot,domain,server62534.weebly.com,,https://x.com/urldna_bot/status/2021902148326285350
@@ -74330,8 +74182,6 @@
 2026-02-14 01:00:07,urldna_bot,domain,zimbrazi.weebly.com,,https://x.com/urldna_bot/status/2022475909157077387
 2026-02-14 01:00:07,urldna_bot,url,https://zimbrazi.weebly.com,,https://x.com/urldna_bot/status/2022475909157077387
 2026-02-14 02:17:26,skocherhan,url,http://github.com/ieesh65e,,https://x.com/skocherhan/status/2022495369847074992
-2026-02-14 05:00:10,urldna_bot,domain,project2-amazone-clone.vercel.app,,https://x.com/urldna_bot/status/2022536320166338809
-2026-02-14 05:00:10,urldna_bot,url,https://project2-amazone-clone.vercel.app,,https://x.com/urldna_bot/status/2022536320166338809
 2026-02-14 06:14:19,skocherhan,domain,surosuro.xyz,,https://x.com/skocherhan/status/2022554981992141037
 2026-02-14 06:14:19,skocherhan,ip,95.85.239.4,,https://x.com/skocherhan/status/2022554981992141037
 2026-02-14 06:14:19,skocherhan,md5,db0a978fa61226e70f16a8733215492b,,https://x.com/skocherhan/status/2022554981992141037
@@ -74598,8 +74448,6 @@
 2026-02-15 22:04:02,skocherhan,md5,91d46d855afe990d50dec19680123131,,https://x.com/skocherhan/status/2023156374335844567
 2026-02-15 22:04:02,skocherhan,url,http://148.135.59.32,,https://x.com/skocherhan/status/2023156374335844567
 2026-02-15 22:50:02,skocherhan,md5,27d81bea44e535941459ee3e00be3f36,,https://x.com/skocherhan/status/2023167948597162224
-2026-02-15 23:00:07,urldna_bot,domain,infoefocusiric.github.io,,https://x.com/urldna_bot/status/2023170485463154831
-2026-02-15 23:00:07,urldna_bot,url,https://infoefocusiric.github.io/portfolio/mik_webm.html,,https://x.com/urldna_bot/status/2023170485463154831
 2026-02-15 23:33:11,masaomi346,domain,decadeosity.entagkg.cn,#phishing,https://x.com/masaomi346/status/2023178809386975484
 2026-02-15 23:33:11,masaomi346,url,https://decadeosity.entagkg.cn/loginoud/ividuaej/,#phishing,https://x.com/masaomi346/status/2023178809386975484
 2026-02-16 00:00:19,SarlackLab,domain,moloc79286-42278.portmap.host,#Njrat #C2,https://x.com/SarlackLab/status/2023185638015512683
@@ -75394,8 +75242,6 @@
 2026-02-19 14:36:17,skocherhan,url,http://94.242.52.115:31337,,https://x.com/skocherhan/status/2024493246823424442
 2026-02-19 14:44:37,skocherhan,ip,89.221.225.69,,https://x.com/skocherhan/status/2024495342985584777
 2026-02-19 14:44:37,skocherhan,url,http://89.221.225.69:31337,,https://x.com/skocherhan/status/2024495342985584777
-2026-02-19 15:00:08,urldna_bot,domain,facebook-clone-neon-ten.vercel.app,,https://x.com/urldna_bot/status/2024499245189861376
-2026-02-19 15:00:08,urldna_bot,url,https://facebook-clone-neon-ten.vercel.app,,https://x.com/urldna_bot/status/2024499245189861376
 2026-02-19 15:04:44,PrakkiSathwik,domain,4t-niagara.com,#APT,https://x.com/PrakkiSathwik/status/2024500406274154503
 2026-02-19 15:04:44,PrakkiSathwik,domain,almaz-aero.site,#APT,https://x.com/PrakkiSathwik/status/2024500406274154503
 2026-02-19 15:04:44,PrakkiSathwik,domain,autotificate.com,#APT,https://x.com/PrakkiSathwik/status/2024500406274154503
@@ -75790,8 +75636,6 @@
 2026-02-21 20:17:18,skocherhan,md5,a3bdee6408680636f7b9463849212c1c,#Lumma,https://x.com/skocherhan/status/2025303841906790416
 2026-02-21 20:17:18,skocherhan,md5,c94c2e41ddb570618d869ac3813efed1,#Lumma,https://x.com/skocherhan/status/2025303841906790416
 2026-02-21 20:17:18,skocherhan,md5,f7cea8b1207c11277565e0bec4f5a6ed,#Lumma,https://x.com/skocherhan/status/2025303841906790416
-2026-02-21 21:00:06,urldna_bot,domain,se-muhammad-shamoil.github.io,,https://x.com/urldna_bot/status/2025314611319197762
-2026-02-21 21:00:06,urldna_bot,url,http://se-muhammad-shamoil.github.io/Netflix-front-end-clone,,https://x.com/urldna_bot/status/2025314611319197762
 2026-02-21 21:10:08,vcofrecisternas,domain,arteikos.com,#AsyncRAT #malware,https://x.com/vcofrecisternas/status/2025317135593943469
 2026-02-21 21:10:08,vcofrecisternas,domain,tiquetes.ddnsfree.com,#AsyncRAT #malware,https://x.com/vcofrecisternas/status/2025317135593943469
 2026-02-21 21:10:08,vcofrecisternas,url,http://arteikos.com,#AsyncRAT #malware,https://x.com/vcofrecisternas/status/2025317135593943469
@@ -75889,8 +75733,6 @@
 2026-02-22 06:31:23,skocherhan,url,http://www.belgiumwithaview.com/sued/,#Formbook,https://x.com/skocherhan/status/2025458380538614209
 2026-02-22 06:31:23,skocherhan,url,http://www.blandinelobela.com/sued/,#Formbook,https://x.com/skocherhan/status/2025458380538614209
 2026-02-22 06:31:23,skocherhan,url,http://www.blue-chipwordtoscan-today.info/sued/,#Formbook,https://x.com/skocherhan/status/2025458380538614209
-2026-02-22 07:00:06,urldna_bot,domain,pranjal-148.github.io,,https://x.com/urldna_bot/status/2025465605315272952
-2026-02-22 07:00:06,urldna_bot,url,http://pranjal-148.github.io/Netflix-Clone,,https://x.com/urldna_bot/status/2025465605315272952
 2026-02-22 07:06:27,skocherhan,domain,001skz.xyz,#Formbook,https://x.com/skocherhan/status/2025467202246152488
 2026-02-22 07:06:27,skocherhan,domain,00xwq.online,#Formbook,https://x.com/skocherhan/status/2025467202246152488
 2026-02-22 07:06:27,skocherhan,domain,028sdf.com,#Formbook,https://x.com/skocherhan/status/2025467202246152488
@@ -76126,8 +75968,6 @@
 2026-02-23 18:38:50,SarlackLab,url,http://hrmcxaeel.workers.dev,,https://x.com/SarlackLab/status/2026003836662341903
 2026-02-23 18:38:50,SarlackLab,url,http://megaexdistribuidora.com.br,,https://x.com/SarlackLab/status/2026003836662341903
 2026-02-23 18:38:50,SarlackLab,url,http://t3.storage.dev,,https://x.com/SarlackLab/status/2026003836662341903
-2026-02-23 19:00:10,urldna_bot,domain,netflix-landing-clone.vercel.app,,https://x.com/urldna_bot/status/2026009204805239267
-2026-02-23 19:00:10,urldna_bot,url,http://netflix-landing-clone.vercel.app,,https://x.com/urldna_bot/status/2026009204805239267
 2026-02-23 20:56:40,smica83,domain,registry-memory-defines-obtaining.trycloudflare.com,#opendir,https://x.com/smica83/status/2026038524906975421
 2026-02-23 20:56:40,smica83,url,https://registry-memory-defines-obtaining.trycloudflare.com,#opendir,https://x.com/smica83/status/2026038524906975421
 2026-02-23 21:00:08,urldna_bot,domain,protonhb.eb-sites.com,,https://x.com/urldna_bot/status/2026039393585070312
@@ -76183,8 +76023,6 @@
 2026-02-24 08:42:41,JRoosen,domain,vectordntlcrlmfkcm4alni734tbcrnd5lk44v6sp4lqal6noqrgnbyd.onion,#ransomware,https://x.com/JRoosen/status/2026216196819886131
 2026-02-24 08:42:41,JRoosen,url,http://vectordntlcrlmfkcm4alni734tbcrnd5lk44v6sp4lqal6noqrgnbyd.onion,#ransomware,https://x.com/JRoosen/status/2026216196819886131
 2026-02-24 08:50:35,skocherhan,url,http://api.telegram.org/bot8177500259:AAHuZUtGMHUKkjN3M1Qi8DVi8S2hm8vMaiM/sendMessage?chat_id=7727828833,,https://x.com/skocherhan/status/2026218185767202932
-2026-02-24 09:00:07,urldna_bot,domain,swaminitayde.github.io,,https://x.com/urldna_bot/status/2026220586406392134
-2026-02-24 09:00:07,urldna_bot,url,http://swaminitayde.github.io/fb.loginpage.clone,,https://x.com/urldna_bot/status/2026220586406392134
 2026-02-24 09:04:20,masaomi346,domain,ocn-wanting-mitten.surge.sh,#phishing,https://x.com/masaomi346/status/2026221645510455697
 2026-02-24 09:04:20,masaomi346,url,https://ocn-wanting-mitten.surge.sh,#phishing,https://x.com/masaomi346/status/2026221645510455697
 2026-02-24 09:07:29,skocherhan,ip,45.74.8.75,#Remcos,https://x.com/skocherhan/status/2026222436920754361
@@ -76597,8 +76435,6 @@
 2026-02-27 00:17:17,h2jazi,md5,800ea687b296df3b20065a05cf820f97,,https://x.com/h2jazi/status/2027176173051035872
 2026-02-27 00:17:17,h2jazi,url,https://rodmanministerio.org/ssa2/SSA2.msi,,https://x.com/h2jazi/status/2027176173051035872
 2026-02-27 00:17:17,h2jazi,url,https://socheaphost.com/SSA_GOV.zip,,https://x.com/h2jazi/status/2027176173051035872
-2026-02-27 01:00:09,urldna_bot,domain,amazon-clone-ebon.vercel.app,,https://x.com/urldna_bot/status/2027186962960883776
-2026-02-27 01:00:09,urldna_bot,url,http://amazon-clone-ebon.vercel.app,,https://x.com/urldna_bot/status/2027186962960883776
 2026-02-27 01:36:13,masaomi346,domain,bfsnil.top,#phishing,https://x.com/masaomi346/status/2027196036499067327
 2026-02-27 01:36:13,masaomi346,url,https://bfsnil.top/jp/,#phishing,https://x.com/masaomi346/status/2027196036499067327
 2026-02-27 02:34:30,LohanJorge,domain,TradingViewvi.vip,#scam,https://x.com/LohanJorge/status/2027210705171017793
@@ -76641,8 +76477,6 @@
 2026-02-27 09:26:49,skocherhan,sha256,d0912a47413338a1a79eef767aa33135f1e3ac66dfb6f6d1c8dbec72c892b985,,https://x.com/skocherhan/status/2027314469521486297
 2026-02-27 09:54:09,smica83,domain,workflow-rest-wars-cargo.trycloudflare.com,#opendir,https://x.com/smica83/status/2027321348641419634
 2026-02-27 09:54:09,smica83,url,https://workflow-rest-wars-cargo.trycloudflare.com,#opendir,https://x.com/smica83/status/2027321348641419634
-2026-02-27 11:00:08,urldna_bot,domain,amazon-clone-three-sandy.vercel.app,,https://x.com/urldna_bot/status/2027337951047242148
-2026-02-27 11:00:08,urldna_bot,url,https://amazon-clone-three-sandy.vercel.app,,https://x.com/urldna_bot/status/2027337951047242148
 2026-02-27 11:42:56,skocherhan,domain,psychologiadziecka.org,,https://x.com/skocherhan/status/2027348723206856754
 2026-02-27 11:42:56,skocherhan,url,http://psychologiadziecka.org,,https://x.com/skocherhan/status/2027348723206856754
 2026-02-27 11:48:29,JAMESWT_WT,url,https://api.telegram.org/bot870515645,#AgentTesla,https://x.com/JAMESWT_WT/status/2027350117653565506
@@ -77256,10 +77090,6 @@
 2026-03-05 00:57:33,harugasumi,domain,zusilabut.z28.web.core.windows.net,,https://x.com/harugasumi/status/2029360634228613401
 2026-03-05 00:57:33,harugasumi,ip,20.209.8.46,,https://x.com/harugasumi/status/2029360634228613401
 2026-03-05 00:57:33,harugasumi,url,https://zusilabut.z28.web.core.windows.net,,https://x.com/harugasumi/status/2029360634228613401
-2026-03-05 01:00:07,urldna_bot,domain,amazon-clone-taupe-ten.vercel.app,,https://x.com/urldna_bot/status/2029361279589052646
-2026-03-05 01:00:07,urldna_bot,url,http://amazon-clone-taupe-ten.vercel.app,,https://x.com/urldna_bot/status/2029361279589052646
-2026-03-05 03:00:08,urldna_bot,domain,hiyaa1501.github.io,,https://x.com/urldna_bot/status/2029391481383887335
-2026-03-05 03:00:08,urldna_bot,url,https://hiyaa1501.github.io/Amazon-clone/,,https://x.com/urldna_bot/status/2029391481383887335
 2026-03-05 05:55:16,romonlyht,ip,16.15.177.121,#phishing,https://x.com/romonlyht/status/2029435556879601940
 2026-03-05 05:55:16,romonlyht,ip,95.211.213.219,#phishing,https://x.com/romonlyht/status/2029435556879601940
 2026-03-05 05:55:16,romonlyht,url,https://s3.us-east-1.amazonaws.com/uspsamercia-1.console.aws.amazon.org200941/vudsjod.html#aaaa@example.jp,#phishing,https://x.com/romonlyht/status/2029435556879601940
@@ -77643,8 +77473,6 @@
 2026-03-08 15:02:43,skocherhan,url,http://69.197.148.159,#Kimsuky,https://x.com/skocherhan/status/2030660491752755274
 2026-03-08 15:02:43,skocherhan,url,http://DESKTOP.green2.com,#Kimsuky,https://x.com/skocherhan/status/2030660491752755274
 2026-03-08 15:02:43,skocherhan,url,http://green2.green2.com,#Kimsuky,https://x.com/skocherhan/status/2030660491752755274
-2026-03-08 17:00:06,urldna_bot,domain,khushivasa13.github.io,,https://x.com/urldna_bot/status/2030690032177094673
-2026-03-08 17:00:06,urldna_bot,url,http://khushivasa13.github.io/Netflix-clone-khushi,,https://x.com/urldna_bot/status/2030690032177094673
 2026-03-08 17:11:48,skocherhan,sha256,4645e0bd8e493206af272a24529a0402728fc6a4cb4c66b0bc99ef8ac473ed79,,https://x.com/skocherhan/status/2030692974611271901
 2026-03-08 17:22:10,skocherhan,domain,indautor.gob.mx,,https://x.com/skocherhan/status/2030695584630182166
 2026-03-08 17:22:10,skocherhan,ip,189.206.56.108,,https://x.com/skocherhan/status/2030695584630182166
@@ -77905,8 +77733,6 @@
 2026-03-10 05:24:03,Metemcyber,url,http://172.67.131.111,,https://x.com/Metemcyber/status/2031239640125153676
 2026-03-10 05:24:03,Metemcyber,url,https://yrqdd.cn/x1/f2/as=letians/,,https://x.com/Metemcyber/status/2031239640125153676
 2026-03-10 06:37:05,suyog41,md5,6b5dd781cebf2eb6bf482c3c28637a9e,#stealer,https://x.com/suyog41/status/2031258017875087566
-2026-03-10 07:00:11,urldna_bot,domain,aaradhyasharma-ai.github.io,,https://x.com/urldna_bot/status/2031263832664891690
-2026-03-10 07:00:11,urldna_bot,url,https://aaradhyasharma-ai.github.io/Amazon-clone/,,https://x.com/urldna_bot/status/2031263832664891690
 2026-03-10 08:32:54,jordano_mazzoni,domain,signin.aws.cloud-recovery.net,#phishing,https://x.com/jordano_mazzoni/status/2031287165326344253
 2026-03-10 08:32:54,jordano_mazzoni,url,http://signin.aws.cloud-recovery.net,#phishing,https://x.com/jordano_mazzoni/status/2031287165326344253
 2026-03-10 08:57:16,skocherhan,domain,abc78kk889.shop,,https://x.com/skocherhan/status/2031293297252077814
@@ -78288,8 +78114,6 @@
 2026-03-12 23:00:12,urldna_bot,url,https://netflix-ui-ux-landing-page.vercel.app,,https://x.com/urldna_bot/status/2032230206673461506
 2026-03-13 00:51:05,ViriBack,ip,41.216.188.46,,https://x.com/ViriBack/status/2032258111625658820
 2026-03-13 00:51:05,ViriBack,url,http://41.216.188.46:8443/login,,https://x.com/ViriBack/status/2032258111625658820
-2026-03-13 01:00:11,urldna_bot,domain,project2-amazone-clone.vercel.app,,https://x.com/urldna_bot/status/2032260400218055106
-2026-03-13 01:00:11,urldna_bot,url,https://project2-amazone-clone.vercel.app,,https://x.com/urldna_bot/status/2032260400218055106
 2026-03-13 02:13:42,Metemcyber,domain,tradeliora.top,,https://x.com/Metemcyber/status/2032278902518043035
 2026-03-13 02:13:42,Metemcyber,ip,43.133.184.138,,https://x.com/Metemcyber/status/2032278902518043035
 2026-03-13 02:13:42,Metemcyber,url,http://43.133.184.138,,https://x.com/Metemcyber/status/2032278902518043035
@@ -78504,8 +78328,6 @@
 2026-03-14 09:00:07,urldna_bot,url,https://www.roblox.com.gl/users/228584547867/profile,,https://x.com/urldna_bot/status/2032743567542616359
 2026-03-14 09:23:59,skocherhan,domain,jp.mercaric.com,,https://x.com/skocherhan/status/2032749572208857279
 2026-03-14 09:23:59,skocherhan,url,https://jp.mercaric.com,,https://x.com/skocherhan/status/2032749572208857279
-2026-03-14 11:00:09,urldna_bot,domain,amazone-clone-lilac.vercel.app,,https://x.com/urldna_bot/status/2032773775394025562
-2026-03-14 11:00:09,urldna_bot,url,http://amazone-clone-lilac.vercel.app,,https://x.com/urldna_bot/status/2032773775394025562
 2026-03-14 11:40:55,masaomi346,domain,bank.instantaccessfix.cfd,#phishing,https://x.com/masaomi346/status/2032784034338844746
 2026-03-14 11:40:55,masaomi346,url,https://bank.instantaccessfix.cfd/login,#phishing,https://x.com/masaomi346/status/2032784034338844746
 2026-03-14 13:00:06,urldna_bot,domain,kakakakakkakaka.weebly.com,,https://x.com/urldna_bot/status/2032803959618895982
@@ -78519,8 +78341,6 @@
 2026-03-14 14:55:47,SarlackLab,ip,62.235.6.231,#C2 #Njrat,https://x.com/SarlackLab/status/2032833072404598905
 2026-03-14 14:55:47,SarlackLab,url,http://62.235.6.231:4444,#C2 #Njrat,https://x.com/SarlackLab/status/2032833072404598905
 2026-03-14 14:55:47,SarlackLab,url,http://njspider.myddns.me,#C2 #Njrat,https://x.com/SarlackLab/status/2032833072404598905
-2026-03-14 15:00:06,urldna_bot,domain,dadhichvansh.github.io,,https://x.com/urldna_bot/status/2032834160423846196
-2026-03-14 15:00:06,urldna_bot,url,http://dadhichvansh.github.io/netflix-landing-page-clone/,,https://x.com/urldna_bot/status/2032834160423846196
 2026-03-14 17:00:05,urldna_bot,domain,kjkjjkjkjjkjjkjjk.weebly.com,,https://x.com/urldna_bot/status/2032864353007866238
 2026-03-14 17:00:05,urldna_bot,url,https://kjkjjkjkjjkjjkjjk.weebly.com,,https://x.com/urldna_bot/status/2032864353007866238
 2026-03-14 19:00:06,urldna_bot,domain,empcme.com,,https://x.com/urldna_bot/status/2032894557935792402
@@ -78562,8 +78382,6 @@
 2026-03-14 22:20:29,skocherhan,url,http://dailybeast-a.sailthru.co,,https://x.com/skocherhan/status/2032944983913730166
 2026-03-14 22:20:29,skocherhan,url,http://njmta-53.sailthru.com,,https://x.com/skocherhan/status/2032944983913730166
 2026-03-14 22:20:29,skocherhan,url,http://ovemur.com,,https://x.com/skocherhan/status/2032944983913730166
-2026-03-14 23:00:10,urldna_bot,domain,amazon-clone-gray-psi.vercel.app,,https://x.com/urldna_bot/status/2032954970446700609
-2026-03-14 23:00:10,urldna_bot,url,http://amazon-clone-gray-psi.vercel.app,,https://x.com/urldna_bot/status/2032954970446700609
 2026-03-14 23:00:13,SarlackLab,domain,sixershost.duckdns.org,#C2 #NanoCore,https://x.com/SarlackLab/status/2032954983381938422
 2026-03-14 23:00:13,SarlackLab,ip,192.169.69.25,#C2 #NanoCore,https://x.com/SarlackLab/status/2032954983381938422
 2026-03-14 23:00:13,SarlackLab,url,http://192.169.69.25:57222,#C2 #NanoCore,https://x.com/SarlackLab/status/2032954983381938422
@@ -78757,8 +78575,6 @@
 2026-03-16 20:34:27,JAMESWT_WT,ip,94.156.102.75,#C2,https://x.com/JAMESWT_WT/status/2033643075768086789
 2026-03-16 21:00:10,urldna_bot,domain,fran33.weebly.com,,https://x.com/urldna_bot/status/2033649548971683999
 2026-03-16 21:00:10,urldna_bot,url,https://fran33.weebly.com,,https://x.com/urldna_bot/status/2033649548971683999
-2026-03-16 23:00:07,urldna_bot,domain,neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2033679734656110977
-2026-03-16 23:00:07,urldna_bot,url,http://neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2033679734656110977
 2026-03-17 00:35:21,masaomi346,domain,septuagintsend.urgsbo.cn,#phishing,https://x.com/masaomi346/status/2033703702675263682
 2026-03-17 00:35:21,masaomi346,url,https://septuagintsend.urgsbo.cn/yunmip/portual/jp/index_html/,#phishing,https://x.com/masaomi346/status/2033703702675263682
 2026-03-17 00:59:06,Metemcyber,domain,gixpb.com,,https://x.com/Metemcyber/status/2033709680351187237
@@ -79123,8 +78939,6 @@
 2026-03-19 02:03:03,papa_anniekey,domain,becomeslearnedbarn.qgvvw.com,#phishing,https://x.com/papa_anniekey/status/2034450546112025008
 2026-03-19 02:03:03,papa_anniekey,url,https://becomeable.aini1.cn/wasidares/beutthy/,#phishing,https://x.com/papa_anniekey/status/2034450546112025008
 2026-03-19 02:03:03,papa_anniekey,url,https://becomeslearnedbarn.qgvvw.com/ompwxwrv,#phishing,https://x.com/papa_anniekey/status/2034450546112025008
-2026-03-19 03:00:08,urldna_bot,domain,aditivishwakarma01.github.io,,https://x.com/urldna_bot/status/2034464913188323434
-2026-03-19 03:00:08,urldna_bot,url,https://aditivishwakarma01.github.io/Netflix_Clone/,,https://x.com/urldna_bot/status/2034464913188323434
 2026-03-19 03:08:13,RedDrip7,ip,213.176.73.145,#malware,https://x.com/RedDrip7/status/2034466945870024739
 2026-03-19 03:08:13,RedDrip7,ip,213.176.73.162,#malware,https://x.com/RedDrip7/status/2034466945870024739
 2026-03-19 03:08:13,RedDrip7,ip,89.169.12.235,#malware,https://x.com/RedDrip7/status/2034466945870024739
@@ -79630,8 +79444,6 @@
 2026-03-21 14:22:28,JAMESWT_WT,domain,playbitherules.com,#phishing,https://x.com/JAMESWT_WT/status/2035361402433511738
 2026-03-21 14:22:28,JAMESWT_WT,url,https://filarmonicatrt.it/officee/home/,#phishing,https://x.com/JAMESWT_WT/status/2035361402433511738
 2026-03-21 14:22:28,JAMESWT_WT,url,https://playbitherules.com/ffffffffffffiouooiuiuoeoiufoiuiou.html,#phishing,https://x.com/JAMESWT_WT/status/2035361402433511738
-2026-03-21 15:00:06,urldna_bot,domain,aniruddha470.github.io,,https://x.com/urldna_bot/status/2035370876560929207
-2026-03-21 15:00:06,urldna_bot,url,http://aniruddha470.github.io/Netflix-Clone,,https://x.com/urldna_bot/status/2035370876560929207
 2026-03-21 16:38:06,JAMESWT_WT,domain,paypal.portal-login-id7854200.com,#phishing,https://x.com/JAMESWT_WT/status/2035395535494848622
 2026-03-21 16:38:06,JAMESWT_WT,url,https://paypal.portal-login-id7854200.com/4YDytU-JP5RFC8ZX-sOdSY8FQ-4IZvKdO/index.html,#phishing,https://x.com/JAMESWT_WT/status/2035395535494848622
 2026-03-21 17:00:06,urldna_bot,domain,desk-index-verify.weebly.com,,https://x.com/urldna_bot/status/2035401074631213370
@@ -79673,8 +79485,6 @@
 2026-03-21 18:38:41,SarlackLab,url,http://centrum.uk.com,,https://x.com/SarlackLab/status/2035425882072883634
 2026-03-21 18:38:41,SarlackLab,url,http://diary-learning.sa.com,,https://x.com/SarlackLab/status/2035425882072883634
 2026-03-21 18:38:41,SarlackLab,url,http://msbwfi.za.com,,https://x.com/SarlackLab/status/2035425882072883634
-2026-03-21 19:00:04,urldna_bot,domain,labjot98.github.io,,https://x.com/urldna_bot/status/2035431262257643812
-2026-03-21 19:00:04,urldna_bot,url,http://labjot98.github.io/Spotify-UI-clone,,https://x.com/urldna_bot/status/2035431262257643812
 2026-03-21 21:00:05,urldna_bot,domain,r33c.weebly.com,,https://x.com/urldna_bot/status/2035461468460654923
 2026-03-21 21:00:05,urldna_bot,url,https://r33c.weebly.com,,https://x.com/urldna_bot/status/2035461468460654923
 2026-03-21 21:00:18,SarlackLab,ip,89.89.97.153,#C2 #Njrat,https://x.com/SarlackLab/status/2035461520595853544
@@ -79719,8 +79529,6 @@
 2026-03-22 06:16:31,masaomi346,url,https://artificialcornea.com/qL6V6O,#phishing,https://x.com/masaomi346/status/2035601497623560392
 2026-03-22 07:00:09,urldna_bot,domain,acir.postofficeweb.com,,https://x.com/urldna_bot/status/2035612481062670613
 2026-03-22 07:00:09,urldna_bot,url,http://acir.postofficeweb.com/grupoacir/11118276-MqcOKbyBNHxKGw,,https://x.com/urldna_bot/status/2035612481062670613
-2026-03-22 09:00:06,urldna_bot,domain,netflix-clone-eta-six.vercel.app,,https://x.com/urldna_bot/status/2035642664943518004
-2026-03-22 09:00:06,urldna_bot,url,http://netflix-clone-eta-six.vercel.app,,https://x.com/urldna_bot/status/2035642664943518004
 2026-03-22 11:00:06,urldna_bot,domain,officeserviceit.weebly.com,,https://x.com/urldna_bot/status/2035672864184017034
 2026-03-22 11:00:06,urldna_bot,url,https://officeserviceit.weebly.com,,https://x.com/urldna_bot/status/2035672864184017034
 2026-03-22 11:00:17,SarlackLab,ip,91.132.94.229,#C2 #Njrat,https://x.com/SarlackLab/status/2035672910124269898
@@ -79764,8 +79572,6 @@
 2026-03-22 22:37:51,skocherhan,url,http://ngvqtuukrumgx.p-e.kr,#Kimsuky,https://x.com/skocherhan/status/2035848460016971802
 2026-03-22 22:37:51,skocherhan,url,http://ngybdgavuaqu.r-e.kr,#Kimsuky,https://x.com/skocherhan/status/2035848460016971802
 2026-03-22 22:37:51,skocherhan,url,http://nkcbtrpzwyawk.kro.kr,#Kimsuky,https://x.com/skocherhan/status/2035848460016971802
-2026-03-22 23:00:09,urldna_bot,domain,netflix-clone-alpha-seven.vercel.app,,https://x.com/urldna_bot/status/2035854068946461119
-2026-03-22 23:00:09,urldna_bot,url,https://netflix-clone-alpha-seven.vercel.app,,https://x.com/urldna_bot/status/2035854068946461119
 2026-03-22 23:02:59,skocherhan,ip,123.58.200.69,#Kimsuky,https://x.com/skocherhan/status/2035854782431133870
 2026-03-22 23:02:59,skocherhan,url,http://123.58.200.69,#Kimsuky,https://x.com/skocherhan/status/2035854782431133870
 2026-03-23 01:00:07,urldna_bot,domain,urbanova.meetliquid.com,,https://x.com/urldna_bot/status/2035884261362774092
@@ -79805,8 +79611,6 @@
 2026-03-23 10:00:18,SarlackLab,domain,tancong.xoilaczzqzpt.tv,#Njrat #C2,https://x.com/SarlackLab/status/2036020204296098301
 2026-03-23 10:00:18,SarlackLab,url,http://104.18.10.157:443,#Njrat #C2,https://x.com/SarlackLab/status/2036020204296098301
 2026-03-23 10:00:18,SarlackLab,url,http://tancong.xoilaczzqzpt.tv,#Njrat #C2,https://x.com/SarlackLab/status/2036020204296098301
-2026-03-23 11:00:09,urldna_bot,domain,amazon-clone-xi-eight.vercel.app,,https://x.com/urldna_bot/status/2036035263135199284
-2026-03-23 11:00:09,urldna_bot,url,https://amazon-clone-xi-eight.vercel.app/signIn.html/,,https://x.com/urldna_bot/status/2036035263135199284
 2026-03-23 11:26:31,skocherhan,domain,cptoptious.com,,https://x.com/skocherhan/status/2036041898985435508
 2026-03-23 11:26:31,skocherhan,domain,newtdsone.shop,,https://x.com/skocherhan/status/2036041898985435508
 2026-03-23 11:26:31,skocherhan,url,http://cptoptious.com,,https://x.com/skocherhan/status/2036041898985435508
@@ -80092,8 +79896,6 @@
 2026-03-24 21:00:04,urldna_bot,url,https://webmailmyccci.weebly.com,,https://x.com/urldna_bot/status/2036548626609041706
 2026-03-24 21:52:01,smica83,domain,zonawood.org,,https://x.com/smica83/status/2036561702070714486
 2026-03-24 21:52:01,smica83,url,http://zonawood.org,,https://x.com/smica83/status/2036561702070714486
-2026-03-24 23:00:12,urldna_bot,domain,travel-air-bnb-clone.vercel.app,,https://x.com/urldna_bot/status/2036578857306738876
-2026-03-24 23:00:12,urldna_bot,url,http://travel-air-bnb-clone.vercel.app,,https://x.com/urldna_bot/status/2036578857306738876
 2026-03-25 00:18:04,skocherhan,ip,87.106.163.197,,https://x.com/skocherhan/status/2036598452969197762
 2026-03-25 00:18:04,skocherhan,url,http://87.106.163.197,,https://x.com/skocherhan/status/2036598452969197762
 2026-03-25 01:00:06,urldna_bot,domain,fd180.github.io,,https://x.com/urldna_bot/status/2036609033184882778
@@ -80566,8 +80368,6 @@
 2026-03-29 07:35:58,skocherhan,url,http://123.58.201.8,#APT #Kimsuky,https://x.com/skocherhan/status/2038158206703116556
 2026-03-29 07:35:58,skocherhan,url,http://158.247.200.70,#APT #Kimsuky,https://x.com/skocherhan/status/2038158206703116556
 2026-03-29 07:35:58,skocherhan,url,http://27.102.137.32,#APT #Kimsuky,https://x.com/skocherhan/status/2038158206703116556
-2026-03-29 08:00:06,urldna_bot,domain,amazon-clone-gamma-ashen.vercel.app,,https://x.com/urldna_bot/status/2038164280537714913
-2026-03-29 08:00:06,urldna_bot,url,http://amazon-clone-gamma-ashen.vercel.app,,https://x.com/urldna_bot/status/2038164280537714913
 2026-03-29 10:00:05,urldna_bot,domain,suporteicloud.net,,https://x.com/urldna_bot/status/2038194473818104222
 2026-03-29 10:00:05,urldna_bot,url,http://suporteicloud.net,,https://x.com/urldna_bot/status/2038194473818104222
 2026-03-29 10:49:36,FalconFeedsio,url,https://t.co/jh1gkRCnl6,,https://x.com/FalconFeedsio/status/2038206938584875024
@@ -80685,8 +80485,6 @@
 2026-03-30 02:43:14,mugu_reporter,url,http://163.61.188.2,#phishing,https://x.com/mugu_reporter/status/2038446927205769370
 2026-03-30 03:05:19,skocherhan,url,http://5.231.61.68:5173,,https://x.com/skocherhan/status/2038452486155997693
 2026-03-30 03:35:04,skocherhan,md5,aae3093cffee780ce2f811331b66fe1a,#ransomware,https://x.com/skocherhan/status/2038459970321039827
-2026-03-30 04:00:06,urldna_bot,domain,reward-steve.github.io,,https://x.com/urldna_bot/status/2038466271449137243
-2026-03-30 04:00:06,urldna_bot,url,https://reward-steve.github.io/Netflix-CLONE/,,https://x.com/urldna_bot/status/2038466271449137243
 2026-03-30 04:34:31,skocherhan,domain,allegrolokalnie.pl-ssid55346.click,#phishing,https://x.com/skocherhan/status/2038474932674326935
 2026-03-30 04:34:31,skocherhan,url,https://allegrolokalnie.pl-ssid55346.click/?id=Mb95fB6F2O8ImoAim78ggoKhEHnkK1,#phishing,https://x.com/skocherhan/status/2038474932674326935
 2026-03-30 05:37:56,PhishStats,domain,auroraelectrojet.cfd,#phishing,https://x.com/PhishStats/status/2038490892474994706
@@ -81043,8 +80841,6 @@
 2026-04-01 10:20:12,skocherhan,md5,c989513cfaec6ad365a25d28b3d889c8,,https://x.com/skocherhan/status/2039286700434751932
 2026-04-01 11:38:09,skocherhan,ip,38.60.220.73,#APT #Kimsuky,https://x.com/skocherhan/status/2039306317915918818
 2026-04-01 11:38:09,skocherhan,url,http://38.60.220.73,#APT #Kimsuky,https://x.com/skocherhan/status/2039306317915918818
-2026-04-01 12:00:08,urldna_bot,domain,netflix-clone-cyan-nu.vercel.app,,https://x.com/urldna_bot/status/2039311852136452236
-2026-04-01 12:00:08,urldna_bot,url,http://netflix-clone-cyan-nu.vercel.app,,https://x.com/urldna_bot/status/2039311852136452236
 2026-04-01 13:37:47,PhishStats,domain,app.aspirehealthspan.ai,#phishing,https://x.com/PhishStats/status/2039336424311337259
 2026-04-01 13:37:47,PhishStats,ip,150.136.200.188,#phishing,https://x.com/PhishStats/status/2039336424311337259
 2026-04-01 13:37:47,PhishStats,url,https://app.aspirehealthspan.ai/m/index.html,#phishing,https://x.com/PhishStats/status/2039336424311337259
@@ -81202,8 +80998,6 @@
 2026-04-02 03:53:09,romonlyht,domain,touzihubei.com,#phishing,https://x.com/romonlyht/status/2039551684725371129
 2026-04-02 03:53:09,romonlyht,ip,34.146.109.51,#phishing,https://x.com/romonlyht/status/2039551684725371129
 2026-04-02 03:53:09,romonlyht,url,https://touzihubei.com/XkjBATf9du,#phishing,https://x.com/romonlyht/status/2039551684725371129
-2026-04-02 04:00:11,urldna_bot,domain,mohitss10.github.io,,https://x.com/urldna_bot/status/2039553455203774726
-2026-04-02 04:00:11,urldna_bot,url,https://mohitss10.github.io/Netflix-Clone/,,https://x.com/urldna_bot/status/2039553455203774726
 2026-04-02 04:29:38,romonlyht,domain,tierresponseapparelcompany.com,#phishing,https://x.com/romonlyht/status/2039560868728606918
 2026-04-02 04:29:38,romonlyht,ip,34.129.153.140,#phishing,https://x.com/romonlyht/status/2039560868728606918
 2026-04-02 04:29:38,romonlyht,url,https://www.tierresponseapparelcompany.com/?default=wMZ8aRkU8NwV5UZH3y,#phishing,https://x.com/romonlyht/status/2039560868728606918
@@ -81384,8 +81178,6 @@
 2026-04-03 04:50:48,S_A_M_912,ip,111.90.158.78,,https://x.com/S_A_M_912/status/2039928581313249297
 2026-04-03 05:48:25,suyog41,ip,172.94.9.250,#stealer,https://x.com/suyog41/status/2039943079202091375
 2026-04-03 05:48:25,suyog41,md5,75229eb65f4fe87ff3b96f401ac02380,#stealer,https://x.com/suyog41/status/2039943079202091375
-2026-04-03 06:00:09,urldna_bot,domain,neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2039946032931381258
-2026-04-03 06:00:09,urldna_bot,url,http://neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2039946032931381258
 2026-04-03 06:04:21,PhishStats,domain,geovischat.com,#phishing,https://x.com/PhishStats/status/2039947092773179423
 2026-04-03 06:04:21,PhishStats,ip,37.221.66.181,#phishing,https://x.com/PhishStats/status/2039947092773179423
 2026-04-03 06:04:21,PhishStats,url,https://geovischat.com/C/edg/,#phishing,https://x.com/PhishStats/status/2039947092773179423
@@ -81635,8 +81427,6 @@
 2026-04-04 22:00:05,urldna_bot,url,https://nurt-release.weebly.com,,https://x.com/urldna_bot/status/2040549998253760899
 2026-04-05 00:00:13,urldna_bot,domain,scribehow.com,,https://x.com/urldna_bot/status/2040580228590743946
 2026-04-05 00:00:13,urldna_bot,url,https://scribehow.com/page/You_Have_Received_A_New_Secure_Document_Via_Docusign__VAtHttzySOiqRSO0a9nHuw,,https://x.com/urldna_bot/status/2040580228590743946
-2026-04-05 02:00:07,urldna_bot,domain,amazon-clone-blue-ten.vercel.app,,https://x.com/urldna_bot/status/2040610402782925033
-2026-04-05 02:00:07,urldna_bot,url,https://amazon-clone-blue-ten.vercel.app,,https://x.com/urldna_bot/status/2040610402782925033
 2026-04-05 02:01:17,masaomi346,domain,nativecrossings.com,#phishing,https://x.com/masaomi346/status/2040610695415492802
 2026-04-05 02:01:17,masaomi346,url,https://nativecrossings.com/login,#phishing,https://x.com/masaomi346/status/2040610695415492802
 2026-04-05 04:00:07,urldna_bot,domain,seznam10098765.weebly.com,,https://x.com/urldna_bot/status/2040640600182079543
@@ -81659,8 +81449,6 @@
 2026-04-05 08:56:01,Malwarehunterr,url,http://totaldrive.com,#phishing,https://x.com/Malwarehunterr/status/2040715066140471781
 2026-04-05 09:47:00,skocherhan,domain,nurt-release.weebly.com,,https://x.com/skocherhan/status/2040727897900474678
 2026-04-05 09:47:00,skocherhan,url,https://nurt-release.weebly.com,,https://x.com/skocherhan/status/2040727897900474678
-2026-04-05 10:00:10,urldna_bot,domain,kunalcodes447.github.io,,https://x.com/urldna_bot/status/2040731211429994592
-2026-04-05 10:00:10,urldna_bot,url,https://kunalcodes447.github.io/Amazon-Replica/,,https://x.com/urldna_bot/status/2040731211429994592
 2026-04-05 10:18:55,skocherhan,domain,ccc4565yfdddaac.nyc3.digitaloceanspaces.com,,https://x.com/skocherhan/status/2040735931011903716
 2026-04-05 10:18:55,skocherhan,domain,goodgm-ggg-456711.tor1.digitaloceanspaces.com,,https://x.com/skocherhan/status/2040735931011903716
 2026-04-05 10:18:55,skocherhan,domain,storage-uuu-45t45aa.sfo3.digitaloceanspaces.com,,https://x.com/skocherhan/status/2040735931011903716
@@ -81675,8 +81463,6 @@
 2026-04-05 10:56:43,skocherhan,ip,69.164.249.88,,https://x.com/skocherhan/status/2040745442443448564
 2026-04-05 10:56:43,skocherhan,url,http://69.164.249.88,,https://x.com/skocherhan/status/2040745442443448564
 2026-04-05 10:56:43,skocherhan,url,http://api.jinederm.com,,https://x.com/skocherhan/status/2040745442443448564
-2026-04-05 12:00:11,urldna_bot,domain,amazon-clone-ten-rust.vercel.app,,https://x.com/urldna_bot/status/2040761415523258517
-2026-04-05 12:00:11,urldna_bot,url,https://amazon-clone-ten-rust.vercel.app,,https://x.com/urldna_bot/status/2040761415523258517
 2026-04-05 12:06:30,skocherhan,ip,16.58.56.214,,https://x.com/skocherhan/status/2040763006531871211
 2026-04-05 12:06:30,skocherhan,url,http://16.58.56.214,,https://x.com/skocherhan/status/2040763006531871211
 2026-04-05 14:00:05,urldna_bot,domain,mysiteab012.weebly.com,,https://x.com/urldna_bot/status/2040791590008991802
@@ -81858,8 +81644,6 @@
 2026-04-06 11:00:55,ShanHolo,md5,5d0a50d892e998a1217aec4513716eb1,,https://x.com/ShanHolo/status/2041108886438953020
 2026-04-06 12:00:07,urldna_bot,domain,zimbraguncelleniyor.weebly.com,,https://x.com/urldna_bot/status/2041123786859085999
 2026-04-06 12:00:07,urldna_bot,url,https://zimbraguncelleniyor.weebly.com,,https://x.com/urldna_bot/status/2041123786859085999
-2026-04-06 14:00:07,urldna_bot,domain,netflix-clone-6.vercel.app,,https://x.com/urldna_bot/status/2041153985688608847
-2026-04-06 14:00:07,urldna_bot,url,https://netflix-clone-6.vercel.app,,https://x.com/urldna_bot/status/2041153985688608847
 2026-04-06 14:04:07,skocherhan,domain,d33f51dyacx7bd.cloudfront.net,,https://x.com/skocherhan/status/2041154992048857230
 2026-04-06 14:04:07,skocherhan,url,http://d33f51dyacx7bd.cloudfront.net/?aydfd=1237183,,https://x.com/skocherhan/status/2041154992048857230
 2026-04-06 14:04:16,fbgwls245,domain,mfbbt65kir2drc7tuoukwibikgvxquauscnzgbeltkmidjtgqlzm2qad.onion,#ransomware,https://x.com/fbgwls245/status/2041155029260992989
@@ -81879,16 +81663,12 @@
 2026-04-06 16:00:06,urldna_bot,url,https://fzzxxzqzserverservhlpdsk888check.weebly.com,,https://x.com/urldna_bot/status/2041184180122305006
 2026-04-06 18:00:04,phatomcandle,ip,185.221.213.35,#malware #Dcrat #C2,https://x.com/phatomcandle/status/2041214369288348143
 2026-04-06 18:00:04,phatomcandle,url,http://185.221.213.35,#malware #Dcrat #C2,https://x.com/phatomcandle/status/2041214369288348143
-2026-04-06 18:00:10,urldna_bot,domain,darshcmd.github.io,,https://x.com/urldna_bot/status/2041214396865638902
-2026-04-06 18:00:10,urldna_bot,url,https://darshcmd.github.io/Netflix_clone_DevTown/,,https://x.com/urldna_bot/status/2041214396865638902
 2026-04-06 18:47:42,ViriBack,ip,193.181.214.66,,https://x.com/ViriBack/status/2041226355891634431
 2026-04-06 18:47:42,ViriBack,url,http://193.181.214.66:5000,,https://x.com/ViriBack/status/2041226355891634431
 2026-04-06 19:12:43,skocherhan,sha256,1c715cd40331ba2ca6559d2fdb958e7f44053080f9ffd3d90bd1916978d336cb,,https://x.com/skocherhan/status/2041232651529437681
 2026-04-06 19:13:53,PhishStats,domain,reprogrammation-service-be.com,#phishing,https://x.com/PhishStats/status/2041232948658159732
 2026-04-06 19:13:53,PhishStats,ip,45.74.47.162,#phishing,https://x.com/PhishStats/status/2041232948658159732
 2026-04-06 19:13:53,PhishStats,url,https://reprogrammation-service-be.com/captcha.php,#phishing,https://x.com/PhishStats/status/2041232948658159732
-2026-04-06 20:00:09,urldna_bot,domain,amazon-clone-khaki-eight.vercel.app,,https://x.com/urldna_bot/status/2041244591983059012
-2026-04-06 20:00:09,urldna_bot,url,http://amazon-clone-khaki-eight.vercel.app,,https://x.com/urldna_bot/status/2041244591983059012
 2026-04-06 20:09:48,smica83,ip,163.5.102.98,,https://x.com/smica83/status/2041247019721781650
 2026-04-06 20:09:48,smica83,url,http://163.5.102.98/SSzch/devilishsalty.hta,,https://x.com/smica83/status/2041247019721781650
 2026-04-06 20:09:48,smica83,url,http://163.5.102.98/SSzch/mineralgoddess.hta,,https://x.com/smica83/status/2041247019721781650
@@ -81908,8 +81688,6 @@
 2026-04-06 22:00:06,urldna_bot,url,https://accshomepage-log.github.io/confirm3.html,,https://x.com/urldna_bot/status/2041274776786817052
 2026-04-06 23:16:11,masaomi346,domain,compressionfossil.cfd,#phishing,https://x.com/masaomi346/status/2041293922560066008
 2026-04-06 23:16:11,masaomi346,url,https://www.compressionfossil.cfd/XxUmpK,#phishing,https://x.com/masaomi346/status/2041293922560066008
-2026-04-07 00:00:10,urldna_bot,domain,amazon-clone-taupe-ten.vercel.app,,https://x.com/urldna_bot/status/2041304993416815068
-2026-04-07 00:00:10,urldna_bot,url,http://amazon-clone-taupe-ten.vercel.app,,https://x.com/urldna_bot/status/2041304993416815068
 2026-04-07 01:51:46,fbgwls245,domain,6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion,#ransomware,https://x.com/fbgwls245/status/2041333078518587563
 2026-04-07 01:51:46,fbgwls245,url,http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion,#ransomware,https://x.com/fbgwls245/status/2041333078518587563
 2026-04-07 04:00:04,urldna_bot,domain,pub-735053a4f94644cb81eb8a9ea49c452f.r2.dev,,https://x.com/urldna_bot/status/2041365364827648356
@@ -82098,8 +81876,6 @@
 2026-04-08 01:45:35,Metemcyber,url,http://104.21.72.193,,https://x.com/Metemcyber/status/2041693910045802571
 2026-04-08 01:45:35,Metemcyber,url,http://172.67.154.139,,https://x.com/Metemcyber/status/2041693910045802571
 2026-04-08 01:45:35,Metemcyber,url,https://www.yourfutureshere.com/login,,https://x.com/Metemcyber/status/2041693910045802571
-2026-04-08 02:00:08,urldna_bot,domain,prashantgoit.github.io,,https://x.com/urldna_bot/status/2041697570687222101
-2026-04-08 02:00:08,urldna_bot,url,https://prashantgoit.github.io/Netflix-Clone,,https://x.com/urldna_bot/status/2041697570687222101
 2026-04-08 02:00:32,Metemcyber,domain,iceability.zlvvw.cn,,https://x.com/Metemcyber/status/2041697672680419406
 2026-04-08 02:00:32,Metemcyber,url,http://iceability.zlvvw.cn/yual_login_exp/getuug/,,https://x.com/Metemcyber/status/2041697672680419406
 2026-04-08 03:43:14,skocherhan,md5,2d31067df7ccbcd6eaef1025098ed928,#APT,https://x.com/skocherhan/status/2041723515716456795
@@ -82132,8 +81908,6 @@
 2026-04-08 09:41:34,miltinh0c,domain,ilspy.org,#malware,https://x.com/miltinh0c/status/2041813693244043579
 2026-04-08 09:41:34,miltinh0c,url,http://ilspy.org,#malware,https://x.com/miltinh0c/status/2041813693244043579
 2026-04-08 09:42:48,skocherhan,ip,196.251.107.211,,https://x.com/skocherhan/status/2041814003857477783
-2026-04-08 10:00:08,urldna_bot,domain,amazon-clone-wine-iota.vercel.app,,https://x.com/urldna_bot/status/2041818368794075260
-2026-04-08 10:00:08,urldna_bot,url,http://amazon-clone-wine-iota.vercel.app,,https://x.com/urldna_bot/status/2041818368794075260
 2026-04-08 10:13:24,PhishStats,domain,telegrammz.cc,#phishing,https://x.com/PhishStats/status/2041821706356916362
 2026-04-08 10:13:24,PhishStats,ip,23.254.240.205,#phishing,https://x.com/PhishStats/status/2041821706356916362
 2026-04-08 10:13:24,PhishStats,url,https://telegrammz.cc,#phishing,https://x.com/PhishStats/status/2041821706356916362
@@ -82258,8 +82032,6 @@
 2026-04-09 00:02:30,fbgwls245,url,http://rzzfiwoop67jrxadngcy7nvjm7suwtrjznview63ooowqfsm5sq7gmqd.onion,#ransomware,https://x.com/fbgwls245/status/2042030357541994909
 2026-04-09 00:31:19,masaomi346,domain,login.blueskydesignphx.com,#phishing,https://x.com/masaomi346/status/2042037606188511531
 2026-04-09 00:31:19,masaomi346,url,https://login.blueskydesignphx.com/login,#phishing,https://x.com/masaomi346/status/2042037606188511531
-2026-04-09 02:00:05,urldna_bot,domain,neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2042059947999981776
-2026-04-09 02:00:05,urldna_bot,url,http://neflix-clone-project.vercel.app,,https://x.com/urldna_bot/status/2042059947999981776
 2026-04-09 04:00:08,urldna_bot,domain,agrojam.upmedia.mx,,https://x.com/urldna_bot/status/2042090156543344848
 2026-04-09 04:00:08,urldna_bot,url,https://agrojam.upmedia.mx/xml/swica/,,https://x.com/urldna_bot/status/2042090156543344848
 2026-04-09 04:05:58,skocherhan,domain,mofa-gov-bd.mail-svr.co,#APT,https://x.com/skocherhan/status/2042091623899689043
@@ -82469,8 +82241,6 @@
 2026-04-10 12:50:52,K_N1kolenko,ip,85.209.231.90,#RAT #Xworm,https://x.com/K_N1kolenko/status/2042586109436113341
 2026-04-10 12:50:52,K_N1kolenko,ip,89.190.158.92,#RAT #Xworm,https://x.com/K_N1kolenko/status/2042586109436113341
 2026-04-10 12:50:52,K_N1kolenko,ip,91.92.242.227,#RAT #Xworm,https://x.com/K_N1kolenko/status/2042586109436113341
-2026-04-10 14:00:07,urldna_bot,domain,netflix-clone-cyan-gamma.vercel.app,,https://x.com/urldna_bot/status/2042603536735740387
-2026-04-10 14:00:07,urldna_bot,url,https://netflix-clone-cyan-gamma.vercel.app,,https://x.com/urldna_bot/status/2042603536735740387
 2026-04-10 14:12:26,skocherhan,ip,137.184.240.126,,https://x.com/skocherhan/status/2042606636569608394
 2026-04-10 14:12:26,skocherhan,ip,137.184.76.141,,https://x.com/skocherhan/status/2042606636569608394
 2026-04-10 14:12:26,skocherhan,url,http://137.184.240.126:9000,,https://x.com/skocherhan/status/2042606636569608394
@@ -82501,8 +82271,6 @@
 2026-04-10 21:43:07,oroshi0064,domain,driectbnk-jibunb.com,#phishing,https://x.com/oroshi0064/status/2042720055218311224
 2026-04-10 21:43:07,oroshi0064,url,https://driectbnk-jibuna.com/security/ap/loginlogout/login/clientviews/DI01010240,#phishing,https://x.com/oroshi0064/status/2042720055218311224
 2026-04-10 21:43:07,oroshi0064,url,https://driectbnk-jibunb.com/security/ap/loginlogout/login/clientviews/DI01010240,#phishing,https://x.com/oroshi0064/status/2042720055218311224
-2026-04-10 22:00:08,urldna_bot,domain,amazon-clone-wine-iota.vercel.app,,https://x.com/urldna_bot/status/2042724337543782733
-2026-04-10 22:00:08,urldna_bot,url,http://amazon-clone-wine-iota.vercel.app,,https://x.com/urldna_bot/status/2042724337543782733
 2026-04-10 23:38:03,masaomi346,domain,k-u-z-q.cn,#phishing,https://x.com/masaomi346/status/2042748977502916626
 2026-04-10 23:38:03,masaomi346,url,https://k-u-z-q.cn/k1/da2/g2/ads=jcbs/,#phishing,https://x.com/masaomi346/status/2042748977502916626
 2026-04-11 02:00:10,urldna_bot,domain,webmail-senacsa-gov-py-8082.weebly.com,,https://x.com/urldna_bot/status/2042784741506646325
@@ -82537,8 +82305,6 @@
 2026-04-11 09:13:30,skocherhan,url,http://27.102.137.38,,https://x.com/skocherhan/status/2042893797000921138
 2026-04-11 09:13:35,skocherhan,ip,130.94.29.111,,https://x.com/skocherhan/status/2042893814524748106
 2026-04-11 09:13:35,skocherhan,url,http://130.94.29.111,,https://x.com/skocherhan/status/2042893814524748106
-2026-04-11 10:00:07,urldna_bot,domain,harshit002212334555.github.io,,https://x.com/urldna_bot/status/2042905528347525125
-2026-04-11 10:00:07,urldna_bot,url,https://harshit002212334555.github.io/Amazon-clone/,,https://x.com/urldna_bot/status/2042905528347525125
 2026-04-11 10:25:56,skocherhan,domain,april-dateroom.com,#ClickFix,https://x.com/skocherhan/status/2042912023076364402
 2026-04-11 10:25:56,skocherhan,url,http://april-dateroom.com,#ClickFix,https://x.com/skocherhan/status/2042912023076364402
 2026-04-11 10:59:44,skocherhan,domain,amskr.dynv6.net,#Kimsuky,https://x.com/skocherhan/status/2042920530701946915
@@ -82657,8 +82423,6 @@
 2026-04-12 06:00:05,urldna_bot,url,https://domdom.my-homeip.net,,https://x.com/urldna_bot/status/2043207506390872297
 2026-04-12 06:35:55,skocherhan,ip,118.107.5.219,,https://x.com/skocherhan/status/2043216524769444122
 2026-04-12 06:35:55,skocherhan,url,http://118.107.5.219,,https://x.com/skocherhan/status/2043216524769444122
-2026-04-12 08:00:07,urldna_bot,domain,amazon-clone-alpha-seven.vercel.app,,https://x.com/urldna_bot/status/2043237717262102574
-2026-04-12 08:00:07,urldna_bot,url,https://amazon-clone-alpha-seven.vercel.app,,https://x.com/urldna_bot/status/2043237717262102574
 2026-04-12 09:45:14,skocherhan,domain,xt24.com,,https://x.com/skocherhan/status/2043264168782938128
 2026-04-12 09:45:14,skocherhan,url,http://xt24.com,,https://x.com/skocherhan/status/2043264168782938128
 2026-04-12 09:51:40,hackingspace,domain,pinkylauncher.com,#malware,https://x.com/hackingspace/status/2043265786437870029
@@ -82669,18 +82433,12 @@
 2026-04-12 11:20:47,skocherhan,url,http://154.36.188.81,,https://x.com/skocherhan/status/2043288215147155828
 2026-04-12 11:31:49,fbgwls245,domain,ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion,#ransomware,https://x.com/fbgwls245/status/2043290989486592294
 2026-04-12 11:31:49,fbgwls245,url,http://ejzl7cjxmkx7lzhiqwidmrwtfjv45pkczbc4fnyaut3t7gll3yaiq5id.onion,#ransomware,https://x.com/fbgwls245/status/2043290989486592294
-2026-04-12 12:00:11,urldna_bot,domain,amazon-clone-xi-eight.vercel.app,,https://x.com/urldna_bot/status/2043298129018015974
-2026-04-12 12:00:11,urldna_bot,url,https://amazon-clone-xi-eight.vercel.app/signIn.html/,,https://x.com/urldna_bot/status/2043298129018015974
 2026-04-12 13:46:00,BlinkzSec,sha256,78fa109c8570f62d2ee9ee6663bc2ad7b151b88029389470b57f54a30c102942,#opendir,https://x.com/BlinkzSec/status/2043324759266517248
 2026-04-12 14:00:07,urldna_bot,domain,hhfhjfhjfhjf.weebly.com,,https://x.com/urldna_bot/status/2043328311011524967
 2026-04-12 14:00:07,urldna_bot,url,https://hhfhjfhjfhjf.weebly.com,,https://x.com/urldna_bot/status/2043328311011524967
 2026-04-12 14:49:04,BlinkzSec,sha256,4bf5f2ff72567c04eb8ad22cba9e94cc2570e61e6910c27692121d56f3a83bab,#opendir,https://x.com/BlinkzSec/status/2043340631188091021
-2026-04-12 16:00:11,urldna_bot,domain,netflix-clone-gray-seven.vercel.app,,https://x.com/urldna_bot/status/2043358529948406038
-2026-04-12 16:00:11,urldna_bot,url,https://netflix-clone-gray-seven.vercel.app,,https://x.com/urldna_bot/status/2043358529948406038
 2026-04-12 17:54:45,skocherhan,domain,blueirissoft.site,,https://x.com/skocherhan/status/2043387360797176210
 2026-04-12 17:54:45,skocherhan,url,http://blueirissoft.site,,https://x.com/skocherhan/status/2043387360797176210
-2026-04-12 18:00:07,urldna_bot,domain,facebook-clone-nu-eight.vercel.app,,https://x.com/urldna_bot/status/2043388709161123957
-2026-04-12 18:00:07,urldna_bot,url,https://facebook-clone-nu-eight.vercel.app,,https://x.com/urldna_bot/status/2043388709161123957
 2026-04-12 18:03:22,skocherhan,domain,login.msedge.services,,https://x.com/skocherhan/status/2043389526777671824
 2026-04-12 18:03:22,skocherhan,domain,m365.msedge.services,,https://x.com/skocherhan/status/2043389526777671824
 2026-04-12 18:03:22,skocherhan,domain,msedge.services,,https://x.com/skocherhan/status/2043389526777671824
@@ -82718,8 +82476,6 @@
 2026-04-12 19:39:51,mopisec,domain,cloudmanagernetapp.nl,#malware,https://x.com/mopisec/status/2043413810283999307
 2026-04-12 19:39:51,mopisec,sha256,4078905b6f1810a913a7204c320a31bce644376a72ebe1f54cf324db9afa3ecd,#malware,https://x.com/mopisec/status/2043413810283999307
 2026-04-12 19:39:51,mopisec,url,http://cloudmanagernetapp.nl:443,#malware,https://x.com/mopisec/status/2043413810283999307
-2026-04-12 20:00:11,urldna_bot,domain,amazon-clone-zeta-nine.vercel.app,,https://x.com/urldna_bot/status/2043418924797030886
-2026-04-12 20:00:11,urldna_bot,url,http://amazon-clone-zeta-nine.vercel.app,,https://x.com/urldna_bot/status/2043418924797030886
 2026-04-12 22:00:08,urldna_bot,domain,podasalternativa.com.br,,https://x.com/urldna_bot/status/2043449113266581699
 2026-04-12 22:00:08,urldna_bot,url,https://podasalternativa.com.br,,https://x.com/urldna_bot/status/2043449113266581699
 2026-04-12 22:14:14,PhishStats,domain,appltau30hs.info,#phishing,https://x.com/PhishStats/status/2043452661261803865
@@ -85007,8 +84763,6 @@
 2026-05-02 13:22:00,500mk500,url,http://neuralnetworkdatalab.com,#APT #Lazarus,https://x.com/500mk500/status/2050566552836055186
 2026-05-02 13:23:38,harugasumi,domain,decretal.cfd,#phishing,https://x.com/harugasumi/status/2050566888351273449
 2026-05-02 13:23:38,harugasumi,url,https://decretal.cfd/Paidy.html,#phishing,https://x.com/harugasumi/status/2050566888351273449
-2026-05-02 14:00:06,urldna_bot,domain,amazon-clone-gray-three.vercel.app,,https://x.com/urldna_bot/status/2050576066121437549
-2026-05-02 14:00:06,urldna_bot,url,https://amazon-clone-gray-three.vercel.app,,https://x.com/urldna_bot/status/2050576066121437549
 2026-05-02 15:20:35,masaomi346,domain,pesksae.shcpqgs.cn,#phishing,https://x.com/masaomi346/status/2050596318285094932
 2026-05-02 15:20:35,masaomi346,url,https://pesksae.shcpqgs.cn/htopen/mesber/index/,#phishing,https://x.com/masaomi346/status/2050596318285094932
 2026-05-02 15:33:00,harugasumi,domain,winuputom.z6.web.core.windows.net,,https://x.com/harugasumi/status/2050599486368661794
@@ -85885,8 +85639,6 @@
 2026-05-05 19:58:00,Malwarehunterr,url,http://graph.org/BALANCE-3682444-USD-04-21-6,#phishing,https://x.com/Malwarehunterr/status/2051753310353592652
 2026-05-05 19:58:00,Malwarehunterr,url,http://graph.org/BALANCE-3682444-USD-04-21-6redirects,#phishing,https://x.com/Malwarehunterr/status/2051753310353592652
 2026-05-05 19:58:00,osint_barbie,sha256,5d40c757c85814b86733d66ffc9e325b1007ac98513a20ea13a871c6964f5ba4,#malware,https://x.com/osint_barbie/status/2051753352372093363
-2026-05-05 20:00:00,urldna_bot,domain,ni30kushwaha563.github.io,#phishing #scam,https://x.com/urldna_bot/status/2051753839477363115
-2026-05-05 20:00:00,urldna_bot,url,https://ni30kushwaha563.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/2051753839477363115
 2026-05-05 20:05:00,smica83,sha256,c4a25e2cbb0b23e0fc257108152e77f0ccaea3031579203fa21d54c8c12ab28e,,https://x.com/smica83/status/2051755308435849301
 2026-05-05 20:06:00,skocherhan,domain,michigansos.due-mihf.com,#phishing #scam,https://x.com/skocherhan/status/2051755378061222214
 2026-05-05 20:06:00,skocherhan,url,http://michigansos.due-mihf.com,#phishing #scam,https://x.com/skocherhan/status/2051755378061222214
@@ -85907,8 +85659,6 @@
 2026-05-05 21:46:00,g0njxa,sha256,aeb1cca563df283b3d4065e601f0ac053559f20c681eb70ded38717c1fc259a9,,https://x.com/g0njxa/status/2051780533823139928
 2026-05-05 21:46:00,g0njxa,sha256,d0f5e98fb840fb5656d3f50613b6f1ec60e57392643159841bc1fa95396087a4,,https://x.com/g0njxa/status/2051780533823139928
 2026-05-05 21:46:00,g0njxa,sha256,fc146e0907d2c1f182f01bb7417c9e4b1b9854395fa267c1093b4f5a0f7f526c,,https://x.com/g0njxa/status/2051780533823139928
-2026-05-05 22:00:00,urldna_bot,domain,netflix-clone-coral-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2051784046645019025
-2026-05-05 22:00:00,urldna_bot,url,http://netflix-clone-coral-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2051784046645019025
 2026-05-05 22:21:00,Merlax_,domain,albumdacopa.store,#phishing,https://x.com/Merlax_/status/2051789284219273219
 2026-05-05 22:21:00,Merlax_,domain,cocoscapital.top,#phishing,https://x.com/Merlax_/status/2051789284219273219
 2026-05-05 22:21:00,Merlax_,domain,figurinhascopa-panini2026.site,#phishing,https://x.com/Merlax_/status/2051789284219273219
@@ -86898,8 +86648,6 @@
 2026-05-07 19:18:00,Malwarehunterr,url,http://bnlv027hoet-voicemsgmp3listen.voiceggffty.com/ecaa6f7e8cf30101e156b9a206a108c2/,#phishing,https://x.com/Malwarehunterr/status/2049568997407072720
 2026-05-07 19:18:00,Malwarehunterr,url,http://ec15z.gootrtyyy.com/kolp/?error=interaction_required&error_description=Session+information+is+not+sufficient+for+single-sign-on,#phishing,https://x.com/Malwarehunterr/status/2049568997407072720
 2026-05-07 19:18:00,Malwarehunterr,url,http://f7cqhx2ygpj-voicemsgmp3listen.vvgggvoicee.com/5ecdb3fb0123c33384d6ef916f46f4e1/,#phishing,https://x.com/Malwarehunterr/status/2052468128341451212
-2026-05-07 20:52:00,urldna_bot,domain,netflix-clone-topaz-kappa.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2052491761038065714
-2026-05-07 20:52:00,urldna_bot,url,http://netflix-clone-topaz-kappa.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2052491761038065714
 2026-05-07 21:05:00,L0Psec,sha256,6d979466596978ffcb633a0b8c47adedd0778555c0e513fc3d3c84bcef6f036b,,https://x.com/L0Psec/status/2052494971563909504
 2026-05-07 21:25:00,skocherhan,domain,mmmm2026.direct.quickconnect.to,,https://x.com/skocherhan/status/2052500005563334937
 2026-05-07 21:25:00,skocherhan,ip,194.33.45.107,,https://x.com/skocherhan/status/2052500005563334937
@@ -87102,8 +86850,6 @@
 2026-05-08 10:43:00,askardyuss,md5,ef5b753e5a2118d18c5e809c3d159a35,#MustangPanda,https://x.com/askardyuss/status/2052700974301827268
 2026-05-08 11:56:00,skocherhan,domain,votelit.org,#phishing,https://x.com/skocherhan/status/2052719394338353331
 2026-05-08 11:56:00,skocherhan,url,http://votelit.org,#phishing,https://x.com/skocherhan/status/2052719394338353331
-2026-05-08 12:00:00,urldna_bot,domain,meenuparashar18.github.io,#phishing #scam,https://x.com/urldna_bot/status/2052720224588169431
-2026-05-08 12:00:00,urldna_bot,url,http://meenuparashar18.github.io/Netflix-clone,#phishing #scam,https://x.com/urldna_bot/status/2052720224588169431
 2026-05-08 12:06:00,skocherhan,domain,vote.p4rt.top,#phishing,https://x.com/skocherhan/status/2052721820965413167
 2026-05-08 12:06:00,skocherhan,url,http://vote.p4rt.top,#phishing,https://x.com/skocherhan/status/2052721820965413167
 2026-05-08 12:21:00,blackorbird,domain,precommit.vercel.app,,https://x.com/blackorbird/status/2052725668077867070
@@ -87117,8 +86863,6 @@
 2026-05-08 13:42:00,Fact_Finder03,ip,80.211.196.157,#C2 #Mythic,https://x.com/Fact_Finder03/status/2052745893695414565
 2026-05-08 13:42:00,Fact_Finder03,url,https://80.211.196.157:7443/new/login,#C2 #Mythic,https://x.com/Fact_Finder03/status/2052745893695414565
 2026-05-08 13:42:00,Fact_Finder03,url,https://healthy.zubhium.com:7443,#C2 #Mythic,https://x.com/Fact_Finder03/status/2052745893695414565
-2026-05-08 14:00:00,urldna_bot,domain,priyadarshii786.github.io,#phishing #scam,https://x.com/urldna_bot/status/2052750418002722924
-2026-05-08 14:00:00,urldna_bot,url,http://priyadarshii786.github.io/Netflix_Clone,#phishing #scam,https://x.com/urldna_bot/status/2052750418002722924
 2026-05-08 14:45:00,malwrhunterteam,ip,103.79.79.21,,https://x.com/malwrhunterteam/status/2039439398383583584
 2026-05-08 14:45:00,malwrhunterteam,url,http://103.79.79.21:8899/login,,https://x.com/malwrhunterteam/status/2039439398383583584
 2026-05-08 14:50:00,fbgwls245,sha256,5b5a306e93a17a7edba89301717e304f72134cc5bfd900c4bf8fc2ea617fabdf,#ransomware,https://x.com/fbgwls245/status/2052763006900256851
@@ -88162,8 +87906,6 @@
 2026-05-09 18:00:00,phatomcandle,ip,27.102.137.150,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2053173170128253289
 2026-05-09 18:00:00,phatomcandle,url,http://27.102.137.150,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2053173170128253289
 2026-05-09 18:00:00,phatomcandle,url,http://naterqn.onthewifi.com,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2053173170128253289
-2026-05-09 18:00:00,urldna_bot,domain,sreedevz.github.io,#phishing #scam,https://x.com/urldna_bot/status/2053173174611693695
-2026-05-09 18:00:00,urldna_bot,url,https://sreedevz.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/2053173174611693695
 2026-05-09 18:20:00,smica83,ip,138.124.126.97,,https://x.com/smica83/status/2053178265368481944
 2026-05-09 18:20:00,smica83,ip,62.164.177.240,,https://x.com/smica83/status/2053178265368481944
 2026-05-09 18:20:00,smica83,sha256,4893de26be7c3014e1f48c6ad171743b30bedc9a1ad5ebdc739dad9dda87caef,,https://x.com/smica83/status/2053178265368481944
@@ -88632,8 +88374,6 @@
 2026-05-11 05:22:00,uuallan,domain,ransomwarein.bio,,https://x.com/uuallan/status/1781666262755561930
 2026-05-11 05:22:00,uuallan,url,http://ransomware-c2.com,,https://x.com/uuallan/status/1781666262755561930
 2026-05-11 05:22:00,uuallan,url,http://ransomwarein.bio,,https://x.com/uuallan/status/1781666262755561930
-2026-05-11 06:00:00,urldna_bot,domain,ayushsingh728.github.io,#phishing #scam,https://x.com/urldna_bot/status/2053716785858216045
-2026-05-11 06:00:00,urldna_bot,url,http://ayushsingh728.github.io/Netflix-Clone,#phishing #scam,https://x.com/urldna_bot/status/2053716785858216045
 2026-05-11 06:25:00,Fact_Finder03,ip,104.168.81.172,#C2,https://x.com/Fact_Finder03/status/2053723171787035043
 2026-05-11 06:25:00,Fact_Finder03,ip,107.172.132.231,#C2,https://x.com/Fact_Finder03/status/2053723171787035043
 2026-05-11 06:51:00,masaomi346,domain,totallyaboutweather.com,#phishing,https://x.com/masaomi346/status/2053729800372785348
@@ -88647,8 +88387,6 @@
 2026-05-11 09:21:00,nextronresearch,domain,cloudcraftshub.com,,https://x.com/nextronresearch/status/2053767476651995310
 2026-05-11 09:21:00,nextronresearch,sha256,f90e131ec641d1cda33800217bdf6295a0c95d8f4b2ef0406ecda78ce19685ad,,https://x.com/nextronresearch/status/2053767476651995310
 2026-05-11 09:21:00,nextronresearch,url,https://cloudcraftshub.com/api,,https://x.com/nextronresearch/status/2053767476651995310
-2026-05-11 10:00:00,urldna_bot,domain,netflix-clone-omega-gules.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2053777175304683701
-2026-05-11 10:00:00,urldna_bot,url,https://netflix-clone-omega-gules.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2053777175304683701
 2026-05-11 10:33:00,skocherhan,domain,api.connect-sncf.me,#phishing,https://x.com/skocherhan/status/2053785579007975442
 2026-05-11 10:33:00,skocherhan,domain,api.connect-sncf.my,#phishing,https://x.com/skocherhan/status/2053785579007975442
 2026-05-11 10:33:00,skocherhan,domain,api.sncf-connect.my,#phishing,https://x.com/skocherhan/status/2053785579007975442
@@ -89662,8 +89400,6 @@
 2026-05-12 20:00:00,urldna_bot,url,https://finalaccountwarningteam.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2054290551369781289
 2026-05-12 22:00:00,urldna_bot,domain,xploreonlineserver.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2054320750966792413
 2026-05-12 22:00:00,urldna_bot,url,https://xploreonlineserver.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2054320750966792413
-2026-05-13 00:00:00,urldna_bot,domain,netflix-clone-6.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2054350942758178970
-2026-05-13 00:00:00,urldna_bot,url,https://netflix-clone-6.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2054350942758178970
 2026-05-13 00:22:00,masaomi346,domain,b10a.mobi,#phishing,https://x.com/masaomi346/status/2054356678276264197
 2026-05-13 00:22:00,masaomi346,url,https://b10a.mobi/BANTEND,#phishing,https://x.com/masaomi346/status/2054356678276264197
 2026-05-13 02:00:00,urldna_bot,domain,roblox.gf,#phishing #scam,https://x.com/urldna_bot/status/2054381165683913185
@@ -96589,13 +96325,11 @@
 2026-05-26 14:00:00,urldna_bot,domain,jhhhjvh.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2059273386690314297
 2026-05-26 14:00:00,urldna_bot,url,https://jhhhjvh.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2059273386690314297
 2026-05-26 14:17:00,Kb4Threatlabs,domain,Link-form-unj9.p-sm7rw6ru.workers.dev,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
-2026-05-26 14:17:00,Kb4Threatlabs,domain,adservice.google.com.ph,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,cloudbemismanufacturingcompanygroup.rydezyhrsysteminc.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,cloudgillettebrandberkshirehathaway.rtzcoekdrporation.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,data-cloud-ofe8.p-8yejy42o.workers.dev,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,edificiocristal.pt,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,furqanmustafa.com,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
-2026-05-26 14:17:00,Kb4Threatlabs,domain,meet.google.com,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,odahlzr5lm.reliabilityinoperations.de,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,servicetriumphgroupsimplyappraisals.spectrhwqumbrands.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,staiwooje.app,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
@@ -96603,14 +96337,11 @@
 2026-05-26 14:17:00,Kb4Threatlabs,domain,vazquezfleytas.com,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,domain,velvorra.com,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://Link-form-unj9.p-sm7rw6ru.workers.dev,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
-2026-05-26 14:17:00,Kb4Threatlabs,url,http://adservice.google.com.ph/ddm/clk,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://cloudbemismanufacturingcompanygroup.rydezyhrsysteminc.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://cloudgillettebrandberkshirehathaway.rtzcoekdrporation.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://data-cloud-ofe8.p-8yejy42o.workers.dev,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://edificiocristal.pt,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://furqanmustafa.com,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
-2026-05-26 14:17:00,Kb4Threatlabs,url,http://google.com/url?q=,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
-2026-05-26 14:17:00,Kb4Threatlabs,url,http://meet.google.com/linkredirect,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://odahlzr5lm.reliabilityinoperations.de,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://servicetriumphgroupsimplyappraisals.spectrhwqumbrands.vu,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
 2026-05-26 14:17:00,Kb4Threatlabs,url,http://staiwooje.app,#phishing,https://x.com/Kb4Threatlabs/status/2059277859148206363
@@ -97169,8 +96900,6 @@
 2026-05-27 07:16:00,smica83,sha256,0594e2c11ee83e2a22559def773ffa8b0ad0a7d86a1433fb345cfc6522900b98,,https://x.com/smica83/status/2059534243856802215
 2026-05-27 07:56:00,malwrhunterteam,domain,remoto.ddins.click,,https://x.com/malwrhunterteam/status/2059544369305124875
 2026-05-27 07:56:00,malwrhunterteam,url,https://remoto.ddins.click/login,,https://x.com/malwrhunterteam/status/2059544369305124875
-2026-05-27 08:00:00,urldna_bot,domain,kzauha.github.io,#phishing #scam,https://x.com/urldna_bot/status/2059545191514517993
-2026-05-27 08:00:00,urldna_bot,url,http://kzauha.github.io/netflix,#phishing #scam,https://x.com/urldna_bot/status/2059545191514517993
 2026-05-27 08:12:00,tdatwja,md5,e4a659528c23235627f7c8f5851e7102,,https://x.com/tdatwja/status/2059548317022117976
 2026-05-27 08:12:00,tdatwja,sha256,5c80dcde0f7e0507a6ecccd462170a3da80a1c9c61f0a6e39f20e7d866467755,,https://x.com/tdatwja/status/2059548317022117976
 2026-05-27 08:12:00,tdatwja,url,http://8o1vlv0s7bv7gmx74cb9i3c1edp.live,,https://x.com/tdatwja/status/2059548317022117976
@@ -97284,8 +97013,6 @@
 2026-05-27 15:59:00,naumovax,ip,172.82.66.247,#stealer,https://x.com/naumovax/status/2059665798596112414
 2026-05-27 15:59:00,naumovax,sha256,3b5f63f8d93b793cc6aea51e2ee3b1aac354918562f61cc3f74eabd933df4757,#stealer,https://x.com/naumovax/status/2059665798596112414
 2026-05-27 15:59:00,naumovax,url,http://172.82.66.247:3256,#stealer,https://x.com/naumovax/status/2059665798596112414
-2026-05-27 16:00:00,urldna_bot,domain,amazon-clone-plum-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2059665980712792152
-2026-05-27 16:00:00,urldna_bot,url,https://amazon-clone-plum-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2059665980712792152
 2026-05-27 16:03:00,smica83,domain,booking-photo.sbs,,https://x.com/smica83/status/2059666876217577853
 2026-05-27 16:03:00,smica83,ip,158.94.208.16,,https://x.com/smica83/status/2059666876217577853
 2026-05-27 16:03:00,smica83,sha256,4dd9966df557b6d0327ef92c12d1ce87912577f13c928e1d817a54803939f666,,https://x.com/smica83/status/2059666876217577853
@@ -97550,8 +97277,6 @@
 2026-05-28 13:01:00,skocherhan,domain,es.myinvestor-indicidencias.com,#phishing,https://x.com/skocherhan/status/2059983292477165707
 2026-05-28 13:01:00,skocherhan,url,http://es.myinvestor-indicidencias.com,#phishing,https://x.com/skocherhan/status/2059983292477165707
 2026-05-28 13:05:00,anyrun_app,ip,160.119.69.4,,https://x.com/anyrun_app/status/2059984416324116828
-2026-05-28 14:00:00,urldna_bot,domain,amazon-clone-cyan-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2059998164032090587
-2026-05-28 14:00:00,urldna_bot,url,https://amazon-clone-cyan-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2059998164032090587
 2026-05-28 14:13:00,smica83,sha256,1c90a1ce25b5078cea3e1c6aaed4f2e1727aa54fdd3c4a12d57afc085f1fcff9,,https://x.com/smica83/status/2060001485128093772
 2026-05-28 14:39:00,fbgwls245,domain,ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion,#ransomware,https://x.com/fbgwls245/status/2060008084861583790
 2026-05-28 14:39:00,fbgwls245,url,http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion,#ransomware,https://x.com/fbgwls245/status/2060008084861583790
@@ -97577,8 +97302,6 @@
 2026-05-28 15:59:00,patialavii,url,https://c-nous.com/redboxplus/complete.php,#phishing,https://x.com/patialavii/status/2060028203062939715
 2026-05-28 15:59:00,patialavii,url,https://c-nous.com/redboxplus/download.php,#phishing,https://x.com/patialavii/status/2060028203062939715
 2026-05-28 15:59:00,patialavii,url,https://s-25nwagey.s3.us-east-2.amazonaws.com/Gmonday1.msi,#phishing,https://x.com/patialavii/status/2060028203062939715
-2026-05-28 16:00:00,urldna_bot,domain,rahulgrover01.github.io,#phishing #scam,https://x.com/urldna_bot/status/2060028359845822478
-2026-05-28 16:00:00,urldna_bot,url,http://rahulgrover01.github.io/Netflix-clone-html-css-js-,#phishing #scam,https://x.com/urldna_bot/status/2060028359845822478
 2026-05-28 16:35:00,k3yp0d,md5,f9a80cc1b5a40d29718dd2da5c7cef04,,https://x.com/k3yp0d/status/2060037236289081354
 2026-05-28 16:35:00,k3yp0d,sha256,776393d5d063a32c6e77b90485e9f15bd92bd346becfe718bd84de1ae9199b48,,https://x.com/k3yp0d/status/2060037236289081354
 2026-05-28 16:42:00,Malwarehunterr,domain,applegps.online,#phishing,https://x.com/Malwarehunterr/status/2060039006545690858
@@ -97623,8 +97346,6 @@
 2026-05-28 18:42:00,skocherhan,url,http://zalcjrft0zv.dns.navy,#DPRK #Kimsuky,https://x.com/skocherhan/status/2060069310840844770
 2026-05-28 20:00:00,urldna_bot,domain,facebook-authentication.secure-datalink.org,#phishing #scam,https://x.com/urldna_bot/status/2060088755935904113
 2026-05-28 20:00:00,urldna_bot,url,https://facebook-authentication.secure-datalink.org/landing/form/fd84ed63-2a9a-4c82-a312-8f702951b5fe,#phishing #scam,https://x.com/urldna_bot/status/2060088755935904113
-2026-05-28 22:00:00,urldna_bot,domain,amazon-clone-zeta-nine.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2060118962415841689
-2026-05-28 22:00:00,urldna_bot,url,http://amazon-clone-zeta-nine.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2060118962415841689
 2026-05-29 00:00:00,urldna_bot,domain,bay-street-international-career-institu.webflow.io,#phishing #scam,https://x.com/urldna_bot/status/2060149170577482121
 2026-05-29 00:00:00,urldna_bot,url,https://bay-street-international-career-institu.webflow.io,#phishing #scam,https://x.com/urldna_bot/status/2060149170577482121
 2026-05-29 01:00:00,riper81,domain,u-short.net,#malware,https://x.com/riper81/status/2060164428876951828
@@ -100448,8 +100169,6 @@
 2026-05-31 21:28:00,G60930953,url,http://202.6.2.36/admin/SyncHandler.ashx,,https://x.com/G60930953/status/2061198229526471112
 2026-05-31 21:58:00,skocherhan,domain,jp-postbank.nmbcv.com,#phishing,https://x.com/skocherhan/status/2061205729839636892
 2026-05-31 21:58:00,skocherhan,url,http://jp-postbank.nmbcv.com/eFtDCclH/,#phishing,https://x.com/skocherhan/status/2061205729839636892
-2026-05-31 22:00:00,urldna_bot,domain,netflix-clone-ruby-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061206120031556018
-2026-05-31 22:00:00,urldna_bot,url,http://netflix-clone-ruby-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061206120031556018
 2026-06-01 00:00:00,urldna_bot,domain,usa-mettmssak-s0inin.godaddysites.com,#phishing #scam,https://x.com/urldna_bot/status/2061236373613416722
 2026-06-01 00:00:00,urldna_bot,url,http://www.usa-mettmssak-s0inin.godaddysites.com,#phishing #scam,https://x.com/urldna_bot/status/2061236373613416722
 2026-06-01 02:00:00,urldna_bot,domain,month-gasoline-seasoned.heyflow.site,#phishing #scam,https://x.com/urldna_bot/status/2061266516234879075
@@ -100656,8 +100375,6 @@
 2026-06-01 15:47:00,Fact_Finder03,url,http://64.90.12.202:5000,#C2,https://x.com/Fact_Finder03/status/2061474833284887017
 2026-06-01 15:49:00,harugasumi,domain,qr.paypay.ne.jp,,https://x.com/harugasumi/status/2061475195500822983
 2026-06-01 15:49:00,harugasumi,url,https://qr.paypay.ne.jp/p2p01_fvPp6mLIYv4xLUYc,,https://x.com/harugasumi/status/2061475195500822983
-2026-06-01 16:00:00,urldna_bot,domain,facebook-clone-rho-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061477915225645192
-2026-06-01 16:00:00,urldna_bot,url,https://facebook-clone-rho-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061477915225645192
 2026-06-01 16:00:00,volrant136,domain,nid-bangladesh-cms-portal-registrat-theta.vercel.app,,https://x.com/volrant136/status/2061477964286492818
 2026-06-01 16:00:00,volrant136,url,http://nid-bangladesh-cms-portal-registrat-theta.vercel.app,,https://x.com/volrant136/status/2061477964286492818
 2026-06-01 16:12:00,harugasumi,domain,ukbdplc.com,,https://x.com/harugasumi/status/2061480987184497117
@@ -100687,8 +100404,6 @@
 2026-06-01 18:00:00,phatomcandle,ip,27.102.137.150,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2061508091292823680
 2026-06-01 18:00:00,phatomcandle,url,http://27.102.137.150,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2061508091292823680
 2026-06-01 18:00:00,phatomcandle,url,http://nid-naverbzb.ddnsking.com,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2061508091292823680
-2026-06-01 18:00:00,urldna_bot,domain,instagram-dio-azure.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061508111383351611
-2026-06-01 18:00:00,urldna_bot,url,https://instagram-dio-azure.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061508111383351611
 2026-06-01 19:04:00,malwrhunterteam,url,http://146.70.100.74,,https://x.com/malwrhunterteam/status/2061524424445050951
 2026-06-01 19:05:00,malwrhunterteam,ip,146.70.100.74,,https://x.com/malwrhunterteam/status/2061524627264774443
 2026-06-01 19:05:00,malwrhunterteam,url,http://146.70.100.74:8080,,https://x.com/malwrhunterteam/status/2061524627264774443
@@ -100701,8 +100416,6 @@
 2026-06-01 19:09:00,sicehice,url,http://31.56.209.220/arm7,,https://x.com/sicehice/status/2061525498686054486
 2026-06-01 19:09:00,sicehice,url,http://youareall.botlesscucks.st,,https://x.com/sicehice/status/2061525498686054486
 2026-06-01 19:56:00,smica83,sha256,7ea8c0bb8ab8c412f289bacc5d4a8eeb9ddf60457ed1bf73f83c39a4483039fd,,https://x.com/smica83/status/2061537479832822265
-2026-06-01 20:00:00,urldna_bot,domain,amazon-clone-ebon.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061538303833145348
-2026-06-01 20:00:00,urldna_bot,url,http://amazon-clone-ebon.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2061538303833145348
 2026-06-01 20:05:00,smica83,sha256,84447200aef49356af5e776b95fec129f293d83e7b5f7e8c3e88e1d15f49fea9,,https://x.com/smica83/status/2061539593858470017
 2026-06-01 20:16:00,malwrhunterteam,domain,mtscvs.com,,https://x.com/malwrhunterteam/status/2061542356201914650
 2026-06-01 20:16:00,malwrhunterteam,url,http://mtscvs.com,,https://x.com/malwrhunterteam/status/2061542356201914650
@@ -100950,8 +100663,6 @@
 2026-06-03 07:20:00,masaomi346,domain,jppost-bank.vcbvbn.com,#phishing,https://x.com/masaomi346/status/2062071825312665692
 2026-06-03 07:20:00,masaomi346,url,https://jppost-bank.vcbvbn.com/DutmcJeZ/,#phishing,https://x.com/masaomi346/status/2062071825312665692
 2026-06-03 07:30:00,Malwarehunterr,sha256,f4c1a90ba9d19375a11970a713800d1e24636015e7fcffa4b2e483caca47fc92,#phishing,https://x.com/Malwarehunterr/status/2062074360962408537
-2026-06-03 08:00:00,urldna_bot,domain,amazon-clone-eta-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2062081906900914191
-2026-06-03 08:00:00,urldna_bot,url,http://amazon-clone-eta-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2062081906900914191
 2026-06-03 09:52:00,malwrhunterteam,ip,43.142.9.118,,https://x.com/malwrhunterteam/status/2062110058343698897
 2026-06-03 09:52:00,malwrhunterteam,url,http://43.142.9.118,,https://x.com/malwrhunterteam/status/2062110058343698897
 2026-06-03 10:00:00,urldna_bot,domain,ictservicesunit.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2062112120708165828
@@ -101118,8 +100829,6 @@
 2026-06-04 02:00:00,urldna_bot,url,https://gmb.xhalo.co,#phishing #scam,https://x.com/urldna_bot/status/2062353688299999314
 2026-06-04 02:28:00,PhishStats,domain,h2betloginbet.com,#phishing,https://x.com/PhishStats/status/2062360794398925007
 2026-06-04 02:28:00,PhishStats,url,https://www.h2betloginbet.com/cocoemenz/,#phishing,https://x.com/PhishStats/status/2062360794398925007
-2026-06-04 04:00:00,urldna_bot,domain,netflix-clone-6.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2062383895279022545
-2026-06-04 04:00:00,urldna_bot,url,http://netflix-clone-6.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2062383895279022545
 2026-06-04 05:10:00,Fact_Finder03,ip,85.192.38.178,#C2,https://x.com/Fact_Finder03/status/2062401574589313463
 2026-06-04 05:10:00,Fact_Finder03,url,http://85.192.38.178,#C2,https://x.com/Fact_Finder03/status/2062401574589313463
 2026-06-04 05:30:00,Fact_Finder03,ip,209.99.186.176,#C2,https://x.com/Fact_Finder03/status/2062406492699935023
@@ -101213,8 +100922,6 @@
 2026-06-04 11:41:00,bomccss,url,https://laonasj-1422102728.cos.ap-hongkong.myqcloud.com/20260604081618.exe,,https://x.com/bomccss/status/2062499943777243380
 2026-06-04 11:41:00,bomccss,url,https://laonasj-1422102728.cos.ap-hongkong.myqcloud.com/PDFCORE8.dll,,https://x.com/bomccss/status/2062499945505288431
 2026-06-04 11:52:00,byrne_emmy12099,sha256,9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935,#APT #Kimsuky,https://x.com/byrne_emmy12099/status/2062502763880390851
-2026-06-04 12:00:00,urldna_bot,domain,yuvarajsadam.github.io,#phishing #scam,https://x.com/urldna_bot/status/2062504685324427326
-2026-06-04 12:00:00,urldna_bot,url,https://yuvarajsadam.github.io/netflix_clone/,#phishing #scam,https://x.com/urldna_bot/status/2062504685324427326
 2026-06-04 12:06:00,skocherhan,domain,gov-parkingel.shop,#phishing,https://x.com/skocherhan/status/2062506198423781697
 2026-06-04 12:06:00,skocherhan,url,http://gov-parkingel.shop,#phishing,https://x.com/skocherhan/status/2062506198423781697
 2026-06-04 12:08:00,sdcyberresearch,domain,npm.clickcdn01.net,#Magecart,https://x.com/sdcyberresearch/status/2062506697227219008
@@ -101506,8 +101213,6 @@
 2026-06-05 11:22:00,bomccss,url,https://facaill-1422102728.cos.ap-hongkong.myqcloud.com,,https://x.com/bomccss/status/2062857668600181006
 2026-06-05 11:51:00,Fact_Finder03,ip,161.97.158.147,#C2 #Pegasus,https://x.com/Fact_Finder03/status/2062864952625594786
 2026-06-05 11:52:00,bomccss,url,https://gredfhh.vip,,https://x.com/bomccss/status/2062865139372785710
-2026-06-05 12:00:00,urldna_bot,domain,finu-fayiz.github.io,#phishing #scam,https://x.com/urldna_bot/status/2062867078151827764
-2026-06-05 12:00:00,urldna_bot,url,http://finu-fayiz.github.io/Netflix-clone,#phishing #scam,https://x.com/urldna_bot/status/2062867078151827764
 2026-06-05 12:51:00,Kb4Threatlabs,domain,bcksoa.com,#phishing,https://x.com/Kb4Threatlabs/status/2062880106864164933
 2026-06-05 12:51:00,Kb4Threatlabs,domain,clearbrandmessage.de,#phishing,https://x.com/Kb4Threatlabs/status/2062880106864164933
 2026-06-05 12:51:00,Kb4Threatlabs,domain,mblproauto.com,#phishing,https://x.com/Kb4Threatlabs/status/2062880106864164933
@@ -102923,12 +102628,8 @@
 2026-06-05 20:24:00,smica83,url,http://blank-h8uw2.in,,https://x.com/smica83/status/2062993933957767195
 2026-06-05 20:32:00,sergeykarayev,domain,advisory-tracker.com,,https://x.com/sergeykarayev/status/2062645929979822145
 2026-06-05 20:32:00,sergeykarayev,url,http://advisory-tracker.com/api/v1/telemetry,,https://x.com/sergeykarayev/status/2062645929979822145
-2026-06-05 22:00:00,urldna_bot,domain,amazon-clone-seven-alpha.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063018064262701541
-2026-06-05 22:00:00,urldna_bot,url,http://amazon-clone-seven-alpha.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063018064262701541
 2026-06-05 23:12:00,masaomi346,domain,luxwatchs.shop,#phishing,https://x.com/masaomi346/status/2063036297686737346
 2026-06-05 23:12:00,masaomi346,url,https://luxwatchs.shop,#phishing,https://x.com/masaomi346/status/2063036297686737346
-2026-06-06 00:00:00,urldna_bot,domain,netflix-clone-beryl-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063048240178626768
-2026-06-06 00:00:00,urldna_bot,url,http://netflix-clone-beryl-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063048240178626768
 2026-06-06 02:00:00,urldna_bot,domain,wakeupanddreamchallenge.info,#phishing #scam,https://x.com/urldna_bot/status/2063078457572000205
 2026-06-06 02:00:00,urldna_bot,url,https://wakeupanddreamchallenge.info,#phishing #scam,https://x.com/urldna_bot/status/2063078457572000205
 2026-06-06 04:00:00,urldna_bot,domain,anandsr-dev.github.io,#phishing #scam,https://x.com/urldna_bot/status/2063108677607813426
@@ -102944,8 +102645,6 @@
 2026-06-06 06:53:00,tdatwja,md5,fccc29b9bc4b113d415fac7f49172490,,https://x.com/tdatwja/status/2062830842125447579
 2026-06-06 06:53:00,tdatwja,sha256,21cf7a17569852a7a4c93ea9faf1478b0a08b9695acf56f10d597e86cac8aed9,,https://x.com/tdatwja/status/2062830842125447579
 2026-06-06 06:53:00,tdatwja,url,http://43.128.26.132,,https://x.com/tdatwja/status/2062830842125447579
-2026-06-06 08:00:00,urldna_bot,domain,netflix-clone-k25l.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063169051686289509
-2026-06-06 08:00:00,urldna_bot,url,https://netflix-clone-k25l.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063169051686289509
 2026-06-06 09:22:00,skocherhan,ip,198.144.149.133,#malware #phishing,https://x.com/skocherhan/status/2063189761192349946
 2026-06-06 09:22:00,skocherhan,url,http://198.144.149.133:38899,#malware #phishing,https://x.com/skocherhan/status/2063189761192349946
 2026-06-06 09:32:00,k3yp0d,md5,178d327d87243a6d937ea9f1e4bcb20e,,https://x.com/k3yp0d/status/2063192271705588039
@@ -102954,8 +102653,6 @@
 2026-06-06 10:00:00,urldna_bot,url,http://amazon-landing-page-ui.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063199256089899244
 2026-06-06 12:00:00,urldna_bot,domain,e-serviceparts.info,#phishing #scam,https://x.com/urldna_bot/status/2063229453635858639
 2026-06-06 12:00:00,urldna_bot,url,https://www.e-serviceparts.info/landingpage/a92eca60-2cb8-444d-9623-dfa436879834/cygk1vk6hdnc_hdqkp4oz9wy-rwmw2t-8xdcs_5k-m,#phishing #scam,https://x.com/urldna_bot/status/2063229453635858639
-2026-06-06 14:00:00,urldna_bot,domain,sudo-thanos.github.io,#phishing #scam,https://x.com/urldna_bot/status/2063259651181879314
-2026-06-06 14:00:00,urldna_bot,url,https://sudo-thanos.github.io/Learnable22-Netflix_Clone/,#phishing #scam,https://x.com/urldna_bot/status/2063259651181879314
 2026-06-06 14:51:00,rifteyy,domain,altissolucoes.com.br,,https://x.com/rifteyy/status/2063272669806542871
 2026-06-06 14:51:00,rifteyy,domain,atmegymed.com,,https://x.com/rifteyy/status/2063272669806542871
 2026-06-06 14:51:00,rifteyy,domain,fertisanta.com.br,,https://x.com/rifteyy/status/2063272669806542871
@@ -102987,8 +102684,6 @@
 2026-06-06 17:29:00,skocherhan,md5,0f820817e2b7efac3ed127bab09b989b,,https://x.com/skocherhan/status/2063312232633561338
 2026-06-06 18:00:00,phatomcandle,md5,06c67c7f46931c4c4877bb6c2dac5869,#APT #malware,https://x.com/phatomcandle/status/2063320030788595937
 2026-06-06 18:00:00,phatomcandle,sha256,413ea66c492b5df8ce7a51c2866a9e24c3182a5fbbe38016bd268f87daf54fdd,#APT #malware,https://x.com/phatomcandle/status/2063320030788595937
-2026-06-06 18:00:00,urldna_bot,domain,amazon-clone-virid-two-23.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063320051122409723
-2026-06-06 18:00:00,urldna_bot,url,http://amazon-clone-virid-two-23.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063320051122409723
 2026-06-06 20:01:00,skocherhan,domain,accounts.o-r.kr,#DPRK #Kimsuky,https://x.com/skocherhan/status/2063350636029342055
 2026-06-06 20:01:00,skocherhan,domain,home.etax.n-e.kr,#DPRK #Kimsuky,https://x.com/skocherhan/status/2063350636029342055
 2026-06-06 20:01:00,skocherhan,domain,main-situation.myvnc.com,#DPRK #Kimsuky,https://x.com/skocherhan/status/2063350636029342055
@@ -103199,8 +102894,6 @@
 2026-06-07 10:14:00,skocherhan,domain,tradefycrypto.co,#phishing,https://x.com/skocherhan/status/2063565252868866332
 2026-06-07 10:14:00,skocherhan,url,http://tradefycrypto.co,#phishing,https://x.com/skocherhan/status/2063565252868866332
 2026-06-07 10:48:00,500mk500,md5,8e43693691394bcf977f1beaea2aa4b3,#Lumma,https://x.com/500mk500/status/2063573729167184097
-2026-06-07 12:00:00,urldna_bot,domain,amazon-clone-umber-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063591841455305154
-2026-06-07 12:00:00,urldna_bot,url,https://amazon-clone-umber-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063591841455305154
 2026-06-07 14:00:00,urldna_bot,domain,latam.orbitor.dev,#phishing #scam,https://x.com/urldna_bot/status/2063622043237560669
 2026-06-07 14:00:00,urldna_bot,url,https://latam.orbitor.dev/ipfs/bafybeib3akl4qjotpnzpkesju3uiam22cztrmy7u6wsy46s7oteorniege/,#phishing #scam,https://x.com/urldna_bot/status/2063622043237560669
 2026-06-07 16:00:00,urldna_bot,domain,dericko-droid.github.io,#phishing #scam,https://x.com/urldna_bot/status/2063652237377761456
@@ -103292,8 +102985,6 @@
 2026-06-07 21:18:00,skocherhan,md5,c0a36d422d7fd3fe8096aee26890d775,,https://x.com/skocherhan/status/2063732298621551087
 2026-06-07 21:18:00,skocherhan,url,http://123.249.45.239:9900,,https://x.com/skocherhan/status/2063732298621551087
 2026-06-07 21:49:00,skocherhan,md5,d510cbe8d3d803dd50f52bb92358c5eb,#Xworm,https://x.com/skocherhan/status/2063740042464379096
-2026-06-07 22:00:00,urldna_bot,domain,netflix-clone-wheat-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063742844037181816
-2026-06-07 22:00:00,urldna_bot,url,http://netflix-clone-wheat-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063742844037181816
 2026-06-08 00:00:00,urldna_bot,domain,iinetuptde.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2063773073975718110
 2026-06-08 00:00:00,urldna_bot,url,https://iinetuptde.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/2063773073975718110
 2026-06-08 00:42:00,sicehice,ip,188.209.129.151,,https://x.com/sicehice/status/2063783638546706595
@@ -103450,8 +103141,6 @@
 2026-06-08 14:00:00,askardyuss,url,https://pixeldrain.com/api/file/CzqF2m3e,#malware #phishing,https://x.com/askardyuss/status/2063984606395900066
 2026-06-08 14:00:00,askardyuss,url,https://pixeldrain.com/api/file/D9PJKAPs,#malware #phishing,https://x.com/askardyuss/status/2063984606395900066
 2026-06-08 14:00:00,askardyuss,url,https://pixeldrain.com/api/file/LzanPeGx,#malware #phishing,https://x.com/askardyuss/status/2063984606395900066
-2026-06-08 14:00:00,urldna_bot,domain,netflix-clone-beta-taupe.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063984435796603388
-2026-06-08 14:00:00,urldna_bot,url,http://netflix-clone-beta-taupe.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2063984435796603388
 2026-06-08 15:08:00,PhishStats,domain,mprda.org,#phishing,https://x.com/PhishStats/status/2064001694820684130
 2026-06-08 15:08:00,PhishStats,ip,103.156.20.138,#phishing,https://x.com/PhishStats/status/2064001694820684130
 2026-06-08 15:08:00,PhishStats,url,https://mprda.org/js/sr/page/index.php,#phishing,https://x.com/PhishStats/status/2064001694820684130
@@ -103523,8 +103212,6 @@
 2026-06-08 21:30:00,skocherhan,url,http://woekoolomakehimnodeyzuzumancozamnillmanc.duckdns.org,#Remcos,https://x.com/skocherhan/status/2064097690796032054
 2026-06-08 22:00:00,urldna_bot,domain,account-apple.eu,#phishing #scam,https://x.com/urldna_bot/status/2064105229000323356
 2026-06-08 22:00:00,urldna_bot,url,https://account-apple.eu,#phishing #scam,https://x.com/urldna_bot/status/2064105229000323356
-2026-06-09 00:00:00,urldna_bot,domain,amazon-clone-virid-two-23.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2064135449430430122
-2026-06-09 00:00:00,urldna_bot,url,http://amazon-clone-virid-two-23.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2064135449430430122
 2026-06-09 00:20:00,masaomi346,sha256,02b9ae826e3732a9f93e58ad79d9e5e48a3dd05b879e6769f664c6f5fa610712,#malware #phishing,https://x.com/masaomi346/status/2064140533153603735
 2026-06-09 01:20:00,harugasumi,domain,zicipoluf.z21.web.core.windows.net,,https://x.com/harugasumi/status/2064155685202583994
 2026-06-09 01:20:00,harugasumi,url,https://zicipoluf.z21.web.core.windows.net,,https://x.com/harugasumi/status/2064155685202583994
@@ -104563,8 +104250,6 @@
 2026-06-10 03:55:00,patialavii,sha256,1596f19cf6b6de5a47e57556f4267a9cc45a2516b8be73ad8365a72bdf28fea0,#phishing,https://x.com/patialavii/status/2064557094192525382
 2026-06-10 03:55:00,patialavii,url,https://s-14billmondy.s3.us-east-2.amazonaws.com/BillyMonday.msi,#phishing,https://x.com/patialavii/status/2064557094192525382
 2026-06-10 03:55:00,patialavii,url,https://stilles-oertchen.de/HomeWell/,#phishing,https://x.com/patialavii/status/2064557094192525382
-2026-06-10 04:00:00,urldna_bot,domain,amazon-clone-pi-nine.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2064558211366080753
-2026-06-10 04:00:00,urldna_bot,url,http://amazon-clone-pi-nine.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2064558211366080753
 2026-06-10 04:27:00,bomccss,domain,20260610105308_A07CE5BA525EBBCCF73.zip,,https://x.com/bomccss/status/2064565206358040861
 2026-06-10 04:27:00,bomccss,domain,hrxjp.vip,,https://x.com/bomccss/status/2064565203610800580
 2026-06-10 04:27:00,bomccss,domain,laonashijie-1433552157.cos.ap-hongkong.myqcloud.com,,https://x.com/bomccss/status/2064565207842930857
@@ -104649,8 +104334,6 @@
 2026-06-10 13:25:00,L0Psec,sha256,5b06f36846c16006bf1987226b7321efe66759ea1cfdc8fc6612215d0fb6206e,,https://x.com/L0Psec/status/2064700462662623689
 2026-06-10 13:25:00,L0Psec,url,http://172.94.9.250,,https://x.com/L0Psec/status/2064700457742717328
 2026-06-10 13:39:00,suyog41,md5,e228b521325b001cecf46224c8e96562,#stealer,https://x.com/suyog41/status/2064703943679135919
-2026-06-10 14:00:00,urldna_bot,domain,suhana1849.github.io,#phishing #scam,https://x.com/urldna_bot/status/2064709221220835368
-2026-06-10 14:00:00,urldna_bot,url,https://suhana1849.github.io/Netflix_Interface_Clone,#phishing #scam,https://x.com/urldna_bot/status/2064709221220835368
 2026-06-10 14:01:00,SquiblydooBlog,domain,google.dns-1.help,,https://x.com/SquiblydooBlog/status/2064709479657033827
 2026-06-10 14:01:00,SquiblydooBlog,ip,8.219.158.30,,https://x.com/SquiblydooBlog/status/2064709479657033827
 2026-06-10 14:01:00,SquiblydooBlog,sha256,1d3bcced2467d17e2be347629e1aae5ad919c0cf850932eef0fff74fc3ea0f03,,https://x.com/SquiblydooBlog/status/2064709479657033827
@@ -104956,8 +104639,6 @@
 2026-06-11 11:24:00,smica83,domain,prism-tech.cfd,,https://x.com/smica83/status/2065032470123213054
 2026-06-11 11:24:00,smica83,sha256,ab765ac116a1950b9f60afcc2758aee5e78d8b13ace7f2b9769a3d272198fc5b,,https://x.com/smica83/status/2065032470123213054
 2026-06-11 11:24:00,smica83,url,http://prism-tech.cfd,,https://x.com/smica83/status/2065032470123213054
-2026-06-11 12:00:00,urldna_bot,domain,mohdshadav.github.io,#phishing #scam,https://x.com/urldna_bot/status/2065041423057961145
-2026-06-11 12:00:00,urldna_bot,url,https://mohdshadav.github.io/Amazon-Clone-Project1/,#phishing #scam,https://x.com/urldna_bot/status/2065041423057961145
 2026-06-11 12:04:00,skocherhan,domain,bokphotguest.pro,#booking #phishing,https://x.com/skocherhan/status/2065042580002197844
 2026-06-11 12:04:00,skocherhan,url,http://bokphotguest.pro,#booking #phishing,https://x.com/skocherhan/status/2065042580002197844
 2026-06-11 12:20:00,AddressIntel,domain,cpanel.site,#phishing,https://x.com/AddressIntel/status/2065046404704182340
@@ -105128,8 +104809,6 @@
 2026-06-11 21:42:00,hipdead010,sha256,23ad4ea0e7435367fd2dde03b7e4333118ebcbd76a86ccf9ad6a50b8ec634d9f,#RAT #malware,https://x.com/hipdead010/status/2065188042852233247
 2026-06-11 21:42:00,hipdead010,url,http://comunicacionesinersas.com/2222,#RAT #malware,https://x.com/hipdead010/status/2065188042852233247
 2026-06-11 21:42:00,hipdead010,url,http://gq1ff6qque5aor.juradoscomunal.store,#RAT #malware,https://x.com/hipdead010/status/2065188042852233247
-2026-06-11 22:00:00,urldna_bot,domain,facebook-clone-nu-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2065192392811004404
-2026-06-11 22:00:00,urldna_bot,url,http://facebook-clone-nu-eight.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2065192392811004404
 2026-06-12 00:00:00,urldna_bot,domain,bafkreiha3gfijti3mq4q774kjoedfwen23w3eh7do73jcpdhvff373fh2u.ipfs.dweb.link,#phishing #scam,https://x.com/urldna_bot/status/2065222607696253317
 2026-06-12 00:00:00,urldna_bot,url,https://bafkreiha3gfijti3mq4q774kjoedfwen23w3eh7do73jcpdhvff373fh2u.ipfs.dweb.link,#phishing #scam,https://x.com/urldna_bot/status/2065222607696253317
 2026-06-12 00:51:00,masaomi346,domain,harvest-53.com,#infostealer #malware,https://x.com/masaomi346/status/2065235562240643434
@@ -106337,8 +106016,6 @@
 2026-06-13 16:25:00,skocherhan,url,http://pizapiza.ca,#Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13 18:00:00,phatomcandle,ip,8.222.192.153,#C2 #Havoc #malware,https://x.com/phatomcandle/status/2065856746191761817
 2026-06-13 18:00:00,phatomcandle,url,http://8.222.192.153,#C2 #Havoc #malware,https://x.com/phatomcandle/status/2065856746191761817
-2026-06-13 18:00:00,urldna_bot,domain,amazon-clone-six-rho.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2065856767653745136
-2026-06-13 18:00:00,urldna_bot,url,http://amazon-clone-six-rho.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2065856767653745136
 2026-06-13 18:14:00,skocherhan,md5,0f384ec874171f57d331ef68f9d9d90e,#C2 #CobaltStrike #Havoc #malware,https://x.com/skocherhan/status/2065860494880088347
 2026-06-13 18:22:00,skocherhan,domain,tier-suffering-contamination-cumulative.trycloudflare.com,#CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
 2026-06-13 18:22:00,skocherhan,md5,112cc66323d5115ae18d80ce9e681c9f,#CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
@@ -106360,8 +106037,6 @@
 2026-06-13 19:10:00,skocherhan,md5,3acd42d258d9e2989c0ff25f58a7224a,,https://x.com/skocherhan/status/2065874451271479484
 2026-06-13 19:24:00,skocherhan,md5,6f9a570a89181818633b79e9d605c73f,,https://x.com/skocherhan/status/2065877981684277747
 2026-06-13 19:40:00,skocherhan,md5,4104b9f80bc82cf655340a8181aa52d4,,https://x.com/skocherhan/status/2065882085466779928
-2026-06-13 20:00:00,urldna_bot,domain,muski-gupta.github.io,#phishing #scam,https://x.com/urldna_bot/status/2065886969217888378
-2026-06-13 20:00:00,urldna_bot,url,https://muski-gupta.github.io/NETFLIX_CLONE/,#phishing #scam,https://x.com/urldna_bot/status/2065886969217888378
 2026-06-13 20:08:00,skocherhan,domain,abbeyhomes.top,,https://x.com/skocherhan/status/2065889086041133144
 2026-06-13 20:08:00,skocherhan,url,http://abbeyhomes.top,,https://x.com/skocherhan/status/2065889086041133144
 2026-06-13 20:14:00,skocherhan,domain,api.connect-sncf.me,#Remcos,https://x.com/skocherhan/status/2065890468836028630
@@ -106649,8 +106324,6 @@
 2026-06-14 16:00:00,urldna_bot,url,https://yahoojkj.github.io/hxxp-yahoomailsignin/,#phishing #scam,https://x.com/urldna_bot/status/2066188958447341769
 2026-06-14 18:00:00,phatomcandle,ip,45.152.243.170,#C2 #Havoc #malware,https://x.com/phatomcandle/status/2066219136569757752
 2026-06-14 18:00:00,phatomcandle,url,http://45.152.243.170,#C2 #Havoc #malware,https://x.com/phatomcandle/status/2066219136569757752
-2026-06-14 18:00:00,urldna_bot,domain,seitentaisei1304.github.io,#phishing #scam,https://x.com/urldna_bot/status/2066219164008612315
-2026-06-14 18:00:00,urldna_bot,url,http://seitentaisei1304.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/2066219164008612315
 2026-06-14 20:00:00,urldna_bot,url,https://www.robiox.com.py/users/252826447446/profile,#phishing #scam,https://x.com/urldna_bot/status/2066249344244670820
 2026-06-14 22:48:00,masaomi346,domain,mxbobnz.info,#phishing,https://x.com/masaomi346/status/2066291717687693712
 2026-06-14 22:48:00,masaomi346,url,https://mxbobnz.info/stance/mFY3joiA7GPOTFUqB3j,#phishing,https://x.com/masaomi346/status/2066291717687693712
@@ -106658,8 +106331,6 @@
 2026-06-15 00:00:00,urldna_bot,url,https://sweepstakes8690.godaddysites.com,#phishing #scam,https://x.com/urldna_bot/status/2066309780696604688
 2026-06-15 02:00:00,urldna_bot,domain,rastreioapple.support,#phishing #scam,https://x.com/urldna_bot/status/2066339953290760500
 2026-06-15 02:00:00,urldna_bot,url,https://rastreioapple.support,#phishing #scam,https://x.com/urldna_bot/status/2066339953290760500
-2026-06-15 04:00:00,urldna_bot,domain,ravi8295.github.io,#phishing #scam,https://x.com/urldna_bot/status/2066370168289116408
-2026-06-15 04:00:00,urldna_bot,url,http://ravi8295.github.io/Netflix-Clone,#phishing #scam,https://x.com/urldna_bot/status/2066370168289116408
 2026-06-15 04:23:00,masaomi346,domain,bk.sbishinisiebank.convertaesvit.com,#phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15 04:23:00,masaomi346,domain,bk.sbishinisiebank.terapiaseves.com,#phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15 04:23:00,masaomi346,url,https://bk.sbishinisiebank.convertaesvit.com,#phishing,https://x.com/masaomi346/status/2066376127522967761
@@ -106934,12 +106605,8 @@
 2026-06-15 18:09:00,k3yp0d,md5,d66de5d6dbcb6f460ae6240de8b7aab0,,https://x.com/k3yp0d/status/2066583932993225057
 2026-06-15 18:09:00,k3yp0d,md5,db6bc0e947acba379e540349f74fc6ee,,https://x.com/k3yp0d/status/2066583932993225057
 2026-06-15 19:00:00,SpamAuditor,ip,35.212.143.21,#malware,https://x.com/SpamAuditor/status/2066596798190481534
-2026-06-15 20:00:00,urldna_bot,domain,amazon-clone-jade-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2066611751949316293
-2026-06-15 20:00:00,urldna_bot,url,http://amazon-clone-jade-ten.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2066611751949316293
 2026-06-15 22:00:00,urldna_bot,domain,federalnewsmagazine.com,#phishing #scam,https://x.com/urldna_bot/status/2066641962258612408
 2026-06-15 22:00:00,urldna_bot,url,https://federalnewsmagazine.com/2513501.doc/18a80a/fad0f483-81b2-45c6-ad47-7272058d9cb6,#phishing #scam,https://x.com/urldna_bot/status/2066641962258612408
-2026-06-16 00:00:00,urldna_bot,domain,project2-amazone-clone.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2066672168696533211
-2026-06-16 00:00:00,urldna_bot,url,https://project2-amazone-clone.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2066672168696533211
 2026-06-16 00:12:00,masaomi346,domain,e-tax-infocenter.com,#phishing,https://x.com/masaomi346/status/2066675121369301241
 2026-06-16 00:12:00,masaomi346,url,https://e-tax-infocenter.com,#phishing,https://x.com/masaomi346/status/2066675121369301241
 2026-06-16 00:51:00,fbgwls245,domain,deadlock.liveblog365.com,#ransomware,https://x.com/fbgwls245/status/2066685032006300102
@@ -107263,8 +106930,6 @@
 2026-06-17 11:29:00,smica83,ip,93.152.224.13,,https://x.com/smica83/status/2067207903065391192
 2026-06-17 11:29:00,smica83,sha256,563da6a3e04931864835bc68e95121f4b0fd433b8e92f8d02e0f91ac959a34a1,,https://x.com/smica83/status/2067207903065391192
 2026-06-17 11:29:00,smica83,url,http://93.152.224.13:6600/5sxu2qr5/FXAGGUZF.msi,,https://x.com/smica83/status/2067207903065391192
-2026-06-17 12:00:00,urldna_bot,domain,shruuti-005.github.io,#phishing #scam,https://x.com/urldna_bot/status/2067215729594712097
-2026-06-17 12:00:00,urldna_bot,url,https://shruuti-005.github.io/Ecommerce-clone/,#phishing #scam,https://x.com/urldna_bot/status/2067215729594712097
 2026-06-17 12:52:00,askardyuss,domain,dedal.ru,#malware,https://x.com/askardyuss/status/2067229010732454042
 2026-06-17 12:52:00,askardyuss,domain,nickart.ro,#malware,https://x.com/askardyuss/status/2067229010732454042
 2026-06-17 12:52:00,askardyuss,ip,91.224.77.181,#malware,https://x.com/askardyuss/status/2067229010732454042
@@ -107283,8 +106948,6 @@
 2026-06-17 13:34:00,byrne_emmy12099,sha256,56a90f247ccffb63543d99a659f9517edde587f6e85752c82a9919e325de3ee5,#APT,https://x.com/byrne_emmy12099/status/2067239373519921623
 2026-06-17 13:34:00,byrne_emmy12099,url,http://ch.10001mb.com,#APT,https://x.com/byrne_emmy12099/status/2067239373519921623
 2026-06-17 13:45:00,smica83,sha256,49d21cbaa94b58c5d5a0db941a4171218d78ac5eabe99a31bda3a98c66a1e6c7,,https://x.com/smica83/status/2067242214246228083
-2026-06-17 14:00:00,urldna_bot,domain,shubhamvatsjha7.github.io,#phishing #scam,https://x.com/urldna_bot/status/2067245945499050432
-2026-06-17 14:00:00,urldna_bot,url,https://shubhamvatsjha7.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/2067245945499050432
 2026-06-17 15:27:00,stop_spammerz,domain,abiorime.cfd,,https://x.com/stop_spammerz/status/2067267920174948693
 2026-06-17 15:27:00,stop_spammerz,domain,advancled-ip-scanner.info,,https://x.com/stop_spammerz/status/2067267920174948693
 2026-06-17 15:27:00,stop_spammerz,domain,beralisvc.info,,https://x.com/stop_spammerz/status/2067267920174948693
@@ -107347,8 +107010,6 @@
 2026-06-17 20:09:00,James_inthe_box,domain,ecdp.ronaldegesa.com,,https://x.com/James_inthe_box/status/2067338844966629571
 2026-06-17 20:09:00,James_inthe_box,url,https://ecdp.ronaldegesa.com/Automox_Installer-2.5.70.msi,,https://x.com/James_inthe_box/status/2067338844966629571
 2026-06-17 22:20:00,PhishStats,ip,188.165.25.6,#phishing,https://x.com/PhishStats/status/2067371816813834453
-2026-06-18 00:00:00,urldna_bot,domain,starboyonkar.github.io,#phishing #scam,https://x.com/urldna_bot/status/2067396944775827565
-2026-06-18 00:00:00,urldna_bot,url,https://starboyonkar.github.io/Netflix-Clone/,#phishing #scam,https://x.com/urldna_bot/status/2067396944775827565
 2026-06-18 00:12:00,masaomi346,domain,njuart.com,#phishing,https://x.com/masaomi346/status/2067400126277337469
 2026-06-18 00:12:00,masaomi346,url,http://www.njuart.com/home,#phishing,https://x.com/masaomi346/status/2067400126277337469
 2026-06-18 00:39:00,Coolcarlos17,domain,depositorp.site,#phishing #scam,https://x.com/Coolcarlos17/status/2067406862648025406
@@ -107497,8 +107158,6 @@
 2026-06-18 12:50:00,smica83,sha256,fea90bb194ec6f6399dd7e88a47c67760935faf6e737b2ac6715b43e9cb94f66,,https://x.com/smica83/status/2067590847822974997
 2026-06-18 12:53:00,smica83,sha256,bbbd375392829b5f4f247a60b1a6aa98a4d0fef45d75747ad7b11cb77294dbd8,,https://x.com/smica83/status/2067591469175554126
 2026-06-18 12:53:00,smica83,url,https://api.telegram.org/bot8607410780:AAFFAbWvRKge7ejJ_a16PINkZxWk4Pw7pII/getUpdates?offset=0&limit=1,,https://x.com/smica83/status/2067591469175554126
-2026-06-18 14:00:00,urldna_bot,domain,amazon-clone-mocha-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2067608325835944043
-2026-06-18 14:00:00,urldna_bot,url,http://amazon-clone-mocha-three.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/2067608325835944043
 2026-06-18 14:01:00,stop_spammerz,url,http://larpers.eu,,https://x.com/stop_spammerz/status/2067608687816950243
 2026-06-18 14:01:00,stop_spammerz,url,http://larpers.eu/api/d/c66ae1c001c64d8a93574503077403cf/a?t=852c57eb7d0d9843c12c8eb344d12527/,,https://x.com/stop_spammerz/status/2067608687816950243
 2026-06-18 14:28:00,masaomi346,domain,sai-on.matooee.com,#phishing,https://x.com/masaomi346/status/2067615460125016346
@@ -112115,7 +111774,7 @@
 2026-07-06 20:14:00,skocherhan,url,http://tvcengineeringgroup.com,,https://x.com/skocherhan/status/2074225562848280578
 2026-07-06 20:14:00,skocherhan,url,http://wonderland-ks.com,,https://x.com/skocherhan/status/2074225562848280578
 2026-07-06 21:19:00,Coolcarlos17,domain,praserfelizlu.site,#phishing #scam,https://x.com/Coolcarlos17/status/2074241960101941737
-2026-07-06 21:19:00,Coolcarlos17,url,"https://praserfelizlu.site#phishing,#scam,#golpe,#fakewebsite,#clone",#phishing #scam,https://x.com/Coolcarlos17/status/2074241960101941737
+2026-07-06 21:19:00,Coolcarlos17,url,https://praserfelizlu.site,#phishing #scam,https://x.com/Coolcarlos17/status/2074241960101941737
 2026-07-06 21:39:00,skocherhan,domain,atmtvp.dns.navy,#DPRK #Kimsuky,https://x.com/skocherhan/status/2074247012137189824
 2026-07-06 21:39:00,skocherhan,domain,bmxkaz.v6.rocks,#DPRK #Kimsuky,https://x.com/skocherhan/status/2074247012137189824
 2026-07-06 21:39:00,skocherhan,domain,btscbcp.v6.rocks,#DPRK #Kimsuky,https://x.com/skocherhan/status/2074247012137189824
@@ -114703,8 +114362,20 @@
 2026-07-12 12:14:00,skocherhan,url,http://104.21.43.60,#AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
 2026-07-12 12:14:00,skocherhan,url,http://172.67.221.111,#AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
 2026-07-12 12:14:00,skocherhan,url,http://asentv.tv,#AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
+2026-07-12 13:08:00,klawlikula,domain,xkpnjhi.com,,https://x.com/klawlikula/status/2076292626966294695
+2026-07-12 13:08:00,klawlikula,ip,45.13.38.82,,https://x.com/klawlikula/status/2076292626966294695
+2026-07-12 13:08:00,klawlikula,url,http://45.13.38.82,,https://x.com/klawlikula/status/2076292626966294695
+2026-07-12 13:08:00,klawlikula,url,https://xkpnjhi.com,,https://x.com/klawlikula/status/2076292626966294695
 2026-07-12 14:05:00,FsecIntelEs,domain,4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion,#ransomware,https://x.com/FsecIntelEs/status/2076306923268321691
 2026-07-12 14:05:00,FsecIntelEs,url,http://4k6plf4h2cm2nco6ae3inrsxnmqgl6lllmwefydhnlcq4tuhwbj4qpad.onion,#ransomware,https://x.com/FsecIntelEs/status/2076306923268321691
+2026-07-12 15:13:00,skocherhan,domain,ringgo.fxbwljo.club,#phishing,https://x.com/skocherhan/status/2076324035399446576
+2026-07-12 15:13:00,skocherhan,url,http://ringgo.fxbwljo.club,#phishing,https://x.com/skocherhan/status/2076324035399446576
+2026-07-12 15:36:00,Fact_Finder03,ip,31.56.209.7,#C2,https://x.com/Fact_Finder03/status/2076329977696727476
+2026-07-12 15:46:00,phatomcandle,domain,bakeloria.cloud,#APT #malware,https://x.com/phatomcandle/status/2076332329354879376
+2026-07-12 15:46:00,phatomcandle,url,http://bakeloria.cloud,#APT #malware,https://x.com/phatomcandle/status/2076332329354879376
+2026-07-12 15:58:00,PhishStats,domain,lamsharedonlywinsdom.sbs,#phishing,https://x.com/PhishStats/status/2076335477368496233
+2026-07-12 15:58:00,PhishStats,ip,37.77.150.237,#phishing,https://x.com/PhishStats/status/2076335477368496233
+2026-07-12 15:58:00,PhishStats,url,https://lamsharedonlywinsdom.sbs/customer-resolve/#aaaa@example.jp,#phishing,https://x.com/PhishStats/status/2076335477368496233
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -117313,7 +116984,6 @@
 3402a030b54d71883fa4f831997eb68d,5eeb995f-c570-4242-94c6-79870aba047c
 34041220dd8dc7d704ea7340e5b2590d,56e1d652-a310-47a3-9017-b527c0a8ab16
 340516688e54c61bb7b39a34ae11e9b7,5b2bb735-fa94-44a7-8976-1e67c0a8ab16
-340bfb0fb2d53cb31ef8b089ef07b35d2a313dee510ea67b31c2dab1722fb14a
 340d11fb3c7cc3634b08e097c935a537,f65efb02-c563-44a7-9036-516219a24243
 3411ddff3570a745c5c445642133eae9,5d3f036b-0f50-4499-af4c-695a0a016219
 34122dea7e4b1bf78424b71ed5af008f,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
@@ -117812,6 +117482,7 @@
 37f038975b3ae18f5bceaee4d8ac6050,496e1602-ea94-4556-b4cc-9a11a54bd730
 37f038975b3ae18f5bceaee4d8ac6050,98c0be2f-eadc-4ce5-9072-82ceacaea9c6
 37f0bb2531f100b333b1d70f1869da54,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
+37f17d0c6adf3a64e516d2a5bdd7114ca7d475b09172f28878ae7d663cb40714
 37f22e83a632f497cd12cec619a3c619,a80e5be0-fedf-4d0a-b364-58e22b936b94
 37fbeea2351d6fc47a62cbd65edff2bb,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 37fd39f666a921ed5baa9e520cc58730
@@ -117916,6 +117587,7 @@
 38be0900ec161d36b3eb043990be115f,602ceed3-9144-4262-a1a5-30fd0aba047c
 38bed51a1bcdcc0c1f6df8ccf466f5b2,56d84ef3-d3f4-4b08-be81-5127c0a8ab16
 38bf4a4296755ea32974c3fd1910d5f5,f65efb02-c563-44a7-9036-516219a24243
+38c10e1de147a00dd57110a07d723da7be2cc5a6
 38c761e02e0d39241697dc436d4c099f,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
 38c78c9e020036ee426b08c3722cc4f8,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 38c9da593a1ab86c688b4ddf0c4aeef5,f65efb02-c563-44a7-9036-516219a24243
@@ -121064,7 +120736,6 @@
 5122f489601295550ec539ed6bb13bc8,a80e5be0-fedf-4d0a-b364-58e22b936b94
 512304fe2b8636f8a4f9dda7215afe31,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 51259d53dcba829e99ed75ad734395bf,56ca367a-5a88-4925-a309-4cd69062e56a
-5126cc4c568a9b9894b04bdb9d9e095a22483a88c5a99da294e0d3844646f6ba
 51291416c4129695159e87b467d5fe48,f65efb02-c563-44a7-9036-516219a24243
 5129454d12ed905ef6e0ed2bf6de4b85,57607369-2490-444a-9034-049fc0a8ab16
 512f09409185e4c2025ac4387ae6df47,f65efb02-c563-44a7-9036-516219a24243
@@ -122476,7 +122147,6 @@
 5b9645677e9474cb59f6ec07c486ed0384b73060
 5b99e05ca6aca276a49c4c3e2feec535,62167543-c4e0-4f39-a23e-c09f0abe1822
 5b9cc1bebd7a1b72ef9ebfde97aa68a0,2d2af096-edea-4dde-8be3-0224205b1074
-5b9df6a1e5aac72129980b89d769d7aab0a35099cec7c8559346f22f33093fcf
 5ba486494d0ece344ff22c5e299bb2be,602ceed3-9144-4262-a1a5-30fd0aba047c
 5ba588bf377b6921576b418ea21ecc06,57951afe-c678-425c-806e-068ec0a8ab16
 5ba6c4360260eedd609b5152b7f33575,56cce169-b2e8-496a-a5b8-52849062e56a
@@ -122495,6 +122165,7 @@
 5bc699052e42b152b6ee4abeef196b60,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 5bc9cd59a2f549dcef27a3984b111f9a,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 5bcb3681dac2fbfc3fe19b09b72e29df,87b36dbe-fb5a-46a0-97ba-e15adcbe785e
+5bcc428f37655c7bc16110cc2127c510f66827a382cb1c9fa251b15a7d2c214b
 5bcdcbf8e11434e6b0b9f162a03e8e36,0523f6aa-38b5-41c5-aef0-e37a6eff7e9d
 5bd1df7712f99aeafdbec0d9fa154abf4f0af188
 5bd2ad09a85c61d97bb709c7de4223ee,72704237-fe6e-45df-9d6f-f12f9cb65dfc
@@ -124472,6 +124143,7 @@
 6aecf268488b5d5b0ee056915f1cc0b9,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 6af2995060bcb424ab4a75d7b16be634,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 6af53ec1ecf24addcb25a4125e802396,f65efb02-c563-44a7-9036-516219a24243
+6af6db652ace081cd28dd97395782f11
 6af804ff7f62f7f4caeda179948d3abf,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 6af80d2d02def8803731109eccd82b7b,4154d3f0-5519-4b96-a2ba-9adcff7f7179
 6afa6532d86f6b3e74153bef662b95dc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -124956,7 +124628,6 @@
 6ec47fd4403f7b6b0f4356e33da7c3f2,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 6ec64e45ff6aa93b87e4e48160e86f9c,6181159d-d7e0-422f-b7f5-26cc0abe1822
 6eccf82b6501a9978e77c56e63f9f044,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
-6ecef1c94e9d47e2da55d0a8c4ee45ddbf289bfe4bcbf7787b994d669b3009e4
 6ecf22839901e9d5a0d7a5b52cbdd8dc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 6ed0b7b20d9a7747ecf43bd58fe01f53,5b059df2-6e64-4971-96d6-0f8fc0a8ab16
 6ed0ca8c4cf171cfd852e3ceeb680a13,4f0d74be-1bfa-4821-8095-756c50054833
@@ -127008,7 +126679,6 @@
 7e28b1b8905c98f813226e398c26eb90,f65efb02-c563-44a7-9036-516219a24243
 7e2a3edec98204670fa89ac95c2ac442,a80e5be0-fedf-4d0a-b364-58e22b936b94
 7e2aca72475fa271794f489f46c6f8e0,f65efb02-c563-44a7-9036-516219a24243
-7e2c800894dda7d82725919c109efaeefdf7141391cd6321ea4791a52d450f7f
 7e2fff079a5b624b6b9e8f3e1ac5b601,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 7e3447d9260d9aa7ffc20fac7696e006,72704237-fe6e-45df-9d6f-f12f9cb65dfc
 7e38b30302bba0e5ccc2b5e3a3d303d8,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
@@ -127450,6 +127120,7 @@
 81ab9e3237734263cf0bd2d95ebcaf09,56d74357-dd84-4512-895f-5281c0a8ab16
 81abd4c3d9499c49c1ca9a25a79ee48c,0b6a1b71-fdec-479e-9736-aa84db3aa8c8
 81ad9fd0661a220423a5ec7537e0f8ed,c279be56-bd74-434f-90a9-3e6f51dc2f48
+81af526997f7d172e433e765f2840b6f
 81b14438cec3c9ed6139434f9da1521e,d81c3a80-018d-413d-9f11-59aa0c67e761
 81b17b653d6198fd028202c9c9aeb1ce,5badbf47-50c4-4f60-bdde-32aac0a8ab16
 81b1ba6d746112c376278109a9e65596,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
@@ -128619,7 +128290,6 @@
 8a9d725a703355e2371ca0d1d060778f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 8a9e7539222598ff01b36b15356fce79,11ce94d4-6b47-4cc8-bade-531769bbf9d7
 8a9ef647e216c6104ec2b3633e439f0f,5faf0670-ffa6-4da9-8329-935f9d48a687
-8a9f9f3f3e38327bebc5096ba195d1d93c61bc277734fb18c4ce2f281bd08f3e
 8aa135a7e45895c3665aca50a34cf6d1,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
 8aa1b35558636b6c94eaa6881e4231e4,5faf0670-ffa6-4da9-8329-935f9d48a687
 8aa25d6fb4f7e5e7a92dac61e292b57f,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -129881,6 +129551,7 @@
 9419bdfb4357b2fc32f04a2a87564731,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 941c81d0b720f3093bda1a5c273bb6a0,f65efb02-c563-44a7-9036-516219a24243
 941cb52c31186b75951444e51b148225,62e17cb7-ff23-48f1-b00d-227ff9248e83
+941def3b5eb0054ae91feb7a6d01a3d4708ad4be9fe04b939af1a47c961108be
 9420d01019c32be54bf933291f3ae095,03be663f-7037-4f68-a96a-362036e75637
 942295be1856005f40830119cd8ca702,a80e5be0-fedf-4d0a-b364-58e22b936b94
 94239aa8abc1bf861ac53f3adfd3c667,5faf0670-ffa6-4da9-8329-935f9d48a687
@@ -131111,7 +130782,6 @@
 9d8f16e5398292f2779b95f8f5ae5a6c,abfb5a93-e695-4ee9-bc10-541290bcd663
 9d9162dbb2c681a9c5c70c660079e28c,f65efb02-c563-44a7-9036-516219a24243
 9d916d6b4c4251d1d7b123b1d65bf055,f65efb02-c563-44a7-9036-516219a24243
-9d924e9bd656a47ca6503d98f389ae94b83a1dd1cc459eefa00d914f61c1acbe
 9d931c8b0bb501d64532f0f190809343,5faf0670-ffa6-4da9-8329-935f9d48a687
 9d97d81d8a625e8f768b82d7e04d87de,f65efb02-c563-44a7-9036-516219a24243
 9d98b61954ea40640f3f7a8693f1a63b,f65efb02-c563-44a7-9036-516219a24243
@@ -131317,6 +130987,7 @@
 9f23d366b95d9ddba29c3b06aa5abec8,62e17cb7-ff23-48f1-b00d-227ff9248e83
 9f24186a49fb86906d2bc447b06d3d71,602ceed3-9144-4262-a1a5-30fd0aba047c
 9f26451939524569612465d9e24320fe,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+9f26664c86055b40f07b9da993940736f2d4ae3e
 9f26b767232cb1d735699fdb84b4c02c,56fe15ee-e478-459e-8cc4-c0cac0a8ab16
 9f29ec5795f1cd940aa3f6c150b34fc3,602ceed3-9144-4262-a1a5-30fd0aba047c
 9f2b3c21ae4cd21b266380edd66f2941,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -132628,6 +132299,7 @@ a4c0726f6b2a005ecc315fdddec058e0,e46d4b20-b44a-4896-be41-0f4f251cde6a
 a4c3deb5b83bc0fc5a9f048def53fb2e,58998603-c66c-49a0-a485-1689c0a8ab16
 a4c4a739d4ad2888af1b1313183d5123,f65efb02-c563-44a7-9036-516219a24243
 a4c4b8ba1e84b9d4cfcc83c45cdaebd3,5faf0670-ffa6-4da9-8329-935f9d48a687
+a4c79a72a8aa38058a43b502d2a7faf04b8367f18875468f37d009c235a9249e
 a4cae0413b829864dfb0b2a940ad5fe044fb5ff74a4466d206ffa9f871f1c6db
 a4cca9e1e90fab42a37c120fd4f7568c,a22d9655-bcfe-4a7e-9fec-3cdbc7f1d4d8
 a4cefdd99ea3cf5f38356ec2ac0ef62b,abfb5a93-e695-4ee9-bc10-541290bcd663
@@ -133928,7 +133600,6 @@ aedb1a6d325a906c44248b19ef0390e6,f65efb02-c563-44a7-9036-516219a24243
 aede154f5e57fc63acaa21ea9bed3608,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
 aedec21f9b2e7e7e938411333ca6e0fe,d003529e-e30f-4233-a45f-22104cd9294c
 aedf22c58a6a4c49681dd8c67e9b39c4,6021536f-a808-4b9c-8136-d7460aba047c
-aedf930f08b6f91f5762aaab686d143cd519ea6c0bf4c648337a98e56e14e8a8
 aee0ea7b7c12614622ddd91d88d39980,602ceed3-9144-4262-a1a5-30fd0aba047c
 aee227384d1591491d64b07795c114c7,a80e5be0-fedf-4d0a-b364-58e22b936b94
 aee264e92736ec2b7a7b552b09670c65,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -136572,6 +136243,7 @@ c2a8a1d2e42e3ccc9e7537310827e2a1,a80e5be0-fedf-4d0a-b364-58e22b936b94
 c2a988fb3fc6df88d7b03a3dc41658cb,65df11f4-0cf0-4f14-9c7c-4ef00abe1822
 c2a988fb3fc6df88d7b03a3dc41658cb,9ceb0659-15fc-4732-a8ef-bfcfebd1f068
 c2b199c132c4c5bb0b588becffe59fcd,45b9a29b-abf7-4343-bf56-b71e7f9d9279
+c2b345d2d5ca206dd5e3a562d3201f6f1bfc9080
 c2b3b10c5a4da61293411d3c49b8e87f,56ca367a-5a88-4925-a309-4cd69062e56a
 c2b5a1b13f205db3760b8f90713fa570,87b36dbe-fb5a-46a0-97ba-e15adcbe785e
 c2b76ffcd3c48f70e863114126abcccd,83fd46e9-1f2c-47f3-ba6e-61b6f62ff75d
@@ -136698,7 +136370,6 @@ c3a4f5b2ff61caede95d52c87efeaad8,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 c3a6b03596521d756b725057d3935de4,585822f9-9290-49f9-b036-04e4c0a8ab16
 c3a7db4848b884dd9c524dd170406fbe,5a5395d1-40a0-45fc-b692-334a0a016219
 c3aa47f7a09af5158bb845a8a3702b50
-c3ae0e4beedf236835a3ae14298f43f41485502275f53d35be5a5e5c663ac054
 c3b2c376cece40699ca8cb91f2bae7b4,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 c3b49b2e51deff34945e85c844d1bf9dc0eb78f1
 c3b574fd09be6565e56de28dee092383
@@ -137001,6 +136672,7 @@ c61ef7cf601955599f328fc79f7aee5c,5cb5730d-220c-46d2-bd20-07fdc0a8ab16
 c6227ce899b126a00ebabb183ea835a4,b891b584-a5bb-48d5-9b70-95cd02ac544c
 c6235743898e9760d6eb50f75cf54454,f65efb02-c563-44a7-9036-516219a24243
 c62515b59705f7cb395725bc48501424,5bf300da-6438-4372-a069-0b7b0a016219
+c625817e704ada13cb0a2d9f0ba2af055461c051df96c31152950c68c5b6afa8
 c6275308423ec09f8ce6b7b9402f0a78,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c62bb6fa6cbdfd899af621ceea5c3e49,56cce206-fc70-436c-881b-52819062e56a
 c62bc73f376250d0b60119661d539200,0319b483-5973-4932-91ea-5a44c2975b24
@@ -137239,7 +136911,6 @@ c80d9806f16519febc68fd8007f37a4a,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 c80e59481aea2627120fce7fc29bcc24,5cb4ac3f-28a0-4dd6-b4a7-4717c0a8ab16
 c80ef5a759201528feef0b4dbbe53974
 c80f8fea1c377cfd1f897dc651821987,31de44de-304f-48c4-8ca0-38d1da0b8eba
-c80fc0ffdd56020a481dd2b4fdd94d44399616da08575546e770fa61bbd14e9c
 c80feba663e1befa19b5223ded4ada2c,c279be56-bd74-434f-90a9-3e6f51dc2f48
 c813e50a0c4de16f3d45aa5e5d64e592,0ee609d4-c99f-428c-a7f3-0afa7efe01b6
 c814111cfb0432faa3704a34568a5a3d,0ee87fb7-783d-40f5-824c-a334283d3809
@@ -139853,7 +139524,6 @@ db17ebf23dc43fb443d9571b1f6e51f6,17a29b8e-11ca-42f7-9adf-886a25412b77
 db1832a5785e9012741abcece1babeb3,a19c6aed-3c53-4597-971d-0bd01369f95d
 db18625d2654a90cd86cdbf17d6ba548,f65efb02-c563-44a7-9036-516219a24243
 db192b428dc471934f235cb1335bb7f0,5b444853-db9c-4206-8df8-203ac0a8ab16
-db19786c2dc80edea728fc17f8ae309fcdd6a54a7c1802334f655a83626223cc
 db1b8551fcb6a118e98eae2e6dcf4b65,f65efb02-c563-44a7-9036-516219a24243
 db204891ebe3bf974943235004589833,e101580d-ed36-40f4-b5ee-5a2d74673742
 db210157c4ea6d3cb574a71127455760,0b6a1b71-fdec-479e-9736-aa84db3aa8c8
@@ -141041,6 +140711,7 @@ e44f6473ab6ee30424478bc280d739c6,5a37a494-4030-4f5c-a710-8d1dc0a8ab16
 e4528334fa6ab5ed4a508a1a92a97a2b,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 e455156837ae8dd84fb22df5847c26af,28219fd4-56f3-470c-90ae-bdaeb006502e
 e4590e99c434e0f0f627e195a351ae79,f65efb02-c563-44a7-9036-516219a24243
+e459ce1ed82fe9161b4d8816c5da1a8a
 e45a45224057e0fc0be68efb28d6b026,28219fd4-56f3-470c-90ae-bdaeb006502e
 e45cd8f965dd46b37d5634c545402b7f,e365463e-b2b1-4e20-a9cb-c4698edf5c03
 e45e4a55cbfcf713f84ecc7a2945737d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -141695,6 +141366,7 @@ e98e873d73fafebc3b17d2e18afebbf1,59f6f87b-868c-4d04-846f-052ec0a8ab16
 e98f3bf952bf4b608ac0a727fa90b238,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
 e98f8ced21098c86ab02f02443745e8b,56ccdcaf-f7e4-40d8-bca1-51299062e56a
 e993bb98c3f2422c5a31b5fa596cad09,866f2e50-efe5-4d58-85c7-33bf3a52443c
+e99541c2d33cbe83ed4d3e4802a3091e02c7050f6ceafed21f26e7d22a1d89b6
 e995753407b104592e2260bcb9d50391,ab80f623-9311-47db-8713-661271b987c5
 e99753a607e7f77e7771795cfac0e6c2,14e083b6-5d3f-4925-8b7c-19f1ec089859
 e999d3d31c623ab5618b251c9b0e11f8ebcdde12
@@ -142311,7 +141983,6 @@ ee36218aaa01a8d8f352e02bc851092fbcf1f1a2
 ee3cc5791383712a3b3d47ed84b33e74,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 ee3ff210516f02b69271077a63a2653f,f65efb02-c563-44a7-9036-516219a24243
 ee404a74388c847332bbd9a65fde97ff,cf410edf-b437-4efa-841f-6106f07454bb
-ee4169ae62236462925b7ef0934d2fd4e10d8d64f97ce4555d625aa390c73041
 ee46383677cd9d4ef958ece8eb4f2439
 ee4a5ef78605e9eb10e17b0918db052e,f65efb02-c563-44a7-9036-516219a24243
 ee4d8d08b38850f28ff478eb1da84324,b370b5ff-98f2-484e-923f-f6f7c0358bdc
@@ -143270,7 +142941,6 @@ f64a4c7a254c454e06b615ca9ae6405394724523
 f64b562f8a7a46eab4401c8f56f5aacb,f65efb02-c563-44a7-9036-516219a24243
 f64fc958dd9afae165ba45bc4010d7ba,f48f7c30-fe6f-4854-b27e-f86a308da714
 f6517212881768a3142b9febdd364017,2e1474e1-1a53-4124-966f-b3bbface35df
-f651876e9185c206d770229b0cb312b7ae620225e0e6768709b93d4258bbbced
 f651a0d4057ba630bd19a59c1becd5af,f65efb02-c563-44a7-9036-516219a24243
 f65aebba73f33ebfdc249ab3fc72f050,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 f65be982f97ca3dbf53084c8924972e6,5cca9118-b228-4d3e-8db6-07fbc0a8ab16
@@ -143347,7 +143017,6 @@ f6f51784675a10e1ae04d85967637cf6,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
 f6f542713f8b9c2db47b5bbe72107bca,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 f6f61b44a93ce072a8c7d6a11e3cc4d3,1a41895a-7759-450d-948e-32fdac6d1a36
 f6f874de76956716deb1584bb26be9059f0507af
-f6fabebcbfe563fd6757c5cdf528d97ddd14ffcad1a90c4149ba9993f8da9ae0
 f6fbc9cc626e5b1ea2f4a7080b1224a9,56ca367a-5a88-4925-a309-4cd69062e56a
 f6fd3f714cd29091d45fa1ec49d7c261,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 f6fefc4d454415cdb3d5c9ff639913ef,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
@@ -143928,6 +143597,7 @@ fb4f3d971dc02d5145cf2f93731122e1,f65efb02-c563-44a7-9036-516219a24243
 fb4ff1387d439da6b18e8910d1a49b81,7f79ab3b-6744-4857-85a0-ec2803a67372
 fb507128c802f1c0da96deb48e8fa3f3,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 fb512bc051ac70cf143627781da488fd,f9db7f4c-b8d6-4ed9-b9f1-d1990a7e1668
+fb543254ed01bd259241edde0000157b
 fb571ab7aa615a1243374a8ef6972b6e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 fb573444b376d24d8467b30e041a624d,5d9094f3-4d08-4248-9f13-7d8cc0a8ab16
 fb58d5e7a794a6f596901c5ef6eb0dee,31de44de-304f-48c4-8ca0-38d1da0b8eba
