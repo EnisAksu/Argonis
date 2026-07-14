@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-07-13 23:25:55 UTC
-# Total Hashes: 145865
+# Generated: 2026-07-14 00:25:17 UTC
+# Total Hashes: 145072
 
 "2026-07-12 07:30:17", "1848789", "5BEA5AF5215089D97749D438351D7288310D0B8A472616EDBE1B34168AD1001C", "sha256_hash", "payload", "win.latrodectus", "BLACKWIDOW,IceNova,Latrodectus,Lotus", "Latrodectus", "", "75", "False", "", "7za-exe,Latrodectus", "0", "varysz"
 "2026-07-12 11:40:23", "1848930", "5832cb09caa91d3f3205b32b8f9fb13b9c8d79521bab33738b5f66c62f7e11cb", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "False", "", "317Stealer", "0", "burger"
@@ -457,6 +457,7 @@
 00706d71fcc51ccbf68ab80f749c1efb,a80e5be0-fedf-4d0a-b364-58e22b936b94
 0071f274ac936cd4a51245d6a7b41eda
 007217622176c797fe4b750ff7452b79,a80e5be0-fedf-4d0a-b364-58e22b936b94
+0077bda9b7fa66462290315a73cc3b063ae5789b
 007a0afbc78358ded336b6661f1cddf2,f65efb02-c563-44a7-9036-516219a24243
 0082c339eb1c2e053553d6a3edc7109d,f65efb02-c563-44a7-9036-516219a24243
 0083051af7de1ecc36eb3ff5633b60f6,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -887,6 +888,7 @@
 03a34edfd3ef0872100291b0aea99b5d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 03a35f4606eaf96713b2e845892b6833,590e3eb7-f4ec-4483-bf53-4155c0a8ab16
 03a4351e8a683eadc1efbe9641cd3b8c,1a41895a-7759-450d-948e-32fdac6d1a36
+03a43e57d8820b5c9da2e87cf8bd937ba682ed85
 03a79f47b8e36b9139cee21e31f8f8d7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 03a947915dc4e0abc1ca4b1914deb768,a80e5be0-fedf-4d0a-b364-58e22b936b94
 03ab961a8c1a21ce1525fdd35ed3c8d6,5818d672-8ad0-4d07-b0ba-0a59c0a8ab16
@@ -1022,7 +1024,6 @@
 049e6d10a25100160a6aa6954dfd7f79,6021536f-a808-4b9c-8136-d7460aba047c
 04a2db90c73db7149f28ba5c71dfaae6,f65efb02-c563-44a7-9036-516219a24243
 04a3e04783d3f124c6a4a102b9ecb697,500ce304-3996-44ab-8a36-be206f89d3de
-04a6c97bb8091ef3965f36ce828ff357
 04a8176e805083265e0060cbbf77db60,60f6ea57-5534-4866-9677-44650abe1822
 04a8eabaf1d1430eab4f46b3077e42b0,c5107fff-968b-4267-bc27-cafbc6553d1d
 04aa40c618871ab02d073b9a7a140c9e,57ebe7f0-0054-4b3b-b273-804fc0a8ab16
@@ -2357,7 +2358,6 @@
 0ec1ea6de0c52fe7a886ecd54adce06f,d8c0c469-2d3e-437a-80a1-a38bfe5998e8
 0ec2796ea8076d88251c83c5e7664bf9,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
 0ec344cb6c07c37317536fbf3e6be03b,e41e9a5e-11db-4999-bae0-0cc159299e3d
-0ec3edc488e94137cce50afff732ed5e99435ae0
 0eca3affbb67fabd4969bdb0e522aac1,59f6f87b-868c-4d04-846f-052ec0a8ab16
 0eca88276ab25ee058ebd7c8b1eb10d2,f65efb02-c563-44a7-9036-516219a24243
 0ecb06ca5ec16b3c3aee0506def5605f,f65efb02-c563-44a7-9036-516219a24243
@@ -2429,7 +2429,6 @@
 0f462194a8db892a49ab4cc5fb077759,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0f481269ea596c279764c9c1eb1c23d8,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
 0f49088d7a3c747cd70fa6b05e63465b,583fc655-e660-4b7c-b17b-09c6c0a8ab16
-0f4b2598ff9110e8516c138719d1e0aa
 0f4b832b8e88ac25d157001d32e5f7ed,0ee87fb7-783d-40f5-824c-a334283d3809
 0f4eb12c1c9275f8c7fd9d796f65ed81,f65efb02-c563-44a7-9036-516219a24243
 0f4ff365264f25ed248d17d9cc4839c7,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
@@ -2484,7 +2483,6 @@
 0fb117a9fb77d05dee79952bdcd9fdb4,a80e5be0-fedf-4d0a-b364-58e22b936b94
 0fb2604b6a08363104b57d974728c633,56ca367a-5a88-4925-a309-4cd69062e56a
 0fb38fc8d757e23297f2f136e9951526,5faf0670-ffa6-4da9-8329-935f9d48a687
-0fb453c619f2478bd9702408292ef3f7
 0fb478468e25e901faa6583b395a7510,5a717019-2b96-48ea-aad0-8532d4f1dad2
 0fb78a1a807a505883ca3d5cf0646abc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0fb7c17a20370f5600ce150710780fab,4f0d74be-1bfa-4821-8095-756c50054833
@@ -2539,7 +2537,6 @@
 100cfc17e1ad68c6bcf2209baf17c2aa,71bcb1d9-d25d-4faa-a9b7-5f909c325fc2
 100cfc17e1ad68c6bcf2209baf17c2aa,99138053-ae5d-4bcf-b2f8-0954edb204bc
 100e0115177ec65f7a10feb38b0aae15,f1dd9c3d-94ae-4da4-8ef3-d967315f9810
-100f7253e0f031a98e1db996379cfc71
 100fa873f95e60f076ba91a32268c17d,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 1014508fe19e54caaf627fcbc3ab4ee8,a80e5be0-fedf-4d0a-b364-58e22b936b94
 10148eebe91202697a66b8a369daef15
@@ -2687,6 +2684,7 @@
 110518c8b5e113090865712bd8abc4b2,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 110623726439f4f0be38c16d5b2fc0d9,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 11070a7b78a39bc997602f513b6e0d42,59f6f87b-868c-4d04-846f-052ec0a8ab16
+11079f607edb45c25b11a2106e6ba510a055b98f
 11088359af3d54d01d3050500901c69a,0ee87fb7-783d-40f5-824c-a334283d3809
 11097516bb2090e56613b459d461e784,5877be48-e4b4-4634-b002-0799c0a8ab16
 110c7adb2436aea006c17d3f7e0018eb,c5107fff-968b-4267-bc27-cafbc6553d1d
@@ -2849,6 +2847,7 @@
 124b1fa9ac8795c9c315290bde5aa693,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
 124ea86ef618d98440cbc79983e1a290,a80e5be0-fedf-4d0a-b364-58e22b936b94
 1250a380132091ad3073a4501de2f745,47d6a201-507c-4cb0-904e-2acebcd59a69
+12518c4545d6d6d57f43040cdd2dc966cd5ea6c4
 1254ec22f0a6c45107781bc295081688,0ee87fb7-783d-40f5-824c-a334283d3809
 125761dc9f68a0448120479a0c243a83,f65efb02-c563-44a7-9036-516219a24243
 1259a41095d1ac30b482a741257e71c1,7c045c5e-dd4d-4cbc-b654-0866e380a521
@@ -3162,7 +3161,6 @@
 14a0ea2eadaad1f39cf54bbf4ad14387,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 14a111a16af95ce54a8942f3cfa91a32,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 14a3c671b66a3b85683045e11bf9fed1,5faf0670-ffa6-4da9-8329-935f9d48a687
-14a86cab6ea4e4027b63607db9d684d5
 14ab7a91d6e806b920a0d153e3caeaf1,f65efb02-c563-44a7-9036-516219a24243
 14ae643966d0cd853f68ffc30b1374f0,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 14ae84687a02b92a3bfc3355ea5f0a96,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -3699,7 +3697,6 @@
 188d8b465165324c71cf16ddfcb3ca64,a80e5be0-fedf-4d0a-b364-58e22b936b94
 188f3621edee893122a6b3b8d8eee828,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 1897953bfe7d04c82134ef661d96492d
-189aaa1c92cf55dc9083e1a259a6ac4f
 189aaaf2445f27e500f6dcf063d1889d,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 189c962a6136cfe8cb011e0759db0ce6,f65efb02-c563-44a7-9036-516219a24243
 189d52a9585b172d0fdcc0b4087c3580,f65efb02-c563-44a7-9036-516219a24243
@@ -3875,7 +3872,6 @@
 1a13c411ee393543736f8759a1bd8a77,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 1a16537e75ddea6c55a336fd48210f52,f65efb02-c563-44a7-9036-516219a24243
 1a182bfad4e902a5899ff3a97e04662a,5b2bb735-fa94-44a7-8976-1e67c0a8ab16
-1a18336313fbf7eef064ccfbc2beb30e
 1a1932a60c3754b506628d4d5610fe1e,c279be56-bd74-434f-90a9-3e6f51dc2f48
 1a1a7f499492c6400eb366d59d4ac915,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 1a1aa8ea783ff0a3cf3d313b86725624,b4a98411-68c8-46bf-aff8-1659046646b3
@@ -3884,7 +3880,6 @@
 1a200226e352bb22c9009bebcbaaabc755a3d56d03ba97152a7c6277c09ef8ff
 1a256238e84ef57a98aa2a79c50fdf27,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 1a257ab5f459b0567d7e0cde5b0698c4,f65efb02-c563-44a7-9036-516219a24243
-1a26745a7157f936de61632329d750ee
 1a26fd6f18467f88c9a354a3a040d232,592463f4-c2f8-40e4-888e-4a76c0a8ab16
 1a275948ce7a78342330c9c96b48b55a,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 1a278828bcedac955a99034f5ab16dc3
@@ -4559,7 +4554,6 @@
 1f9151d9a696dded13fce67338b19933,5cc15780-29a8-4973-a485-4d8ac0a8ab16
 1f91556fe059ac592214c39b0f8c24c1,f9db7f4c-b8d6-4ed9-b9f1-d1990a7e1668
 1f937d75ba11316a48c7d37e1635c1a9,56cce169-b2e8-496a-a5b8-52849062e56a
-1f93dcfd4057c54005c6601529a9b535
 1f9580f421282ba0110ee8caca1a9004,28219fd4-56f3-470c-90ae-bdaeb006502e
 1f9771fa456b12494165a69adc709f5a,5f17a0c6-7b04-4f05-9fda-b5d435a8d6a4
 1f9786234178ad6322aabbaeed055c86,73ac6137-9ef4-4c30-8c0b-bda02a270491
@@ -4624,757 +4618,6 @@
 201b80e2c5d03e54381085753d57d21a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 2022afa87294bd23450d60baccfe785e,f65efb02-c563-44a7-9036-516219a24243
 202306c6f9a727ea053f1b897f1b5ed7,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
-2025-07-14 00:00:11,urldna_bot,domain,new.atsspb.ru,#scam #phishing,https://x.com/urldna_bot/status/1944547435696566320
-2025-07-14 00:00:11,urldna_bot,url,https://new.atsspb.ru,#scam #phishing,https://x.com/urldna_bot/status/1944547435696566320
-2025-07-14 01:22:14,catnap707,domain,moveid-storesco.shop,#phishing,https://x.com/catnap707/status/1944568084473557499
-2025-07-14 01:22:14,catnap707,ip,95.182.100.57,#phishing,https://x.com/catnap707/status/1944568084473557499
-2025-07-14 01:22:14,catnap707,url,http://95.182.100.57,#phishing,https://x.com/catnap707/status/1944568084473557499
-2025-07-14 01:22:14,catnap707,url,http://moveid-storesco.shop/idloud/support,#phishing,https://x.com/catnap707/status/1944568084473557499
-2025-07-14 01:22:17,fbgwls245,md5,505D23C7A66A02239056AC3CFED24132,#ransomware,https://x.com/fbgwls245/status/1944568098138607978
-2025-07-14 01:44:16,catnap707,domain,9mcs5he7.top,#phishing,https://x.com/catnap707/status/1944573628647088182
-2025-07-14 01:44:16,catnap707,url,http://172.67.176.218,#phishing,https://x.com/catnap707/status/1944573628647088182
-2025-07-14 01:44:16,catnap707,url,http://9mcs5he7.top/Pu4Wdv,#phishing,https://x.com/catnap707/status/1944573628647088182
-2025-07-14 01:47:12,catnap707,domain,apple.wgquan.com,#phishing,https://x.com/catnap707/status/1944574366894985691
-2025-07-14 01:47:12,catnap707,ip,134.122.150.31,#phishing,https://x.com/catnap707/status/1944574366894985691
-2025-07-14 01:47:12,catnap707,url,http://134.122.150.31,#phishing,https://x.com/catnap707/status/1944574366894985691
-2025-07-14 01:47:12,catnap707,url,http://www.apple.wgquan.com/ap/gnin/opnid/apple/jp,#phishing,https://x.com/catnap707/status/1944574366894985691
-2025-07-14 02:00:09,urldna_bot,domain,ma1gicmailup4ate.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944577626187727172
-2025-07-14 02:00:09,urldna_bot,url,https://ma1gicmailup4ate.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944577626187727172
-2025-07-14 02:07:05,romonlyht,domain,bqbq.de,#phishing,https://x.com/romonlyht/status/1944579374105428249
-2025-07-14 02:07:05,romonlyht,ip,110.238.64.211,#phishing,https://x.com/romonlyht/status/1944579370125021483
-2025-07-14 02:07:05,romonlyht,ip,202.61.198.34,#phishing,https://x.com/romonlyht/status/1944579372171833569
-2025-07-14 02:07:05,romonlyht,ip,211.1.226.32,#phishing,https://x.com/romonlyht/status/1944579370125021483
-2025-07-14 02:07:05,romonlyht,url,http://bqbq.de/gjgkhfiy/index.html?uid=aaaa@example.jp,#phishing,https://x.com/romonlyht/status/1944579372171833569
-2025-07-14 02:07:05,romonlyht,url,https://bqbq.de/gjgkhfiy/bot.php,#phishing,https://x.com/romonlyht/status/1944579374105428249
-2025-07-14 02:07:05,romonlyht,url,https://bqbq.de/gjgkhfiy/index.html?uid=aaaa@example.jp,#phishing,https://x.com/romonlyht/status/1944579374105428249
-2025-07-14 02:08:25,skocherhan,domain,sta.mehe.gov.lb,,https://x.com/skocherhan/status/1944579707925590256
-2025-07-14 02:08:25,skocherhan,url,https://sta.mehe.gov.lb/login.aspx,,https://x.com/skocherhan/status/1944579707925590256
-2025-07-14 02:19:12,skocherhan,sha256,7d514021c472e6e17f587ed30555d3f120653e6c7f8dc25d2331514b92ffd7bc,#APT,https://x.com/skocherhan/status/1944582422864990470
-2025-07-14 02:40:53,romonlyht,ip,221.128.128.202,#phishing,https://x.com/romonlyht/status/1944587876668489957
-2025-07-14 02:40:53,romonlyht,url,https://moveid-storesco.shop/idloud/support,#phishing,https://x.com/romonlyht/status/1944587876668489957
-2025-07-14 02:40:53,romonlyht,url,https://moveid-storesco.shop/idloud/support/,#phishing,https://x.com/romonlyht/status/1944587876668489957
-2025-07-14 02:41:57,romonlyht,ip,221.128.128.108,#phishing,https://x.com/romonlyht/status/1944588148635472244
-2025-07-14 02:41:57,romonlyht,url,https://moveic-storesco.shop/idloud/support,#phishing,https://x.com/romonlyht/status/1944588148635472244
-2025-07-14 02:41:58,romonlyht,domain,moveic-storesco.shop,#phishing,https://x.com/romonlyht/status/1944588150531322242
-2025-07-14 02:41:58,romonlyht,url,https://moveic-storesco.shop/idloud/support/,#phishing,https://x.com/romonlyht/status/1944588150531322242
-2025-07-14 02:42:51,romonlyht,domain,re-saves.com,#phishing,https://x.com/romonlyht/status/1944588372602958136
-2025-07-14 02:42:51,romonlyht,ip,101.110.9.81,#phishing,https://x.com/romonlyht/status/1944588372602958136
-2025-07-14 02:42:51,romonlyht,ip,170.205.30.9,#phishing,https://x.com/romonlyht/status/1944588372602958136
-2025-07-14 02:42:51,romonlyht,url,https://re-saves.com/apple-ids,#phishing,https://x.com/romonlyht/status/1944588372602958136
-2025-07-14 02:42:51,romonlyht,url,https://re-saves.com/login,#phishing,https://x.com/romonlyht/status/1944588372602958136
-2025-07-14 02:54:09,romonlyht,domain,gdujcxt.nqyso.cn,#phishing,https://x.com/romonlyht/status/1944591216022032605
-2025-07-14 02:54:09,romonlyht,domain,rakutenuygufikr.com%E2%88%95serxkynl@gdujcxt.nqyso.cn,#phishing,https://x.com/romonlyht/status/1944591216022032605
-2025-07-14 02:54:09,romonlyht,ip,218.86.73.47,#phishing,https://x.com/romonlyht/status/1944591216022032605
-2025-07-14 02:54:09,romonlyht,url,http://gdujcxt.nqyso.cn/4p4mb/1ck44.co.jp,#phishing,https://x.com/romonlyht/status/1944591216022032605
-2025-07-14 02:54:09,romonlyht,url,https://rakutenuygufikr.com%E2%88%95serxkynl@gdujcxt.nqyso.cn/4p4mb/1ck44.co.jp,#phishing,https://x.com/romonlyht/status/1944591216022032605
-2025-07-14 02:55:25,romonlyht,domain,rakutenjlthvgzk.com%E2%88%95ybjbjd@vfylenj.ahuqh.cn,#phishing,https://x.com/romonlyht/status/1944591535393411132
-2025-07-14 02:55:25,romonlyht,domain,vfylenj.ahuqh.cn,#phishing,https://x.com/romonlyht/status/1944591535393411132
-2025-07-14 02:55:25,romonlyht,ip,120.43.35.183,#phishing,https://x.com/romonlyht/status/1944591535393411132
-2025-07-14 02:55:25,romonlyht,url,http://vfylenj.ahuqh.cn/1g9gng5p3/nfwxy.co.jp,#phishing,https://x.com/romonlyht/status/1944591535393411132
-2025-07-14 02:55:25,romonlyht,url,https://rakutenjlthvgzk.com%E2%88%95ybjbjd@vfylenj.ahuqh.cn/1g9gng5p3/nfwxy.co.jp,#phishing,https://x.com/romonlyht/status/1944591535393411132
-2025-07-14 02:55:26,romonlyht,domain,sssagawanauthoritati.mefound.com,#phishing,https://x.com/romonlyht/status/1944591540330086682
-2025-07-14 02:55:26,romonlyht,url,https://sssagawanauthoritati.mefound.com/letianx/,#phishing,https://x.com/romonlyht/status/1944591540330086682
-2025-07-14 03:06:56,romonlyht,ip,116.208.102.170,#phishing,https://x.com/romonlyht/status/1944594434051477840
-2025-07-14 03:06:57,romonlyht,domain,e907b0be.cn,#phishing,https://x.com/romonlyht/status/1944594436039848173
-2025-07-14 03:06:57,romonlyht,url,http://e907b0be.cn/scqhgilgwj.co.jp,#phishing,https://x.com/romonlyht/status/1944594436039848173
-2025-07-14 03:08:39,romonlyht,ip,114.233.71.54,#phishing,https://x.com/romonlyht/status/1944594866853515586
-2025-07-14 03:08:40,romonlyht,domain,sdaequidasreddomainsad.mrbonus.com,#phishing,https://x.com/romonlyht/status/1944594870414250494
-2025-07-14 03:08:40,romonlyht,ip,165.154.231.234,#phishing,https://x.com/romonlyht/status/1944594870414250494
-2025-07-14 03:08:40,romonlyht,url,https://sdaequidasreddomainsad.mrbonus.com/anazx/,#phishing,https://x.com/romonlyht/status/1944594870414250494
-2025-07-14 03:42:16,romonlyht,domain,yrxtgyjooj.tyalg.cn,#phishing,https://x.com/romonlyht/status/1944603327536546233
-2025-07-14 03:42:16,romonlyht,ip,120.34.156.9,#phishing,https://x.com/romonlyht/status/1944603323962683617
-2025-07-14 03:42:16,romonlyht,url,http://yrxtgyjooj.tyalg.cn/ysnebnqh.co.jp,#phishing,https://x.com/romonlyht/status/1944603327536546233
-2025-07-14 03:44:21,romonlyht,ip,202.110.0.167,#phishing,https://x.com/romonlyht/status/1944603850700128306
-2025-07-14 03:44:22,romonlyht,domain,eadnpsn.ghneq.cn,#phishing,https://x.com/romonlyht/status/1944603854005305846
-2025-07-14 03:44:22,romonlyht,url,http://eadnpsn.ghneq.cn/tlcitpcp.co.jp,#phishing,https://x.com/romonlyht/status/1944603854005305846
-2025-07-14 03:44:22,romonlyht,url,https://oooequireddomainsad.zzux.com/docomox,#phishing,https://x.com/romonlyht/status/1944603854005305846
-2025-07-14 03:44:23,romonlyht,domain,oooequireddomainsad.zzux.com,#phishing,https://x.com/romonlyht/status/1944603856488546474
-2025-07-14 03:44:23,romonlyht,url,https://oooequireddomainsad.zzux.com/docomox/,#phishing,https://x.com/romonlyht/status/1944603856488546474
-2025-07-14 03:51:40,romonlyht,domain,1vva.pw,#phishing,https://x.com/romonlyht/status/1944605693136507342
-2025-07-14 03:51:40,romonlyht,domain,gaianotes.com%E2%88%95RdovdmuRE%E2%88%95QJiApjLW%E2%88%95rvlilphTd@1vva.pw,#phishing,https://x.com/romonlyht/status/1944605693136507342
-2025-07-14 03:51:40,romonlyht,ip,131.100.73.121,#phishing,https://x.com/romonlyht/status/1944605693136507342
-2025-07-14 03:51:40,romonlyht,url,http://1vva.pw/92nv2,#phishing,https://x.com/romonlyht/status/1944605693136507342
-2025-07-14 03:51:40,romonlyht,url,https://gaianotes.com%E2%88%95RdovdmuRE%E2%88%95QJiApjLW%E2%88%95rvlilphTd@1vva.pw/92nv2,#phishing,https://x.com/romonlyht/status/1944605693136507342
-2025-07-14 04:00:09,urldna_bot,domain,sallyaln12243927.activehosted.com,#scam #phishing,https://x.com/urldna_bot/status/1944607827256803541
-2025-07-14 04:00:09,urldna_bot,url,https://sallyaln12243927.activehosted.com,#scam #phishing,https://x.com/urldna_bot/status/1944607827256803541
-2025-07-14 04:05:06,romonlyht,domain,n8b8m.cc,#phishing,https://x.com/romonlyht/status/1944609071442591834
-2025-07-14 04:05:06,romonlyht,ip,216.118.240.234,#phishing,https://x.com/romonlyht/status/1944609071442591834
-2025-07-14 04:05:06,romonlyht,url,https://www.n8b8m.cc/?token=PT13WWhoek00STJObEp6TWpkelkyVVRZNm9UYWlObk82QW5hdVVtYnU0MmJwUm1MNHNHUXI1MmF1a1dia,#phishing,https://x.com/romonlyht/status/1944609071442591834
-2025-07-14 04:05:07,romonlyht,domain,sbveryimport-servc.ykv97j5r.com,#phishing,https://x.com/romonlyht/status/1944609075473600709
-2025-07-14 04:05:07,romonlyht,url,https://sbveryimport-servc.ykv97j5r.com/jp,#phishing,https://x.com/romonlyht/status/1944609075473600709
-2025-07-14 04:05:07,romonlyht,url,https://sbveryimport-servc.ykv97j5r.com/jp/,#phishing,https://x.com/romonlyht/status/1944609075473600709
-2025-07-14 04:17:24,romonlyht,domain,usksd.bfkkse.cn,#phishing,https://x.com/romonlyht/status/1944612168894218652
-2025-07-14 04:17:24,romonlyht,domain,vnxhbqvxhv.jp%E2%88%95tcpoionl@usksd.bfkkse.cn,#phishing,https://x.com/romonlyht/status/1944612168894218652
-2025-07-14 04:17:24,romonlyht,ip,113.223.28.200,#phishing,https://x.com/romonlyht/status/1944612168894218652
-2025-07-14 04:17:24,romonlyht,url,http://usksd.bfkkse.cn/jdfqaqrjf/rbcisqfuix.co.jp,#phishing,https://x.com/romonlyht/status/1944612168894218652
-2025-07-14 04:17:24,romonlyht,url,https://www.vnxhbqvxhv.jp%E2%88%95tcpoionl@usksd.bfkkse.cn/jdfqaqrjf/rbcisqfuix.co.jp,#phishing,https://x.com/romonlyht/status/1944612168894218652
-2025-07-14 04:17:26,romonlyht,domain,sssagawanauthoritati.mrbasic.com,#phishing,https://x.com/romonlyht/status/1944612175693140428
-2025-07-14 04:17:26,romonlyht,url,https://sssagawanauthoritati.mrbasic.com/visaz,#phishing,https://x.com/romonlyht/status/1944612175693140428
-2025-07-14 04:17:26,romonlyht,url,https://sssagawanauthoritati.mrbasic.com/visaz/,#phishing,https://x.com/romonlyht/status/1944612175693140428
-2025-07-14 04:18:43,romonlyht,domain,ktclithhz.jp%E2%88%95rakknjoqbh@zrowc.bfkkse.cn,#phishing,https://x.com/romonlyht/status/1944612500110205242
-2025-07-14 04:18:43,romonlyht,domain,zrowc.bfkkse.cn,#phishing,https://x.com/romonlyht/status/1944612500110205242
-2025-07-14 04:18:43,romonlyht,url,http://zrowc.bfkkse.cn/fwvqh/zilgldw.co.jp,#phishing,https://x.com/romonlyht/status/1944612500110205242
-2025-07-14 04:18:43,romonlyht,url,https://www.ktclithhz.jp%E2%88%95rakknjoqbh@zrowc.bfkkse.cn/fwvqh/zilgldw.co.jp,#phishing,https://x.com/romonlyht/status/1944612500110205242
-2025-07-14 04:18:45,romonlyht,domain,aaasagawanauthoritati.zyns.com,#phishing,https://x.com/romonlyht/status/1944612505831219336
-2025-07-14 04:18:45,romonlyht,url,https://aaasagawanauthoritati.zyns.com/visaz/,#phishing,https://x.com/romonlyht/status/1944612505831219336
-2025-07-14 04:32:45,romonlyht,ip,218.6.104.44,#phishing,https://x.com/romonlyht/status/1944616030325858770
-2025-07-14 04:32:45,romonlyht,url,http://piyjssok.ydhgxr.cn/dystvi=vwfkswz1/14s85rgk4.co.jp,#phishing,https://x.com/romonlyht/status/1944616030325858770
-2025-07-14 04:32:45,romonlyht,url,https://masterexaah.com%E2%88%95yudmddrl@piyjssok.ydhgxr.cn/dystvi=vwfkswz1/14s85rgk4.co.jp,#phishing,https://x.com/romonlyht/status/1944616030325858770
-2025-07-14 04:32:46,romonlyht,domain,masterexaah.com%E2%88%95yudmddrl@piyjssok.ydhgxr.cn,#phishing,https://x.com/romonlyht/status/1944616035459682396
-2025-07-14 04:32:46,romonlyht,domain,piyjssok.ydhgxr.cn,#phishing,https://x.com/romonlyht/status/1944616035459682396
-2025-07-14 04:32:46,romonlyht,md5,0f594e4f15ceb2bfab6743a3806805aa,#phishing,https://x.com/romonlyht/status/1944616035459682396
-2025-07-14 04:32:46,romonlyht,url,http://piyjssok.ydhgxr.cn/dystvi=vwfkswz1/14s85rgk4.co.jp?timezone=Asia%2FTokyo&lang=ja&platform=iPhone&signed=QXNpYS9Ub2t5b2phaVBob25l&session_token=0f594e4f15ceb2bfab6743a3806805aa,#phishing,https://x.com/romonlyht/status/1944616035459682396
-2025-07-14 04:32:46,romonlyht,url,https://masterexaah.com%E2%88%95yudmddrl@piyjssok.ydhgxr.cn/dystvi=vwfkswz1/14s85rgk4.co.jp?timezone=Asia%2FTokyo&lang=ja&platform=iPhone&signed=QXNpYS9Ub2t5b2phaVBob25l&session_token=0f594e4f15ceb2bfab6743a3806805aa,#phishing,https://x.com/romonlyht/status/1944616035459682396
-2025-07-14 04:32:47,romonlyht,domain,sdaequidasreddomainsad.yourtrap.com,#phishing,https://x.com/romonlyht/status/1944616037510689279
-2025-07-14 04:32:47,romonlyht,url,https://sdaequidasreddomainsad.yourtrap.com/wanshidasda,#phishing,https://x.com/romonlyht/status/1944616037510689279
-2025-07-14 04:32:47,romonlyht,url,https://sdaequidasreddomainsad.yourtrap.com/wanshidasda/,#phishing,https://x.com/romonlyht/status/1944616037510689279
-2025-07-14 04:33:06,skocherhan,ip,45.125.59.118,,https://x.com/skocherhan/status/1944616118536012179
-2025-07-14 04:33:06,skocherhan,url,http://45.125.59.118,,https://x.com/skocherhan/status/1944616118536012179
-2025-07-14 04:36:31,romonlyht,ip,27.29.148.213,#phishing,https://x.com/romonlyht/status/1944616979173949804
-2025-07-14 04:36:31,romonlyht,url,http://pdkapsao.hoanur.cn/frf=wu734ui,#phishing,https://x.com/romonlyht/status/1944616979173949804
-2025-07-14 04:36:31,romonlyht,url,https://mastergasstf.com%E2%88%95bqbgqdai@pdkapsao.hoanur.cn/frf=wu734ui,#phishing,https://x.com/romonlyht/status/1944616979173949804
-2025-07-14 04:36:32,romonlyht,domain,mastergasstf.com%E2%88%95bqbgqdai@pdkapsao.hoanur.cn,#phishing,https://x.com/romonlyht/status/1944616983057813933
-2025-07-14 04:36:32,romonlyht,domain,pdkapsao.hoanur.cn,#phishing,https://x.com/romonlyht/status/1944616983057813933
-2025-07-14 04:36:32,romonlyht,md5,532ac976b4c5a911ca72305938e0d5aa,#phishing,https://x.com/romonlyht/status/1944616983057813933
-2025-07-14 04:36:32,romonlyht,url,http://pdkapsao.hoanur.cn/frf=wu734ui8/3jnxk1dyi7.co.jp?timezone=Asia%2FTokyo&lang=ja&platform=iPhone&signed=QXNpYS9Ub2t5b2phaVBob25l&session_token=532ac976b4c5a911ca72305938e0d5aa,#phishing,https://x.com/romonlyht/status/1944616983057813933
-2025-07-14 04:36:32,romonlyht,url,https://mastergasstf.com%E2%88%95bqbgqdai@pdkapsao.hoanur.cn/frf=wu734ui8/3jnxk1dyi7.co.jp?timezone=Asia%2FTokyo&lang=ja&platform=iPhone&signed=QXNpYS9Ub2t5b2phaVBob25l&session_token=532ac976b4c5a911ca72305938e0d5aa,#phishing,https://x.com/romonlyht/status/1944616983057813933
-2025-07-14 04:52:00,romonlyht,domain,9x09f0blyiuu.1ukl4sj7.top,#phishing,https://x.com/romonlyht/status/1944620873639776362
-2025-07-14 04:52:00,romonlyht,domain,kx8qhc.top,#phishing,https://x.com/romonlyht/status/1944620875577434233
-2025-07-14 04:52:00,romonlyht,ip,177.152.99.233,#phishing,https://x.com/romonlyht/status/1944620873639776362
-2025-07-14 04:52:00,romonlyht,url,https://9x09f0blyiuu.1ukl4sj7.top/token?token=pNUdrJIptqlE3XmYRd7,#phishing,https://x.com/romonlyht/status/1944620873639776362
-2025-07-14 04:52:00,romonlyht,url,https://kx8qhc.top/Xc1nFj/,#phishing,https://x.com/romonlyht/status/1944620875577434233
-2025-07-14 04:52:00,romonlyht,url,https://kx8qhc.top/Xc1nFj?t=1752468123023,#phishing,https://x.com/romonlyht/status/1944620875577434233
-2025-07-14 04:52:00,romonlyht,url,https://kx8qhc.top/v1/check?t=1752468123023,#phishing,https://x.com/romonlyht/status/1944620875577434233
-2025-07-14 04:54:04,romonlyht,domain,08qjfphnpyiu.1agj6tl4.top,#phishing,https://x.com/romonlyht/status/1944621394329047354
-2025-07-14 04:54:04,romonlyht,ip,128.201.154.187,#phishing,https://x.com/romonlyht/status/1944621394329047354
-2025-07-14 04:54:04,romonlyht,url,https://08qjfphnpyiu.1agj6tl4.top/token?token=f130bJVjoluuYFcVj1Z,#phishing,https://x.com/romonlyht/status/1944621394329047354
-2025-07-14 04:54:05,romonlyht,domain,1nzj1gv9.top,#phishing,https://x.com/romonlyht/status/1944621400385552710
-2025-07-14 04:54:05,romonlyht,url,https://1nzj1gv9.top/Xc1nFj/,#phishing,https://x.com/romonlyht/status/1944621400385552710
-2025-07-14 04:54:05,romonlyht,url,https://1nzj1gv9.top/Xc1nFj?t=1752468449786,#phishing,https://x.com/romonlyht/status/1944621400385552710
-2025-07-14 04:54:05,romonlyht,url,https://1nzj1gv9.top/v1/check?t=1752468449786,#phishing,https://x.com/romonlyht/status/1944621400385552710
-2025-07-14 05:06:54,romonlyht,ip,209.87.158.196,#phishing,https://x.com/romonlyht/status/1944624625939579307
-2025-07-14 05:06:54,romonlyht,url,https://t.co/HSvgvR4sTf?id=4283934195820114220-9013,#phishing,https://x.com/romonlyht/status/1944624625939579307
-2025-07-14 05:06:55,romonlyht,domain,bitsquareassist.digital,#phishing,https://x.com/romonlyht/status/1944624629458584008
-2025-07-14 05:06:55,romonlyht,domain,mcm365.xyz,#phishing,https://x.com/romonlyht/status/1944624627587956819
-2025-07-14 05:06:55,romonlyht,url,https://bitsquareassist.digital/com.php,#phishing,https://x.com/romonlyht/status/1944624627587956819
-2025-07-14 05:06:55,romonlyht,url,https://bitsquareassist.digital/sess5332054611,#phishing,https://x.com/romonlyht/status/1944624627587956819
-2025-07-14 05:06:55,romonlyht,url,https://bitsquareassist.digital/sess5332054611/,#phishing,https://x.com/romonlyht/status/1944624629458584008
-2025-07-14 05:06:55,romonlyht,url,https://mcm365.xyz/wp-includes/Requests/,#phishing,https://x.com/romonlyht/status/1944624627587956819
-2025-07-14 05:08:17,skocherhan,domain,abtsi.com,,https://x.com/skocherhan/status/1944624974318449135
-2025-07-14 05:08:17,skocherhan,domain,smithenv.com,,https://x.com/skocherhan/status/1944624974318449135
-2025-07-14 05:08:17,skocherhan,url,http://abtsi.com,,https://x.com/skocherhan/status/1944624974318449135
-2025-07-14 05:08:17,skocherhan,url,http://smithenv.com,,https://x.com/skocherhan/status/1944624974318449135
-2025-07-14 06:00:08,urldna_bot,domain,webmail-telkomsa-net-mail-login-op.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944638020159693019
-2025-07-14 06:00:08,urldna_bot,url,https://webmail-telkomsa-net-mail-login-op.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944638020159693019
-2025-07-14 06:04:40,catnap707,domain,mersinescortbayanlar.com,#phishing,https://x.com/catnap707/status/1944639160545063024
-2025-07-14 06:04:40,catnap707,domain,sbi-official.homsteart.icu,#phishing,https://x.com/catnap707/status/1944639160545063024
-2025-07-14 06:04:40,catnap707,url,http://172.67.137.34,#phishing,https://x.com/catnap707/status/1944639160545063024
-2025-07-14 06:04:40,catnap707,url,http://mersinescortbayanlar.com/co.jp,#phishing,https://x.com/catnap707/status/1944639160545063024
-2025-07-14 06:04:40,catnap707,url,http://sbi-official.homsteart.icu/jp/,#phishing,https://x.com/catnap707/status/1944639160545063024
-2025-07-14 06:23:01,drb_ra,ip,101.37.175.15,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944643777940873308
-2025-07-14 06:23:01,drb_ra,ip,106.42.215.53,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944643777940873308
-2025-07-14 06:23:01,drb_ra,url,http://101.37.175.15:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944643777940873308
-2025-07-14 06:23:01,drb_ra,url,https://106.42.215.53/archive/static/images/common/phone.svg,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944643777940873308
-2025-07-14 06:23:06,drb_ra,url,http://85.175.101.203:80,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944643800304898173
-2025-07-14 06:25:10,drb_ra,ip,85.175.101.203,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944644319131967778
-2025-07-14 06:25:10,drb_ra,url,http://85.175.101.203:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944644319131967778
-2025-07-14 06:25:10,drb_ra,url,https://192.168.50.2/zOMGAPT,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944644319131967778
-2025-07-14 06:40:57,skocherhan,domain,resetis.com,#NetSupport,https://x.com/skocherhan/status/1944648293729898823
-2025-07-14 06:40:57,skocherhan,ip,193.143.1.216,#NetSupport,https://x.com/skocherhan/status/1944648293729898823
-2025-07-14 06:40:57,skocherhan,url,http://193.143.1.216,#NetSupport,https://x.com/skocherhan/status/1944648293729898823
-2025-07-14 06:40:57,skocherhan,url,http://resetis.com,#NetSupport,https://x.com/skocherhan/status/1944648293729898823
-2025-07-14 06:47:07,skocherhan,ip,45.147.196.90,#NetSupport,https://x.com/skocherhan/status/1944649845978865879
-2025-07-14 06:47:07,skocherhan,md5,e2af9a35e0e16f0d99d46626a8270b2d,#NetSupport,https://x.com/skocherhan/status/1944649845978865879
-2025-07-14 06:47:07,skocherhan,url,http://45.147.196.90,#NetSupport,https://x.com/skocherhan/status/1944649845978865879
-2025-07-14 06:47:18,drb_ra,ip,51.211.214.44,#Qakbot #C2,https://x.com/drb_ra/status/1944649892523036919
-2025-07-14 06:47:18,drb_ra,url,http://51.211.214.44:995,#Qakbot #C2,https://x.com/drb_ra/status/1944649892523036919
-2025-07-14 06:47:22,drb_ra,ip,108.130.154.20,#C2,https://x.com/drb_ra/status/1944649908046209130
-2025-07-14 06:47:22,drb_ra,url,http://108.130.154.20:445,#C2,https://x.com/drb_ra/status/1944649908046209130
-2025-07-14 06:47:26,drb_ra,ip,45.38.20.86,#Havoc #C2,https://x.com/drb_ra/status/1944649923212750925
-2025-07-14 06:47:26,drb_ra,url,http://45.38.20.86:443,#Havoc #C2,https://x.com/drb_ra/status/1944649923212750925
-2025-07-14 06:47:29,drb_ra,ip,61.4.109.87,#Havoc #C2,https://x.com/drb_ra/status/1944649938345886167
-2025-07-14 06:47:29,drb_ra,url,http://61.4.109.87:443,#Havoc #C2,https://x.com/drb_ra/status/1944649938345886167
-2025-07-14 06:47:34,drb_ra,ip,78.40.111.172,#Deimos #C2,https://x.com/drb_ra/status/1944649958893777402
-2025-07-14 06:47:34,drb_ra,url,http://78.40.111.172:2083,#Deimos #C2,https://x.com/drb_ra/status/1944649958893777402
-2025-07-14 06:47:39,drb_ra,ip,154.26.238.180,#Deimos #C2,https://x.com/drb_ra/status/1944649980389548420
-2025-07-14 06:47:39,drb_ra,url,http://154.26.238.180:1983,#Deimos #C2,https://x.com/drb_ra/status/1944649980389548420
-2025-07-14 06:47:45,drb_ra,ip,123.55.209.30,#Sliver #C2,https://x.com/drb_ra/status/1944650002594177207
-2025-07-14 06:47:45,drb_ra,url,http://123.55.209.30:40000,#Sliver #C2,https://x.com/drb_ra/status/1944650002594177207
-2025-07-14 06:49:48,drb_ra,ip,196.251.117.110,#Remcos #C2,https://x.com/drb_ra/status/1944650519584092341
-2025-07-14 06:49:48,drb_ra,url,http://196.251.117.110:2404,#Remcos #C2,https://x.com/drb_ra/status/1944650519584092341
-2025-07-14 06:49:53,drb_ra,url,http://216.250.250.246:8080,#Remcos #C2,https://x.com/drb_ra/status/1944650541130244411
-2025-07-14 06:49:57,drb_ra,ip,216.250.250.246,#Remcos #C2,https://x.com/drb_ra/status/1944650556502396979
-2025-07-14 06:49:57,drb_ra,url,http://216.250.250.246:443,#Remcos #C2,https://x.com/drb_ra/status/1944650556502396979
-2025-07-14 06:50:02,drb_ra,ip,212.115.41.175,#Remcos #C2,https://x.com/drb_ra/status/1944650577595486450
-2025-07-14 06:50:02,drb_ra,url,http://212.115.41.175:16465,#Remcos #C2,https://x.com/drb_ra/status/1944650577595486450
-2025-07-14 06:50:07,drb_ra,ip,45.144.214.51,#Remcos #C2,https://x.com/drb_ra/status/1944650599057830195
-2025-07-14 06:50:07,drb_ra,url,http://45.144.214.51:7084,#Remcos #C2,https://x.com/drb_ra/status/1944650599057830195
-2025-07-14 06:50:11,drb_ra,url,http://8.149.141.15:47486,#C2,https://x.com/drb_ra/status/1944650614845165816
-2025-07-14 06:50:17,drb_ra,ip,43.201.51.47,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650641638391863
-2025-07-14 06:50:17,drb_ra,url,http://43.201.51.47:119,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650641638391863
-2025-07-14 06:50:21,drb_ra,ip,13.208.185.26,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650657224384526
-2025-07-14 06:50:21,drb_ra,url,http://13.208.185.26:119,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650657224384526
-2025-07-14 06:50:27,drb_ra,url,http://3.96.210.38:501,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650683166179669
-2025-07-14 06:50:32,drb_ra,url,http://3.80.186.71:1961,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650705043673559
-2025-07-14 06:50:38,drb_ra,ip,16.51.57.139,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650728888299708
-2025-07-14 06:50:38,drb_ra,url,http://16.51.57.139:15976,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650728888299708
-2025-07-14 06:50:43,drb_ra,url,http://3.10.205.17:9999,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650750467961244
-2025-07-14 06:50:48,drb_ra,url,http://3.10.205.17:1099,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650771787661544
-2025-07-14 06:50:53,drb_ra,ip,54.241.95.108,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650793098887662
-2025-07-14 06:50:53,drb_ra,url,http://54.241.95.108:5986,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650793098887662
-2025-07-14 06:50:58,drb_ra,ip,16.24.171.193,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650815441965530
-2025-07-14 06:50:58,drb_ra,url,http://16.24.171.193:2456,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650815441965530
-2025-07-14 06:51:04,drb_ra,ip,40.176.229.93,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650838028296380
-2025-07-14 06:51:04,drb_ra,url,http://40.176.229.93:20546,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650838028296380
-2025-07-14 06:51:09,drb_ra,ip,52.47.127.136,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650859251376517
-2025-07-14 06:51:09,drb_ra,url,http://52.47.127.136:6827,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944650859251376517
-2025-07-14 06:51:14,drb_ra,ip,128.90.106.135,#AsyncRAT #C2,https://x.com/drb_ra/status/1944650880457883660
-2025-07-14 06:51:14,drb_ra,url,http://128.90.106.135:2000,#AsyncRAT #C2,https://x.com/drb_ra/status/1944650880457883660
-2025-07-14 06:51:17,drb_ra,ip,128.90.113.125,#AsyncRAT #C2,https://x.com/drb_ra/status/1944650895410553252
-2025-07-14 06:51:17,drb_ra,url,http://128.90.113.125:8808,#AsyncRAT #C2,https://x.com/drb_ra/status/1944650895410553252
-2025-07-14 06:53:21,drb_ra,ip,193.149.176.112,#C2,https://x.com/drb_ra/status/1944651412148732081
-2025-07-14 06:53:21,drb_ra,url,http://193.149.176.112:4321,#C2,https://x.com/drb_ra/status/1944651412148732081
-2025-07-14 06:53:26,drb_ra,ip,162.199.182.209,#Hak5_Cloud_C2 #C2,https://x.com/drb_ra/status/1944651435141960073
-2025-07-14 06:53:26,drb_ra,url,http://162.199.182.209:8080,#Hak5_Cloud_C2 #C2,https://x.com/drb_ra/status/1944651435141960073
-2025-07-14 07:00:21,SarlackLab,ip,198.55.98.186,#C2 #RedLine,https://x.com/SarlackLab/status/1944653174041661676
-2025-07-14 07:00:21,SarlackLab,url,http://198.55.98.186:1912,#C2 #RedLine,https://x.com/SarlackLab/status/1944653174041661676
-2025-07-14 07:19:18,JAMESWT_WT,domain,agenciacrabli.com,#NetSupport #opendir,https://x.com/JAMESWT_WT/status/1944657941946044431
-2025-07-14 07:19:18,JAMESWT_WT,url,http://5.181.159.203,#NetSupport #opendir,https://x.com/JAMESWT_WT/status/1944657941946044431
-2025-07-14 07:19:18,JAMESWT_WT,url,http://agenciacrabli.com/1,#NetSupport #opendir,https://x.com/JAMESWT_WT/status/1944657941946044431
-2025-07-14 08:33:50,CarlyGriggs13,domain,token.pump-x.fun,#phishing,https://x.com/CarlyGriggs13/status/1944676699590766964
-2025-07-14 08:33:50,CarlyGriggs13,url,https://token.pump-x.fun/$1,#phishing,https://x.com/CarlyGriggs13/status/1944676699590766964
-2025-07-14 08:45:17,CarlyGriggs13,domain,atomic-wallet.digital,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944679581182759283
-2025-07-14 08:45:17,CarlyGriggs13,url,https://atomic-wallet.digital,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944679581182759283
-2025-07-14 08:46:20,CarlyGriggs13,domain,atomicwallet.si,#phishing,https://x.com/CarlyGriggs13/status/1944679848040931612
-2025-07-14 08:46:20,CarlyGriggs13,url,https://atomicwallet.si,#phishing,https://x.com/CarlyGriggs13/status/1944679848040931612
-2025-07-14 08:46:48,CarlyGriggs13,domain,syncprotocol-v3.world,#phishing,https://x.com/CarlyGriggs13/status/1944679962084253831
-2025-07-14 08:46:48,CarlyGriggs13,url,https://syncprotocol-v3.world,#phishing,https://x.com/CarlyGriggs13/status/1944679962084253831
-2025-07-14 08:47:13,CarlyGriggs13,domain,dodo-swap.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944680068493480039
-2025-07-14 08:47:13,CarlyGriggs13,url,https://dodo-swap.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944680068493480039
-2025-07-14 08:47:34,CarlyGriggs13,domain,xn--unksw-5ved1b8fie.obscurion.it.com,#phishing,https://x.com/CarlyGriggs13/status/1944680158528741499
-2025-07-14 08:47:34,CarlyGriggs13,url,https://xn--unksw-5ved1b8fie.obscurion.it.com,#phishing,https://x.com/CarlyGriggs13/status/1944680158528741499
-2025-07-14 08:47:55,CarlyGriggs13,domain,jdihnasipadangnampol.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1944680243903545531
-2025-07-14 08:47:55,CarlyGriggs13,url,https://jdihnasipadangnampol.pages.dev/OSG138,#phishing,https://x.com/CarlyGriggs13/status/1944680243903545531
-2025-07-14 08:49:16,JAMESWT_WT,md5,ec0df04e3acb6f4390e9b29fcfc38089,#RAT #NetSupport,https://x.com/JAMESWT_WT/status/1944680584640627019
-2025-07-14 08:56:03,CarlyGriggs13,domain,degenbase-tips.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944682292779081837
-2025-07-14 08:56:03,CarlyGriggs13,url,https://degenbase-tips.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944682292779081837
-2025-07-14 09:07:40,JAMESWT_WT,ip,176.65.140.160,#NetSupport,https://x.com/JAMESWT_WT/status/1944685213982101650
-2025-07-14 09:07:40,JAMESWT_WT,md5,063bfce7fb427ee570868706c367b6fc,#NetSupport,https://x.com/JAMESWT_WT/status/1944685213982101650
-2025-07-14 09:34:32,skocherhan,domain,bashupload.com,,https://x.com/skocherhan/status/1944691977947099398
-2025-07-14 09:34:32,skocherhan,url,http://bashupload.com,,https://x.com/skocherhan/status/1944691977947099398
-2025-07-14 09:37:43,skocherhan,domain,rustyquill.top,#APT,https://x.com/skocherhan/status/1944692777977033036
-2025-07-14 09:37:43,skocherhan,url,https://rustyquill.top/shw/the-magnus-protoco1.jpg,#APT,https://x.com/skocherhan/status/1944692777977033036
-2025-07-14 09:46:44,CarlyGriggs13,domain,rarible.com-nft.shop,#phishing,https://x.com/CarlyGriggs13/status/1944695047280037911
-2025-07-14 09:46:44,CarlyGriggs13,url,https://rarible.com-nft.shop/en/?utm_source=bing_original_site=successfully&utm_source=bing&utm_medium=cpc&utm_term=trading_p,#phishing,https://x.com/CarlyGriggs13/status/1944695047280037911
-2025-07-14 09:47:03,CarlyGriggs13,domain,strategy-labs.io,#phishing,https://x.com/CarlyGriggs13/status/1944695128163074101
-2025-07-14 09:47:03,CarlyGriggs13,url,http://strategy-labs.io,#phishing,https://x.com/CarlyGriggs13/status/1944695128163074101
-2025-07-14 10:00:10,urldna_bot,domain,ac-besanconmmse.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1944698426509144391
-2025-07-14 10:00:10,urldna_bot,url,https://ac-besanconmmse.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1944698426509144391
-2025-07-14 10:05:23,JAMESWT_WT,md5,4fa9f678df14a33e2e5480d63604f811,,https://x.com/JAMESWT_WT/status/1944699740521640052
-2025-07-14 10:06:07,JAMESWT_WT,domain,anzkb.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,assixny.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,callbacywo.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,clirujf.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,heryam.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,horavd.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,ineyay.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,mindlevqtg.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,negqjcj.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,ravisrq.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,resdcv.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,shfsz.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,domain,sldnys.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,ip,167.160.161.12,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://167.160.161.12,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://anzkb.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://assixny.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://callbacywo.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://clirujf.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://heryam.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://horavd.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://ineyay.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://mindlevqtg.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://negqjcj.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://ravisrq.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://resdcv.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://shfsz.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:06:07,JAMESWT_WT,url,http://sldnys.xyz,,https://x.com/JAMESWT_WT/status/1944699925784080833
-2025-07-14 10:07:20,CarlyGriggs13,domain,aml-view.com,#phishing,https://x.com/CarlyGriggs13/status/1944700231649546580
-2025-07-14 10:07:20,CarlyGriggs13,url,https://aml-view.com,#phishing,https://x.com/CarlyGriggs13/status/1944700231649546580
-2025-07-14 10:24:25,c9lab_soc,domain,new-binance.com,#scam #phishing,https://x.com/c9lab_soc/status/1944704528692969778
-2025-07-14 10:24:25,c9lab_soc,url,http://new-binance.com,#scam #phishing,https://x.com/c9lab_soc/status/1944704528692969778
-2025-07-14 10:28:11,CarlyGriggs13,domain,seedcolor.com,#phishing,https://x.com/CarlyGriggs13/status/1944705478086287418
-2025-07-14 10:28:11,CarlyGriggs13,url,https://seedcolor.com,#phishing,https://x.com/CarlyGriggs13/status/1944705478086287418
-2025-07-14 10:48:54,CarlyGriggs13,domain,aavu.co.com,#phishing,https://x.com/CarlyGriggs13/status/1944710690234646852
-2025-07-14 10:48:54,CarlyGriggs13,url,https://aavu.co.com/?gad_source=1&gad_campaignid=22790099473&gbraid=0AAAAApGref0lb-bbL9jDM1gxpi9BsnAOM&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQe9VStz6TBtM9PTw72RQXZn0ojgLbgUNKw5-w75t4e0kvJrCpfpNphoCN_8QAvD_BwE,#phishing,https://x.com/CarlyGriggs13/status/1944710690234646852
-2025-07-14 10:58:42,drb_ra,ip,34.221.83.3,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713158142103857
-2025-07-14 10:58:42,drb_ra,url,http://34.221.83.3:9999,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713158142103857
-2025-07-14 10:58:47,drb_ra,ip,113.46.198.202,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713177628872761
-2025-07-14 10:58:47,drb_ra,url,http://113.46.198.202:3333,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713177628872761
-2025-07-14 10:58:51,drb_ra,url,http://8.130.191.106:80,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713194213101835
-2025-07-14 10:58:58,drb_ra,ip,117.72.96.48,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713223590047909
-2025-07-14 10:58:58,drb_ra,url,http://117.72.96.48:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713223590047909
-2025-07-14 10:59:03,drb_ra,ip,47.122.119.55,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713246381859236
-2025-07-14 10:59:03,drb_ra,url,http://47.122.119.55:9999,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713246381859236
-2025-07-14 10:59:09,drb_ra,ip,123.207.41.216,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713269643481577
-2025-07-14 10:59:09,drb_ra,url,http://123.207.41.216:80,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713269643481577
-2025-07-14 10:59:09,drb_ra,url,https://123.207.41.216/IE9CompatViewList.xml,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713269643481577
-2025-07-14 10:59:14,drb_ra,ip,113.45.7.54,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713292401848468
-2025-07-14 10:59:14,drb_ra,url,http://113.45.7.54:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713292401848468
-2025-07-14 10:59:19,drb_ra,ip,47.109.45.147,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713314413514979
-2025-07-14 10:59:19,drb_ra,url,http://47.109.45.147:23072,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713314413514979
-2025-07-14 10:59:23,CarlyGriggs13,domain,america25.org,#phishing,https://x.com/CarlyGriggs13/status/1944713330750276023
-2025-07-14 10:59:23,CarlyGriggs13,url,https://america25.org,#phishing,https://x.com/CarlyGriggs13/status/1944713330750276023
-2025-07-14 11:01:23,drb_ra,ip,155.94.172.165,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713832833683584
-2025-07-14 11:01:23,drb_ra,url,http://155.94.172.165:9090,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713832833683584
-2025-07-14 11:01:29,drb_ra,domain,deepseek.syoik.com,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713856900555107
-2025-07-14 11:01:29,drb_ra,ip,123.60.153.36,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713856900555107
-2025-07-14 11:01:29,drb_ra,url,http://123.60.153.36:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713856900555107
-2025-07-14 11:01:29,drb_ra,url,https://deepseek.syoik.com/jquery-3.3.1.min.js,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713856900555107
-2025-07-14 11:01:33,drb_ra,ip,122.51.235.217,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713873405133287
-2025-07-14 11:01:33,drb_ra,url,http://122.51.235.217:8066,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713873405133287
-2025-07-14 11:01:38,drb_ra,ip,81.70.221.86,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713894926090262
-2025-07-14 11:01:38,drb_ra,url,http://81.70.221.86:443,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944713894926090262
-2025-07-14 11:10:42,JRoosen,domain,brrewsh.org,,https://x.com/JRoosen/status/1944716176644296893
-2025-07-14 11:10:42,JRoosen,domain,raw.brrewsh.org,,https://x.com/JRoosen/status/1944716176644296893
-2025-07-14 11:10:42,JRoosen,url,http://brrewsh.org,,https://x.com/JRoosen/status/1944716176644296893
-2025-07-14 11:10:42,JRoosen,url,http://raw.brrewsh.org,,https://x.com/JRoosen/status/1944716176644296893
-2025-07-14 11:15:47,drb_ra,ip,115.190.8.204,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944717457249230925
-2025-07-14 11:15:47,drb_ra,url,http://115.190.8.204:4567,#C2 #CobaltStrike,https://x.com/drb_ra/status/1944717457249230925
-2025-07-14 11:22:08,Metemcyber,domain,sagawa-priv.aumvat.cn,#phishing,https://x.com/Metemcyber/status/1944719055161810974
-2025-07-14 11:22:08,Metemcyber,url,http://104.21.53.250,#phishing,https://x.com/Metemcyber/status/1944719055161810974
-2025-07-14 11:22:08,Metemcyber,url,http://172.67.221.33,#phishing,https://x.com/Metemcyber/status/1944719055161810974
-2025-07-14 11:22:08,Metemcyber,url,https://sagawa-priv.aumvat.cn/login_show/,#phishing,https://x.com/Metemcyber/status/1944719055161810974
-2025-07-14 11:27:42,Metemcyber,domain,mastercard-whoot.tbhuti.cn,#phishing,https://x.com/Metemcyber/status/1944720457078587554
-2025-07-14 11:27:42,Metemcyber,url,http://104.21.28.33,#phishing,https://x.com/Metemcyber/status/1944720457078587554
-2025-07-14 11:27:42,Metemcyber,url,http://172.67.170.58,#phishing,https://x.com/Metemcyber/status/1944720457078587554
-2025-07-14 11:27:42,Metemcyber,url,https://mastercard-whoot.tbhuti.cn/features-benefits/,#phishing,https://x.com/Metemcyber/status/1944720457078587554
-2025-07-14 11:38:29,abuse_ch,ip,77.90.153.31,#RAT,https://x.com/abuse_ch/status/1944723170499473900
-2025-07-14 11:59:23,Metemcyber,domain,fppzj.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 11:59:23,Metemcyber,domain,gcoak.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 11:59:23,Metemcyber,domain,gypoe.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 11:59:23,Metemcyber,url,https://fppzj.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 11:59:23,Metemcyber,url,https://gcoak.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 11:59:23,Metemcyber,url,https://gypoe.cn,#phishing,https://x.com/Metemcyber/status/1944728428265230610
-2025-07-14 12:00:02,Metemcyber,domain,kaochun.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:02,Metemcyber,domain,kaoden.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:02,Metemcyber,domain,kaomiao.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:02,Metemcyber,url,https://kaochun.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:02,Metemcyber,url,https://kaoden.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:02,Metemcyber,url,https://kaomiao.cn,#phishing,https://x.com/Metemcyber/status/1944728594217152570
-2025-07-14 12:00:07,urldna_bot,ip,43.130.2.171,#scam #phishing,https://x.com/urldna_bot/status/1944728614689284542
-2025-07-14 12:00:07,urldna_bot,url,https://43.130.2.171/ServiceLogin,#scam #phishing,https://x.com/urldna_bot/status/1944728614689284542
-2025-07-14 12:00:30,SarlackLab,ip,134.255.234.40,#C2 #Njrat,https://x.com/SarlackLab/status/1944728711271444862
-2025-07-14 12:00:30,SarlackLab,url,http://134.255.234.40:4782,#C2 #Njrat,https://x.com/SarlackLab/status/1944728711271444862
-2025-07-14 12:00:31,Metemcyber,domain,kjdbx.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,domain,nunshang.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,domain,svutt.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,domain,zangpiao.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,ip,43.167.237.204,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,url,http://43.167.237.204,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,url,https://kjdbx.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,url,https://nunshang.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,url,https://svutt.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:00:31,Metemcyber,url,https://zangpiao.cn,#phishing,https://x.com/Metemcyber/status/1944728715323380154
-2025-07-14 12:02:50,TLP_R3D,ip,103.71.22.245,,https://x.com/TLP_R3D/status/1944729295823286597
-2025-07-14 12:02:50,TLP_R3D,ip,185.39.19.164,,https://x.com/TLP_R3D/status/1944729295823286597
-2025-07-14 12:02:50,TLP_R3D,ip,193.105.134.245,,https://x.com/TLP_R3D/status/1944729295823286597
-2025-07-14 12:02:50,TLP_R3D,ip,94.159.113.197,,https://x.com/TLP_R3D/status/1944729295823286597
-2025-07-14 12:57:53,masaomi346,domain,jdcomp.com.ar,#phishing,https://x.com/masaomi346/status/1944743152562344231
-2025-07-14 12:57:53,masaomi346,domain,sejaura.com,#phishing,https://x.com/masaomi346/status/1944743152562344231
-2025-07-14 12:57:53,masaomi346,url,https://jdcomp.com.ar/Softaccount/Sites/index.html,#phishing,https://x.com/masaomi346/status/1944743152562344231
-2025-07-14 12:57:53,masaomi346,url,https://sejaura.com/pzaz/Sites/index.html,#phishing,https://x.com/masaomi346/status/1944743152562344231
-2025-07-14 13:00:43,CarlyGriggs13,domain,mytonwalleet.app,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944743865207886087
-2025-07-14 13:00:43,CarlyGriggs13,url,https://mytonwalleet.app,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944743865207886087
-2025-07-14 13:28:26,JAMESWT_WT,ip,45.142.193.119,#NetSupport,https://x.com/JAMESWT_WT/status/1944750838896861488
-2025-07-14 13:28:26,JAMESWT_WT,md5,aae2dc571d7b3e56dc1c3e0fd47dfda9,#NetSupport,https://x.com/JAMESWT_WT/status/1944750838896861488
-2025-07-14 13:28:26,JAMESWT_WT,md5,bd0169d22417ba4bdbb6f5c644ceadf3,#NetSupport,https://x.com/JAMESWT_WT/status/1944750838896861488
-2025-07-14 13:31:32,CarlyGriggs13,domain,steamcommunvty.com,#phishing,https://x.com/CarlyGriggs13/status/1944751620098596965
-2025-07-14 13:31:32,CarlyGriggs13,url,http://steamcommunvty.com/gift-card/734653,#phishing,https://x.com/CarlyGriggs13/status/1944751620098596965
-2025-07-14 13:31:58,CarlyGriggs13,domain,tradebotmdito.com,#phishing,https://x.com/CarlyGriggs13/status/1944751729636958351
-2025-07-14 13:31:58,CarlyGriggs13,url,https://tradebotmdito.com/tradeoffernew/new/partner=1756525/token=RTxFn6318/,#phishing,https://x.com/CarlyGriggs13/status/1944751729636958351
-2025-07-14 13:32:14,CarlyGriggs13,domain,u.to,#phishing,https://x.com/CarlyGriggs13/status/1944751795282088408
-2025-07-14 13:32:14,CarlyGriggs13,url,https://u.to/VZpPIg,#phishing,https://x.com/CarlyGriggs13/status/1944751795282088408
-2025-07-14 13:34:28,James_inthe_box,domain,ambiopharmconsultingltd.com:1515,,https://x.com/James_inthe_box/status/1944752356228493518
-2025-07-14 13:34:28,James_inthe_box,url,http://www.ambiopharmconsultingltd.com:1515/is-ready,,https://x.com/James_inthe_box/status/1944752356228493518
-2025-07-14 14:00:10,urldna_bot,domain,vrwebmailsys.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944758824998412397
-2025-07-14 14:00:10,urldna_bot,url,https://vrwebmailsys.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944758824998412397
-2025-07-14 14:54:01,CarlyGriggs13,domain,noderesolvelive.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1944772375356092796
-2025-07-14 14:54:01,CarlyGriggs13,url,https://noderesolvelive.pages.dev/walletpage,#phishing,https://x.com/CarlyGriggs13/status/1944772375356092796
-2025-07-14 15:15:43,CarlyGriggs13,domain,wallettools.org,#phishing,https://x.com/CarlyGriggs13/status/1944777837765861538
-2025-07-14 15:15:43,CarlyGriggs13,url,https://www.wallettools.org/recovery-check/,#phishing,https://x.com/CarlyGriggs13/status/1944777837765861538
-2025-07-14 15:17:29,CarlyGriggs13,domain,cryptorecovery.io,#phishing,https://x.com/CarlyGriggs13/status/1944778284836807148
-2025-07-14 15:17:29,CarlyGriggs13,url,https://www.cryptorecovery.io,#phishing,https://x.com/CarlyGriggs13/status/1944778284836807148
-2025-07-14 15:17:45,CarlyGriggs13,domain,wallet-recovery-service.com,#phishing,https://x.com/CarlyGriggs13/status/1944778350238511590
-2025-07-14 15:17:45,CarlyGriggs13,url,https://wallet-recovery-service.com,#phishing,https://x.com/CarlyGriggs13/status/1944778350238511590
-2025-07-14 15:27:11,CarlyGriggs13,domain,recovermywallet.org,#phishing,https://x.com/CarlyGriggs13/status/1944780724415918576
-2025-07-14 15:27:11,CarlyGriggs13,url,https://recovermywallet.org,#phishing,https://x.com/CarlyGriggs13/status/1944780724415918576
-2025-07-14 15:27:29,CarlyGriggs13,domain,reclaimbit.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944780800282579261
-2025-07-14 15:27:29,CarlyGriggs13,url,https://reclaimbit.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944780800282579261
-2025-07-14 15:27:50,CarlyGriggs13,domain,crypto-wallet-recovery.com,#phishing,https://x.com/CarlyGriggs13/status/1944780886655860742
-2025-07-14 15:27:50,CarlyGriggs13,url,https://crypto-wallet-recovery.com/terms.php,#phishing,https://x.com/CarlyGriggs13/status/1944780886655860742
-2025-07-14 15:28:07,CarlyGriggs13,domain,ai-seedfinder.com,#phishing,https://x.com/CarlyGriggs13/status/1944780960592986418
-2025-07-14 15:28:07,CarlyGriggs13,url,https://ai-seedfinder.com,#phishing,https://x.com/CarlyGriggs13/status/1944780960592986418
-2025-07-14 15:37:18,urldna_bot,domain,ton-org.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1944783271717478698
-2025-07-14 15:37:18,urldna_bot,url,https://ton-org.vercel.app,#phishing #scam,https://x.com/urldna_bot/status/1944783271717478698
-2025-07-14 15:37:29,CarlyGriggs13,domain,lookesmiste.azurewebsites.net,#phishing,https://x.com/CarlyGriggs13/status/1944783317179551945
-2025-07-14 15:37:29,CarlyGriggs13,url,https://lookesmiste.azurewebsites.net,#phishing,https://x.com/CarlyGriggs13/status/1944783317179551945
-2025-07-14 15:37:49,CarlyGriggs13,domain,rewallet.de,#phishing,https://x.com/CarlyGriggs13/status/1944783401371705819
-2025-07-14 15:37:49,CarlyGriggs13,url,https://rewallet.de/en/#about-us,#phishing,https://x.com/CarlyGriggs13/status/1944783401371705819
-2025-07-14 15:37:49,CarlyGriggs13,url,https://rewallet.de/en/,#phishing,https://x.com/CarlyGriggs13/status/1944783401371705819
-2025-07-14 15:38:17,CarlyGriggs13,domain,en-ledger-help.me-page.com,#phishing,https://x.com/CarlyGriggs13/status/1944783515192594646
-2025-07-14 15:38:17,CarlyGriggs13,url,https://en-ledger-help.me-page.com/en-us,#phishing,https://x.com/CarlyGriggs13/status/1944783515192594646
-2025-07-14 15:38:27,urldna_bot,domain,prueba.cpuul.com,#phishing #scam,https://x.com/urldna_bot/status/1944783559752855966
-2025-07-14 15:38:27,urldna_bot,url,http://prueba.cpuul.com/Myqov/au/,#phishing #scam,https://x.com/urldna_bot/status/1944783559752855966
-2025-07-14 15:48:10,CarlyGriggs13,domain,botnetcryptorecovery.com,#phishing,https://x.com/CarlyGriggs13/status/1944786004587540927
-2025-07-14 15:48:10,CarlyGriggs13,url,https://botnetcryptorecovery.com,#phishing,https://x.com/CarlyGriggs13/status/1944786004587540927
-2025-07-14 15:48:30,CarlyGriggs13,domain,portal-ledger-com-en.me-page.com,#phishing,https://x.com/CarlyGriggs13/status/1944786088456802633
-2025-07-14 15:48:30,CarlyGriggs13,url,https://portal-ledger-com-en.me-page.com/en-us,#phishing,https://x.com/CarlyGriggs13/status/1944786088456802633
-2025-07-14 15:48:46,CarlyGriggs13,domain,recovermycrypto.com,#phishing,https://x.com/CarlyGriggs13/status/1944786157411148049
-2025-07-14 15:48:46,CarlyGriggs13,url,https://recovermycrypto.com,#phishing,https://x.com/CarlyGriggs13/status/1944786157411148049
-2025-07-14 15:58:31,CarlyGriggs13,domain,cryptorecovery.us,#phishing,https://x.com/CarlyGriggs13/status/1944788607983665262
-2025-07-14 15:58:31,CarlyGriggs13,url,https://www.cryptorecovery.us,#phishing,https://x.com/CarlyGriggs13/status/1944788607983665262
-2025-07-14 15:58:57,CarlyGriggs13,domain,steamscommrunity.com,#phishing,https://x.com/CarlyGriggs13/status/1944788719589896228
-2025-07-14 15:58:57,CarlyGriggs13,url,https://steamscommrunity.com/105349428,#phishing,https://x.com/CarlyGriggs13/status/1944788719589896228
-2025-07-14 16:00:05,urldna_bot,domain,wealthguaranteed.org,#scam #phishing,https://x.com/urldna_bot/status/1944789001568653647
-2025-07-14 16:00:05,urldna_bot,url,https://wealthguaranteed.org,#scam #phishing,https://x.com/urldna_bot/status/1944789001568653647
-2025-07-14 16:09:11,CarlyGriggs13,domain,centralsmartsyncing.pages.dev,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944791292162007472
-2025-07-14 16:09:11,CarlyGriggs13,url,https://centralsmartsyncing.pages.dev,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944791292162007472
-2025-07-14 16:09:35,CarlyGriggs13,domain,dappsynchronizer.us,#phishing,https://x.com/CarlyGriggs13/status/1944791394926665868
-2025-07-14 16:09:35,CarlyGriggs13,url,https://dappsynchronizer.us,#phishing,https://x.com/CarlyGriggs13/status/1944791394926665868
-2025-07-14 16:09:54,CarlyGriggs13,domain,rectification-dappsprotocol.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944791475771875728
-2025-07-14 16:09:54,CarlyGriggs13,url,https://rectification-dappsprotocol.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944791475771875728
-2025-07-14 16:10:19,CarlyGriggs13,domain,swapchaindapps.com,#phishing,https://x.com/CarlyGriggs13/status/1944791577408188571
-2025-07-14 16:10:19,CarlyGriggs13,url,https://swapchaindapps.com,#phishing,https://x.com/CarlyGriggs13/status/1944791577408188571
-2025-07-14 16:10:40,CarlyGriggs13,domain,defimigration.com,#phishing,https://x.com/CarlyGriggs13/status/1944791667761885607
-2025-07-14 16:10:40,CarlyGriggs13,url,https://www.defimigration.com,#phishing,https://x.com/CarlyGriggs13/status/1944791667761885607
-2025-07-14 16:10:57,CarlyGriggs13,domain,zillswift.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1944791738431803791
-2025-07-14 16:10:57,CarlyGriggs13,url,https://zillswift.pages.dev,#phishing,https://x.com/CarlyGriggs13/status/1944791738431803791
-2025-07-14 16:11:13,CarlyGriggs13,domain,multiwallet.ai,#phishing,https://x.com/CarlyGriggs13/status/1944791805477662772
-2025-07-14 16:11:13,CarlyGriggs13,url,https://multiwallet.ai,#phishing,https://x.com/CarlyGriggs13/status/1944791805477662772
-2025-07-14 16:11:37,CarlyGriggs13,domain,swapchaindaps.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944791903846711516
-2025-07-14 16:11:37,CarlyGriggs13,url,http://swapchaindaps.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944791903846711516
-2025-07-14 16:11:59,CarlyGriggs13,domain,exoudsweb3-en-us.teachable.com,#phishing,https://x.com/CarlyGriggs13/status/1944791999288062067
-2025-07-14 16:11:59,CarlyGriggs13,url,https://exoudsweb3-en-us.teachable.com/p/home,#phishing,https://x.com/CarlyGriggs13/status/1944791999288062067
-2025-07-14 16:17:57,skocherhan,md5,70d92e2b00ec6702e17e266b7742bbab,,https://x.com/skocherhan/status/1944793498898530612
-2025-07-14 16:18:02,Fact_Finder03,ip,66.78.40.36,#stealer,https://x.com/Fact_Finder03/status/1944793522755809706
-2025-07-14 16:19:28,drb_ra,domain,video.mca.gov.cn,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793882136371629
-2025-07-14 16:19:28,drb_ra,ip,120.79.64.164,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793882136371629
-2025-07-14 16:19:28,drb_ra,url,http://120.79.64.164:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793882136371629
-2025-07-14 16:19:28,drb_ra,url,https://video.mca.gov.cn/public/asset/font/script.js,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793882136371629
-2025-07-14 16:19:34,drb_ra,ip,49.119.131.31,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793904991056147
-2025-07-14 16:19:34,drb_ra,url,https://49.119.131.31/common/advertisement/Fixed/float/smile.svg,#CobaltStrike #C2,https://x.com/drb_ra/status/1944793904991056147
-2025-07-14 16:21:20,CarlyGriggs13,domain,0g-faucet.j-node.net,#phishing,https://x.com/CarlyGriggs13/status/1944794352934408282
-2025-07-14 16:21:20,CarlyGriggs13,url,https://0g-faucet.j-node.net,#phishing,https://x.com/CarlyGriggs13/status/1944794352934408282
-2025-07-14 16:21:38,CarlyGriggs13,domain,6rbcc.com,#phishing,https://x.com/CarlyGriggs13/status/1944794424992477643
-2025-07-14 16:21:38,CarlyGriggs13,url,https://6rbcc.com,#phishing,https://x.com/CarlyGriggs13/status/1944794424992477643
-2025-07-14 16:22:00,CarlyGriggs13,domain,prorealvision.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944794519829885077
-2025-07-14 16:22:00,CarlyGriggs13,url,https://prorealvision.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944794519829885077
-2025-07-14 16:22:26,CarlyGriggs13,domain,texturecraft.org,#phishing,https://x.com/CarlyGriggs13/status/1944794626247803203
-2025-07-14 16:22:26,CarlyGriggs13,url,https://www.texturecraft.org,#phishing,https://x.com/CarlyGriggs13/status/1944794626247803203
-2025-07-14 16:22:47,CarlyGriggs13,domain,startrealvision.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944794717528404052
-2025-07-14 16:22:47,CarlyGriggs13,url,https://startrealvision.com,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944794717528404052
-2025-07-14 16:42:52,CarlyGriggs13,domain,accessrevoke4.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944799769794109723
-2025-07-14 16:42:52,CarlyGriggs13,url,http://accessrevoke4.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944799769794109723
-2025-07-14 16:43:08,CarlyGriggs13,domain,migrate-solaxy.com,#phishing,https://x.com/CarlyGriggs13/status/1944799838836580581
-2025-07-14 16:43:08,CarlyGriggs13,url,http://migrate-solaxy.com,#phishing,https://x.com/CarlyGriggs13/status/1944799838836580581
-2025-07-14 16:43:28,CarlyGriggs13,domain,portalbridge.app,#phishing,https://x.com/CarlyGriggs13/status/1944799920025678071
-2025-07-14 16:43:28,CarlyGriggs13,url,http://portalbridge.app,#phishing,https://x.com/CarlyGriggs13/status/1944799920025678071
-2025-07-14 16:43:45,CarlyGriggs13,domain,solaxxclaim13.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944799993182707733
-2025-07-14 16:43:45,CarlyGriggs13,url,http://solaxxclaim13.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944799993182707733
-2025-07-14 16:44:09,CarlyGriggs13,domain,claims-caldera.foundation,#phishing,https://x.com/CarlyGriggs13/status/1944800092478648672
-2025-07-14 16:44:09,CarlyGriggs13,url,http://claims-caldera.foundation,#phishing,https://x.com/CarlyGriggs13/status/1944800092478648672
-2025-07-14 16:44:29,CarlyGriggs13,domain,metawinner.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800175177757139
-2025-07-14 16:44:29,CarlyGriggs13,url,http://metawinner.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800175177757139
-2025-07-14 16:44:46,CarlyGriggs13,domain,rpdcnodeupdate.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800248028668039
-2025-07-14 16:44:46,CarlyGriggs13,url,http://rpdcnodeupdate.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800248028668039
-2025-07-14 16:45:02,CarlyGriggs13,domain,receive.invoice-coinbase.com,#phishing,https://x.com/CarlyGriggs13/status/1944800316555247641
-2025-07-14 16:45:02,CarlyGriggs13,url,http://receive.invoice-coinbase.com,#phishing,https://x.com/CarlyGriggs13/status/1944800316555247641
-2025-07-14 16:45:28,CarlyGriggs13,domain,401krevshare.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800424172593582
-2025-07-14 16:45:28,CarlyGriggs13,url,http://www.401krevshare.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800424172593582
-2025-07-14 16:45:52,CarlyGriggs13,domain,demo.zamma.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800525859348748
-2025-07-14 16:45:52,CarlyGriggs13,url,http://demo.zamma.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800525859348748
-2025-07-14 16:46:13,CarlyGriggs13,domain,eciipsee.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800614849929465
-2025-07-14 16:46:13,CarlyGriggs13,url,http://eciipsee.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800614849929465
-2025-07-14 16:46:34,CarlyGriggs13,domain,snapshot-npc.co,#phishing,https://x.com/CarlyGriggs13/status/1944800703051944437
-2025-07-14 16:46:34,CarlyGriggs13,url,http://snapshot-npc.co,#phishing,https://x.com/CarlyGriggs13/status/1944800703051944437
-2025-07-14 16:46:55,CarlyGriggs13,domain,48clubreward.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800789815259378
-2025-07-14 16:46:55,CarlyGriggs13,url,http://www.48clubreward.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944800789815259378
-2025-07-14 16:47:16,CarlyGriggs13,domain,dappsync.sharepool.in,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944800878315065389
-2025-07-14 16:47:16,CarlyGriggs13,url,http://dappsync.sharepool.in,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944800878315065389
-2025-07-14 16:47:37,CarlyGriggs13,domain,celsiusdistribution.tellancollections.co.ke,#phishing,https://x.com/CarlyGriggs13/status/1944800966844272800
-2025-07-14 16:47:37,CarlyGriggs13,url,http://www.celsiusdistribution.tellancollections.co.ke,#phishing,https://x.com/CarlyGriggs13/status/1944800966844272800
-2025-07-14 16:48:02,CarlyGriggs13,domain,estatex.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944801068606435559
-2025-07-14 16:48:02,CarlyGriggs13,url,http://www.estatex.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944801068606435559
-2025-07-14 16:48:20,CarlyGriggs13,domain,hyperions.network,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944801145370665130
-2025-07-14 16:48:20,CarlyGriggs13,url,http://hyperions.network,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944801145370665130
-2025-07-14 16:48:46,CarlyGriggs13,domain,soldrop.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944801254258999764
-2025-07-14 16:48:46,CarlyGriggs13,url,http://www.soldrop.w3claim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944801254258999764
-2025-07-14 16:58:02,BlinkzSec,sha256,db363fbb2d07563f1618a8316dffe9ed8ac4ab3ac079926d4979ee6e5d8cb4df,#malware,https://x.com/BlinkzSec/status/1944803587302768937
-2025-07-14 16:59:40,JAMESWT_WT,domain,jegjav.duckdns.org,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 16:59:40,JAMESWT_WT,ip,147.124.216.228,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 16:59:40,JAMESWT_WT,ip,45.144.212.172,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 16:59:40,JAMESWT_WT,url,http://147.124.216.228,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 16:59:40,JAMESWT_WT,url,http://45.144.212.172,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 16:59:40,JAMESWT_WT,url,http://jegjav.duckdns.org,,https://x.com/JAMESWT_WT/status/1944803999070208079
-2025-07-14 17:00:23,soursecc,domain,valorantid.ikwb.com,,https://x.com/soursecc/status/1944804178364084276
-2025-07-14 17:00:23,soursecc,domain,valorantidn.duckdns.org,,https://x.com/soursecc/status/1944804178364084276
-2025-07-14 17:00:23,soursecc,url,https://valorantid.ikwb.com/verify.php,,https://x.com/soursecc/status/1944804178364084276
-2025-07-14 17:00:23,soursecc,url,https://valorantidn.duckdns.org/verify.php,,https://x.com/soursecc/status/1944804178364084276
-2025-07-14 17:05:02,CarlyGriggs13,domain,athgiveaway.live,#phishing,https://x.com/CarlyGriggs13/status/1944805347631260090
-2025-07-14 17:05:02,CarlyGriggs13,url,http://athgiveaway.live,#phishing,https://x.com/CarlyGriggs13/status/1944805347631260090
-2025-07-14 17:05:42,CarlyGriggs13,domain,plasmaxpl.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944805516334530826
-2025-07-14 17:05:42,CarlyGriggs13,url,http://plasmaxpl.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944805516334530826
-2025-07-14 17:06:09,CarlyGriggs13,domain,quickswap.excharnge.com,#phishing,https://x.com/CarlyGriggs13/status/1944805627928203598
-2025-07-14 17:06:09,CarlyGriggs13,url,https://quickswap.excharnge.com/swap/?gad_source=1&gad_campaignid=22785395023&gbraid=0AAAABAJAp62CjU-EiHKFshjcDdimgXSMX&gclid=EAIaIQobChMIwdz4kee8jgMVxAWiAx1FMhhHEAAYASAAEgKLI_D_BwE,#phishing,https://x.com/CarlyGriggs13/status/1944805627928203598
-2025-07-14 17:06:33,CarlyGriggs13,domain,shibax.org,#phishing,https://x.com/CarlyGriggs13/status/1944805731795890341
-2025-07-14 17:06:33,CarlyGriggs13,url,http://shibax.org,#phishing,https://x.com/CarlyGriggs13/status/1944805731795890341
-2025-07-14 17:06:51,CarlyGriggs13,domain,token-pump.live,#phishing,https://x.com/CarlyGriggs13/status/1944805805821198576
-2025-07-14 17:06:51,CarlyGriggs13,url,https://token-pump.live,#phishing,https://x.com/CarlyGriggs13/status/1944805805821198576
-2025-07-14 17:07:09,CarlyGriggs13,domain,xn--48jwg6c9b.site,#phishing,https://x.com/CarlyGriggs13/status/1944805880072995136
-2025-07-14 17:07:09,CarlyGriggs13,url,https://xn--48jwg6c9b.site/toyol/tv/?id_ID=SLOTWIN138%20LOGIN,#phishing,https://x.com/CarlyGriggs13/status/1944805880072995136
-2025-07-14 17:07:26,CarlyGriggs13,domain,xn--uk-8kc8dc5je88mxa.xn--hgbtthuk-16gb5cdcb7ltako4dwte1a346bdb1275leaed.app-s2.eu.com,#phishing,https://x.com/CarlyGriggs13/status/1944805952873500786
-2025-07-14 17:07:26,CarlyGriggs13,url,https://xn--uk-8kc8dc5je88mxa.xn--hgbtthuk-16gb5cdcb7ltako4dwte1a346bdb1275leaed.app-s2.eu.com/?gad_source=1&gad_campaignid=22785395023&gbraid=0AAAABAJAp62CjU-EiHKFshjcDdimgXSMX&gclid=EAIaIQobChMIwdz4kee8jgMVxAWiAx1FMhhHEAAYASAAEgKLI_D_BwE,#phishing,https://x.com/CarlyGriggs13/status/1944805952873500786
-2025-07-14 17:27:11,CarlyGriggs13,domain,faceit.premseason.com,#phishing,https://x.com/CarlyGriggs13/status/1944810922750419313
-2025-07-14 17:27:11,CarlyGriggs13,url,https://faceit.premseason.com,#phishing,https://x.com/CarlyGriggs13/status/1944810922750419313
-2025-07-14 17:27:37,CarlyGriggs13,domain,faceit.discordconnects.com,#phishing,https://x.com/CarlyGriggs13/status/1944811032762843242
-2025-07-14 17:27:37,CarlyGriggs13,url,https://faceit.discordconnects.com/game.html?game=leagues5v5&skill_level=all&game_type_2=5vs5&source=faceit,#phishing,https://x.com/CarlyGriggs13/status/1944811032762843242
-2025-07-14 17:38:01,CarlyGriggs13,domain,vitrualsl.io,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944813649534615586
-2025-07-14 17:38:01,CarlyGriggs13,url,https://vitrualsl.io,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944813649534615586
-2025-07-14 17:38:19,CarlyGriggs13,domain,my.aixoninvestment.com,#phishing,https://x.com/CarlyGriggs13/status/1944813726151889310
-2025-07-14 17:38:19,CarlyGriggs13,url,https://my.aixoninvestment.com,#phishing,https://x.com/CarlyGriggs13/status/1944813726151889310
-2025-07-14 17:48:42,CarlyGriggs13,domain,cow-swop.org,#phishing,https://x.com/CarlyGriggs13/status/1944816338414788883
-2025-07-14 17:48:42,CarlyGriggs13,url,https://cow-swop.org,#phishing,https://x.com/CarlyGriggs13/status/1944816338414788883
-2025-07-14 17:50:17,CarlyGriggs13,domain,faceit.zeropoint-cs.com,#phishing,https://x.com/CarlyGriggs13/status/1944816734155743399
-2025-07-14 17:50:17,CarlyGriggs13,url,https://faceit.zeropoint-cs.com,#phishing,https://x.com/CarlyGriggs13/status/1944816734155743399
-2025-07-14 17:50:32,CarlyGriggs13,domain,cow.dao-swap.cc,#phishing,https://x.com/CarlyGriggs13/status/1944816800782221749
-2025-07-14 17:50:32,CarlyGriggs13,url,https://cow.dao-swap.cc,#phishing,https://x.com/CarlyGriggs13/status/1944816800782221749
-2025-07-14 17:51:25,CarlyGriggs13,domain,cow-swap-v2.com,#phishing,https://x.com/CarlyGriggs13/status/1944817022199583217
-2025-07-14 17:51:25,CarlyGriggs13,url,https://www.cow-swap-v2.com,#phishing,https://x.com/CarlyGriggs13/status/1944817022199583217
-2025-07-14 17:51:28,JAMESWT_WT,ip,45.134.26.74,,https://x.com/JAMESWT_WT/status/1944817032161120389
-2025-07-14 17:51:51,CarlyGriggs13,domain,v2-cow.net,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944817131599626672
-2025-07-14 17:51:51,CarlyGriggs13,url,https://v2-cow.net,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944817131599626672
-2025-07-14 17:52:18,CarlyGriggs13,domain,cow.dao-swap.com,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944817244015386942
-2025-07-14 17:52:18,CarlyGriggs13,url,https://cow.dao-swap.com,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944817244015386942
-2025-07-14 17:53:58,CarlyGriggs13,domain,cow.swap-main.net,#phishing,https://x.com/CarlyGriggs13/status/1944817664448164311
-2025-07-14 17:53:58,CarlyGriggs13,url,https://cow.swap-main.net/en/?utm_source=bing_original_site=successfully&utm_source=bing&utm_medium=cpc&utm_term=trading_p,#phishing,https://x.com/CarlyGriggs13/status/1944817664448164311
-2025-07-14 18:00:09,urldna_bot,domain,shgdhdwr.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1944819220329427123
-2025-07-14 18:00:09,urldna_bot,url,https://shgdhdwr.weebly.com,#phishing #scam,https://x.com/urldna_bot/status/1944819220329427123
-2025-07-14 18:10:05,CarlyGriggs13,domain,htinvestm.com,#phishing,https://x.com/CarlyGriggs13/status/1944821719455109364
-2025-07-14 18:10:05,CarlyGriggs13,url,https://www.htinvestm.com,#phishing,https://x.com/CarlyGriggs13/status/1944821719455109364
-2025-07-14 18:30:32,CarlyGriggs13,domain,caratsite.cc,#phishing,https://x.com/CarlyGriggs13/status/1944826863886418213
-2025-07-14 18:30:32,CarlyGriggs13,url,https://caratsite.cc/#/login,#phishing,https://x.com/CarlyGriggs13/status/1944826863886418213
-2025-07-14 18:30:57,CarlyGriggs13,domain,drop-pump.fun,#phishing,https://x.com/CarlyGriggs13/status/1944826969947832331
-2025-07-14 18:30:57,CarlyGriggs13,url,https://drop-pump.fun,#phishing,https://x.com/CarlyGriggs13/status/1944826969947832331
-2025-07-14 18:31:24,CarlyGriggs13,domain,pump-presale.org,#phishing,https://x.com/CarlyGriggs13/status/1944827083516981473
-2025-07-14 18:31:24,CarlyGriggs13,url,https://pump-presale.org/$1,#phishing,https://x.com/CarlyGriggs13/status/1944827083516981473
-2025-07-14 18:31:44,CarlyGriggs13,domain,xvbf.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944827168757784728
-2025-07-14 18:31:44,CarlyGriggs13,url,https://xvbf.xyz/h5-account?code=9366,#phishing,https://x.com/CarlyGriggs13/status/1944827168757784728
-2025-07-14 18:39:28,SarlackLab,domain,exifit.eu.org,,https://x.com/SarlackLab/status/1944829113543385204
-2025-07-14 18:39:28,SarlackLab,domain,m365.acenm.com,,https://x.com/SarlackLab/status/1944829113543385204
-2025-07-14 18:39:28,SarlackLab,url,http://exifit.eu.org,,https://x.com/SarlackLab/status/1944829113543385204
-2025-07-14 18:39:28,SarlackLab,url,http://m365.acenm.com,,https://x.com/SarlackLab/status/1944829113543385204
-2025-07-14 18:41:01,CarlyGriggs13,domain,cloud-web-ledger-en.me-page.com,#phishing,https://x.com/CarlyGriggs13/status/1944829502669955327
-2025-07-14 18:41:01,CarlyGriggs13,url,https://cloud-web-ledger-en.me-page.com/en-us,#phishing,https://x.com/CarlyGriggs13/status/1944829502669955327
-2025-07-14 18:41:21,CarlyGriggs13,domain,portal-ledger-com-learn.me-page.com,#phishing,https://x.com/CarlyGriggs13/status/1944829585566093765
-2025-07-14 18:41:21,CarlyGriggs13,url,https://portal-ledger-com-learn.me-page.com/en-us,#phishing,https://x.com/CarlyGriggs13/status/1944829585566093765
-2025-07-14 18:46:16,drb_ra,ip,54.159.89.14,#Deimos #C2,https://x.com/drb_ra/status/1944830825712787610
-2025-07-14 18:46:16,drb_ra,url,http://54.159.89.14:443,#Deimos #C2,https://x.com/drb_ra/status/1944830825712787610
-2025-07-14 18:46:22,drb_ra,ip,51.161.119.101,#Mythic #C2,https://x.com/drb_ra/status/1944830849184137461
-2025-07-14 18:46:22,drb_ra,url,http://51.161.119.101:7443,#Mythic #C2,https://x.com/drb_ra/status/1944830849184137461
-2025-07-14 18:46:27,drb_ra,url,http://35.186.174.238:7443,#Mythic #C2,https://x.com/drb_ra/status/1944830870352715865
-2025-07-14 18:46:32,drb_ra,ip,192.227.236.198,#Sliver #C2,https://x.com/drb_ra/status/1944830891605278766
-2025-07-14 18:46:32,drb_ra,url,http://192.227.236.198:31337,#Sliver #C2,https://x.com/drb_ra/status/1944830891605278766
-2025-07-14 18:46:37,drb_ra,url,http://178.132.0.217:8888,#Sliver #C2,https://x.com/drb_ra/status/1944830912417431567
-2025-07-14 18:46:40,drb_ra,ip,178.132.0.217,#Sliver #C2,https://x.com/drb_ra/status/1944830927265259577
-2025-07-14 18:46:40,drb_ra,url,http://178.132.0.217:31337,#Sliver #C2,https://x.com/drb_ra/status/1944830927265259577
-2025-07-14 18:46:55,skocherhan,domain,wce.serveirc.com,,https://x.com/skocherhan/status/1944830990465093747
-2025-07-14 18:46:55,skocherhan,md5,3193bcf3f22b44185916a8f7cee19b65,,https://x.com/skocherhan/status/1944830990465093747
-2025-07-14 18:46:55,skocherhan,url,http://5.39.218.164:5051,,https://x.com/skocherhan/status/1944830990465093747
-2025-07-14 18:46:55,skocherhan,url,http://wce.serveirc.com,,https://x.com/skocherhan/status/1944830990465093747
-2025-07-14 18:48:44,drb_ra,ip,47.92.206.124,#Reverse_SSH #C2,https://x.com/drb_ra/status/1944831444695601205
-2025-07-14 18:48:44,drb_ra,url,http://47.92.206.124:3232,#Reverse_SSH #C2,https://x.com/drb_ra/status/1944831444695601205
-2025-07-14 18:48:49,drb_ra,ip,207.174.3.213,#Reverse_SSH #C2,https://x.com/drb_ra/status/1944831466757620154
-2025-07-14 18:48:49,drb_ra,url,http://207.174.3.213:3232,#Reverse_SSH #C2,https://x.com/drb_ra/status/1944831466757620154
-2025-07-14 18:48:54,drb_ra,ip,47.254.121.212,#C2,https://x.com/drb_ra/status/1944831487511023641
-2025-07-14 18:48:54,drb_ra,url,http://47.254.121.212:54681,#C2,https://x.com/drb_ra/status/1944831487511023641
-2025-07-14 18:48:58,drb_ra,ip,113.106.204.135,#C2,https://x.com/drb_ra/status/1944831503373918462
-2025-07-14 18:48:58,drb_ra,url,http://113.106.204.135:47486,#C2,https://x.com/drb_ra/status/1944831503373918462
-2025-07-14 18:49:03,drb_ra,url,http://3.254.193.20:8389,#NetSupportRAT #C2,https://x.com/drb_ra/status/1944831525385650653
-2025-07-14 18:49:08,drb_ra,ip,37.120.153.102,#AsyncRAT #C2,https://x.com/drb_ra/status/1944831546726256944
-2025-07-14 18:49:08,drb_ra,url,http://37.120.153.102:8808,#AsyncRAT #C2,https://x.com/drb_ra/status/1944831546726256944
-2025-07-14 18:49:13,drb_ra,ip,66.85.27.51,#Supershell #C2,https://x.com/drb_ra/status/1944831568826044491
-2025-07-14 18:49:13,drb_ra,url,http://66.85.27.51:8888,#Supershell #C2,https://x.com/drb_ra/status/1944831568826044491
-2025-07-14 18:49:17,drb_ra,url,http://86.54.42.17:8857,#Dcrat #C2,https://x.com/drb_ra/status/1944831584563032313
-2025-07-14 18:49:22,drb_ra,ip,86.54.42.17,#Dcrat #C2,https://x.com/drb_ra/status/1944831606071476367
-2025-07-14 18:49:22,drb_ra,url,http://86.54.42.17:8854,#Dcrat #C2,https://x.com/drb_ra/status/1944831606071476367
-2025-07-14 18:49:28,drb_ra,ip,70.27.138.201,#Qakbot #C2,https://x.com/drb_ra/status/1944831628112457890
-2025-07-14 18:49:28,drb_ra,url,http://70.27.138.201:2222,#Qakbot #C2,https://x.com/drb_ra/status/1944831628112457890
-2025-07-14 18:49:31,drb_ra,ip,52.16.174.136,#C2,https://x.com/drb_ra/status/1944831644336107863
-2025-07-14 18:49:31,drb_ra,url,http://52.16.174.136:445,#C2,https://x.com/drb_ra/status/1944831644336107863
-2025-07-14 18:49:36,drb_ra,ip,34.247.175.153,#C2,https://x.com/drb_ra/status/1944831665685045314
-2025-07-14 18:49:36,drb_ra,url,http://34.247.175.153:445,#C2,https://x.com/drb_ra/status/1944831665685045314
-2025-07-14 18:49:42,drb_ra,ip,139.84.217.236,#Havoc #C2,https://x.com/drb_ra/status/1944831687017320812
-2025-07-14 18:49:42,drb_ra,url,http://139.84.217.236:443,#Havoc #C2,https://x.com/drb_ra/status/1944831687017320812
-2025-07-14 18:49:47,drb_ra,ip,167.86.110.155,#Havoc #C2,https://x.com/drb_ra/status/1944831708286664837
-2025-07-14 18:49:47,drb_ra,url,http://167.86.110.155:443,#Havoc #C2,https://x.com/drb_ra/status/1944831708286664837
-2025-07-14 18:51:50,drb_ra,ip,188.245.243.200,#C2,https://x.com/drb_ra/status/1944832225092030975
-2025-07-14 18:51:50,drb_ra,url,http://188.245.243.200:80,#C2,https://x.com/drb_ra/status/1944832225092030975
-2025-07-14 18:52:40,CarlyGriggs13,domain,xn--unksw-5ved1b8fie.smart-swap.it.com,#phishing,https://x.com/CarlyGriggs13/status/1944832436023525833
-2025-07-14 18:52:40,CarlyGriggs13,url,https://xn--unksw-5ved1b8fie.smart-swap.it.com,#phishing,https://x.com/CarlyGriggs13/status/1944832436023525833
-2025-07-14 18:53:00,CarlyGriggs13,domain,pumpfun-pumpfun.github.io,#phishing,https://x.com/CarlyGriggs13/status/1944832519179768014
-2025-07-14 18:53:00,CarlyGriggs13,url,https://pumpfun-pumpfun.github.io,#phishing,https://x.com/CarlyGriggs13/status/1944832519179768014
-2025-07-14 18:53:27,CarlyGriggs13,domain,claim.pumptoken.tech,#phishing,https://x.com/CarlyGriggs13/status/1944832634237923521
-2025-07-14 18:53:27,CarlyGriggs13,url,https://claim.pumptoken.tech,#phishing,https://x.com/CarlyGriggs13/status/1944832634237923521
-2025-07-14 18:53:51,CarlyGriggs13,domain,pumpairdrops.fun,#phishing,https://x.com/CarlyGriggs13/status/1944832732128809146
-2025-07-14 18:53:51,CarlyGriggs13,url,https://pumpairdrops.fun,#phishing,https://x.com/CarlyGriggs13/status/1944832732128809146
-2025-07-14 18:54:12,CarlyGriggs13,domain,claim.pumpswaps.fun,#phishing,https://x.com/CarlyGriggs13/status/1944832819974283633
-2025-07-14 18:54:12,CarlyGriggs13,url,https://claim.pumpswaps.fun,#phishing,https://x.com/CarlyGriggs13/status/1944832819974283633
-2025-07-14 18:55:50,CarlyGriggs13,domain,raydium.io-swap.cc,#phishing,https://x.com/CarlyGriggs13/status/1944833232161181939
-2025-07-14 18:55:50,CarlyGriggs13,url,https://raydium.io-swap.cc/en/?utm_source=bing_original_site=successfully&utm_source=bing&utm_medium=cpc&utm_term=trading_p,#phishing,https://x.com/CarlyGriggs13/status/1944833232161181939
-2025-07-14 19:06:14,1ZRR4H,ip,196.251.71.46,#opendir,https://x.com/1ZRR4H/status/1944835848752566756
-2025-07-14 19:06:14,1ZRR4H,ip,45.151.62.238,#opendir,https://x.com/1ZRR4H/status/1944835848752566756
-2025-07-14 19:06:14,1ZRR4H,url,http://196.251.71.46,#opendir,https://x.com/1ZRR4H/status/1944835848752566756
-2025-07-14 19:06:14,1ZRR4H,url,http://45.151.62.238,#opendir,https://x.com/1ZRR4H/status/1944835848752566756
-2025-07-14 19:12:34,CarlyGriggs13,domain,pumpclaim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944837441430405342
-2025-07-14 19:12:34,CarlyGriggs13,url,https://pumpclaim.xyz,#phishing,https://x.com/CarlyGriggs13/status/1944837441430405342
-2025-07-14 19:12:56,CarlyGriggs13,domain,pumpcoin.run,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944837537438081176
-2025-07-14 19:12:56,CarlyGriggs13,url,https://pumpcoin.run,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944837537438081176
-2025-07-14 19:13:16,CarlyGriggs13,domain,pump-token.com,#phishing,https://x.com/CarlyGriggs13/status/1944837619654762505
-2025-07-14 19:13:16,CarlyGriggs13,url,https://pump-token.com,#phishing,https://x.com/CarlyGriggs13/status/1944837619654762505
-2025-07-14 19:13:41,CarlyGriggs13,domain,pumppfunsol.net,#phishing,https://x.com/CarlyGriggs13/status/1944837724055212167
-2025-07-14 19:13:41,CarlyGriggs13,url,https://pumppfunsol.net,#phishing,https://x.com/CarlyGriggs13/status/1944837724055212167
-2025-07-14 19:14:04,CarlyGriggs13,domain,private-pump.fun,#phishing,https://x.com/CarlyGriggs13/status/1944837820788482522
-2025-07-14 19:14:04,CarlyGriggs13,url,https://private-pump.fun,#phishing,https://x.com/CarlyGriggs13/status/1944837820788482522
-2025-07-14 19:14:25,CarlyGriggs13,domain,pumpswaps.fun,#phishing,https://x.com/CarlyGriggs13/status/1944837909401464922
-2025-07-14 19:14:25,CarlyGriggs13,url,https://pumpswaps.fun,#phishing,https://x.com/CarlyGriggs13/status/1944837909401464922
-2025-07-14 19:23:45,CarlyGriggs13,domain,ntfshop-magiceden.com,#phishing,https://x.com/CarlyGriggs13/status/1944840257410683279
-2025-07-14 19:23:45,CarlyGriggs13,url,https://ntfshop-magiceden.com,#phishing,https://x.com/CarlyGriggs13/status/1944840257410683279
-2025-07-14 19:24:05,CarlyGriggs13,domain,web-magic-eden.cc,#phishing,https://x.com/CarlyGriggs13/status/1944840343222149573
-2025-07-14 19:24:05,CarlyGriggs13,url,https://web-magic-eden.cc,#phishing,https://x.com/CarlyGriggs13/status/1944840343222149573
-2025-07-14 19:24:29,CarlyGriggs13,domain,elgen-laeyr.com,#phishing,https://x.com/CarlyGriggs13/status/1944840443189191036
-2025-07-14 19:24:29,CarlyGriggs13,url,https://www.elgen-laeyr.com,#phishing,https://x.com/CarlyGriggs13/status/1944840443189191036
-2025-07-14 19:34:36,CarlyGriggs13,domain,web-ethena.com,#phishing,https://x.com/CarlyGriggs13/status/1944842986468335763
-2025-07-14 19:34:36,CarlyGriggs13,url,https://web-ethena.com,#phishing,https://x.com/CarlyGriggs13/status/1944842986468335763
-2025-07-14 19:39:38,CarlyGriggs13,domain,kamlno-flnance.com,#phishing,https://x.com/CarlyGriggs13/status/1944844256482394430
-2025-07-14 19:39:38,CarlyGriggs13,url,https://www.kamlno-flnance.com,#phishing,https://x.com/CarlyGriggs13/status/1944844256482394430
-2025-07-14 19:47:16,skocherhan,domain,coinbyex.com,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,domain,oo.ledgerverifvxy.com,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,ip,83.136.209.172,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,md5,c47140190b5e1e15655eb2716104e460,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,url,http://83.136.209.172,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,url,http://coinbyex.com,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 19:47:16,skocherhan,url,http://oo.ledgerverifvxy.com,,https://x.com/skocherhan/status/1944846176626561394
-2025-07-14 20:00:08,urldna_bot,domain,lombado411.github.io,#phishing #scam,https://x.com/urldna_bot/status/1944849415870566673
-2025-07-14 20:00:08,urldna_bot,url,http://lombado411.github.io/onyeka/doc.html,#phishing #scam,https://x.com/urldna_bot/status/1944849415870566673
-2025-07-14 20:58:33,drb_ra,ip,46.8.120.229,#Brute_Ratel_C4 #C2,https://x.com/drb_ra/status/1944864113143762988
-2025-07-14 20:58:33,drb_ra,url,http://46.8.120.229:443,#Brute_Ratel_C4 #C2,https://x.com/drb_ra/status/1944864113143762988
-2025-07-14 20:58:38,drb_ra,ip,80.64.19.99,#Sliver #C2,https://x.com/drb_ra/status/1944864134639837338
-2025-07-14 20:58:38,drb_ra,url,http://80.64.19.99:31337,#Sliver #C2,https://x.com/drb_ra/status/1944864134639837338
-2025-07-14 20:58:43,drb_ra,ip,165.22.55.200,#Sliver #C2,https://x.com/drb_ra/status/1944864155732992336
-2025-07-14 20:58:43,drb_ra,url,http://165.22.55.200:443,#Sliver #C2,https://x.com/drb_ra/status/1944864155732992336
-2025-07-14 20:58:48,drb_ra,ip,147.78.130.42,#Sliver #C2,https://x.com/drb_ra/status/1944864177199440197
-2025-07-14 20:58:48,drb_ra,url,http://147.78.130.42:31337,#Sliver #C2,https://x.com/drb_ra/status/1944864177199440197
-2025-07-14 20:58:53,drb_ra,ip,172.232.124.4,#Sliver #C2,https://x.com/drb_ra/status/1944864198825271496
-2025-07-14 20:58:53,drb_ra,url,http://172.232.124.4:31337,#Sliver #C2,https://x.com/drb_ra/status/1944864198825271496
-2025-07-14 21:00:21,threatquery,url,http://70.27.138.201,#C2 #Qakbot #malware,https://x.com/threatquery/status/1944864568519409875
-2025-07-14 21:00:22,threatquery,ip,87.121.84.125,#C2 #malware,https://x.com/threatquery/status/1944864572042612776
-2025-07-14 21:00:22,threatquery,url,http://54.159.89.14,#C2 #malware,https://x.com/threatquery/status/1944864570268409988
-2025-07-14 21:00:22,threatquery,url,http://87.121.84.125,#C2 #malware,https://x.com/threatquery/status/1944864572042612776
-2025-07-14 21:00:56,drb_ra,ip,172.245.253.10,#Supershell #C2,https://x.com/drb_ra/status/1944864715584512229
-2025-07-14 21:00:56,drb_ra,url,http://172.245.253.10:8888,#Supershell #C2,https://x.com/drb_ra/status/1944864715584512229
-2025-07-14 21:01:01,drb_ra,ip,38.54.1.115,#Supershell #C2,https://x.com/drb_ra/status/1944864734097883188
-2025-07-14 21:01:01,drb_ra,url,http://38.54.1.115:8888,#Supershell #C2,https://x.com/drb_ra/status/1944864734097883188
-2025-07-14 21:01:07,drb_ra,ip,45.76.187.58,#Havoc #C2,https://x.com/drb_ra/status/1944864762682040730
-2025-07-14 21:01:07,drb_ra,url,http://45.76.187.58:443,#Havoc #C2,https://x.com/drb_ra/status/1944864762682040730
-2025-07-14 21:01:13,drb_ra,ip,43.162.116.108,#Havoc #C2,https://x.com/drb_ra/status/1944864784056570364
-2025-07-14 21:01:13,drb_ra,url,http://43.162.116.108:443,#Havoc #C2,https://x.com/drb_ra/status/1944864784056570364
-2025-07-14 21:09:18,drb_ra,ip,207.244.199.228,#Deimos #C2,https://x.com/drb_ra/status/1944866818302337475
-2025-07-14 21:09:18,drb_ra,url,http://207.244.199.228:444,#Deimos #C2,https://x.com/drb_ra/status/1944866818302337475
-2025-07-14 21:09:23,drb_ra,ip,95.130.227.6,#Sliver #C2,https://x.com/drb_ra/status/1944866839974305987
-2025-07-14 21:09:23,drb_ra,url,http://95.130.227.6:31337,#Sliver #C2,https://x.com/drb_ra/status/1944866839974305987
-2025-07-14 21:09:28,drb_ra,ip,52.43.0.86,#Sliver #C2,https://x.com/drb_ra/status/1944866860471554488
-2025-07-14 21:09:28,drb_ra,url,http://52.43.0.86:31337,#Sliver #C2,https://x.com/drb_ra/status/1944866860471554488
-2025-07-14 21:13:32,drb_ra,ip,179.60.149.213,#C2,https://x.com/drb_ra/status/1944867884355703256
-2025-07-14 21:13:32,drb_ra,url,http://179.60.149.213:80,#C2,https://x.com/drb_ra/status/1944867884355703256
-2025-07-14 21:13:37,drb_ra,url,http://5.252.155.81:80,#C2,https://x.com/drb_ra/status/1944867906741002725
-2025-07-14 21:13:42,drb_ra,url,http://94.159.113.197:80,#C2,https://x.com/drb_ra/status/1944867928266170791
-2025-07-14 21:13:46,drb_ra,url,http://193.105.134.245:80,#C2,https://x.com/drb_ra/status/1944867944481349821
-2025-07-14 21:13:51,drb_ra,url,http://185.39.19.164:80,#C2,https://x.com/drb_ra/status/1944867966249787766
-2025-07-14 21:19:56,drb_ra,ip,118.31.18.77,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869494838669494
-2025-07-14 21:19:56,drb_ra,url,http://118.31.18.77:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869494838669494
-2025-07-14 21:20:01,drb_ra,ip,47.120.32.72,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869517185966431
-2025-07-14 21:20:01,drb_ra,url,http://47.120.32.72:8069,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869517185966431
-2025-07-14 21:20:01,drb_ra,url,https://47.120.32.72/activity,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869517185966431
-2025-07-14 21:20:06,drb_ra,domain,expohsp.com,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869540078477376
-2025-07-14 21:20:06,drb_ra,ip,47.94.53.65,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869540078477376
-2025-07-14 21:20:06,drb_ra,url,http://47.94.53.65:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869540078477376
-2025-07-14 21:20:06,drb_ra,url,https://www.expohsp.com/dist/css/bootstrap.min.css,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869540078477376
-2025-07-14 21:20:12,drb_ra,ip,47.237.173.81,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869562740301986
-2025-07-14 21:20:12,drb_ra,url,http://47.237.173.81:80,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869562740301986
-2025-07-14 21:20:12,drb_ra,url,https://47.237.173.81/load,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869562740301986
-2025-07-14 21:20:17,drb_ra,ip,158.41.106.139,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869584533905884
-2025-07-14 21:20:17,drb_ra,url,http://158.41.106.139:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869584533905884
-2025-07-14 21:20:17,drb_ra,url,https://158.41.106.139/api/v1/get,#CobaltStrike #C2,https://x.com/drb_ra/status/1944869584533905884
-2025-07-14 21:22:21,drb_ra,url,http://97.64.81.186:9999,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870103771693370
-2025-07-14 21:22:21,drb_ra,url,https://192.168.239.136/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870103771693370
-2025-07-14 21:22:27,drb_ra,domain,app.dlmix.ourdvs.com,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870127595556914
-2025-07-14 21:22:27,drb_ra,ip,39.99.158.125,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870127595556914
-2025-07-14 21:22:27,drb_ra,url,http://39.99.158.125:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870127595556914
-2025-07-14 21:22:27,drb_ra,url,https://app.dlmix.ourdvs.com/dist/css/bootstrap.min.css,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870127595556914
-2025-07-14 21:22:32,drb_ra,ip,38.190.198.55,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870150462955824
-2025-07-14 21:22:32,drb_ra,url,http://38.190.198.55:80,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870150462955824
-2025-07-14 21:22:32,drb_ra,url,https://38.190.198.55/jquery-3.3.1.min.js,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870150462955824
-2025-07-14 21:22:37,drb_ra,domain,yubo.life,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870172843762031
-2025-07-14 21:22:37,drb_ra,ip,97.64.81.186,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870172843762031
-2025-07-14 21:22:37,drb_ra,url,http://97.64.81.186:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870172843762031
-2025-07-14 21:22:37,drb_ra,url,https://www.yubo.life/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870172843762031
-2025-07-14 21:22:42,drb_ra,ip,117.72.103.9,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870194150617354
-2025-07-14 21:22:42,drb_ra,url,http://117.72.103.9:8086,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870194150617354
-2025-07-14 21:22:42,drb_ra,url,https://117.72.103.9/visit.js,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870194150617354
-2025-07-14 21:22:48,drb_ra,ip,117.72.69.118,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870216816844912
-2025-07-14 21:22:48,drb_ra,url,http://117.72.69.118:8081,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870216816844912
-2025-07-14 21:22:48,drb_ra,url,https://117.72.69.118/pixel,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870216816844912
-2025-07-14 21:22:53,drb_ra,ip,47.122.30.177,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870239243563435
-2025-07-14 21:22:53,drb_ra,url,http://47.122.30.177:80,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870239243563435
-2025-07-14 21:22:53,drb_ra,url,https://47.122.30.177/jquery-3.3.1.min.js,#CobaltStrike #C2,https://x.com/drb_ra/status/1944870239243563435
-2025-07-14 21:41:15,CarlyGriggs13,domain,airdrop.zebec.name,#phishing,https://x.com/CarlyGriggs13/status/1944874861438099557
-2025-07-14 21:41:15,CarlyGriggs13,url,https://airdrop.zebec.name,#phishing,https://x.com/CarlyGriggs13/status/1944874861438099557
-2025-07-14 21:41:36,CarlyGriggs13,domain,flextropic.com,#phishing,https://x.com/CarlyGriggs13/status/1944874949245907318
-2025-07-14 21:41:36,CarlyGriggs13,url,https://flextropic.com/user/dashboard,#phishing,https://x.com/CarlyGriggs13/status/1944874949245907318
-2025-07-14 21:41:59,CarlyGriggs13,domain,trustconnect.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944875045152567436
-2025-07-14 21:41:59,CarlyGriggs13,url,https://trustconnect.vercel.app,#phishing,https://x.com/CarlyGriggs13/status/1944875045152567436
-2025-07-14 22:00:19,SarlackLab,domain,rock-indiana.gl.at.ply.gg,#C2 #Njrat,https://x.com/SarlackLab/status/1944879659935547608
-2025-07-14 22:00:19,SarlackLab,ip,147.185.221.20,#C2 #Njrat,https://x.com/SarlackLab/status/1944879659935547608
-2025-07-14 22:00:19,SarlackLab,url,http://147.185.221.20:47151,#C2 #Njrat,https://x.com/SarlackLab/status/1944879659935547608
-2025-07-14 22:00:19,SarlackLab,url,http://rock-indiana.gl.at.ply.gg,#C2 #Njrat,https://x.com/SarlackLab/status/1944879659935547608
-2025-07-14 22:17:19,qrjxl,domain,gencatsupporthelpdeskadministradordept.weebly.com,#scam #phishing,https://x.com/qrjxl/status/1944883935856701809
-2025-07-14 22:17:19,qrjxl,url,https://gencatsupporthelpdeskadministradordept.weebly.com,#scam #phishing,https://x.com/qrjxl/status/1944883935856701809
-2025-07-14 22:44:00,masaomi346,domain,52u84v.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,8xjh84.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,fp6jac.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,i3n5nh.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,nryj4w.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,snw8tq.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,domain,zabck9.top,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://52u84v.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://8xjh84.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://fp6jac.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://i3n5nh.top/6uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://nryj4w.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://snw8tq.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 22:44:00,masaomi346,url,https://zabck9.top/6Uwjwh/,#phishing,https://x.com/masaomi346/status/1944890652522897893
-2025-07-14 23:03:23,drb_ra,ip,217.154.212.25,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895531899142654
-2025-07-14 23:03:23,drb_ra,url,http://217.154.212.25:80,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895531899142654
-2025-07-14 23:03:23,drb_ra,url,https://217.154.212.25/c/msdownload/update/others/2016/12/29136388_,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895531899142654
-2025-07-14 23:03:29,drb_ra,ip,38.207.176.60,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895554376392994
-2025-07-14 23:03:29,drb_ra,url,http://38.207.176.60:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895554376392994
-2025-07-14 23:03:34,drb_ra,ip,158.160.179.129,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895575574413502
-2025-07-14 23:03:34,drb_ra,url,http://158.160.179.129:443,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895575574413502
-2025-07-14 23:03:39,drb_ra,ip,123.57.245.136,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895597661532417
-2025-07-14 23:03:39,drb_ra,url,http://123.57.245.136:1332,#CobaltStrike #C2,https://x.com/drb_ra/status/1944895597661532417
-2025-07-14 23:16:14,CarlyGriggs13,domain,bin-pledgeservice.net,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944898765313245645
-2025-07-14 23:16:14,CarlyGriggs13,url,https://www.bin-pledgeservice.net/#/,#ransomware #phishing,https://x.com/CarlyGriggs13/status/1944898765313245645
 2025-07-15 00:00:10,urldna_bot,domain,ethxch.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944909821863469391
 2025-07-15 00:00:10,urldna_bot,url,https://ethxch.weebly.com,#scam #phishing,https://x.com/urldna_bot/status/1944909821863469391
 2025-07-15 00:32:27,CarlyGriggs13,domain,pumpcoin.run,#phishing #ransomware,https://x.com/CarlyGriggs13/status/1944917945844662466
@@ -116561,7 +115804,6 @@
 206953bf8d89115ee5797e20b4a16025,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 206a3097f7147a82f5ae570a85e99ce0,5b646948-f79c-46e8-a53f-32abc0a8ab16
 206a8db9d28fd4563a39ea493e1847f1,defe99ff-e92c-4267-b446-0686d2c00559
-206d49ade776e2fe05a90a0b325730e1d0cabdc1
 206eef1d4c084ffba6fb2e803e7abdd0,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 2071a304c6739f9d22f787dc04b61818,5faf0670-ffa6-4da9-8329-935f9d48a687
 20752b32d599ece4235e184dcda2f3b5,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
@@ -117165,6 +116407,7 @@
 2515d7381f0c7128089592752dd819df,c279be56-bd74-434f-90a9-3e6f51dc2f48
 251671f59583d9d8dce7f2b0e0b9ae86,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 2516c3484106eafda127a8574967a957,56ca4a6a-a7fc-429a-8768-4c0f9062e56a
+25185dc12be843ffc0fafe2ecc4d961d
 2519d9334ad4cab7985fdafd0a6f70ad,5faf0670-ffa6-4da9-8329-935f9d48a687
 251b6ea458711db36241cfc6481684ac54fe83cc
 251b9b63969557bca582f4ddd96f462c,c5107fff-968b-4267-bc27-cafbc6553d1d
@@ -117384,7 +116627,6 @@
 26c4612daf4bbe040306c7b0eafef7b8,71bcb1d9-d25d-4faa-a9b7-5f909c325fc2
 26c65e89955498e7f730896b2a3faf92,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 26c6edb6d0f80915845bfe509c70ea3f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-26c8edb01d3db568639f145ce286ebb6
 26c9e8121a45b2f97f499916b053b974,f65efb02-c563-44a7-9036-516219a24243
 26ccb7027d7bfad98073dd357316143f,602ceed3-9144-4262-a1a5-30fd0aba047c
 26d0598984431bc2992c6b67f3ec0cd1,f65efb02-c563-44a7-9036-516219a24243
@@ -117891,7 +117133,6 @@
 2a9be8da836a07f3c027e65ceac99c35,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
 2a9c5f5350306310dd8d0e7486c5423c,ade7298a-84e8-4dc8-9cab-c215cc771629
 2a9df22fc825204511515b98bdca8151,5dc5cc9a-ce6c-4138-9afa-a37bc0a8ab16
-2a9f3be791f1962b081dec7f9300b701
 2a9ffb03ea7db558be2ad9e193e57d3d,5948b857-278c-4b90-b08d-53a1c0a8ab16
 2aa11757de804f22aee244732d66e2ec,f65efb02-c563-44a7-9036-516219a24243
 2aa5d893bd6d073a8f04928accf56d6d,c8255e2a-36b1-4d59-805a-aeb73aa8e929
@@ -117958,7 +117199,6 @@
 2b0c19530f8691e73d494f1642a16061,56cce206-fc70-436c-881b-52819062e56a
 2b0ebfe1cde9e612ad7473ff5a9710d8,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 2b1151dc48105fe2a89541a91a903aab,c9aed93d-4023-40c3-92a4-7e8607cd6cb6
-2b11e2a1a34f186e865f9246fe798203
 2b13ee52a2cf58af3a613aac23b36dca,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 2b19dfdd3f113ec369d669b39dca8b7c,56caac73-ad4c-401f-a8e3-52819062e56a
 2b1a5a0f311bec2cb99db001552b3feb,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -118273,7 +117513,6 @@
 2d9fc803f0851fcfb048ee8cfd9d5fad,a80e5be0-fedf-4d0a-b364-58e22b936b94
 2da00de67720f5f13b17e9d985fe70f10f153da60c9ab1086fe58f069a156924 # sha256 - The Chrysalis Backdoor: A Deep Dive into Lotus Blossom’s toolkit (479)
 2da5aebc8c34d6c173507395f014e42170eb2d73
-2da7c2f0e434b4b887a162f5b733e405246a4b87
 2daa65c08c7dd46f5ea776e445cd5354,f65efb02-c563-44a7-9036-516219a24243
 2dad33e8836a5fe2648b53c35ccd106e,a80e5be0-fedf-4d0a-b364-58e22b936b94
 2daf5b084a2b70b628598a9f78939a80,b891b584-a5bb-48d5-9b70-95cd02ac544c
@@ -118570,7 +117809,6 @@
 3009921bf2f3e29886d662b2f7a4a784,6021536f-a808-4b9c-8136-d7460aba047c
 300a9fe7e0b8b25151ae0d04ed5b15c3,56ca4a6a-a7fc-429a-8768-4c0f9062e56a
 300ce1cdcefbeb8a02f126d35b794e8f,f65efb02-c563-44a7-9036-516219a24243
-300dcd73582cb65e0dd212a4dc335b6e
 300eba1876952076abfaae5e4613cb00,602ceed3-9144-4262-a1a5-30fd0aba047c
 30108f25486e1c68f5a1a86b97bf2d37,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3012060f1abe2a5f39c773719b45404d,f65efb02-c563-44a7-9036-516219a24243
@@ -118985,7 +118223,6 @@
 333e29e80e4a27b16bb065c2c852c3b7,56ca46f6-44ac-43bc-8898-4a5a9062e56a
 333e29e80e4a27b16bb065c2c852c3b7,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
 333f49a47c83a37fdaf33f4d7db56822,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-3344d2a2fbb99f42a6fe494b45961e37
 33452e2365f5ceba4a62808522f061d2
 3346f96547953c3746e66023a4c3f99c,5bf300da-6438-4372-a069-0b7b0a016219
 334ac01c634c047843ca092ea8b74be4,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -119151,6 +118388,7 @@
 34b9bdce98097a96d2cec1d35c71a1d9,595df32b-59f0-4cb3-b235-52e3c0a8ab16
 34ba1accc1d3c1401f850298a0838187,5eec7d77-302c-45b8-ade6-c3d20aba047c
 34ba1accc1d3c1401f850298a0838187,6021536f-a808-4b9c-8136-d7460aba047c
+34ba6ed6fdcf11e71f689efe8e8bb5d723339125
 34bdb36c8fbecbe0fd6d262992a018d5,7c045c5e-dd4d-4cbc-b654-0866e380a521
 34bed458325ed7defe12bcb826756fbe,0b6a1b71-fdec-479e-9736-aa84db3aa8c8
 34c1792ae90ca99f85ed0cd5eed57bc3,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -119247,7 +118485,6 @@
 355c8fd1c755a10bcbb760e9eaf448e0,5faf0670-ffa6-4da9-8329-935f9d48a687
 355d58fc3e45f65387d86cdc6d4172bd,f65efb02-c563-44a7-9036-516219a24243
 355fa1f2cd973d39900747af90d840d6,f65efb02-c563-44a7-9036-516219a24243
-3560fe2da909cd41a9d7e821569e4e36
 3566abf1b4da717939026ff46c085863,03be663f-7037-4f68-a96a-362036e75637
 356acf4efc5a9ee344a57cd4d726ad40,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 356b07e088e3e2b2ce9bd59e49737435,f65efb02-c563-44a7-9036-516219a24243
@@ -119261,6 +118498,7 @@
 3581418ba6383adaa6429d61930ebba1,f65efb02-c563-44a7-9036-516219a24243
 3581feb091dc3120aeca5a9632196178,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
 35827a8c7a39120b356f17493ad0423c,5ec81ab8-326c-4e96-91b8-68d10a019371
+358384aae58436d917a51fd7ba58561c
 35839c392556ab6ee70de42b5720c5b6,5b9a1334-6460-47ad-b561-32aac0a8ab16
 3583a47790319f0755584f1e611543a1,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3585f0fc9f02aa67baf4662c77972f57,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
@@ -119454,6 +118692,7 @@
 371d8a7a9b720634cb60b8004de6e074,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 371df227d3c4d5c0bfa82988be8a16d6,5faf0670-ffa6-4da9-8329-935f9d48a687
 3721971b0b8df8b0aa80cd458e7a76c2,f65efb02-c563-44a7-9036-516219a24243
+37256779c143820d7c2641ff7a0cc9e1
 3727ab4461d3cdb7016cacc9fd5f5641,5faf0670-ffa6-4da9-8329-935f9d48a687
 372b4805fac82b6978ea0c04c2782a1f,5eeb995f-c570-4242-94c6-79870aba047c
 372cd576ae2c393a2b3000e0cb95a6ec,662689f9-8510-480e-9e08-e3de0abe1822
@@ -119919,6 +119158,7 @@
 3abf1860374ced61d4becdf79ca6337c,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 3abfaad3d66dac6ff1a8da5f77fa6795,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3ac05427f67021e9ab6e480da67a4d09,ade7298a-84e8-4dc8-9cab-c215cc771629
+3ac5c1de798e1402dbb13e9b0ec14ae6
 3ac6cf5064834714f52c7614d7e54a84,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3acdcf04b876a1134c4613789a5371f4,391357f3-d319-41f8-8525-ce2b083097b6
 3ace4030b024d61e0dc2f4fcf57884f7,5b059df2-6e64-4971-96d6-0f8fc0a8ab16
@@ -120011,7 +119251,6 @@
 3b717fc39a8f8bd33d3ec5b0b5c3e30d,5877be48-e4b4-4634-b002-0799c0a8ab16
 3b73b2cd2dc57aff8db0e14aa1db200c,5818d672-8ad0-4d07-b0ba-0a59c0a8ab16
 3b7c9d21a944a877182cfba6f635676b,5bf300da-6438-4372-a069-0b7b0a016219
-3b7dae4633680569b2e8f24f2a259d30
 3b7e5148d9fdbed4bfe17fd99bac40a6,0ee87fb7-783d-40f5-824c-a334283d3809
 3b89150a50c925db2766092b759856ef,f65efb02-c563-44a7-9036-516219a24243
 3b8928c78c6b230e493d2f655392cd11,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -120107,7 +119346,6 @@
 3c23b2635d7b360189fdbc49070670cd,f913a9b4-f577-43d5-ba87-f4b2a40eda1e
 3c254774e148c890a113a01725e42684,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 3c26bb6493bb6365dcb38a415064a449,6021536f-a808-4b9c-8136-d7460aba047c
-3c298db49e26f369e361ce7436a92a7c
 3c2c8d5dc22cf1b8f0637f2c96adba8a,a80e5be0-fedf-4d0a-b364-58e22b936b94
 3c2d55d5bc2753d62c4768832f0407e4,f65efb02-c563-44a7-9036-516219a24243
 3c2dd4feb984823cbafa3bb55fb3faee,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -121413,6 +120651,7 @@
 46525108e4e53151c31bc11741f21936,56d74357-dd84-4512-895f-5281c0a8ab16
 4652eb5b1754e6dade1681da3e1ceb15,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 465b3749511e5c6c4e00f67f7cf4cced,585822f9-9290-49f9-b036-04e4c0a8ab16
+465b707813253d90bfe72eb8a24797335c5bcec1
 465cd1848443fb2c02286321171a791c,9ca40e0a-5249-4de0-885b-aa85bb7414c3
 465e0595f0a61be2707449a82d369cda,58408896-9290-4af1-8bc8-0b29c0a8ab16
 465ed2dd60494a9efd29fcef3aa0137c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -121654,7 +120893,6 @@
 482649e947706593c8ff28aca80e023c,a80e5be0-fedf-4d0a-b364-58e22b936b94
 4828088c4cc283025ac0e3917cdcffbfb1bbcdd1
 482963c7fc2010679b381e8d89026117,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-482f1b4019f9f65447da3a74bdce01cb
 483156a626a16c20832b5933c25caabe,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 483265996c8692274390429c53c65539,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 48331cce22af8631ebda3fab2f6e6b3e,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
@@ -121831,7 +121069,6 @@
 49b190635f662fea0969dbf29ef578a4,f65efb02-c563-44a7-9036-516219a24243
 49b19b730c2e2ec1994c7ac1b2d4be7b,96f83b68-7df9-4274-bf6d-289c32553884
 49b2cdacce1fc027c7874c02d113a055,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
-49b43eb336165cf0c8f619efd73ab6ff
 49b5a9a2a2a1f33689a29b7407146a16,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 49b5b2b40173924343708fa0aa06bab8,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 49b62a9ffcf410ec55bd7875e2438ae8,0523f6aa-38b5-41c5-aef0-e37a6eff7e9d
@@ -121944,6 +121181,7 @@
 4ab0622de30d9cb7067eb4716d025e68,5d3f036b-0f50-4499-af4c-695a0a016219
 4ab477ca1430e0da35dc7c41a380b9f4,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 4ab4924c873ff0b3e13a0d594789ea27,c9aed93d-4023-40c3-92a4-7e8607cd6cb6
+4ab5197c559d38f2d4886d00f7140b09318bc5ca
 4ab6cd7820b872de324bec067e747b30,0ee87fb7-783d-40f5-824c-a334283d3809
 4ab9bb83ce8ca9d79b934e7327954714,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 4ac10fc071c5e5bab0fc05aa617584f9,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
@@ -122660,6 +121898,7 @@
 5015f5bbc6cf899fd5ff76436217872b,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 5017f443645bddf11efff095e35024e7,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 501a46cef7103d604ada73a82dab6d72,f65efb02-c563-44a7-9036-516219a24243
+501d817bb1780acfe5e47082c43472bda8068e4d
 501ebbf546dda030973cd250fee44f3f,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 501ec3f6cc1bd4c20492ffe38a53aaca,5e5b9ed2-83f0-4a84-9356-a05fc0a8ab16
 50244c86ce6df0a9478537b907755c05,cc55d271-bff7-4045-b449-ee50dd0149e1
@@ -123054,6 +122293,7 @@
 531e5992b3c65532afd637beb21c9201,602ceed3-9144-4262-a1a5-30fd0aba047c
 532035dfbe515cee0805e3a4bad50bb7,f65efb02-c563-44a7-9036-516219a24243
 5320c93e63d7d49003b1664a2ac33358,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+5326a44ec0f00f84216aa19b74a20cbe64d048a3
 5329d94b236c33c2314ac1a9d2cea3d2,5d3f036b-0f50-4499-af4c-695a0a016219
 532af7026091f1b8eea917ef49903baaa68aca440b334cee8ac22ec7c56aae62
 532d8085c489102bd9c940dab371cd65,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
@@ -123303,7 +122543,6 @@
 54f9143032ff9830e97ee887cb38e2cd,5aa80665-f728-45e9-b232-42f8c0a8ab16
 54fa104d98034546da62aff203d547f7,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 54fb9093b31a07ecb7d061ede8d2b015,a80e5be0-fedf-4d0a-b364-58e22b936b94
-54ff820879e45c2ab978072a3d3e07f2
 5500797bc6848984105a542a2b3b0db5,7a4afb4a-3eb1-4966-9c25-7e1ce2b1eb74
 55011e82e1e6bdfb4d1a472351d2b8dd,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 5505bbf57e411105651d40cebc22affb,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -123634,7 +122873,6 @@
 57792352ef11e40b63162a9fba738477,ac24b30a-6a23-4160-a9f5-0bab4a7f5d64
 577a7aa9ad246ce3e8fa1f2a4f096d32,f65efb02-c563-44a7-9036-516219a24243
 577a8b4eb6af8fabd4d2226f69e1decb,636fd943-5631-4cc9-890a-4f400563533c
-577b27e83dd4ec7aee20de298ce7ec61
 577bc67b5e4d3e39acfb117c6da9e7fb,abfb5a93-e695-4ee9-bc10-541290bcd663
 577c82724357b467d15f5c1211e13bc2,f65efb02-c563-44a7-9036-516219a24243
 577de2ec514a9b5d43ff6dc059466f0b,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -124122,7 +123360,6 @@
 5b2a53b18e17346577881b14159ddd11,f65efb02-c563-44a7-9036-516219a24243
 5b2afd18a8e4a046465fe02aa02c9e06,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 5b2ba52fba346de278d493c1e0aa81d7,5f573f53-5ac0-44f3-9756-d686c0a8ab16
-5b2ed9c729b4a0915bda302c023e0478
 5b32b97d00a07b70667dbeaf4ada702b,a80e5be0-fedf-4d0a-b364-58e22b936b94
 5b36a652017bd487147e285ed92151b8,56f713e2-cc14-43a2-879f-e46dc0a8ab16
 5b3a3c226d1aec299bc6f9c0da2076dd,f65efb02-c563-44a7-9036-516219a24243
@@ -124139,7 +123376,6 @@
 5b53877bd0de2f144232b010806f6fc8,f65efb02-c563-44a7-9036-516219a24243
 5b55c55440660ded5f9dc704c2fc946e,f1dd9c3d-94ae-4da4-8ef3-d967315f9810
 5b5e1b2b394b8c93359051f70de53784,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
-5b5eafc41ae7df6adbaa8f81744f1345
 5b5fb95de449cec7f51ec15bd1ba6c13,5faf0670-ffa6-4da9-8329-935f9d48a687
 5b5fd5cd76ff2e6f8698dada9a001fca,602ceed3-9144-4262-a1a5-30fd0aba047c
 5b5ffc7f6a61a21b70be28537a577135,5de61dfc-1be0-468b-9a7e-9c81c0a8ab16
@@ -124253,7 +123489,6 @@
 5c32f1c3d536262ce9bc2bec48483ffa,c267101e-b5be-4d49-86e0-ebe32837a2a9
 5c3677de8314ce7a1b9323e3f00746c2,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 5c37014af56f99b548deeed3f88f7a41,64be448c-53f0-4e74-a53d-4c3d0abe1822
-5c37dece23cd71c31c8c38d7878ede04
 5c3a8e94e37f4568b37f3a4f0320943c,56ca49fd-632c-4cd5-a66e-4c0f9062e56a
 5c3d9dc8706a50ae86707209d3ede260,47d6a201-507c-4cb0-904e-2acebcd59a69
 5c3e7e3c4e2f269a35adc5a204dccd99,f65efb02-c563-44a7-9036-516219a24243
@@ -124618,7 +123853,6 @@
 5ef5e690afaae13c686f372d07295faf,97daee3e-020b-408b-bc9f-b058d42bb746
 5ef61964437e0967628abea6f2676551,313eb1b6-1b2c-43d9-8bc0-be422cfc8b45
 5ef7b0757704831fe623cd9b4b95b482,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
-5ef80e31e8bc8ecdfb068d8d354c47af
 5efb575c71d7f48f003f6886074b2c63,cf410edf-b437-4efa-841f-6106f07454bb
 5effeeaa283f041aa4bb792849198f98,585822f9-9290-49f9-b036-04e4c0a8ab16
 5f00c687dac5bf1162dc68f97b6aecf4,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -124725,7 +123959,6 @@
 5fe4269b2b7f0da5a1b1e7eaa06f355b,a80e5be0-fedf-4d0a-b364-58e22b936b94
 5fe4503eb4df307dd136a4da4ab4b9a9,56ca497b-9924-4031-ad3b-4bad9062e56a
 5fe5c6e552e6fcff5873706a5189f2f0,a80e5be0-fedf-4d0a-b364-58e22b936b94
-5fe6f33b10b8b0189af54bb5cb7a4fa3
 5fe822a53bd59ad8d3952656acc35312,70ae0c90-43d1-4efc-9e24-4a8dc86c1725
 5febd9681ff432709572d80eb21d1a08,e46d4b20-b44a-4896-be41-0f4f251cde6a
 5fef88ff7f4aff0307cd64ec20995735,e1e5d5e4-8405-423b-af90-bce32e20c37f
@@ -125068,7 +124301,6 @@
 62a71798014bb340341623ca3c8cdfb6,3f5f50b6-0690-4a3d-bcd7-e5d3ad846385
 62a86321c449bf1ff1bb2eacdb15893e,f65efb02-c563-44a7-9036-516219a24243
 62a8daafcdc92c798a79d92653d17d53,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
-62a993c8458911147bc76fe10f0de75e
 62aa2c96c998612aa8d1742974e2a687,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 62adc274111c456c023fb5a0b1da980b,f65efb02-c563-44a7-9036-516219a24243
 62ae765024ae1c94238aae0a151086e0,5b646d13-023c-4ac3-8f62-3648c0a8ab16
@@ -125446,6 +124678,7 @@
 658da80fcfe1afd7e35c36232233b788,e365463e-b2b1-4e20-a9cb-c4698edf5c03
 659067b6297f2dfa699d3c361b2ef39a,5ef79d21-7e30-46fc-934c-ad77c0a8ab16
 65934f0f4d4c9b645f26e73b47397e46,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+659379b480f2d3448f8946b0961115e00bfdbce0
 65944beadb39209d7fba3c063cecbaac,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 6599e190d972741eb4016052d3f74ff8,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 659abda73f13f3c0184b7443746087d6,99273d5d-d769-4b15-98b8-d87c6cce7d72
@@ -126019,7 +125252,6 @@
 6a0a813af4b2cbe1fdb018f27efc667f,f65efb02-c563-44a7-9036-516219a24243
 6a0d63a8844c383afa9a8cfa2a1d69f1,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 6a0e50c50a3dd0f7d2bab20754e44335,5f573f53-5ac0-44f3-9756-d686c0a8ab16
-6a0e7ec97110e1ed22527b56c8ad0ce3
 6a0f05f6c785e8de73fc8349551f19b4,5fd0c599-ab6c-4ba1-a69a-df9ec0a8ab16
 6a10b778e4a7f22307da17acba7ec1e0,16ee036b-17f5-4f17-b3c3-9fe89176274a
 6a10bcdc98f8d2f0cfabbb9f654c0d1f,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -126043,7 +125275,6 @@
 6a413b3d63971012e1d22dc03d9e998a,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 6a4239ed49acc686f044ca09d098f677,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 6a474fd221e90dac3bb489be68d8eaaa,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
-6a4a69ba45eb534f7c1eeff75d211e26
 6a4b34b1d286e49be07d3718f5e60ab0ed3aef6b
 6a4b93f8fff91788e75b55d90e550737,5d3f036b-0f50-4499-af4c-695a0a016219
 6a4c1872770f8a0fb6c665c09680c74b,5c8810d4-2404-4772-8a57-47d3c0a8ab16
@@ -126157,7 +125388,6 @@
 6b109f5bea602c3eafb1a904524c23af,602ceed3-9144-4262-a1a5-30fd0aba047c
 6b17f4920600d30c5bbaaf7a39de4631,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
 6b18df325f2846d5b9df29de0ef9039a
-6b196a72f39964a5b2e532d2fab6820f
 6b1a0d299d9753aeca3917e5bbfa3715,feff0215-623f-44c4-9538-c3220903a898
 6b1a8d00b7b98735785538eacea5393a,56cce169-b2e8-496a-a5b8-52849062e56a
 6b1daf1ead8753829d61de3d07f71b60,5cb5730d-220c-46d2-bd20-07fdc0a8ab16
@@ -126714,7 +125944,6 @@
 6f7ef057d5fce03d3714b5c7faf4d5f5,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 6f7f233ed0cf5eefd11b6c8806a103ec,662689f9-8510-480e-9e08-e3de0abe1822
 6f7fde56ae4242b5416a805e603137b4,a80e5be0-fedf-4d0a-b364-58e22b936b94
-6f809907dd8a9bf3181723bd90fcdd16
 6f80e0c8c34966b4ef3d5db9e45d8ef8,5d3f036b-0f50-4499-af4c-695a0a016219
 6f8467945101b6c26fe8477ba5f3267c,7f79ab3b-6744-4857-85a0-ec2803a67372
 6f86929456f02911f1f592ab8a103464,8dbeaaac-a671-4a02-8dab-5eec2a1c935b
@@ -126779,7 +126008,6 @@
 6ff86f100ad9028f23c1b1984d6d21e8,a80e5be0-fedf-4d0a-b364-58e22b936b94
 6ff929618d53e64e153cc9c857188902,c2c954a9-9c9e-44c3-ae69-8ed3441d2316
 6ffb0baafed125b8c6e71cda27850e7f,a80e5be0-fedf-4d0a-b364-58e22b936b94
-6ffb1ed819c93955ed7d936febd87e01
 6fff3eed4496c81f8b385facb4327f8a,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 6fffdbd326004c2b6126f803cd8a0a60,602ceed3-9144-4262-a1a5-30fd0aba047c
 70009e08382726fb3c47a8421e8a8e21,89c7d350-43f3-4aa9-ab02-c50d70339baa
@@ -127089,7 +126317,6 @@
 72582fd4f4cf37ddf576f46330bcbbb9,390d27ed-5268-4eac-a3a3-768903fa5c1c
 725d1ac2fe7e45b622822f81c1342390,f65efb02-c563-44a7-9036-516219a24243
 725d3964a853b185f29db8b27dd0ed3f,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
-725e5268a858809158833edcf68694ae
 725ffbfae3bde21fef6bf1f102cbacdf,f65efb02-c563-44a7-9036-516219a24243
 7260fa653a5318060263bc0d6f1b4850,34582dfc-d0bf-403d-8419-2d4fa7a76466
 72621bbbe843ad52a1b561a9d99c1567,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -127315,7 +126542,6 @@
 744b69eb9beb7f69ecec16f159d8a0ff,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
 744dba19b269cad9c94441a88cad607d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 745259a1220173eda59b857cd56fa743,45b9a29b-abf7-4343-bf56-b71e7f9d9279
-74537c95e295243f30cf1f184c55cb55
 74551c244263f5469799b20cd262d769,f48f7c30-fe6f-4854-b27e-f86a308da714
 7456bd8a1a137573b88dceaff30b45d6d3a771fde845f5ee76ef8ff07c8750b9
 7456f5f912873073479c5724dc0c73ec
@@ -127807,6 +127033,7 @@
 77f0314b20cee6631ca6dcbb540b9178,5d3f036b-0f50-4499-af4c-695a0a016219
 77f033fb66d65830af1e86d45f97556b,5a2b0fe8-6900-412e-a9b6-2facc0a8ab16
 77f2330f91a359130d5e53f4895e3358,f65efb02-c563-44a7-9036-516219a24243
+77f27dc069500cc7080abee3a24576a2
 77f378d6e856e4041a5613b1846ebb5b,f65efb02-c563-44a7-9036-516219a24243
 77f5c7eb42e3dfb3a477174345e6a60b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 77f7317070defd97be197e16c7075fc8,5c8810d4-2404-4772-8a57-47d3c0a8ab16
@@ -127837,7 +127064,6 @@
 781d8a08e2c91820b7e93444b25263b6,56ca46f6-44ac-43bc-8898-4a5a9062e56a
 781d8a08e2c91820b7e93444b25263b6,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
 7824afc53b1870e5608a7649d70c1015,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-78282642485a9383f82d6cba66e5b915
 78292946d7535d642669450f731ccfd4,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 7829c91d2fa4d6a3140a7fdb7f093f92,e6681fba-80de-4064-bf6b-dccfe4ea5e20
 782a7ab7f9b2ac2ef6ff843c952eff99,6021536f-a808-4b9c-8136-d7460aba047c
@@ -128504,7 +127730,6 @@
 7d83dd54607015e2a30f88607a4c5115,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 7d842cb5356f20116b2e2cea12598a3a,0b6a1b71-fdec-479e-9736-aa84db3aa8c8
 7d8532ef7a214ac2cb4023f270f04e3c,0ee87fb7-783d-40f5-824c-a334283d3809
-7d8725e600878bf843a2bf6e84f5389e
 7d8a4fb11738d1fef8a4ab24c99ef662,6021536f-a808-4b9c-8136-d7460aba047c
 7d8afaceacf335409e5b1f05ed2ee7bf,f65efb02-c563-44a7-9036-516219a24243
 7d8c66902a33b2b92cf45529c53c1e14,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
@@ -128887,7 +128112,6 @@
 809b5838a5f3405a47b88f6f54bb61a9,56cce206-fc70-436c-881b-52819062e56a
 809f4b35b41b56cf7d0927899688891f,5f1d893c-e2c0-4b44-a767-cc46c0a8ab16
 809fc784b0d6d0b92ab9dd09d4026447,5c93da7f-9924-4959-9120-46edc0a8ab16
-80a0000c25616e460d0602be0b01278c
 80a1637143c7aee55f84137843ea12e8,f65efb02-c563-44a7-9036-516219a24243
 80a2ccbfda784628ba2ab61c798cbd9a,f65efb02-c563-44a7-9036-516219a24243
 80a3c623d586b1b1283a0ed9a6624fde,5e7a8ebc-c808-488e-92b1-ad77c0a8ab16
@@ -129233,7 +128457,6 @@
 834b396ae7b447006d61e95f1304f7da,65df11f4-0cf0-4f14-9c7c-4ef00abe1822
 834b396ae7b447006d61e95f1304f7da,9ceb0659-15fc-4732-a8ef-bfcfebd1f068
 834c1cd2cd94dec29186b1a21b2ef0d5,c8255e2a-36b1-4d59-805a-aeb73aa8e929
-834dd32cecfc5f7bb5209aedb7954cd7891c9bfe
 834e5698ce70c83939d83e3b474c7ee6
 834e70ca4a962cd2acfa20735e2fe0f8,5c94adad-f4e8-4410-812a-604ffa9137a7
 835013007cfd79d93153ad3599a75303,9ca40e0a-5249-4de0-885b-aa85bb7414c3
@@ -130729,6 +129952,7 @@
 8ef833b650e70a683ee46923dfb06b8b,56ca4a6a-a7fc-429a-8768-4c0f9062e56a
 8efb4a8c4d5fa55a5d761904ac9fca20,5b444853-db9c-4206-8df8-203ac0a8ab16
 8f0007c9ea785c81938a9bab0e02d6f4,5fd8a8d4-9d60-4620-bc24-e430c0a8ab16
+8f000dbd7cc73e8857d42a3c7c15676305af6889
 8f03ccd43ac40d4efd7564c2c634726e,5faf0670-ffa6-4da9-8329-935f9d48a687
 8f042c467aa576c152f60972e1583cf8,60f6ea57-5534-4866-9677-44650abe1822
 8f04f0f4e7bc0fae4d7b72bac01e2e48,570bbac3-f198-4bae-86ff-080bc0a8ab16
@@ -130784,7 +130008,6 @@
 8f662b4db99c5c3612f6ba1c1c880161,e41e9a5e-11db-4999-bae0-0cc159299e3d
 8f671343c5feaaf4160c5f61f4ec1e69,47d6a201-507c-4cb0-904e-2acebcd59a69
 8f6781d409719159ed129b66e9dec69a,585822f9-9290-49f9-b036-04e4c0a8ab16
-8f6f3bd2c1ceabf725f2b76f5268f68b
 8f72dab1a9de720fde278e2cae9c4929,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 8f7d9881ae00e9b8f97563e6171be8a9,f65efb02-c563-44a7-9036-516219a24243
 8f7df649db4678c6f724736b4fb46659,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -130793,7 +130016,6 @@
 8f8297759c03d8098cc69ad4aa852e55f28c5406
 8f86a6ed9fc01d8e82e35b2e3485abb4,56ca367a-5a88-4925-a309-4cd69062e56a
 8f88ff7a24e73d43a02d226e3c620a13,c5107fff-968b-4267-bc27-cafbc6553d1d
-8f8a98d2ef561febb4df6b5624934631
 8f8aabeb4c7a659f6df717f01cedc9cb,5bf300da-6438-4372-a069-0b7b0a016219
 8f8ce68d56502dfa6357e006260b8b4a,571a5777-6664-46e9-8748-1478c0a8ab16
 8f8dfec4a976dc9d2fa66692c4499ad7,f65efb02-c563-44a7-9036-516219a24243
@@ -132139,7 +131361,6 @@
 99ad8af3ef96e0a82385aa98059e0e3f,390d27ed-5268-4eac-a3a3-768903fa5c1c
 99ae9007828ddd1b807c42d0f87bbcb2,f65efb02-c563-44a7-9036-516219a24243
 99b0ed32c05b92ee66d7041d3b3d5f7d,f65efb02-c563-44a7-9036-516219a24243
-99b1a3725e47d243674aca3049bc5798
 99b1d6f819af54cd3ce1c233e8c29477,5c8a8971-cb7c-41dd-a7bb-413ec0a8ab16
 99b1f60ef1d9eacbd69cd62d0d7d1520
 99b35a6add2109d782e8343b49bd8b7b,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
@@ -132464,7 +131685,7 @@
 9c50cd74407ea1f630b6204bc239ee0e,602ceed3-9144-4262-a1a5-30fd0aba047c
 9c54b482a9bae3dfbe9173290d651e22,65df11f4-0cf0-4f14-9c7c-4ef00abe1822
 9c54b482a9bae3dfbe9173290d651e22,9ceb0659-15fc-4732-a8ef-bfcfebd1f068
-9c583f72bc00f268c8429f093ee982b4
+9c54f41ab10bf1d34af26cec543ce8ae33408d95
 9c59c7cba01743bedf2ed1ea0f572faa,57a98a69-abbc-419b-bb34-21cfc0a8ab16
 9c5b39cc2210250aad19618e6226d3a5,21db8eec-8797-439d-94c1-4de8a6dac7e2
 9c5c4c989e7f3bcea1f9ddc39b361c20,5faf0670-ffa6-4da9-8329-935f9d48a687
@@ -132926,7 +132147,6 @@
 9fd5e3f33f2f48917228dba478065c7e,162c4ecf-58a6-472f-98c9-9cd6d6c08c70
 9fd76acef468d8766f1b48b017126da7,a80e5be0-fedf-4d0a-b364-58e22b936b94
 9fd8c011f2b27b820b161ad51dcdedd8,d003529e-e30f-4233-a45f-22104cd9294c
-9fdafbb5ec9e33997eb460549627049b43fcf8a3
 9fdb31a1fc62640a858e52a1d04c7e90,602ceed3-9144-4262-a1a5-30fd0aba047c
 9fdbdcbdee0c142edee29ca6fcfc92f2,f65efb02-c563-44a7-9036-516219a24243
 9fdc8a6513bd72106fd7f9be7f04f661,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -134259,7 +133479,6 @@ a601f3de5169c9dbc30c93acee7b4787,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a6022a3161e41ee2b6a23ec04ceb0a90,5c94c07b-0944-4adf-9395-4e9ec0a8ab16
 a604cd671e54bf8f41a5791c6070fe45,31685ccf-84b1-4db8-8f3a-87d84edbf74d
 a6082225b1515e3d30f2818011d9c451,17a29b8e-11ca-42f7-9adf-886a25412b77
-a60c9173563b940203cf4ad38ccf2082
 a60dde6dbd826385738af7ea576da6ce,5faf0670-ffa6-4da9-8329-935f9d48a687
 a6104e308635e5899f1026a6fa567a87,5f1d893c-e2c0-4b44-a767-cc46c0a8ab16
 a6124a0db9b35f49bd3bae76f304ad9d,b891b584-a5bb-48d5-9b70-95cd02ac544c
@@ -134780,6 +133999,7 @@ a9efa0f5d1543fcedb01c3c66015ee88,496e1602-ea94-4556-b4cc-9a11a54bd730
 a9f0988e092d6026c8b343c47ff6ab4f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a9f1455fd23edea481fe9f6681d046a3,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a9f2fb8b3e61cebe7eb85f804506f9f6,f65efb02-c563-44a7-9036-516219a24243
+a9f3c2f26522108317c887d0ac34f76a7b832cd0
 a9f654bcdc4ceb9984d850ff958d0fc7,5ef79d21-7e30-46fc-934c-ad77c0a8ab16
 a9f6f3d98233f1353102e9f6fb30ca60,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 a9f8e5c141ea4417264d16d5ced51145,13456cca-75ce-4443-bf65-90b13f6f7aab
@@ -135057,7 +134277,6 @@ ac356a85ee55a318c4f9194828b03b70
 ac368ea08392e56cd4af1e700e60232c,d81c3a80-018d-413d-9f11-59aa0c67e761
 ac36af27beb5119310fc81b03d7aad8b,8b3e9108-0c15-4e5c-ab1e-57d91ab45181
 ac3818fbdd205e8199b533b130646ae0,f65efb02-c563-44a7-9036-516219a24243
-ac38d648dfc06fef81bafb43769732be
 ac3a9a88b4f2f51a7801ae48a53c250e
 ac3acef72ab486c176c894519ad0afc9,a80e5be0-fedf-4d0a-b364-58e22b936b94
 ac3cd386ada65b4b00498f08c0aa65ee,7f79ab3b-6744-4857-85a0-ec2803a67372
@@ -135328,7 +134547,6 @@ ae5f5ec992a71083131e8ea6961273eb,ade7298a-84e8-4dc8-9cab-c215cc771629
 ae609fe6b3db439d8589ba5ee1c02821,602ceed3-9144-4262-a1a5-30fd0aba047c
 ae60a15a6b51ce9b04ff1f0325532670,f65efb02-c563-44a7-9036-516219a24243
 ae66290d8b2f786f8696dcc6282b3ea6,5f573f53-5ac0-44f3-9756-d686c0a8ab16
-ae6c4adaf1a49825d656e1523e0e45a4
 ae6d1766c2f6fd79a947f19a9dc8026d,a80e5be0-fedf-4d0a-b364-58e22b936b94
 ae6d5c74dc765f683db951431bd5b660,5af9af43-7468-4b56-be4b-411cc0a8ab16
 ae6f426176e85551e61bdbc95cd29c39,abfb5a93-e695-4ee9-bc10-541290bcd663
@@ -135482,7 +134700,6 @@ afac2f3414146f23409b3025b08a8b396ae457e8f0ca7fb6e6fd32c2942afec7
 afaf588eeca867b64f6b32e8317d2d50,c279be56-bd74-434f-90a9-3e6f51dc2f48
 afb33c88f1f908285b6676553cb26269,f65efb02-c563-44a7-9036-516219a24243
 afb6353099523b9d1c736056b19709ec,5faf0670-ffa6-4da9-8329-935f9d48a687
-afb638027b08ad1eade161500f137d3f
 afbeeeaa7952579bc73b5d220ef1a828ecfdb62b80e339b007f07c82c60ab6da
 afbffa08d065a5df90777397547f3055,a80e5be0-fedf-4d0a-b364-58e22b936b94
 afc0d5d75572f33125f3e33048476193,5ef79d21-7e30-46fc-934c-ad77c0a8ab16
@@ -135618,7 +134835,6 @@ b0abf11e068cc6d1d2171e1f6885d859,abfb5a93-e695-4ee9-bc10-541290bcd663
 b0b10703ab6ef920dfd9d6c977562454,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 b0b3da73bdebf47bdef6c34d603d13d17bed0ea12b81cd694ad81f0d27278669
 b0bb54f9f1d6220d1cc2bad27442e328,a80e5be0-fedf-4d0a-b364-58e22b936b94
-b0bca1400f71ae4ab1171f3480ab200f
 b0bd5d2bd64754d2a4bcdfcc3e39ac7a,56caac73-ad4c-401f-a8e3-52819062e56a
 b0c0a88f0450db93513d277134c9cec5,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 b0c17578c2b072d5736cf06c95cee1c2,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -136263,6 +135479,7 @@ b56df866a2326c134cfd645e4d141d4d,5d3f036b-0f50-4499-af4c-695a0a016219
 b56e0c60b6ff2500151d2970137cfd6e,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 b570b38f0777aac7b791a1224a5c6587,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 b572b8c810ac1bc92e638ed84fe68518,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+b572c3298284a33af26c7ca2bfd1d1c9
 b5776f26bf29b9854d69b30973a56bd6,544d142b-7863-453c-a444-b00ab9aba56c
 b578f7b8b733bde3bcb4df7761da5493,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
 b579f7245d2c46a99b21c3dbd1810d8b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -136495,7 +135712,6 @@ b75284a37f4d4b721097be3f2b4c9dd4,56cce206-fc70-436c-881b-52819062e56a
 b754a308d30881fc161beb22a564dc6c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 b75737b06f2b45588be7913a167526bf,f48f7c30-fe6f-4854-b27e-f86a308da714
 b75a271530cbba96323259c98efa7308,f65efb02-c563-44a7-9036-516219a24243
-b75ccd27ea0f2eb5dfd3fe65c2a12142
 b75d66259dbf23a37bd024211a9c5c2a,d003529e-e30f-4233-a45f-22104cd9294c
 b762828a0ffd0fe61c20b1c25f0ef707,56d7dc8a-75f0-44a8-b284-512ac0a8ab16
 b762f8eba682f969f548b1696d198b2d,f65efb02-c563-44a7-9036-516219a24243
@@ -136555,7 +135771,6 @@ b7c7e1f3532254dc6bd698032525e348,f65efb02-c563-44a7-9036-516219a24243
 b7c7e2dfa50925e3baa4bcd0f23231ed,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 b7c87b45c1ede0d2c753782c61ce04e7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 b7c905270bf976fdba1eb06e1dac42fc,585822f9-9290-49f9-b036-04e4c0a8ab16
-b7cb33dcc5cde29a075525a880362e56
 b7cc04fdfd870c91b1b3bb1a05bf04d2,1a41895a-7759-450d-948e-32fdac6d1a36
 b7cd304fc2ba80fc45ad1facb136f1c7,f65efb02-c563-44a7-9036-516219a24243
 b7cfa24b83c39ab91d514a389d087fc0,585822f9-9290-49f9-b036-04e4c0a8ab16
@@ -137017,7 +136232,6 @@ bb683cd503701adc1093c6a3b5aa14fa,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 bb69f30335bb25c85009f287b78b686b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 bb6f680e0e297249ffbb59e52deb9fc3,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 bb6ffb617595c3db86d0c26e1de8b2fb,827e941e-4a99-4e2c-a578-bfcec2d40552
-bb6ffcd8f5c888ddf779505789c631e3
 bb71a39f0b824eb5c4b90d8e459114ac,57b6b2dd-7368-4146-b874-21d0c0a8ab16
 bb723d4e6d56c4bc1122c5a36e4d6ff6,17a29b8e-11ca-42f7-9adf-886a25412b77
 bb725c6febef2f31a78c0d29bfc3c700,72704237-fe6e-45df-9d6f-f12f9cb65dfc
@@ -137103,6 +136317,7 @@ bc1ff14a5de8ca7cf4d06f184975ba2e,c5107fff-968b-4267-bc27-cafbc6553d1d
 bc2297f06dbddcbfee8fb542ef003f8113932ba8ed40dc2f4da361fb94723956
 bc23bf0f2c71b9772b9604f21e8f316c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 bc24084668d6b4c247e2b59eed00c61c,56cce206-fc70-436c-881b-52819062e56a
+bc2806375478ae14812583990535545b
 bc28295c4641206e3c8caf7f288f0407,5a7aaebf-0e28-403c-b8ea-69d7c0a8ab16
 bc2839dcd37b8f0daeb1825ff6a39ba3,5faf0670-ffa6-4da9-8329-935f9d48a687
 bc2992ea93fec3ee3c5515bfa6681c3d,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -137448,6 +136663,7 @@ befc545a728b7864bacd495613a1b6b4c8438e5e
 bf02bd3f34a3f9526386a8fd7eb5d7d58dd30dfb3a1f4767df0ffccd85150180
 bf02cdc4cc586fb35f3565cd499be52b,f65efb02-c563-44a7-9036-516219a24243
 bf03d0fc0b877ee8f5fdbdceff6e848d,570bedd7-4eb4-4757-ae7d-0799c0a8ab16
+bf05b380e38947849ccc7b661eba40b51f126f34
 bf067d93ec4167f73e8da08e9da7317b,f65efb02-c563-44a7-9036-516219a24243
 bf085fd2641e0a6210f4a45f8f2db4df,5d3f036b-0f50-4499-af4c-695a0a016219
 bf0b0c4d0b5ae428e370a7c5b3f20697,cdc842aa-761d-48e2-9b97-c344bed8b3a8
@@ -137716,7 +136932,6 @@ c0d606931e324e77481dd37a155af30f,56ccdf82-bb98-4b52-9c86-52849062e56a
 c0d6fb98d9aa02cb44adbc552a4a3cce,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c0d72468193429ae8b11e71e8e7ebc8d,f65efb02-c563-44a7-9036-516219a24243
 c0d817b641ff46d2b31ae1e81ff6803b,0ee87fb7-783d-40f5-824c-a334283d3809
-c0d94fca477cdc2dae48a0e450a608c3
 c0da1524738d065890dd42675954b105,13456cca-75ce-4443-bf65-90b13f6f7aab
 c0da1524738d065890dd42675954b105,6181159d-d7e0-422f-b7f5-26cc0abe1822
 c0db51427959a778ae20b25cc3a02203,8c44b315-a146-4e13-baac-996ba98bbf40
@@ -137751,7 +136966,6 @@ c10b0811a729655de24379b957e381f46e3fb8b3
 c11543860c4e47f04a9e7304cd03ed0c,a80e5be0-fedf-4d0a-b364-58e22b936b94
 c115693fd98c33529ca29e98f36b64b6,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c1156b4e1ca6b4419639eecb78a479c9,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
-c11703f8e20eb8d7fa890a59873d9436
 c11a60d82978647af8395fef48f48cff,c4d1d3f7-822e-4746-850e-2b77ea4e4c5c
 c11bb369da01797b26aa09baca54c5b2,a80e5be0-fedf-4d0a-b364-58e22b936b94
 c11c8f9f861ba42d06d06d203e435647,abfb5a93-e695-4ee9-bc10-541290bcd663
@@ -137810,6 +137024,7 @@ c1952a290ba52806839ce89383950bdd,5faf0670-ffa6-4da9-8329-935f9d48a687
 c19b9499f060946cca51a804d9e513a2,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 c19e407c5fde838f47bdc3a559bd5ab1,f65efb02-c563-44a7-9036-516219a24243
 c19edf77b836c163c54ae83dfa602f4d,5877be48-e4b4-4634-b002-0799c0a8ab16
+c19f09bd89b19cd3223d0c039c41a5baa7307178
 c1a37746df45f31efd334a532f35604d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c1a3aeee231e6e0602f1ad5c1d8cca88,5faf0670-ffa6-4da9-8329-935f9d48a687
 c1a4ee6639a5351c7fea0ad3c30aa4a7,f65efb02-c563-44a7-9036-516219a24243
@@ -138199,7 +137414,6 @@ c494b0fa7cc28cfef8da7387c747c8ad,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 c494fbf7ef4cccbea2ff83cc76e4f50a,59b940bf-3399-4c52-bf62-d4fd0297b63f
 c495eda30afe4c66d13a17ddd3cd0620,f65efb02-c563-44a7-9036-516219a24243
 c497c116f0ecd29798e055646d2441bb,5d3f036b-0f50-4499-af4c-695a0a016219
-c49a503cc75fab25cae91096abee3899
 c49dbfcf073110cf6cc926643127b4c1,59f835da-4aa0-4a5b-b187-2f0ac0a8ab16
 c49f08bc915ae92dce3a92ef05b7dd85,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c4a0f7655d1985b7756eea7cb994284b,6181159d-d7e0-422f-b7f5-26cc0abe1822
@@ -138596,7 +137810,6 @@ c7f4a1d19012c4f7b7f79c6193863162,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 c7f6389d0ffbd5513aaee8a0423cb354,f65efb02-c563-44a7-9036-516219a24243
 c7f67776fab859c6eeb7d9246d365633,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c7f74f3845fcdf414d45df67e9206b0b,f65efb02-c563-44a7-9036-516219a24243
-c7fa011b194ed96188724806f6e6853b
 c7fb7d4e96023466cc643d382d397f7b,0ee87fb7-783d-40f5-824c-a334283d3809
 c7fc63cdfe538be07824a500981f3980,ab80f623-9311-47db-8713-661271b987c5
 c7fc99d02e99328ea405589c76518662,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
@@ -138980,7 +138193,6 @@ cafab7080aa55ac537a5e463d018811f,f65efb02-c563-44a7-9036-516219a24243
 cafb8c1c64869d738b4a365159d0bd85,e41e9a5e-11db-4999-bae0-0cc159299e3d
 cafdf0df2c339f0e0b8505243398652d,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
 calypso-apt-2019-eng(10-31-2019),Calypso APT: new group attacking state institutions,Positive Technologies,https://app.box.com/s/7vzrq3frrll02n1gx4ssbtljnbgl0h7w,fa36f2632e6b9ff400f8b3ad9539f3bf4a586dec,10/31/2019,2019
-cb01f4ec76967c117d54302d3c7bcd65
 cb02818cc3d70bb10e4fcc98fa7004c6,56ccdcaf-f7e4-40d8-bca1-51299062e56a
 cb0353d82f282671a00c5cc08990a3ae,56ca46f6-44ac-43bc-8898-4a5a9062e56a
 cb0353d82f282671a00c5cc08990a3ae,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
@@ -139920,7 +139132,6 @@ d1fe6549a05f77e4116299d7a9441453,f65efb02-c563-44a7-9036-516219a24243
 d1fefe6e36214b37fecd1f32ef35a3ce,b4a98411-68c8-46bf-aff8-1659046646b3
 d200531462c43f6ed225ec31177b345a,f65efb02-c563-44a7-9036-516219a24243
 d2008813d7fac2bc5bbdbfb245fda351,f65efb02-c563-44a7-9036-516219a24243
-d20432918ee474ce65ac0e67e03cb642
 d2066cbba0dd63cfc9a41919a79fd150,88fc5757-d527-45b0-8666-0f7e3140408b
 d20b0e48b4c106efe44dcb468231a533,913c9100-a765-4b5e-991f-6f8efb485322
 d210083b6f08cf1a476f118e73391237,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -141726,8 +140937,10 @@ df719ce7c80a625bced0d141cbccae54650b14c56c3b7afc06afa0fb8c30f72e
 df71a778a15c254d83614a4781d36b6830d6fa2b
 df73fa2069c77a3bcd10f1b48f9917bf,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 df7845c3dacaf6705229e9f63183f3ae,583fc655-e660-4b7c-b17b-09c6c0a8ab16
+df79c50bb7f1342d2f53b0e92aa61fb8996518c3
 df7f5c7a36c7080d8a7db2ba5347b888,5d3f036b-0f50-4499-af4c-695a0a016219
 df82ca439d1d1fd8aac2c8bb070d437b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+df82e74fbb5bc5ae778b1cc4012b097f1f9a133d
 df86217d135700b14f945f4bebfb3ad1,d81c3a80-018d-413d-9f11-59aa0c67e761
 df869075339a5d90f32e765f526839f6,5ef79d21-7e30-46fc-934c-ad77c0a8ab16
 df8bdacaeb3725c1706ee6f7a23cd880,59b940bf-3399-4c52-bf62-d4fd0297b63f
@@ -142041,7 +141254,6 @@ e1db12a77c0c4a4adf7de927d940eab68cdf5fc0
 e1df2b1b40baf16e92e8e9ead7fbadcc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e1e04c5ea6645b4224869682396f8e5d,5c93da7f-9924-4959-9120-46edc0a8ab16
 e1f4818b9ee7259ae705925ac2081614,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
-e1f6d99e58f8a2298688a56b105644f3
 e1f869f126616c4310811ce44d714813,5c932f59-3013-44a5-8b85-1199e95db3ee
 e1fa89627569304ec09dbe5fbc2a414a,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 e1fb075f1a49bdcb9f188b69a8b64d63,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
@@ -142137,7 +141349,6 @@ e2b7c6d64ea07d8da7fe991236aa2dbf,56cce169-b2e8-496a-a5b8-52849062e56a
 e2b97b30caca292057edf03b8ab8ea33,5eb1b9a0-a1dc-46e9-8151-bcf2c0a8ab16
 e2ba04360a8e2080bb82ec9aad9a5b0a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e2bbe3d98f198b554a1bcfec5e16defb,5f573f53-5ac0-44f3-9756-d686c0a8ab16
-e2bc6884539413778ecb681618bd771c
 e2bd8f3e29f566d15ccff98ab488bf6f,56cce206-fc70-436c-881b-52819062e56a
 e2bf0c363effd71ba037480cf6f8d19a
 e2bfad4f457bd6f4713c05e163433a9d,88fc5757-d527-45b0-8666-0f7e3140408b
@@ -142602,7 +141813,6 @@ e6848016739431860182da03c5fae0f2,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e684eb3179fb9a34a58a889ab6c121ad,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 e6861137b022713e66e7a80cfcfdd40d,5d3f036b-0f50-4499-af4c-695a0a016219
 e68623b18471b32d04a70353ce6c6079,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
-e68799e20298d7fe3a9f631d8628f74f
 e68b7a5ee30f21d58f1ee6cda237e0cd,e46d4b20-b44a-4896-be41-0f4f251cde6a
 e68ebff8dfb51b21e03ba7dbadc705e6,a80e5be0-fedf-4d0a-b364-58e22b936b94
 e6913d46490e2928e22059906ebaebed,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
@@ -142785,7 +141995,6 @@ e810066b155a88c703b9ccd687107aaa79679557
 e8119c3b1c67c644abb6b6bba8ef79ae,f65efb02-c563-44a7-9036-516219a24243
 e812ac9218deaec4eee53bd0b935a54f,54dd4ef7-f7b2-418e-a191-5def4fbb0033
 e8166bd9bd1bb1697b6065307851709f,4154d3f0-5519-4b96-a2ba-9adcff7f7179
-e818302b857f0cd7b9e309f27ac6cab1
 e818d918cf3ba57e91ff1c189f1a4a49
 e81a50ed7ba1d35d58306e2536b14c1f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 e81b5f5bca2614f50be33b46cfaa5952,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -142807,6 +142016,7 @@ e8313e87b04a352d02fa01b44495b2b8,c36977b6-fb28-4a34-b625-7b7d02d609cb
 e833c7f91e4f147781a7984323b96f8e,f65efb02-c563-44a7-9036-516219a24243
 e835be8fa8a2711b6f853a27b4a26317,f65efb02-c563-44a7-9036-516219a24243
 e835cc7db81dbd614bb06b7adc375afc,5faf0670-ffa6-4da9-8329-935f9d48a687
+e83735cd68e2970b807133fa390c2ac6
 e8396bb327760f445d40712c2aa72a27,16ee036b-17f5-4f17-b3c3-9fe89176274a
 e83a5157b4a71264d304325d98ac0dda,35a3073a-9193-4c4d-9b90-caeb2e44c06a
 e83c85a0023ca840552d291293bad413,f65efb02-c563-44a7-9036-516219a24243
@@ -143554,7 +142764,6 @@ edf57754dc44f652384f4601c3657753,0ee87fb7-783d-40f5-824c-a334283d3809
 edf62f27e8874a60fbe568f6194a0af6,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 edf792d942ec203c221d5554e8d77948,583fc655-e660-4b7c-b17b-09c6c0a8ab16
 edf7fbb982c5596268e81a926c5166ab,5f573f53-5ac0-44f3-9756-d686c0a8ab16
-edfa4c6d82c04888a6ea27af738fd924
 edfcbc4c13a2c12c784d071bf7cd5b59,5d26d766-5d64-4dc1-b8b2-0904c0a8ab16
 edfd15b5847f4414932cd61a20a5a3c1,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
 edff6cce1482ea126f64b1d10b38213b
@@ -143612,7 +142821,6 @@ ee780a505be8900bcd57f20d3198c36f,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 ee781d86d666ed24c2e1a6bedd2a7445,56ca367a-5a88-4925-a309-4cd69062e56a
 ee79369ce997bd662f02585c69a7c1b9,0ee87fb7-783d-40f5-824c-a334283d3809
 ee79b02e140ca5b81d35964a2d80e2bf,a80e5be0-fedf-4d0a-b364-58e22b936b94
-ee7bcdd0db0ccc9fc3cebb20d4fb3db0
 ee7defd7b3cb5ca47300c6cf43da2cef,6181159d-d7e0-422f-b7f5-26cc0abe1822
 ee81afb172902f3a010eb3be399c1898,f65efb02-c563-44a7-9036-516219a24243
 ee829728097f75174b3944ddf9206d7d,f65efb02-c563-44a7-9036-516219a24243
@@ -144493,7 +143701,6 @@ f5fe1a17b0191204955b660c81417ae8,60f6ea57-5534-4866-9677-44650abe1822
 f600b735e463956718c0cc13db31d06c,f65efb02-c563-44a7-9036-516219a24243
 f605a5da4b96c0e01250a5bd62c69a1b,602ceed3-9144-4262-a1a5-30fd0aba047c
 f6092939487771ddb8487b589ba7c7f0,5faf0670-ffa6-4da9-8329-935f9d48a687
-f60973dea2cfda6075caaa06eea79cc3
 f60c1ccf766a209e25da86e1feb3ece6,dcf911ee-17b3-4902-aa15-4ecabf2e40ce
 f60cffa7744c2673bab43d7d9eb1a117,5b773e07-e694-458b-b99c-27f30a016219
 f61000287906b954c402e76c8f25c73e,99b108a2-e41f-4777-b535-658294e8250a
