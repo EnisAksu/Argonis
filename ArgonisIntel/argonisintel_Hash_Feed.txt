@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-07-26 09:43:49 UTC
-# Total Hashes: 146779
+# Generated: 2026-07-26 11:49:13 UTC
+# Total Hashes: 146937
 
 "2026-02-05 16:57:59", "1742108", "0cc5e12a8c853308eb008243eb73fb75", "md5_hash", "payload", "unknown", "None", "Unknown malware", "2026-07-26 05:21:27", "100", "False", "https://github.com/TheRavenFile/IOC/blob/main/INC-Lynx%20Ransomware", "INC,ransomware", "0", "TheRavenFile"
 "2026-02-05 16:57:59", "1742109", "c7179071619a575563544065e215423c", "md5_hash", "payload", "unknown", "None", "Unknown malware", "2026-07-26 05:21:35", "100", "False", "https://github.com/TheRavenFile/IOC/blob/main/INC-Lynx%20Ransomware", "INC,ransomware", "0", "TheRavenFile"
@@ -300,6 +300,127 @@
 "2026-07-25 20:42:45", "1857956", "41faa6070b56ee395b5f811008213b03", "md5_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
 "2026-07-25 20:42:45", "1857957", "fda5556e3fa55664509ab396469d00939b0ac6260d01c8cdfbde999ee3a9d0ab", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
 "2026-07-25 20:42:46", "1857959", "731219563f05a61e639b645f4892d6cb", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
+"2026-07-26 10:59:37", "1858160", "672f654f31e91cdb9766131ad3034d1284842fc8b56dc8b4e9a32e925b7f8e95", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:37", "1858161", "f278a86c15f3bf05a94455387178aafa99e4b2aca3e23f1990ff81d22aa0fd0c", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:37", "1858162", "8db1b95bdb5d8aa6a0b2c2357df49e537bcafb65e15582884b2c2588c74963df", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:38", "1858159", "9d8e694d18e3c976b45ada0041ae3f756ef7c795089c05537396dbe89d929262", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:39", "1858156", "06c4ddabac5e976f152f482a47581313fdb95e2cbee564d56279648bbaf5694a", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:36:27", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:39", "1858157", "51c7abd74c3de141108d7f229d2c54df93a1b4f28fb6e95987aa7676e3c88480", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:39", "1858158", "01d5fba3c3906d1fb26a6697644610f0f9f02140720de49edf907091669dbb8b", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:40", "1858153", "4b05cd307e64425075f3f651d3d07c381e87a8846976ca241733a6e1d7f892db", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:40", "1858154", "f105326c65e40d64430bc80c367485295b73d5255164f4b022868dc97b71955a", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:40", "1858155", "1a9a54eb8b3ed707852eace623b935bc687c46d5e0cfa793751e778dacd8b62b", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:12", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:41", "1858152", "a53dd987ba4c34030e10da19431fa7f81208c7ce010ec474bc62ee82dde6fa61", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:47", "1858151", "6491a2ccac96e64a37a5d18e62575b44ba7704159fbe21d06f83b712ba747c9d", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:48", "1858150", "ee56b8f51fd5722918ff2082c0027cc6183429554bcf177ea20b17af7d46a2a4", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:49", "1858149", "333774e3405c4e6ef3a663bb7fe5e9074f03a6c8bb080e0ff3bcc33eec848b30", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:50", "1858146", "9697a161278f262022eb0cd80ac97e2b83349f79990fd6547d452d40cd422969", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:50", "1858147", "96f31f83928d686ac340769de5724dc5046afa568f92bd28dd9afc0f62c506a6", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:50", "1858148", "e0c6b4998e0c8c5e1a18f5af13c236809df2c7b281e8dba1038592c3e6e752f3", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:51", "1858144", "721d764d2d1985eefb42fee9e1e2f05d4f4f35bbec216b952cdad74b0ac90cd1", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:51", "1858145", "07b8ca62d5b394842a09e05d06fa833d51504b69b1085eec49732e65594e5392", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:52", "1858141", "828b14ea14038a29a666d292d6698a6c062a135959b887e97638d7030644c4f6", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:52", "1858142", "589fd8f0b10698888cbd9ea7128c1dfb7a35b02a5493ad5a00a514f6c15016d0", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:52", "1858143", "7247db5cefb311a3315946beb72f6f4469fef639d80541322d7b5f96b940d2ad", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:53", "1858138", "e95a624d496acffdaf87ec8fba2d5e5fc662b5870ce69bc45505434109092bf3", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:53", "1858139", "4017b001b2ed00fb4650bff8bb9e5c6cbaf3946eb6caeec2cb305be9f0439bdc", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:53", "1858140", "23282313ee3edb3443ae8c0296b9b6ddf52501983093fd289f46d99e7d180402", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:54", "1858136", "071ff332e77bc80d4e43660d73792af2e73e0442c66d74edfec3740b7691b299", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:54", "1858137", "70f8e1942b20728ca72e764895633e409858b007f660439c0ce6f671f7070db8", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:55", "1858133", "3086cb4ead9b15f5cf9c83d1e5c2ed9f391f59b4f949c9254f5d8204c364fdc3", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:55", "1858134", "ab876f430096ce1bc90bb309ff27697d8eb24e9c936216f0e73075cdfeb8361b", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:55", "1858135", "c3457390026b6cc4690310f0af06c0a50da4941881ef3d8defab8ad15474d5ed", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:56", "1858131", "77aecba30042e9bd05a15beb18ce5fd4e6ac210526497e29e0d96ced04dee36b", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:56", "1858132", "9455bb699c4374efa2d9a99b5638b62254e630a95c31763b9d043192f06f65e3", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:57", "1858129", "d7c75c5258ea8467690ec1f710415e7f8234491d4873566515f15fb7e5e729a2", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:58", "1858128", "5be43c1ea349a375b4cac2890c7ec19ddd00f57332e625973c680f85905848c1", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:59", "1858126", "8abae386ec6aaa1d1bf03e39f339922053e4b66d7ebbbeba15701d3ecc183fb8", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:59", "1858127", "1cf83070eb9d7bf3365ac845c3902d12918de0877106210c177c05ac95f3c114", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 10:59:59", "1858130", "beff4f493e0e10327b949afcf0dba6c5f6ece7a9e77a550f49c6a0e3efb4523d", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:00", "1858124", "3d798e43f9c486183d6a3890636e4980389da8c84af528b8eef0d5e946f83633", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:01", "1858125", "9b52194d25869ef56f711942d12c067a14e5c15b5c2da1b1b52fe1c1e3deeb68", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:02", "1858122", "4972c60f23b4bb0efeda90b69cf3b6a8ccc00ea489d7818064c6c49b816d54ad", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:02", "1858123", "55c77daaa1ff91b4c58b66a46815a3a768de052121403a0793127f520f879dce", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:03", "1858120", "68a639621b556f8b3e9cdfb694867ce2895a856702fb440f01c1c67aa05ac60c", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:03", "1858121", "1c5080b6fa705f69758a8add633e3314f1953308ff68750be9455340bc91536b", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:00:04", "1858119", "461a9036ea41cca79988c0504c72059af47b5e8ec1a9194d88da5395fe4e452f", "sha256_hash", "payload", "elf.jackskid", "RCtea", "Jackskid", "2026-07-26 07:32:11", "100", "False", "None", "botnet,ddos,jackskid,rctea", "0", "deepfield"
+"2026-07-26 11:06:26", "1858102", "b256dbec5ad85b6ecf4914e055383f6b", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:27", "1858100", "be23d4c6686cfe16d87a086b6761b74d", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:27", "1858101", "c488bff34f30c8307c4bd77e8033c6f4", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:28", "1858098", "e79013e3c200a6e8722152338d22d67a", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:28", "1858099", "4f2d491567a0d54513cee740fb55e501", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:29", "1858096", "92267dab270ffba675bfd0d5d5b42383", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:29", "1858097", "2595305e81047b25d0e470ccb686c948", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:30", "1858094", "2fdef393aa1600a5d76e3a212c2f270f", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:30", "1858095", "845fec7fef2a642a69a372cb3344f9d3", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:31", "1858091", "4023c6b64bafc1281bd8fd4c497dff96", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:31", "1858092", "980556abeb77fa003d513ef726bbfcb2", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:31", "1858093", "6e74871bf502648086094e828beb3638", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:32", "1858089", "1c68214c3be2091c5e3ae3e88723fa77", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:32", "1858090", "5418e8a0495a867b7950777ef33cb7fb", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:33", "1858086", "878cefb9da1b392f40373befc60b6806", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:33", "1858087", "aae8f3426b55889ac84671e7db73e140", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:33", "1858088", "8a275265a27f6426cc9f1ea0b0e24bcf", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:34", "1858084", "9af9bc3540abf90fef52062460d39020", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:34", "1858085", "45452dfed7ff029dae0c9722e4d92449", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:36", "1858083", "38eca0067e68a296b6142cdc9f43f5a5", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:37", "1858081", "38fe1b3ef35fc7a601619a19f89c864e", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:37", "1858082", "b2718b5c6ed6f42e1e36336bca2f5839", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:38", "1858080", "66c9c7e5d750fbf2de34e897687444af", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:39", "1858078", "e3e441f3a4038165628314216ec5b676", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:39", "1858079", "fb14aae2ed93a7ddfa718f433f585735", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:47", "1858077", "f16573ffd637d75aa5c2a8a99ac106cc", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:48", "1858075", "b5baeceef8496957c374b4a6e3008b0b", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:48", "1858076", "41a23093a50d8b9d897b03ba957695e9", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:49", "1858074", "14889a7e231c4884f28aefd592e61398", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:50", "1858071", "80a8727d4f1d05e17521b11b24de326f", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:50", "1858073", "ab65a026cf2c33485960d52de4884fd3", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:51", "1858070", "eb215362b9c55128414c13e22eeeb806", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:51", "1858072", "79952fdfcef93c2f65c2ff0b1c91fa35", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:52", "1858068", "211ea6dcca8b67e44d4e792f7f6a85b6", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:52", "1858069", "d1dcd52a3679608250fee82e27051cbb", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:53", "1858066", "248617dcee576b8f42b3a80ecd172c41", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:53", "1858067", "c58fff066a855f59e77780d926cbe727", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:54", "1858042", "27b8b96a65a38d281dfed160711f6616", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:06:56", "1858065", "da293a6e68ade7fd2258cc4485a619f5", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:00", "1858064", "d1df32e403d1424daa322e21dd1e4d19", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:01", "1858062", "cdf99b5e56d59aa1b1b04758729a702a", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:01", "1858063", "5ebad3f068d50dbe65d541908ab1a087", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:02", "1858059", "d18ef5a6c2bd443864132e5c7feb0c2f", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:02", "1858060", "2cd3dac4b0d7eadb7746246ea86575fa", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:02", "1858061", "6d58562129f8dbd8ca14d1e7f8d3f574", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:03", "1858057", "267bec0f845b4f49610cfe695b63c5f6", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:03", "1858058", "e402c9df4aab1d1cff83ec8ba11a4bc7", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:04", "1858055", "485573e162551f66f776923126e5b5ff", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:04", "1858056", "c6b6543ef258058049b0322ca8b59fd5", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:05", "1858052", "2561b0e8df695e72d17367257d89b52e", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:05", "1858053", "f934aa09fcf6be09d36a789b9a8aef4e", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:05", "1858054", "9adde343f1b073cd9bbb22c33d31ec4a", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:06", "1858050", "79803779790dae11cbbef6500dc53391", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:06", "1858051", "11e9571b4db3772d86ede4a8af1913ac", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:07", "1858048", "092d39b97288886203fa681bb354cca3", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:07", "1858049", "c27dc6e74a7245368dbe1853d6631eb4", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:08", "1858045", "9a7a98916a2b76ca5af2dfd186088304", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:08", "1858046", "1fb412212359a970be06b9a4578c1e68", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:08", "1858047", "1922a47e467e4185eea0bb003e813dde", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:09", "1858040", "511f744c3a52f543134a190403c36191", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:09", "1858043", "aaef152123a87009a78e6dc82e6034c6", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:09", "1858044", "6ae20bef21d896ddc41fa8e8b4a45885", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:10", "1858038", "37688f0d2f9a037a1ffd6c306bf87510", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:11", "1858039", "8e7d534d816f1731fd66b4d458e18bf0", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:12", "1858037", "97e2a41929919df0c43a554b40999d12", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:13", "1858035", "a9bc032353bd246ba50af1b8d4849bfd", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:13", "1858041", "4e747a8d16cd1b8f57072dce5f3ee6dd", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:14", "1858033", "78d359a87ae75ece08976e8b14d877fe", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:14", "1858034", "fcc3cbe8bfe18f08eadda3acd4258369", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:14", "1858036", "be3d939747ad05764b2d9dd461697093", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:15", "1858030", "d683b433754eca7b1e5c25279f711c99", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:15", "1858031", "066c1f3b224c94baa2a2ae41a88386b9", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:15", "1858032", "acfa0c2374d79ee81b52d83625bc0c51", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:16", "1858027", "85befc3111bc28dc9715570a068412ba", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:16", "1858028", "441455c95dcb94ae91a7a160fdbe827c", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:16", "1858029", "ec37a6c4866b7324fce2f11b0e89c4c2", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
+"2026-07-26 11:07:17", "1858026", "dce9ad6317ce147f1f3f74bc93d9252a", "md5_hash", "payload", "win.inc", "None", "INC", "", "100", "False", "https://theravenfile.com/2026/07/24/inc-ransomware-threat-intelligence/", "inc,incransom,ransomware", "0", "TheRavenFile"
 &quot;context&quot;:&quot;platform&quot;
 0000bdd89d69a6dfad29d7463fc1f7dd,56ccdf82-bb98-4b52-9c86-52849062e56a
 0001195ed243f2d1198b685d0fbe1b1e,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -599,7 +720,6 @@
 0222f3611f39869c676378f88fbf85a7,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 02246176ad08971e6246af379b8602b0
 0225b297ebd6ae16c539b9ec174e17ce,c1bd5026-520b-45bd-9a79-82d38cf96c7b
-02299577c0f5fcbd1870575a56d6f3eefec8742b7a95a748c381f5912356e614
 022d1b81dd2c60167f4a101e5b909dbf,f65efb02-c563-44a7-9036-516219a24243
 022d51d727af59a9898ed1c8402250b6,5ccb48f2-acb4-4b42-a010-03c2c0a8ab16
 022d89e4b2c5b4ee5ec99e931606b007,f65efb02-c563-44a7-9036-516219a24243
@@ -1389,8 +1509,10 @@
 07f2cc234ebfd0aa416b95e8d5b8ab57,602ceed3-9144-4262-a1a5-30fd0aba047c
 07f3b7398e85d2a6ca236b4221fc7a15,544d142b-7863-453c-a444-b00ab9aba56c
 07f4c77cbb1a6e3ccf8f3b775e84f4c6,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+07f53dbaccf650bf676c1352c6887edf10f3e8e790c8367b892c06a062ca1950
 07f6a982a917480a2bfdfe1753415968,e41e9a5e-11db-4999-bae0-0cc159299e3d
 07f71a15bc4223dcd362281b9d8e7d29,7f79ab3b-6744-4857-85a0-ec2803a67372
+07fb0d400560637a3aa567725002100c
 07fc04afb38a2a3a585e514fa1e289fd,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 080206702cd55ceddb22fb120963cc15,bb52569e-ddce-445c-8c24-c5f52dfdf9c0
 08040d08b69aa7b027768d05077fe19b,1a41895a-7759-450d-948e-32fdac6d1a36
@@ -1663,7 +1785,6 @@
 09cc1733fb5465fc3f99a03a5c72cbf7,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 09d001252b6b1237de2514163e2ba59a,0523f6aa-38b5-41c5-aef0-e37a6eff7e9d
 09d609a275ba3c328a0120f5b0f173ea,a80e5be0-fedf-4d0a-b364-58e22b936b94
-09d7459c37c2701fc1e3da59c190d06cfb5a1f835d6c665da8c38022fc6f3c4f
 09e292feda7fa7f34f84be15fa26eafb,56cce206-fc70-436c-881b-52819062e56a
 09e7cd3bd89ee88cb8a9ae8e57587be2,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
 09ebf86eeac8f14ead3a2cecf05ff12a,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -1841,6 +1962,7 @@
 0b35c318e36ab04edbe29b765835eb08,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0b3762327af02b9cac8a200caa381e45,6021536f-a808-4b9c-8136-d7460aba047c
 0b37bf6f4dfdd7220a916495da26ea09,544d142b-7863-453c-a444-b00ab9aba56c
+0b395caa0d59226d8e510762184398c4
 0b3ffa616e6575da222f878d1eac05db,cdc842aa-761d-48e2-9b97-c344bed8b3a8
 0b401a5a1b4dbe3221d090143bd171a5,162c4ecf-58a6-472f-98c9-9cd6d6c08c70
 0b4154c712a2b747b1011f1086e95a78,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -2342,6 +2464,7 @@
 0eb9331703ddef1d477ba827be812c60,db3dfd75-681b-47e1-87bd-b72ba3c8a734
 0ebb2c844d13ad988ea48cba573f93f2,f65efb02-c563-44a7-9036-516219a24243
 0ec1ea6de0c52fe7a886ecd54adce06f,d8c0c469-2d3e-437a-80a1-a38bfe5998e8
+0ec262385b9a7c53a0059ce514110334893ed42f47843b3dd7284fbbb9ac5618
 0ec2796ea8076d88251c83c5e7664bf9,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
 0ec313029dce62c5ee7aa979263f208b
 0ec344cb6c07c37317536fbf3e6be03b,e41e9a5e-11db-4999-bae0-0cc159299e3d
@@ -2955,6 +3078,7 @@
 133a8224910a6971ec0fdf59929ca859,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 133ca382c9b3ea4ad05c36d0f1d0e0fe,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 133dd9bdbfd49f233219501430cd2ff1,f65efb02-c563-44a7-9036-516219a24243
+1341382eecd57f9484c2007aa956056b
 13426af77ae3d0aa55bf517eb283b46f,f65efb02-c563-44a7-9036-516219a24243
 13483e47e2c2de6788b2c398afc234db,c5107fff-968b-4267-bc27-cafbc6553d1d
 134ebd89df4cb48eaed344d3c4a8fdee,544d142b-7863-453c-a444-b00ab9aba56c
@@ -3001,7 +3125,6 @@
 138fb6874abf4b1324428d5a7395b4a9,9bd11482-0378-40a5-aca8-c37a0d2b91c8
 13994a387527d24762b56d8a23ca2443,f65efb02-c563-44a7-9036-516219a24243
 139992859f0c0d291d33c6293588e3a3,47d6a201-507c-4cb0-904e-2acebcd59a69
-1399e6f57b66d4d393854543f6818858a0b11b340cfddb5e7592a41b5a88211a
 139d9fe15f7952033ae7bfd9f4ff519a,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
 139eb184e3482f43d3fde1dee70d2aec,56ccdf82-bb98-4b52-9c86-52849062e56a
 13a27c02b70ae9790e2afcf76e641c47,5a5395d1-40a0-45fc-b692-334a0a016219
@@ -3299,7 +3422,6 @@
 15a55b4e74a72d0a8daa93f332d7d75f,ade7298a-84e8-4dc8-9cab-c215cc771629
 15a942f6c22ae51c5931528003d77252,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 15a9d8ef1e0cd7df07b16700d46bffbc,f65efb02-c563-44a7-9036-516219a24243
-15aa295d5813222fa61a93353873700422c64da1580e91cee02681df566829cc
 15aa882b9093ec46b91c65318d1555d6
 15aaaa40d139b9dd71880aa2afda574c,602ceed3-9144-4262-a1a5-30fd0aba047c
 15ad0b78c1464ef570e574e457e06bee,5eeb995f-c570-4242-94c6-79870aba047c
@@ -3463,6 +3585,7 @@
 16b5f36154c37618d822a44bdd9bebf2,bee6dc05-cf55-4545-ab0f-57effe016209
 16b60b23f4f24795a22f5ee8bd6ad098,57607369-2490-444a-9034-049fc0a8ab16
 16bb2b729c044eb246f01fcdeb1ced10047865d4b1136ca04a9bb1e59f2952e2
+16bbad81456bac7a22b83c14c42bc07e
 16bc0b6c88be25ed8a2836256138ba4b,6181159d-d7e0-422f-b7f5-26cc0abe1822
 16bc64dc328c6fcb42fd0473472d5604,571a5777-6664-46e9-8748-1478c0a8ab16
 16bdcf021c8287bbd329dbf63d0a1e4b,6021536f-a808-4b9c-8136-d7460aba047c
@@ -3742,6 +3865,7 @@
 18c782773e4a5c6aaa2bd9ee236dd6c2,a80e5be0-fedf-4d0a-b364-58e22b936b94
 18c927217164533bb2c1ba2c6f60b17c,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 18c96c7772f39e0dc713f5fe76fabf91,5d3f036b-0f50-4499-af4c-695a0a016219
+18cc4bbb79751f3fc98e834376dfa6f2eb538fed44b73b832714e6291ea272f8
 18cd29b4109021f195dcb036ad2a7d6a,56e9ae18-47d8-4bce-a411-c2dbc0a8ab16
 18ce4827d915a65d3c4308cd9d65f1d0,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 18d3afd51f7fdb10dfdcecd992722dc3,59f6f87b-868c-4d04-846f-052ec0a8ab16
@@ -3794,6 +3918,7 @@
 192a6dedc3b2cfe0549f0afdfe714086,56caac73-ad4c-401f-a8e3-52819062e56a
 192dc3cf1154c6e1d5e43565e31f110732aadba278bad1fe58b1cc2f27c2f452
 192ea600182caa071df5e40d0a309d95,a80e5be0-fedf-4d0a-b364-58e22b936b94
+192fc06a50d2030778e9cd5491dd9b5d
 1930ebd9ac1bacab1b0b0406bd57c92b,28219fd4-56f3-470c-90ae-bdaeb006502e
 19320eb8c48dd33676a60ee68ed63103,f65efb02-c563-44a7-9036-516219a24243
 193f10da49bdad7cc0ded87352d629fe,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -116348,6 +116473,10 @@
 2026-07-26 02:25:00,masaomi346,url,http://tampareroofing.com,#infostealer #malvertising #malware,https://x.com/masaomi346/status/2081204299615588769
 2026-07-26 07:00:00,phishunt_io,domain,facebooksecurepage.blogspot.com,#phishing,https://x.com/phishunt_io/status/2081273503483891850
 2026-07-26 07:00:00,phishunt_io,url,http://facebooksecurepage.blogspot.com,#phishing,https://x.com/phishunt_io/status/2081273503483891850
+2026-07-26 08:46:00,banthisguy9349,domain,legal-andlaw.com,,https://x.com/banthisguy9349/status/2081300221024166173
+2026-07-26 08:46:00,banthisguy9349,url,http://legal-andlaw.com,,https://x.com/banthisguy9349/status/2081300221024166173
+2026-07-26 10:36:00,masaomi346,domain,claude-ai.cyou,#phishing,https://x.com/masaomi346/status/2081327879653331067
+2026-07-26 10:36:00,masaomi346,url,https://www.claude-ai.cyou,#phishing,https://x.com/masaomi346/status/2081327879653331067
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -117996,6 +118125,7 @@
 2c7a420b82930e1b2c5d2422264e218e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 2c7fe2318c7d0e009f9bb39c8039165d,f65efb02-c563-44a7-9036-516219a24243
 2c8301d65528cc47b1d99ceb850d39bfb4d5c90ca771b9ec483280e3be67dcd5
+2c8530dfcd92466d46ce6611bf3f2e9f
 2c85748807b0cff81fb0f6c75a9ce28107cb3975d28ddeed1b400e3986be6953
 2c8867d97a19fdf6fdc4a1ac309105a8,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 2c8a34ba90692505b32641a3190b9c95,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -118614,6 +118744,7 @@
 314630a022f98daded2c6378d5d794c8,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 31465b3898af364e03ad6a60abe83167,d8c0c469-2d3e-437a-80a1-a38bfe5998e8
 3146c705dc76b8782ccdc2b51e8c274f,57b6b2dd-7368-4146-b874-21d0c0a8ab16
+314872070c11598222015aa2e9700de7c767793d
 3149b013ccbb1d7c3d860a37ac240ba5,585822f9-9290-49f9-b036-04e4c0a8ab16
 314a1ce20e8556d6c616f32417674a78,f65efb02-c563-44a7-9036-516219a24243
 314c22fbdd95eafe2c050a4781d010b0,f65efb02-c563-44a7-9036-516219a24243
@@ -118972,6 +119103,7 @@
 34011ade70f0dad3748f332c1e7944b0,5d3f036b-0f50-4499-af4c-695a0a016219
 3402341449c68280586314578e00d09b,16ee036b-17f5-4f17-b3c3-9fe89176274a
 3402a030b54d71883fa4f831997eb68d,5eeb995f-c570-4242-94c6-79870aba047c
+3402d06e96bbb6854bdb08faab602b4be1049748dd078eac20728df371208f61
 34041220dd8dc7d704ea7340e5b2590d,56e1d652-a310-47a3-9017-b527c0a8ab16
 340516688e54c61bb7b39a34ae11e9b7,5b2bb735-fa94-44a7-8976-1e67c0a8ab16
 340d11fb3c7cc3634b08e097c935a537,f65efb02-c563-44a7-9036-516219a24243
@@ -119283,6 +119415,7 @@
 366e435a1ea0f597deb6ebe7c0c5acdb6e8b33eb
 36710377eaed33360701e5d1f0c4278c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3671be22eb5c988dad94118956db93be,c5107fff-968b-4267-bc27-cafbc6553d1d
+3672b6ba41a51e91a0f8e41e4a871e9d
 36733c4fc223e7857de1ea2403a1cfa4,e41e9a5e-11db-4999-bae0-0cc159299e3d
 36748a44b6f49b64396c5333e53057ca,44b99662-6963-43e1-90b9-3279e907319a
 367b180505e2a6a0b10c0bcecf8b3cf1,defe99ff-e92c-4267-b446-0686d2c00559
@@ -120117,6 +120250,7 @@
 3cbdc2dedf5ba5a73d9cd44e876fdfa3,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3cbf0445a4d5a7c71aa232c84e04febe,602ceed3-9144-4262-a1a5-30fd0aba047c
 3cbf2c66ed26a7f2628a962be125644adaebd4aa
+3cc06b5accf9f07d6e1be22d944ce69a
 3cc18a9ea29d64bacf5f0502e1e6e530,1adfbe9d-2990-4810-acdb-2fe07f1923a3
 3cc32b52d779ea154aac864a8e8d4449,5bf300da-6438-4372-a069-0b7b0a016219
 3cc9bac12863b5ee7ea1fd70c15c4331,5badbf47-50c4-4f60-bdde-32aac0a8ab16
@@ -120327,7 +120461,6 @@
 3e581b18ca535bb55e77ff710e1aae37,f65efb02-c563-44a7-9036-516219a24243
 3e5bef1e77ae9bf120a17894a2d9a6ce,72abe76b-b1ce-4ac0-9029-ec5736c5033c
 3e5c9f1865b90e22652dcd0b821bc1ee,b370b5ff-98f2-484e-923f-f6f7c0358bdc
-3e5d5288ddfe5d8ad18232a0eb36a4f0d52660c3978b33bc5e9563a217a282c6
 3e5dc0b666dc1d6934fa70fe6c23cb61,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 3e5e06d517ac4b189593edb2a3c51afa,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
 3e5fc988e5e0076e48cdd459b6094e84,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -120534,6 +120667,7 @@
 3fd82a4976647cafe723b4d0087397bd,f65efb02-c563-44a7-9036-516219a24243
 3fda4d39e7fa93742fe049d12baacc83,e41e9a5e-11db-4999-bae0-0cc159299e3d
 3fdca097dca9628f0d99c52d17b33e24,573d66a1-cc94-41aa-9684-07a6c0a8ab16
+3fdfc1f013bad7bb63fd7a254c8a8e5e
 3fe445e8bd37127f82e2816e0f61e04a,64be448c-53f0-4e74-a53d-4c3d0abe1822
 3fe9c84025f4401f8cd661675642c526
 3fee5730ec7137ff2eb41fef86bfdbbf,3f5f50b6-0690-4a3d-bcd7-e5d3ad846385
@@ -120919,6 +121053,7 @@
 42d31d173334163cbf42ad7b5ce7187e,1a41895a-7759-450d-948e-32fdac6d1a36
 42d6a1d541d9ce38dcecb156d0ad9569,544d142b-7863-453c-a444-b00ab9aba56c
 42d81f0c87a0bdf54bb64587f1bf5cdd,f65efb02-c563-44a7-9036-516219a24243
+42daf9a89197d5e4e4e7781ec492877b699b8207ee1f92cd86506bd08224df4c
 42df08bd40c23a1f1f2c6b9d0964c4bf,f65efb02-c563-44a7-9036-516219a24243
 42e1d9a50707a054f644ea63d80bf19d,a80e5be0-fedf-4d0a-b364-58e22b936b94
 42e3f7336d44fbda64b8080a97137f0d,56ca367a-5a88-4925-a309-4cd69062e56a
@@ -121406,6 +121541,7 @@
 4677441b32bb332dee6264ae80ae2947,f65efb02-c563-44a7-9036-516219a24243
 4677543fa922abc26a462954a6822731,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 46788c124dbe211177f9d3525c35c58f,a80e5be0-fedf-4d0a-b364-58e22b936b94
+467d4772b1d4678dc935c8d4ce638f1d76dbd28a772fa713dad13061483914d5
 467e02af8c72b32ce1dc3fce9e4e9538,d8c0c469-2d3e-437a-80a1-a38bfe5998e8
 467ed273db01c0273bbc28fc2d0ac018,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 467ef3c3c4300b582a6c49bae3efe437,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
@@ -121620,6 +121756,7 @@
 48146eb9012ef1ca1a5aa0ed0fc82d58
 4815ee42c2ca64f7afcaacf69edafef520fe1bec
 48163adcce12af966331c9ebe2e5964e,99273d5d-d769-4b15-98b8-d87c6cce7d72
+48164b0a8683efbd98e5efff48371fed
 481803a60e44c046234e7927567402e2,5877be48-e4b4-4634-b002-0799c0a8ab16
 48182dc83cf12d074b7158e7677399abd306420a
 481a647a1503c14a092b05b779e4a60f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -122091,7 +122228,6 @@
 4bd032c4d82730e292395795ef10985c,602ceed3-9144-4262-a1a5-30fd0aba047c
 4bd4595cf365835e4f085a5afc31ef49,f65efb02-c563-44a7-9036-516219a24243
 4bd6cce58f1fa8915266cdc03245d8dbb758ae4c
-4bd93f77565aa13abd92c50f818a5dbc013391e938c427544865775450f82f56
 4bdc9f9a0c0dba67edbaf31fc13fdf2f,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 4bdcc0bda23cb98b57d95dc5763a614a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 4bdd656c4f3963e82b239cca565dc3f7,5badbf47-50c4-4f60-bdde-32aac0a8ab16
@@ -122924,7 +123060,6 @@
 51faa7feae3991a7e56ef46f5b2c75e9,57ebe7f0-0054-4b3b-b273-804fc0a8ab16
 51fb1d2d0e064ca68827d86d70c3a80f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 51fcd5aecd4c70c5f40591ff7d8f2c59,5fd8a8d4-9d60-4620-bc24-e430c0a8ab16
-51fe91ad2d4959a9975f87209b46a828d58768cd5e21bc3e7f22234c4ba3faf9
 51ff4e1e745db05dcafb2b654d1a9e89,f65efb02-c563-44a7-9036-516219a24243
 520447b4b9f7fe1d5b137eb1c9c366df,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 5206c88bc372864b35753757b6709a13
@@ -123736,6 +123871,7 @@
 57c8e1f102dadf6dcbde4b12ee349b94,a80e5be0-fedf-4d0a-b364-58e22b936b94
 57ca2b017bae2fbc2058647034cdcdd0,1a41895a-7759-450d-948e-32fdac6d1a36
 57ceef9e93343a8b8768fe68e21d8621,b370b5ff-98f2-484e-923f-f6f7c0358bdc
+57cefbb075b766c47392d9a85ccc88ba95c6727b12828046a7e81b20f085fc6a
 57cfe8911863e173123a1311226f650d,0ee87fb7-783d-40f5-824c-a334283d3809
 57cffe56d7ab184898f86ccc6902e304,dcf911ee-17b3-4902-aa15-4ecabf2e40ce
 57d286e4aabb9f500cd74da8163e2b06,cf410edf-b437-4efa-841f-6106f07454bb
@@ -124221,6 +124357,7 @@
 5b3a3c226d1aec299bc6f9c0da2076dd,f65efb02-c563-44a7-9036-516219a24243
 5b3aa87591347c03c6e6d876789c6360,8b3e9108-0c15-4e5c-ab1e-57d91ab45181
 5b3d2f807bac45d55ce8b175a281adf4,5faf0670-ffa6-4da9-8329-935f9d48a687
+5b3e427b2674ae860a4fc653bc8d458a
 5b40a96af0816c01e452770e8087dee1,61236bfb-37d8-4a71-a68e-2dbf0abe1822
 5b496b5251bca82c616081074aec0986,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 5b4ab90599a1143ae56a2b98512848bc,56d7441a-0e0c-46df-b56c-5129c0a8ab16
@@ -124427,7 +124564,6 @@
 5cc6c75da93d4a3db07ac2edb5266074,5e0f4cf1-d9d4-4243-b077-9c80c0a8ab16
 5ccaa02d83a074927a97d12a28c70972,8dbeaaac-a671-4a02-8dab-5eec2a1c935b
 5ccb60af9b00e7457b24b10c2bf2a0c6,b891b584-a5bb-48d5-9b70-95cd02ac544c
-5ccd52dcbf84f9fa6135445503f2b64723d6097e554873d79fd5a9862ab54143
 5cd01912fde2d5f374e37390c61ebf70,a80e5be0-fedf-4d0a-b364-58e22b936b94
 5cd2efd97da3125dfcbd4af98e26c18c,56ca367a-5a88-4925-a309-4cd69062e56a
 5cd8631356940d7dee0cc435bb4eaa32,5ec81ab8-326c-4e96-91b8-68d10a019371
@@ -124647,6 +124783,7 @@
 5e708ef90c72f54e68ca4d3d4b7f310c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 5e7270be7ea77e2820f207dd63225fa6,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 5e72fb15ce8f5d91bcbdae349887f1f5,c279be56-bd74-434f-90a9-3e6f51dc2f48
+5e73c34c36bf0f25c22b45b8299c1be9c87d5523
 5e781e23bf60d8fedea8ab3984f13169,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
 5e78f9824ce202128715199b691ac2e4,58235d0e-34d4-41c1-9a2e-04dcc0a8ab16
 5e7aad71bf24ce336b7cad27f362b1126189cb85
@@ -124900,6 +125037,7 @@
 605320a837d8b63c1f3af6c904411a8d
 60591e3edf40ee7739a90780338c4b75,ade7298a-84e8-4dc8-9cab-c215cc771629
 605991a222639f188b32989aecf46bf4512e3cdc
+6059b67c7198d84c5e00c81681d06805
 605a73e3bb662b317e67c34f5def871f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 605deb1595173f719cdb5c7e23885b37,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 605f01b1409979f1b4f5151f8eefb28a,45ab9141-de79-4492-974b-1504bd6dfa13
@@ -125032,6 +125170,7 @@
 616d878b012930c4d3a047ab98aebc83,602ceed3-9144-4262-a1a5-30fd0aba047c
 616ea0c26c3ede8680d8ffec4fbda726,5d3f036b-0f50-4499-af4c-695a0a016219
 6173c0e753be0b48042edc8f69ae7f93,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
+6176827bf222db7bad006ea435a9409706087913901290a2af0fe7ea396abca4
 6176db77faa94efc9e07515f3d7462fc,59f6f87b-868c-4d04-846f-052ec0a8ab16
 61770cb1322667af327383c706dc5371,f65efb02-c563-44a7-9036-516219a24243
 61772329d20f959355ee301b0109f1b3,f65efb02-c563-44a7-9036-516219a24243
@@ -125063,6 +125202,7 @@
 61b784d0d67d7ff865c47ca52a0a3ab8,56ca367a-5a88-4925-a309-4cd69062e56a
 61b8a705203a609ce8076db6c326b94b
 61ba699b5a7dbed6266b176f9963a636,c5107fff-968b-4267-bc27-cafbc6553d1d
+61bc7cc4404576947895701ecc78a5a9
 61bd1f6086c60c27ac69c02014198081,57951afe-c678-425c-806e-068ec0a8ab16
 61bd2c90f809fed6d9b724b439721179,602ceed3-9144-4262-a1a5-30fd0aba047c
 61c777c5071c8264412fe317f30e5c493ac7cc76
@@ -125297,6 +125437,7 @@
 636c2f101b7391c97472a3374e9315cf,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 636c95ed5162a12fb2475e74cf33217e,390d27ed-5268-4eac-a3a3-768903fa5c1c
 636f0adbb05d55c8c68a51ff0f31025e,f65efb02-c563-44a7-9036-516219a24243
+63721b55ba8e5373ef7e42b861f66f0f
 63722ea0b71a80ef782987d135fc633e
 6372339c154eb8e516a02f51bb3e1ec0,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
 6377a1f983153dbd234f8f3f64f3dfcf,56ca46f6-44ac-43bc-8898-4a5a9062e56a
@@ -126302,7 +126443,6 @@
 6af80d2d02def8803731109eccd82b7b,4154d3f0-5519-4b96-a2ba-9adcff7f7179
 6afa6532d86f6b3e74153bef662b95dc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 6aff2e246227e107202de7c8de864dc6,a80e5be0-fedf-4d0a-b364-58e22b936b94
-6b01bbecfed17efb2a7a19f91338dec4e6e162afc5c51e7304c9c4e1896e458c
 6b047362ac3b58246078ba3ff9d29ae8,59f835da-4aa0-4a5b-b187-2f0ac0a8ab16
 6b048da55a4c1b0e245215ac3911c2cc,0ee609d4-c99f-428c-a7f3-0afa7efe01b6
 6b052c195aba50f625c87cfab58d7a09,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -126636,6 +126776,7 @@
 6d828e4f2601d2fef8566d3f5c1b2ce8,5d3f036b-0f50-4499-af4c-695a0a016219
 6d82be28e670f719ed6fff180c643b1d,57951afe-c678-425c-806e-068ec0a8ab16
 6d83701ce75ba91250ec79250eb453d0,5faf0670-ffa6-4da9-8329-935f9d48a687
+6d85b50520aa11a7e19948b37530181d
 6d876cbf995c2ac2656943ed90726e6e,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
 6d87bf7cc95643f86817127b4ed24f42,d2a62c19-a7ee-41bd-984a-4098fdd30e48
 6d8858340eb5e6a66976a404b2ae8dd5,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
@@ -127501,6 +127642,7 @@
 73f3dee26f0f145c7bf2dc003adb2cb3,56ccde30-15e8-4332-b123-52839062e56a
 73f8e430c642abc47f793a1c57b44c4d,1a41895a-7759-450d-948e-32fdac6d1a36
 73fb8f5897f3ef263b6068c1ec4afd4a,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
+73fbe1e66f0c4b29e4673920b154b8f863560713
 73fce6d34602b7e5c7be0ba0b4c894b3
 73fe5a814a739f791d68927e3fd6a3fd4c16ce64
 7402dcbbcbf9a229f3823dc7b3c7aee9,500ce304-3996-44ab-8a36-be206f89d3de
@@ -128848,6 +128990,7 @@
 7e00446188022c53a92497608c1d1af3,9c9b48f3-b1ea-49bb-a23f-748ce03c1098
 7e005be51b0140e5ce3ddf477309216f,e9043805-992c-4132-b687-2d0736901818
 7e0070e61392d1ecefe024ef21acda0b,72704237-fe6e-45df-9d6f-f12f9cb65dfc
+7e00ecb5f2cf6fc41eaf5d427854b7fa
 7e035b83a4ac93b3f404f455f31fd944,27143d08-348b-4120-b285-063f6295259f
 7e0402f612a35cc3ff7c024d96477214,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 7e0559341981ea975fe99657f4f417e2
@@ -128941,6 +129084,7 @@
 7ec178ed83eaffffb87ac584c7f30e46,c5107fff-968b-4267-bc27-cafbc6553d1d
 7ec1819606551e92bdba6c31850e21e01783320f5b29fdd59943fd0bcfa940b1
 7ec74da45950a298c64abdce9c41f019,f65efb02-c563-44a7-9036-516219a24243
+7ec779be3595d44d3dc8484557d47300
 7ecd3b8fbf1d5242285e253d9910d1a8
 7ecd4dd682b211288cbb204aba73829b,a19c6aed-3c53-4597-971d-0bd01369f95d
 7eceb77b5905f02f225cec47f74b7b6ad4165b974ccf42aac7f7c729438b0896
@@ -129057,6 +129201,7 @@
 7f9ef159230d6be0ade2fa60a8b56cfb,f65efb02-c563-44a7-9036-516219a24243
 7fa03af645f9d5c6f90f54748c191e1f,57951afe-c678-425c-806e-068ec0a8ab16
 7fa0c4a95cfd35ea3637225e0ced3305,f65efb02-c563-44a7-9036-516219a24243
+7fa66cd078571662d30ac258f4f353c6
 7faa9955807536fea3f3069d6529db96,57ebe7f0-0054-4b3b-b273-804fc0a8ab16
 7fad6b56b072f5d68cf76815b4d8784c,f65efb02-c563-44a7-9036-516219a24243
 7fada420e46ba496ccdc39132fdbda55,d67bfbe0-e01d-4e2e-8a56-214805d85aee
@@ -129369,6 +129514,7 @@
 8209c3ae9096084d473cc95a9c52a29f,c5107fff-968b-4267-bc27-cafbc6553d1d
 820cd09994b3e76f6e89926a4b94ec0ccacd888c
 820fe5910231727fa5afe377703fc2da,56ca367a-5a88-4925-a309-4cd69062e56a
+8210665c65a108838b17fe6259f7e1a760cc70c3
 821225f43c5b030a34bb2b3a741e2325,4ea0dcc3-eaef-423b-a766-cccabea8b6db
 82122a2bf9318c512007c4a537f3bd73,a80e5be0-fedf-4d0a-b364-58e22b936b94
 82142e91e73e367a19fbef4d5fa46818,65ad9f8f-6330-4324-9170-7c729d524399
@@ -129764,6 +129910,7 @@
 854014deada19289fc59b35b5a2f1802,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
 8540a9c121835d5c703f8c2efc5f6bb3
 854118211812e72a5e88ce98c3a948e5,56cce206-fc70-436c-881b-52819062e56a
+8541dc9787c671e3ab5b51a252dad4a4
 85422213a0275f76847f80306b5fea7a,2a80cc08-196d-4ae0-831a-58a53f9e865d
 8542645afd3b411c4448b34dc2831187,a80e5be0-fedf-4d0a-b364-58e22b936b94
 8543700c185e9baec5c841c97375117b,5badbf47-50c4-4f60-bdde-32aac0a8ab16
@@ -130649,6 +130796,7 @@
 8bb6197fd4d63a74ede16f50f12d849d,5f6334e9-c198-41ed-91f7-d928c0a8ab16
 8bb62a2f2d6d4e13ee24465208194bc5,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
 8bb878c12c9bf1d63aa667908b6294fb,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
+8bb8bed68c5e2af6ebd6619f111e6aee
 8bbabfe8b3af65caf2bd6c87d3070baf,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 8bbc4489e7eb08ec8c7bbf4a7dad7529,585822f9-9290-49f9-b036-04e4c0a8ab16
 8bbcc900a25d35e2b4ddb6012da0cd8f,64be448c-53f0-4e74-a53d-4c3d0abe1822
@@ -131611,6 +131759,7 @@
 930dd5fd7dde8aa82bef9d5c0d49fd6c,56ca4a6a-a7fc-429a-8768-4c0f9062e56a
 930faa491e114a57102c592718717807,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 930ff06a5a4d2719dbfb4a47116213f4,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+93102027ccde544f5cda15969f3aea28fa3aff71
 93129d4913b4e89ad76e3f8873c53ebe,ab78bd77-3121-46e7-86cc-2f9c06ca782f
 9312caaaa1f8a7b6edd4945bde14267f,5eeb995f-c570-4242-94c6-79870aba047c
 9313000ca95a2d99bab7f68b149d2612,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
@@ -131768,6 +131917,7 @@
 9410264c886e4e5bbaa40cc363376377,c4d1d3f7-822e-4746-850e-2b77ea4e4c5c
 94115199cdc1e8c994e345831b2a149d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 94127633750b4793e4cd68b198e42bfd73268ccd6e176c9370f25b22c8a007a3
+9413e180ce290b64371692c8c50c166dcb139f7d
 94180336af14a62116d587a599b24d65,593ebf45-4a30-49b4-b91e-53a1c0a8ab16
 9419443b71d6f4c504bf09454c51cd7b542a7bdafc439a0b76aff2b3d60a7abc
 9419bdfb4357b2fc32f04a2a87564731,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -132088,7 +132238,6 @@
 967818b9fb6b424c975d0c5710ca214a,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 96788f32378c76fbd1ec310304e3a137,7f79ab3b-6744-4857-85a0-ec2803a67372
 967bc8fc63d40d18d313793b5f74fcad,56ca3897-a370-42f8-9899-4bb19062e56a
-967c242fed37ef6c6f043223292747433b51a78a43d5e368df320c8ab73fc33c
 967d0405ca9079c30f77eb44493a358e,f65efb02-c563-44a7-9036-516219a24243
 967e16b13c67e61f781ec44a8fc4b721,56cce206-fc70-436c-881b-52819062e56a
 967efeaa3b4339e6448a5a1eeda822e7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -132660,6 +132809,7 @@
 9ae33dd7bd9d862821cd37d3b3c15813,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 9ae352119ff17f0ccf134b8e9336cc3d,7c045c5e-dd4d-4cbc-b654-0866e380a521
 9ae5bb93dce831a6dabbe0e1df053c67,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+9ae6517d350197a75e62fddc27dbbf42
 9aebe7004f4b1360348bb9c55a554e83,5a047586-ade8-410e-a6af-2fadc0a8ab16
 9aec0b77db308d8adcd926b79990ada5,abfb5a93-e695-4ee9-bc10-541290bcd663
 9aec2d159ac70ed3bc657d64cb3a909c,f65efb02-c563-44a7-9036-516219a24243
@@ -134076,6 +134226,7 @@ a10dc3f919d4aaa3580ad104701b58ae,f65efb02-c563-44a7-9036-516219a24243
 a10e8f9164f262e2f311d1b8cebd7c75,f65efb02-c563-44a7-9036-516219a24243
 a110837e0426b156c64815455d86dd82,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a111d8a24bf898e8909a4cc97d541815,602ceed3-9144-4262-a1a5-30fd0aba047c
+a11244ff9e6aa19da9b4aca7dd308fed0f1a880d
 a112479e3b3887ed79729a57edb6a5c3,a80e5be0-fedf-4d0a-b364-58e22b936b94
 a1138a9925fba5ec231049fe61326304,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a1152c742751f7cb0764300363d1597d,2d2af096-edea-4dde-8be3-0224205b1074
@@ -135046,6 +135197,7 @@ a87c825c4f2a42d1fb6871372bfd0e21,88fc5757-d527-45b0-8666-0f7e3140408b
 a87c8db9ce0bbcb83f956af403793e3a,e46d4b20-b44a-4896-be41-0f4f251cde6a
 a87db95f1886a818b401d5016cb58c46,5a717019-2b96-48ea-aad0-8532d4f1dad2
 a880bdd2e06f0a6548ba328d40cdff4c,f65efb02-c563-44a7-9036-516219a24243
+a8830bb425a309d578ac5f295d679bf002fc844e
 a8831b07fcc8a073c3bdd1b7004609b6773130162eeba167257a3d6be8da67c4
 a8845ad06d3516516aef71bc487f1363,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 a884e14be893b4973dbfc27edce3b721,60f6ea57-5534-4866-9677-44650abe1822
@@ -135927,7 +136079,6 @@ af2a6e75132d56e3b34ea786821b29bf,f65efb02-c563-44a7-9036-516219a24243
 af3113dc549b67a8647d0056f6ad336b,60f6ea57-5534-4866-9677-44650abe1822
 af31da32e91b9172a2bfc6d983e391d6,0945219a-00a3-4478-88f9-cdbb48215ee5
 af3520d6669069d0bba07234f7784ec3,739fc559-c1ea-427b-9dd6-4999276f537c
-af372c564fb9fcc133152fb91a120417e73043fdf4ccb453096000d66c4f4f43
 af381a40b1babd7f65f118608a958fc1aa48f115
 af39a6a7e7260f6f5e2eac5507656c66,5fd7bbc9-4f68-4057-a6fa-e430c0a8ab16
 af3a0e51d384200a9111099f54ccba3d,465bce70-94bb-49a2-99c6-b585210993e8
@@ -137546,6 +137697,7 @@ bb2fe537c06375033e28dd38d59513ea,54cfe842-09c0-4257-8fcc-3c1498bbd9f2
 bb300ca6c4ded2f0068c7d83c1e869f3,0ee87fb7-783d-40f5-824c-a334283d3809
 bb313ea63402edd0fac30bad39a56e2405bee5b4f07013b09af72ef6c382a731
 bb327ef0f6d73236c34e9a673c212ddb,1a41895a-7759-450d-948e-32fdac6d1a36
+bb32b5cfeeaaa49eca3943a2e2bd07ed
 bb36f7ec5d1a70589b99da6d648947d8,5badbf47-50c4-4f60-bdde-32aac0a8ab16
 bb39b0a4967de9f4c5a98801a137cf00,585822f9-9290-49f9-b036-04e4c0a8ab16
 bb3a88d7b38693677fc7b69ef8d094d3,59f6f87b-868c-4d04-846f-052ec0a8ab16
@@ -138570,6 +138722,7 @@ c2c8c1877d539be8c780ed6bb95bb5d2,f65efb02-c563-44a7-9036-516219a24243
 c2c9b5cda8a18131a9eab36a17a716a8,7f79ab3b-6744-4857-85a0-ec2803a67372
 c2cae67b12425abbd130e7fd0ec54734,5a2b0fe8-6900-412e-a9b6-2facc0a8ab16
 c2cf6efe3f34c55601510d1b5316c885,f65efb02-c563-44a7-9036-516219a24243
+c2d1ac4a8b2cb770fc1f594c3b050a8a
 c2d35efdf40e8c03f114d87e44e505f3,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
 c2d4353acd84d5ac4ac20aa3ebfa64cb,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 c2d460d46efc6c54e7a02f44185a29c3,f65efb02-c563-44a7-9036-516219a24243
@@ -138734,6 +138887,7 @@ c409642e3b041fbe926f91e1a96c054e,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 c40b76f01d7f7b61bda52c04570c94ca,5a5395d1-40a0-45fc-b692-334a0a016219
 c40cecb302deab95affc6fe73df68330,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c40de7727b9d55d652d1a720b4afe62a,d84d38cc-1e9e-4edf-9f55-8be68e877583
+c40e657e5a63b77f3cec011c34d86e6a
 c40f18d57378fdb138d3cea5fde3f18e,313eb1b6-1b2c-43d9-8bc0-be422cfc8b45
 c41023ba3af55961be4f4e21fd5e741c,90e532fb-4efa-4ff2-95ab-ddaf25454791
 c4111b15bb3c8a6e2745ff2dc6bf1fc6,e41e9a5e-11db-4999-bae0-0cc159299e3d
@@ -138828,6 +138982,7 @@ c4ae13b060f1771d095d658a0877bd60,f65efb02-c563-44a7-9036-516219a24243
 c4af61eb244ad0a9efd92978ad18c75b,fc8f98a6-daa5-42ef-b6f3-2db535c43c57
 c4b7b963d841915876e1c9ff9cadd22a,45ab9141-de79-4492-974b-1504bd6dfa13
 c4c06727e4c7d807cc78cb0a60d1b436,f65efb02-c563-44a7-9036-516219a24243
+c4c0e17a9e72a5b7d876c4e059538148
 c4c186e780524cd5cebf57d72a5aeab7,e46d4b20-b44a-4896-be41-0f4f251cde6a
 c4c2a67afaf26d59d66ce1323705ce5b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c4c3e5eb05e73654b0543a39240cf24f,591f51f7-0ba0-407b-87dd-4a76c0a8ab16
@@ -139179,6 +139334,7 @@ c781b3e945b183d954f7d157c28d9bdc,a80e5be0-fedf-4d0a-b364-58e22b936b94
 c783a406e92148934551caa8eba63467,f65efb02-c563-44a7-9036-516219a24243
 c784c7700b14b7be3ec32b52e9ee2333,9912f2b3-3a2b-4b33-a3df-a3ed0ccdbc69
 c78a7968725de0f0470c197da6413223,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+c78ade551d0c8bf4ea643e7a8cecbf4a
 c78b3a581f7dabadf3766be0b38235cb7dcd3821
 c78c507c47a1238bd27a483907eb13d4,67033954-cb9d-4aad-ae23-435b246b016e
 c78ce52fc84d17ec3e7cf2f0a634beae,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
@@ -140875,6 +141031,7 @@ d3e1fe81df9cd08fb619f240c3388ae2,56cce169-b2e8-496a-a5b8-52849062e56a
 d3e3d3abfcbec15ef6c05def2e0629f3b1ecbed0
 d3e45b3af3c25eb5e25d62d6d0f72eb9,34582dfc-d0bf-403d-8419-2d4fa7a76466
 d3e8836435f839635ca4520523594f7b,56cce085-1d70-4c3b-a798-52839062e56a
+d3eb122fd44a9d3f7b72e071748d3196
 d3eb1b2e2fab88aad1ee2766aa4c0e8dc48f610f8c43bfdd654d0b35d926b0f3
 d3eb59811b4e2444bb399d02639e0c26,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 d3eb832320e74d24e7a5d633de2c4597,d84d38cc-1e9e-4edf-9f55-8be68e877583
@@ -141860,6 +142017,7 @@ dadc1a4b73263368c6601c76bfa020f0,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 dadd1e31b2c4201fa2917e73e4005ac0,e46d4b20-b44a-4896-be41-0f4f251cde6a
 dadf306487131b68e0adb379741be7c8,f65efb02-c563-44a7-9036-516219a24243
 dae03083ddd7bf506e0fd2b8be2b7095,47b9e2de-7283-4fd3-bf41-dcf9f19d8c62
+dae5911bdd196d0f2c18fc5fb2b9b5c0
 dae849abea90eb178162f19d79eb6d51,662689f9-8510-480e-9e08-e3de0abe1822
 daea2652c3902c136de682d331bed9ec,0b6a1b71-fdec-479e-9736-aa84db3aa8c8
 daeb7313716b876307285480481948eb,5eeb995f-c570-4242-94c6-79870aba047c
@@ -142062,7 +142220,6 @@ dc5ca78c5f099f4867709b993827e35c,602ceed3-9144-4262-a1a5-30fd0aba047c
 dc6257d58a931f8019d554560164a81f,f65efb02-c563-44a7-9036-516219a24243
 dc6530371ea428419c2cc2e2fa43377b,7a4afb4a-3eb1-4966-9c25-7e1ce2b1eb74
 dc6897cf60384eefbf659bde20d584a8,a80e5be0-fedf-4d0a-b364-58e22b936b94
-dc6967bfbe7e6779b8ea3790774b66e8ef7b6e63e6c00616364593ad81bec67b
 dc6ab1d83199a6a76d3f123bf299e4f5,602ceed3-9144-4262-a1a5-30fd0aba047c
 dc70b872a842063b215105a95f145a58,f65efb02-c563-44a7-9036-516219a24243
 dc70d17e9dfc0949b3604eb6722111d6,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -143977,6 +144134,7 @@ eb0ecdb070a1a0ac46de0cd733d39cf3,e46d4b20-b44a-4896-be41-0f4f251cde6a
 eb101b7f6833b2ae49a6239cbf364f58,61236bfb-37d8-4a71-a68e-2dbf0abe1822
 eb10e54cefcc2ec683a2eb45a971bef6,496e1602-ea94-4556-b4cc-9a11a54bd730
 eb11b076f85ae79b94dfce59ff8a6095,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+eb139067acb6ab0a84318bc52df76809
 eb18a2dd18071dc79671f3831590f2bc,d003529e-e30f-4233-a45f-22104cd9294c
 eb1a864028c9c90de80150b9c7a8d223,5d9094f3-4d08-4248-9f13-7d8cc0a8ab16
 eb1b1e3a5851b55711ec9abae218886f,5b444853-db9c-4206-8df8-203ac0a8ab16
@@ -144649,6 +144807,7 @@ f050bc47eed7726ba22df72644a77a82,f65efb02-c563-44a7-9036-516219a24243
 f051577eda5260115e15f9e60a8bdc75,a80e5be0-fedf-4d0a-b364-58e22b936b94
 f0566b1321611e6fd74f8aeb927c27f5,c4ff8fa3-9860-48da-a74a-f087aa0a76dd
 f05b7655bd44a54ed0fe635418470f9d,5b444853-db9c-4206-8df8-203ac0a8ab16
+f05dc2cdcc68a1a80cea2236bef76642
 f0604eb45b90e240a1048e584d9b002a,5eeb995f-c570-4242-94c6-79870aba047c
 f06207dea91d6dbef7cf5a28854297e4,5f2fc5a5-4fc0-4987-aec9-d180c0a8ab16
 f0657eafef7eaa2f14aac05249c8d38f,feff0215-623f-44c4-9538-c3220903a898
@@ -145430,7 +145589,6 @@ f67e63cdda0bb4b040854281b1e250f8,585822f9-9290-49f9-b036-04e4c0a8ab16
 f67ee76cd686a00eb89db3a2801a211d,56ca497b-9924-4031-ad3b-4bad9062e56a
 f6800b497fb60d421a753bdadaf3fd0a
 f6826e9c8529a04a422266a13bd80885,56ccdf82-bb98-4b52-9c86-52849062e56a
-f689dac39198a2b5b8bb1c142a24d869d3e95fffd13bb7a73e5a69a35dc274f5
 f68b8b67902651223e7cc1193ea45c7f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 f68ce1ef5ff59ba430e51fdcac5b4c87,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 f68e0b2e35a7b4802ce26f3905e7df1c,a80e5be0-fedf-4d0a-b364-58e22b936b94
