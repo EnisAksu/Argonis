@@ -1,156 +1,81 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-10 16:28:50 UTC
-# Total Hashes: 148165
+# Generated: 2026-08-10 17:33:00 UTC
+# Total Hashes: 148101
 
-"2026-08-07 16:03:26", "1869985", "a7e8bb5263b34be020d8b5c938b4c4187f390b9240f9ce757cae953da9988227", "sha256_hash", "payload", "win.amatera", "None", "Amatera", "2026-08-08 17:26:58", "100", "False", "https://www.malwarebytes.com/blog/threat-intel/2026/07/fake-games-spread-stealers-with-renpy-loader-msbuild-and-etherhiding", "Amatera,EtherHiding,loader,MSBuild,RenPyLoader,stealer", "0", "Xorbit"
-"2026-08-07 20:12:29", "1870260", "96000ea06d9c60f12db32c005400fab457443b2ee57a9fa1dad28816cf3fa2ab", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "2026-08-08 17:27:05", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:30", "1870262", "c7f29deef6de0b2079c7651855fcdad0", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "2026-08-08 17:27:06", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:30", "1870263", "960ae7aabae262723177420c318c5e1d834f081ba917f044cc52c9bf39fa4e2a", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "2026-08-08 17:27:06", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:31", "1870265", "2ab61292e17ca7d65cbc94c6efd000bc", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "2026-08-08 17:27:07", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:31", "1870266", "45f245b964952e7ab59f50597ba1458ea8a3dfe42f0bc9a12696af02a810fbac", "sha256_hash", "payload", "win.xenorat", "None", "XenoRAT", "2026-08-08 17:27:07", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:32", "1870268", "9cf073fefffea51d7e6780b3b886f00c", "md5_hash", "payload", "win.xenorat", "None", "XenoRAT", "2026-08-08 17:27:08", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:32", "1870269", "78efb35e7b51882913109c68e386b0bd2941901a451a35022bf5e5a2f018dfcb", "sha256_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "2026-08-08 17:27:08", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:34", "1870271", "0a9f93b87901a403fa1f1b1362455f13", "md5_hash", "payload", "win.dcrat", "DarkCrystal RAT", "DCRat", "2026-08-08 17:27:09", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:34", "1870272", "c1d55538417d22ca041f9a269866ccba8957c40ee698860be340b297713eb8d9", "sha256_hash", "payload", "jar.crossrat", "Trupto", "CrossRAT", "2026-08-08 17:27:09", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:35", "1870274", "62026426767207280fe942f9cc6e9aab", "md5_hash", "payload", "jar.crossrat", "Trupto", "CrossRAT", "2026-08-08 17:27:10", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:35", "1870275", "802dee2011a757a13f6afc236e66c6e8440bc733eb001d849286c22d43b0017e", "sha256_hash", "payload", "js.bateleur", "None", "Bateleur", "2026-08-08 17:27:13", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:36", "1870277", "7544d0d40c63ea020416d01832a366e5", "md5_hash", "payload", "js.bateleur", "None", "Bateleur", "2026-08-08 17:27:14", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:36", "1870278", "c894ed71694fd28d60113b5594f9e61e5133a18f410960849e868b60b8beb973", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "2026-08-08 17:27:14", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:36", "1870280", "5d4037b55e48dad64c3fdd1fe565ff5c", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "2026-08-08 17:27:15", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:37", "1870281", "fd2479e51259747153a3ce46264e0f3f3fac1d6eadcc0efb915ba5f35ccc5b18", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "2026-08-08 17:27:15", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:37", "1870283", "7da1c529f1cde0f28f08d5e90a64f19c", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "2026-08-08 17:27:16", "95", "False", "None", "None", "0", "Grim"
-"2026-08-07 20:12:38", "1870284", "31700814400f94fee4d2b9bff13d7423c3cbfb9578a05ccf4a39a6df57d2639f", "sha256_hash", "payload", "py.stealler", "None", "stealler", "2026-08-08 17:27:16", "95", "False", "None", "None", "0", "Grim"
 "2026-08-07 20:12:38", "1870286", "aecc5551bc3c5777277681e6eb357f8a", "md5_hash", "payload", "py.stealler", "None", "stealler", "2026-08-08 17:27:17", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:49", "1870831", "cfd5919b1f3d3add639bd324514c39f3807f93bbd75eb8efd576c72d26eea1bf", "sha256_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:50", "1870833", "861a9b7ff7e91010cf002fb2b669bf1c", "md5_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:50", "1870834", "9a77e80a5ad7cf9df388338fc4988ac2b05c6f31249bdb356cc86f66be232022", "sha256_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:51", "1870836", "8f82374cae854dcc3df5a9a6e849de1c", "md5_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:51", "1870837", "3fd9f4172c8588c4df27fff1875a78da23ddc8242c0b3d07f87d45020c0d475d", "sha256_hash", "payload", "py.creal_stealer", "None", "Creal Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:52", "1870839", "a0b2deb23eb23221d713916f461230bb", "md5_hash", "payload", "py.creal_stealer", "None", "Creal Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:53", "1870842", "a8efe4ee25da7ed2f6255f18f3db86e0a204c7b4a275e57bcfc9a6adf3c52532", "sha256_hash", "payload", "py.creal_stealer", "None", "Creal Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:54", "1870844", "531962f97a5f6ae7580f8d895d9177f9", "md5_hash", "payload", "py.creal_stealer", "None", "Creal Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:54", "1870845", "94d78f73cb60d9c167cd640d1769a78ccc26020bcbf691dc2dd43ffd342948e8", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:55", "1870847", "04dd7b095c77dede0d747dc0c1c1f63f", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:55", "1870848", "dd76c6129d0f99a35b4b4c5e5ff641a2620ad7a20bbcdfd41b849bf3af246df6", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:56", "1870850", "07c7ceae2f3b9ef378e2ba0ffabeb5d6", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:57", "1870851", "f0a10f8d919b4e785e04461ed2adde2d51608e50f69e1e4995c85b71472272b8", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:57", "1870853", "097b3b7c38e22a3b1e5e434c907f5261", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:58", "1870854", "99830a24d6aed654adff341b2c6ad2ba6c971c028dfce1ca455a37d1fbdf4617", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:58", "1870856", "93617a98e627a01092973d8f2d1829ff", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:58", "1870857", "2262f032e08a958b540a04c9a83adec6f004aec8df1d7537d959edf6d4e5a0f1", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:25:59", "1870859", "3315621101aa61260d1ab6828a78c155", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:25:59", "1870860", "a82ddf1015b9f676b2aa720f33e351330418e7739da9e90ddb6ebed1304dcd40", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:00", "1870862", "ebd0b8e0f53ea8a997823dab5224f2e9", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:00", "1870863", "a43853c12573d2dd8792b2380c895118266c289f10e659c457354a009efdb47c", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:01", "1870865", "e2fc1a8f0375978c269481f1908fbdb7", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:02", "1870866", "0d4755125431b2df6a5232950b6c475bb6ae459a35503d64a6bc2c8075f5e2e5", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:03", "1870868", "858d6d91e6d04cb26acb51fcb516f9c1", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:04", "1870869", "12833af0f0d1c3c193cf0aeadb7c2dbb3b6b9f4a600e65b43e3997fcd6621e88", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:05", "1870871", "be45167f9f2bbda577096e81c99e8bf5", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:05", "1870872", "971ca31a18582eed3b1ddfe11533d698a9d3a2b5027a591cde01f7cfaa2d7cc9", "sha256_hash", "payload", "win.overlord", "None", "Overlord RAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:06", "1870874", "f89cad44baf7b71f0546119d74f45d1b", "md5_hash", "payload", "win.overlord", "None", "Overlord RAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:06", "1870875", "7aee8fbe1e1c74f6128f977d9e5ebe46adce4faa1f7a61f95b02c73e5a760ceb", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:07", "1870877", "bbbcac5f44769f56780085fc5c455173", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:07", "1870878", "6da94ae29b7c3f8a3983ea42ca891eb24a784ae2bc0b9377724dafebacfdf7d9", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:09", "1870880", "22be169a8b8005c07238dca6df6ecbf8", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:09", "1870881", "f5f88d7d79a58147988ee2995768c923fab8720181a8091a6cb1acb77ab17e9f", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:10", "1870883", "61267b7c51bdb2fa0f28cc5023a14bf3", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:10", "1870884", "7e65e1b7f079bfebcdfe244793aee4782d46e7633e029d8335e665981d739bba", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:11", "1870886", "f640fea8ed325c4cb449f84d9b73c63f", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:11", "1870887", "d04443f5bd667bc8a3f4433bb1868011b19b3105263333f80f6eb69e2c0dce8f", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:12", "1870889", "59f06cb48041648dcc8eb5b4b6555bbd", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:12", "1870890", "91774c1e1cb384509ce516a6205b93596d6860794c81c7ac1bb4b31048e0ea07", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:14", "1870892", "4f125db7a5d0f5dfa9c31f7ca013f98c", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:14", "1870893", "cd9bf36c14c7a115978c8c9ff4637d46b7069982fdbd65a9c3ad3371161bd786", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:15", "1870895", "b484a8a47908c65583c06881e4b8733b", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:15", "1870896", "49e95f2f47eba1031337bef9940f363fbe3491085a570f1ed4f6a20f058600ca", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:15", "1870898", "3cab2600fe139a02cb5b9661a0ac107e", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:16", "1870899", "374a443a1c7a7eb124c94bad6d37dc1a28fdfeef19cc598d0d49815ccc79742d", "sha256_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:16", "1870901", "78bed56c1df063c2d5a4fef941c1b4e2", "md5_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:17", "1870902", "cf75e3b29c4a5ae4dbb09ec6a6e236daa0f6d6bc7e5a5fe26293effd1a1fbf77", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:18", "1870904", "a7a46aaaa90771d4633e2974cccf1645", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:18", "1870905", "3ae9f263c7a093592db83592768848686292828e0bdf80706f85f3e882b8c818", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:19", "1870907", "e2f9584c8db75f3924c1f838ca571580", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:19", "1870908", "26a079d8aa4562500ba24d38f4c93d8696e90ccb91d8481f581f7995b235d9b4", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:20", "1870910", "18daa4731d5b880e9566d8a231e872c5", "md5_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:20", "1870911", "db0424208bbbb7fa162719bfc67b6d36c33caf7c924e6b675312adbd26d9634d", "sha256_hash", "payload", "win.phorpiex", "Tldr,Trik,TwizT,phorphiex", "Phorpiex", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:21", "1870913", "f31bae04dadf2712d4e4d82a96a56156", "md5_hash", "payload", "win.phorpiex", "Tldr,Trik,TwizT,phorphiex", "Phorpiex", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:22", "1870914", "3c36d36eb80d6f3a505cb2e780428d13a5cb5db555ee2b5de28025643295f318", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:22", "1870916", "e1351bf5883a824ce84522ae345f03b9", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:22", "1870917", "90eb16162aa7723a74dd8a1a8e49a3a659dd982afaf4abd7c93e455ec8cf8f99", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:23", "1870919", "42e5384c554e2768bb5dd4f67b95eaac", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:24", "1870920", "c723fbd5be4242ff25d2dd6d1f59dee47033c78ee096ac0241cd6ff43ddab7a6", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:24", "1870922", "fba7ca7cebadd9c91d0c477ea66e212c", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:25", "1870923", "a4895d35b29bd056cfedbf16a7fc28f4d1ce00795e395a68155c02eb89d616bc", "sha256_hash", "payload", "osx.electro_rat", "None", "ElectroRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:25", "1870925", "37ac69c903d0c1c196b3159a55417dcb", "md5_hash", "payload", "osx.electro_rat", "None", "ElectroRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:26", "1870926", "1e7b81bdbf126727fa8fd61049f68025deede33c2204c2fb8af9465cee9cbd82", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:26", "1870928", "a9c6b8aa8dcad8c23bbafd75f9874231", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:26", "1870929", "1e9bbc30c454a22cf03638880a94b274e09c195b85278f3f25297fd514b06871", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:28", "1870931", "b54cef50367e935f57e7a23d17ff85ae", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:28", "1870932", "c43acf99103c323dec615c0f2b7f6af9c77c89c4988c51f2bfb2b1f5523b4127", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:29", "1870934", "04bca2eac61465824f49f8f978137a6f", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:29", "1870935", "5c047137f0216fadb95aaf302809eb0ac2f3db0c36729152c1351fb821d94fca", "sha256_hash", "payload", "apk.clipper", "None", "Clipper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:30", "1870937", "c3b3b58a8af1db66d1545d96c0eb78ce", "md5_hash", "payload", "apk.clipper", "None", "Clipper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:31", "1870938", "e615cc96f7eec986fe4c10b109739dfb9a4ceaa8d0df87ef03474cf46b71b19a", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:32", "1870940", "1877ec10e90000f32f87a2c754fc028d", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:32", "1870941", "bde027623ac81616afb0be9a3ff9f7ec718278f89bf684feded59738175cc114", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:33", "1870943", "9ee92ca39c8c4ea09084d6a3152c7620", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:33", "1870944", "2a6ebbf3901296ecc772eaed7e22b5cfa0e2c316323ac5f74253f63b77823f31", "sha256_hash", "payload", "win.phorpiex", "Tldr,Trik,TwizT,phorphiex", "Phorpiex", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:34", "1870946", "d9e58b4fa83412f34ee5f5c3cec259e6", "md5_hash", "payload", "win.phorpiex", "Tldr,Trik,TwizT,phorphiex", "Phorpiex", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:35", "1870947", "599584e6e42436721a66c2d3fbc29fe0d9be0b0e3f9e0f5f0333293e293920fc", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:35", "1870949", "cb7a54e77e833e0cfd984ef4a9c49a3a", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:36", "1870950", "88e9161f6548b523c713702db766a5e18b77129db89aabb2e6150f0b6e781569", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:36", "1870952", "7831a775e41a76f5688adcfd3fd002c6", "md5_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:37", "1870953", "1e5be4fab2e11a5a450d10e056be635d6695e10ba02933db46f49d2631c7d910", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:38", "1870955", "ab85fd8e14032d3f07865e7da41191ae", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:38", "1870956", "60a779d7f51d106e4a8d14e6fe987ca6b7ec4b6c7942c665bb6653a0dae0fc4d", "sha256_hash", "payload", "win.nanocore", "Nancrat,NanoCore", "Nanocore RAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:39", "1870958", "9209c4f81950da9422311103c970cb42", "md5_hash", "payload", "win.nanocore", "Nancrat,NanoCore", "Nanocore RAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:39", "1870959", "604540e8f61d04ed0bde2678ace8d1d9a43461e0a2b8533d371891d6bf4089a2", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:40", "1870961", "e964a5e37ad3c1c0478ff13ac5b32c65", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:40", "1870962", "10505f035b1e6569cb22d42614829e85fd432e014418f457e2e1dfc31dcd505c", "sha256_hash", "payload", "win.prometei", "None", "Prometei", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:41", "1870964", "fde4bb9242202ad2ec42ab19a0fdd453", "md5_hash", "payload", "win.prometei", "None", "Prometei", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:41", "1870965", "e234be44eeafaf0250d9ef2cef198e223264e1541cff78d30a98163c5a7dde67", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:42", "1870967", "a216558b0c9403010e3682e37bad4b0c", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:42", "1870968", "ddf8b517a8fed544e1adac815a5d85d4c917717449dd52d1354c03f599f05779", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:43", "1870970", "58a519430128d0e52fc10b3bc7fdb717", "md5_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:43", "1870971", "c5125a9712a4bece5cc1d53da1914ec5ac7ba147ab37242b03ce488bc2909137", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:44", "1870973", "e9c8477a7011ac3fdc936f8b57ae9344", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:44", "1870974", "e1ee2b7aeeb62f063134d78df6e522afde0952eca1701fb8d0835abe18ef16bc", "sha256_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:46", "1870976", "f0d062c4f07188525d9b14c975e871ed", "md5_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:46", "1870977", "cdde719462e36f6a902e40859fab9e057acc944a02cc56c43353ab449efe6105", "sha256_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:47", "1870979", "11f2b24989b0edce6ffa5113c7e61470", "md5_hash", "payload", "elf.kuiper", "None", "Kuiper", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:47", "1870980", "254412f2ca69b69f8b686f874374e2584aaf55ad5c3e8ed6eddfa69f3fe6ea2b", "sha256_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:48", "1870982", "11b388e073236318b3851c168aa1abde", "md5_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:48", "1870983", "467ed1f5cfbbb2bbb6f90f75d1b2bcd99dbeb38a65cc4bcc7bd39767a62d5676", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:49", "1870985", "2f89f9431bd97dba2fab3cd2f02d6f10", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:49", "1870986", "b9cf80a5e63577b018937534f6219eb29876c2163f0cdad7341acc2deef2859f", "sha256_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:50", "1870988", "6da5f33515b187df3620e7463fab9995", "md5_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:50", "1870989", "07b1a32c53c1efab24f54151b1158bad7404374f0dfdee558e7ad80ad278575a", "sha256_hash", "payload", "jar.crossrat", "Trupto", "CrossRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:51", "1870991", "2d4fe10deb30092875ad0e5327904cd9", "md5_hash", "payload", "jar.crossrat", "Trupto", "CrossRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:52", "1870992", "ed71b72c1e0d19a627fea10181438779fb02bcfcd67870ce57e363a7c5168e94", "sha256_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:53", "1870994", "68ccd17f80bcc61bec8759b77cb80b24", "md5_hash", "payload", "win.luca_stealer", "None", "Luca Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:54", "1870995", "7fe1c82d5a257a35d527e78f05d35592c015f0dd8de1956d1e7f02ca70462f4e", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:54", "1870997", "a7896d977fe660b80c214495486f1f4d", "md5_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:55", "1870998", "dc1e2425521c3ff8344ea04a2294730e8ddda29da11b809421b85c896a693cad", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:55", "1871000", "d5cf90d75595ae54fad924f7ea2861dc", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:56", "1871001", "4115dfac942c3e99fa356fcd89cb30ecbeb8156da57b1fb0d8c8270699b6417b", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:57", "1871003", "65cef1e97cc1dbaa4fe794599838e434", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:57", "1871004", "4050513fd2c0e7872d037adc911283a8362a5173ff1910ff5eb8890b980e7994", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:58", "1871006", "f4b24101f0917af773057ae219396c0a", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:59", "1871008", "8401e96f3e47f9e0fb2544424acd1434", "md5_hash", "payload", "win.terra_stealer", "StealerOne,SONE,Taurus Loader Stealer Module", "TerraStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:26:59", "1871009", "2b45aeb88bf38dd8dfbb13390c5b0f5efd6a298a6f967ac773cf47b2489ee5ab", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:26:59", "1871011", "23ed3c85947705b76a5bc6dfaaff0b41", "md5_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:00", "1871012", "690b3aacb438e50788ca6018d18caa7bd1d18121e71649e7d2e36067919ca0d6", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:00", "1871014", "fd97ea4b8cfbe711cdeff06d6e8c502f", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:01", "1871015", "a42df8053e42a3f98ce47aa8a0d130c0aa939d3dd9a8585011ddd665a8463fe0", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:03", "1871017", "4d56b55b133743418061a05b4c09cb74", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:03", "1871018", "d82fd1f36b81436d7fd9096cec50e2d08dbe148680ff1281e59b10d0fe806448", "sha256_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:04", "1871020", "52986c188bb52d99b07384a20d73289e", "md5_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:04", "1871021", "14cfc813ef030e8b3f0e85fe8c140e1b746b52c76fff8352d0d92eb46f725470", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:05", "1871023", "ce86bec69c0991c8cd99787e5f8a2c4d", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:11", "1871024", "8d945e37a9d8f4f68fb34b623e628aed9cce8c8ea6593a8e2bbcbba33e166537", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:11", "1871026", "b426a480de03b7a15e739cf07f7fac88", "md5_hash", "payload", "win.stealc", "None", "Stealc", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-08 17:27:11", "1871027", "30064a241c39541e287ccbe04f1027a037a10918528384479d27b53a23c2b1aa", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-08 17:27:13", "1871029", "01f84e942908ccb2fc657d9dd1caf8b5", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-10 11:48:46", "1871660", "a6a6674d13230442f10b0b6663a5e659f9d3a072b8e575fd332baa5ff685a1d6", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-10 11:48:47", "1871662", "893cf55eb5c958896580854b7f5c44e1", "md5_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "False", "None", "None", "0", "Grim"
@@ -2020,6 +1945,7 @@
 0c73f51e7ec5233673fd3fd4011df6cf,56ca367a-5a88-4925-a309-4cd69062e56a
 0c76dfd37ae686fcd492dc8c506a43f2,d81c3a80-018d-413d-9f11-59aa0c67e761
 0c7761799784dce5965681ea2cfb7844,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+0c7777f8a20db42cfa577f16e8eab797
 0c7779fab605d8e4dd224898dfad371b,a9da4722-3b2c-42b6-9bb8-82f2162a171e
 0c7816a84b747f31cd45171da2e4c0c7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0c79496cba2600266dea99d46bd23a54,b891b584-a5bb-48d5-9b70-95cd02ac544c
@@ -116109,6 +116035,12 @@
 2026-08-10 13:32:19,teamcymru_S2,ip,47.252.41.23,,https://x.com/teamcymru_S2/status/2086807858507600185
 2026-08-10 15:52:47,Beralock,domain,pitchdeck.io,#ransomware,https://x.com/Beralock/status/2086843209104380263
 2026-08-10 15:52:47,Beralock,url,http://Pitchdeck.io,#ransomware,https://x.com/Beralock/status/2086843209104380263
+2026-08-10 16:41:07,etugenio,domain,subscription-magnetic-recommended-meat.trycloudflare.com,,https://x.com/etugenio/status/2086855372044632477
+2026-08-10 16:41:07,etugenio,url,https://subscription-magnetic-recommended-meat.trycloudflare.com,,https://x.com/etugenio/status/2086855372044632477
+2026-08-10 16:50:48,skocherhan,ip,207.174.0.143,#opendir,https://x.com/skocherhan/status/2086857808570396758
+2026-08-10 16:50:48,skocherhan,md5,bdb02dd75675bb7faf5033b30b047d33,#opendir,https://x.com/skocherhan/status/2086857808570396758
+2026-08-10 16:50:48,skocherhan,url,http://207.174.0.143:8041,#opendir,https://x.com/skocherhan/status/2086857808570396758
+2026-08-10 16:50:48,skocherhan,url,http://207.174.0.143:8080,#opendir,https://x.com/skocherhan/status/2086857808570396758
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -125084,6 +125016,7 @@
 6089c48645a319e1d94a036db1b97dfc52484cef
 608b846803ed02602874e1e79783e46c,a80e5be0-fedf-4d0a-b364-58e22b936b94
 608c935d65a7357711f18a8082b7edc2,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
+608d29acfe6b1fed236edee902f69c87
 6090633f15893014c0ae325f43d048f6a2dac29e0472388f995dc42763e3ce2d
 609530a423e2dc5fd721262819e17167,f65efb02-c563-44a7-9036-516219a24243
 60955962234aaf75e9ddb259914c87e1,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -138824,6 +138757,7 @@ be779f3e435760a6e82e6f7c46bd6b89,095c4227-2a9e-45da-9268-cec186be53b1
 be78f39a303d5bec5242f72b368816d4,a80e5be0-fedf-4d0a-b364-58e22b936b94
 be7b9946f6a86af6ca4019c7ce05d24f,56cce206-fc70-436c-881b-52819062e56a
 be7d5bf17780bb734eac84fcf4c8607b,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
+be7ea79554fe27f6943f411c54c97467
 be7f4b07b01cc871cbed6720c3984845,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 be7f4cf6d4f8f745c7fa8d94125fd59b,f65efb02-c563-44a7-9036-516219a24243
 be8134f9f2192a09ac79c73406689bac,16ee036b-17f5-4f17-b3c3-9fe89176274a
@@ -141982,6 +141916,7 @@ d423e3e20755cab4d7ac12cd4eb60e5e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 d4244a66a9a70136bd526c1517cb00e9,a80e5be0-fedf-4d0a-b364-58e22b936b94
 d42477ae35e34d3b34d6860b849b17c1,59f6f87b-868c-4d04-846f-052ec0a8ab16
 d4262a9108c8f63ea803fa254b4af58b,ade7298a-84e8-4dc8-9cab-c215cc771629
+d426de7672d8187fc17473a136a58b2f
 d4281f0c98b217d5c287465ea2bae87b,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 d428a73b2aa6062b2ee706306c3b1104,585822f9-9290-49f9-b036-04e4c0a8ab16
 d42d18524eb951d66d3ec65b5ace0d1f,b891b584-a5bb-48d5-9b70-95cd02ac544c
@@ -146722,6 +146657,7 @@ f6517212881768a3142b9febdd364017,2e1474e1-1a53-4124-966f-b3bbface35df
 f651a0d4057ba630bd19a59c1becd5af,f65efb02-c563-44a7-9036-516219a24243
 f655e9a77d781ee236ad1d95d12a97e8
 f65630bd94ed4a6f7150d038b8593e9b51a1d02b
+f6579af098857b3040340825ca77df96
 f65aebba73f33ebfdc249ab3fc72f050,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 f65be982f97ca3dbf53084c8924972e6,5cca9118-b228-4d3e-8db6-07fbc0a8ab16
 f65db13e062e569974924d86a8200b21,56cce206-fc70-436c-881b-52819062e56a
