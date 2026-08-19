@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-19 04:13:11 UTC
-# Total Hashes: 146983
+# Generated: 2026-08-19 05:07:32 UTC
+# Total Hashes: 147010
 
 "2026-08-17 11:09:42", "1877836", "859de3cf69bdc175a91c150ecc23c825bb38d999c6ef4e17955a9a78fa139943", "sha256_hash", "payload", "win.darkcloud", "None", "DarkCloud Stealer", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-17 11:09:42", "1877838", "f060577086b62fa9df2ce231f2221291", "md5_hash", "payload", "win.darkcloud", "None", "DarkCloud Stealer", "", "95", "False", "None", "None", "0", "Grim"
@@ -821,6 +821,7 @@
 0578a37d676acb5e4b7dcc5f5684832e,56ca46f6-44ac-43bc-8898-4a5a9062e56a
 0578a37d676acb5e4b7dcc5f5684832e,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
 057930af8791bda177246ffe6d4caebc,5faf0670-ffa6-4da9-8329-935f9d48a687
+057eea3cc71ee0908d5e4d75277b489b
 0582804c61c7447c959e77c0814b4b03,f65efb02-c563-44a7-9036-516219a24243
 05855e8e403ef38753099de6eec56be8,500ce304-3996-44ab-8a36-be206f89d3de
 0586edc27644891651023491d62462cd,f48f7c30-fe6f-4854-b27e-f86a308da714
@@ -4096,6 +4097,7 @@
 1cd84aff2b31b66d7a6596459e9155f1,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 1cdb3080ab84cb3db3274c8fa769f585,45ab9141-de79-4492-974b-1504bd6dfa13
 1cdd6c02503e678a71a237bea0f024a2,60f6ea57-5534-4866-9677-44650abe1822
+1cde02d2a45ea86ae055af7d6ce978e7
 1ce234044a89bb15a5f6c31884e1f86e,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 1ce23fe74ae2429d8233ee930ebd56bc,587fa022-52ac-485f-85cb-079ac0a8ab16
 1ce46c10c86b96bed6373a4afeb36d21,60f6ea57-5534-4866-9677-44650abe1822
@@ -115839,6 +115841,30 @@
 2026-08-19 00:52:38,MsftSecIntel,domain,auto.c3pool.org,,https://x.com/MsftSecIntel/status/2089878169037738202
 2026-08-19 00:52:38,MsftSecIntel,sha256,84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c,,https://x.com/MsftSecIntel/status/2089878169037738202
 2026-08-19 00:52:38,MsftSecIntel,url,http://auto.c3pool.org:443,,https://x.com/MsftSecIntel/status/2089878169037738202
+2026-08-19 03:58:50,masaomi346,domain,exg3gtfcc9gtlyv5tu.live,#phishing,https://x.com/masaomi346/status/2089925028418900250
+2026-08-19 03:58:50,masaomi346,url,https://exg3gtfcc9gtlyv5tu.live,#phishing,https://x.com/masaomi346/status/2089925028418900250
+2026-08-19 04:00:30,patialavii,domain,file-share-image-2026-8368-736-dropbox.cloud,#phishing,https://x.com/patialavii/status/2089925448478454266
+2026-08-19 04:00:30,patialavii,url,http://file-share-image-2026-8368-736-dropbox.cloud,#phishing,https://x.com/patialavii/status/2089925448478454266
+2026-08-19 04:13:43,TKemmerling,domain,kwmsteam.com,#phishing,https://x.com/TKemmerling/status/2089928775593287751
+2026-08-19 04:13:43,TKemmerling,domain,nwvearly.com,#phishing,https://x.com/TKemmerling/status/2089928775593287751
+2026-08-19 04:13:43,TKemmerling,url,http://kwmsteam.com,#phishing,https://x.com/TKemmerling/status/2089928775593287751
+2026-08-19 04:13:43,TKemmerling,url,http://nwvearly.com,#phishing,https://x.com/TKemmerling/status/2089928775593287751
+2026-08-19 04:23:09,TKemmerling,domain,columbuswealthplanning.info,#phishing,https://x.com/TKemmerling/status/2089931147900006709
+2026-08-19 04:23:09,TKemmerling,domain,robertszutyiart.com,#phishing,https://x.com/TKemmerling/status/2089931147900006709
+2026-08-19 04:23:09,TKemmerling,url,http://columbuswealthplanning.info,#phishing,https://x.com/TKemmerling/status/2089931147900006709
+2026-08-19 04:23:09,TKemmerling,url,http://robertszutyiart.com,#phishing,https://x.com/TKemmerling/status/2089931147900006709
+2026-08-19 04:30:51,TKemmerling,domain,meetings.onlinecommunityconsultation.com,#phishing,https://x.com/TKemmerling/status/2089933086977143226
+2026-08-19 04:30:51,TKemmerling,domain,mmcharty.s3.us-east-1.amazonaws.com,#phishing,https://x.com/TKemmerling/status/2089933086977143226
+2026-08-19 04:30:51,TKemmerling,url,http://meetings.onlinecommunityconsultation.com,#phishing,https://x.com/TKemmerling/status/2089933086977143226
+2026-08-19 04:30:51,TKemmerling,url,http://mmcharty.s3.us-east-1.amazonaws.com,#phishing,https://x.com/TKemmerling/status/2089933086977143226
+2026-08-19 04:41:29,TKemmerling,domain,flowers.theflowerflat.com,#phishing,https://x.com/TKemmerling/status/2089935762632630504
+2026-08-19 04:41:29,TKemmerling,domain,ntiein.s3.us-east-1.amazonaws.com,#phishing,https://x.com/TKemmerling/status/2089935762632630504
+2026-08-19 04:41:29,TKemmerling,url,http://flowers.theflowerflat.com,#phishing,https://x.com/TKemmerling/status/2089935762632630504
+2026-08-19 04:41:29,TKemmerling,url,http://ntiein.s3.us-east-1.amazonaws.com,#phishing,https://x.com/TKemmerling/status/2089935762632630504
+2026-08-19 04:49:52,TKemmerling,domain,hriver.net,#phishing,https://x.com/TKemmerling/status/2089937873655177467
+2026-08-19 04:49:52,TKemmerling,domain,onxsm.styleompl.com,#phishing,https://x.com/TKemmerling/status/2089937873655177467
+2026-08-19 04:49:52,TKemmerling,url,http://hriver.net,#phishing,https://x.com/TKemmerling/status/2089937873655177467
+2026-08-19 04:49:52,TKemmerling,url,http://onxsm.styleompl.com,#phishing,https://x.com/TKemmerling/status/2089937873655177467
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -128647,6 +128673,7 @@
 7e5afdbafca3fc59e0f0da76bca8fb65,f65efb02-c563-44a7-9036-516219a24243
 7e5db08cbe2f0459cbdbcfdb6293f00d,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 7e5db9ef8b623f7729f275189324abd8,7abd1104-926c-490e-8514-898affae1279
+7e62ac25cd7c5c10d43ae63ed08117e2
 7e65a1c3e79bacb4975e219e37d78590,f65efb02-c563-44a7-9036-516219a24243
 7e65ec96640beb5898cf57717e91e3d8,661d5363-22b0-43df-82f1-bcc20abe1822
 7e69b82ac3e8e4dc8664140fcdc9cefe,5f573f53-5ac0-44f3-9756-d686c0a8ab16
