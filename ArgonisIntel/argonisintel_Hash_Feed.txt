@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-21 15:03:03 UTC
-# Total Hashes: 146975
+# Generated: 2026-08-21 16:02:06 UTC
+# Total Hashes: 147006
 
 "2026-08-20 08:41:00", "1883029", "33215eef229fa578661e017862dbca09c9d9d0a2d19ff56e0622604c804c7ebe", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "False", "https://www.virustotal.com/gui/file/33215eef229fa578661e017862dbca09c9d9d0a2d19ff56e0622604c804c7ebe/", "None", "1", "anonymous"
 "2026-08-20 08:41:01", "1883028", "9f0c756af7f4a15a6e801aeb364a832d", "md5_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "False", "", "None", "1", "anonymous"
@@ -16,6 +16,9 @@
 "2026-08-21 11:10:50", "1883778", "88602976f7c64499ef40e4972ac17db6", "md5_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-21 11:10:51", "1883779", "346cf14b787747160f789525e9843663b05a7e588f8fa92b8a2b858a8d54272b", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-21 11:10:51", "1883781", "edc8338feddcdc93e69c966d26a8e94e", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
+"2026-08-21 15:37:56", "1883840", "ca88a6c055a96e1a6fa47e2586d41d2a", "md5_hash", "payload", "unknown_rat", "None", "Unknown RAT", "", "100", "False", "https://netresec.com/?b=268ee19", "CNCMachineRMS", "0", "netresec"
+"2026-08-21 15:37:56", "1883841", "eba2bbd380b6949a249aba5c3ed13245", "md5_hash", "payload", "unknown_rat", "None", "Unknown RAT", "", "100", "False", "https://netresec.com/?b=268ee19", "CNCMachineRMS", "0", "netresec"
+"2026-08-21 15:37:57", "1883839", "b0bc47a7308bd39a5b638781874a3d8e", "md5_hash", "payload", "unknown_rat", "None", "Unknown RAT", "", "100", "False", "https://netresec.com/?b=268ee19", "CNCMachineRMS", "0", "netresec"
 0000bdd89d69a6dfad29d7463fc1f7dd,56ccdf82-bb98-4b52-9c86-52849062e56a
 0001195ed243f2d1198b685d0fbe1b1e,602ceed3-9144-4262-a1a5-30fd0aba047c
 0001dbd841e88e4656043a7c0208effeb41227c9
@@ -1256,6 +1259,7 @@
 088ffc1ff144d18f6992916b025d3c5b,c5107fff-968b-4267-bc27-cafbc6553d1d
 089019b806a4f72c44c180de3d32471f,7f79ab3b-6744-4857-85a0-ec2803a67372
 08926a1c898d6e6095983efe8811ee5d,56cce03c-9fd0-48bd-958b-52849062e56a
+0895c4b7c97128e46fc300cf597a4c73
 0897263a640d5d5d71d03d4fd9079d95,5faf0670-ffa6-4da9-8329-935f9d48a687
 08981212cc0b9e47a01e704fbac1c096,99138053-ae5d-4bcf-b2f8-0954edb204bc
 08989a6e41882fe54961348e0ab66305,585822f9-9290-49f9-b036-04e4c0a8ab16
@@ -115630,12 +115634,37 @@
 2026-08-21 13:36:41,_AkatsukiLegion,url,http://ceyq9jos-wildberries.nevadafencing.com,#phishing,https://x.com/_AkatsukiLegion/status/2090795225736450110
 2026-08-21 13:36:41,_AkatsukiLegion,url,http://ceyq9jos-wildberries.rageforest.com,#phishing,https://x.com/_AkatsukiLegion/status/2090795225736450110
 2026-08-21 13:36:41,_AkatsukiLegion,url,http://ceyq9jos-wildberries.txspay.com,#phishing,https://x.com/_AkatsukiLegion/status/2090795225736450110
+2026-08-21 14:08:27,skocherhan,domain,manalyzer.org,,https://x.com/skocherhan/status/2090803218368303283
+2026-08-21 14:14:42,teamcymru_S2,ip,121.196.226.244,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,130.94.12.40,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,157.90.66.142,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,168.138.178.149,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,172.245.10.140,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,207.57.123.68,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,207.57.129.216,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,34.219.208.40,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,38.55.199.55,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,43.153.167.191,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,45.144.136.244,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,45.152.65.131,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,47.83.193.108,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,47.93.236.243,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,68.64.183.70,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,8.137.32.81,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,83.229.124.25,,https://x.com/teamcymru_S2/status/2090804790607454681
+2026-08-21 14:14:42,teamcymru_S2,ip,83.229.125.173,,https://x.com/teamcymru_S2/status/2090804790607454681
 2026-08-21 14:46:09,TKemmerling,domain,anadolucuhuriyeti.info,#phishing,https://x.com/TKemmerling/status/2090812709092962792
 2026-08-21 14:46:09,TKemmerling,url,http://anadolucuhuriyeti.info,#phishing,https://x.com/TKemmerling/status/2090812709092962792
 2026-08-21 14:46:28,TKemmerling,domain,itnessequipmentfor.info,#phishing,https://x.com/TKemmerling/status/2090812785970303089
 2026-08-21 14:46:28,TKemmerling,domain,terminandoconlatrata.com,#phishing,https://x.com/TKemmerling/status/2090812785970303089
 2026-08-21 14:46:28,TKemmerling,url,http://itnessequipmentfor.info,#phishing,https://x.com/TKemmerling/status/2090812785970303089
 2026-08-21 14:46:28,TKemmerling,url,http://terminandoconlatrata.com,#phishing,https://x.com/TKemmerling/status/2090812785970303089
+2026-08-21 15:30:43,TKemmerling,domain,malfeasantboogie.com,#phishing,https://x.com/TKemmerling/status/2090823923332239431
+2026-08-21 15:30:43,TKemmerling,domain,tkmmanage.org,#phishing,https://x.com/TKemmerling/status/2090823923332239431
+2026-08-21 15:30:43,TKemmerling,url,http://malfeasantboogie.com,#phishing,https://x.com/TKemmerling/status/2090823923332239431
+2026-08-21 15:30:43,TKemmerling,url,http://tkmmanage.org,#phishing,https://x.com/TKemmerling/status/2090823923332239431
+2026-08-21 15:46:39,Coolcarlos17,domain,havan-com.site,#phishing #scam,https://x.com/Coolcarlos17/status/2090827933820584266
+2026-08-21 15:46:39,Coolcarlos17,url,"https://havan-com.site/produto.php?slug=escada-multifuncional-de-alum-nio-4x4-com-16-degraus-dobr-vel"",#phishing,#scam,#golpe,#fakewebsite,#clone,#ecommercefake,@havanoficial",#phishing #scam,https://x.com/Coolcarlos17/status/2090827933820584266
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -119098,6 +119127,7 @@
 3982bfb8c7a87b6141a3e023be335baa,6021536f-a808-4b9c-8136-d7460aba047c
 39867588b4fdf2fc28d996509e2b6117,f65efb02-c563-44a7-9036-516219a24243
 3986828089ee59e5b15ae8e817008cf4,a80e5be0-fedf-4d0a-b364-58e22b936b94
+398922cab3f17057e1f7370ab4c392bf
 398924a055fb658719bb8520f771b8ec,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
 3989777e155407ae41741f0100e1cb64,2d2af096-edea-4dde-8be3-0224205b1074
 398a13d55cb27d5c0a121be2c1dca236,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -126275,6 +126305,7 @@
 6de66675fa96dc5885b9383a9c9f5593,5877be48-e4b4-4634-b002-0799c0a8ab16
 6de6fb1ea1de2b0388901bcd9dd567a1,f65efb02-c563-44a7-9036-516219a24243
 6de80f3b035b510dab0216e0f55080751e3f3ff2
+6de91df0522625bdb1a29a98f4e5a2be
 6de94b09fe500e67a32311e7c3e042ad,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
 6de99543c641c24d0a86b97f4c70c605,56ccdf82-bb98-4b52-9c86-52849062e56a
 6debe423b211adc7550adc770159c68e,602ceed3-9144-4262-a1a5-30fd0aba047c
