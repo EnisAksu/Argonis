@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-22 07:05:15 UTC
-# Total Hashes: 145630
+# Generated: 2026-08-22 07:58:25 UTC
+# Total Hashes: 145696
 
 "2026-08-20 08:41:00", "1883029", "33215eef229fa578661e017862dbca09c9d9d0a2d19ff56e0622604c804c7ebe", "sha256_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "False", "https://www.virustotal.com/gui/file/33215eef229fa578661e017862dbca09c9d9d0a2d19ff56e0622604c804c7ebe/", "None", "1", "anonymous"
 "2026-08-20 08:41:01", "1883028", "9f0c756af7f4a15a6e801aeb364a832d", "md5_hash", "payload", "win.cobalt_strike", "Agentemis,BEACON,CobaltStrike,cobeacon", "Cobalt Strike", "", "100", "False", "", "None", "1", "anonymous"
@@ -29,6 +29,34 @@
 "2026-08-22 07:00:03", "1884043", "60786e24a45df08c6b53a35b485d6243371d43e6749390e7304e7c7a0d97d521", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "80", "False", "https://honeylabs.net/lookup/91.92.47.97", "elf,iot", "0", "HoneyLabs"
 "2026-08-22 07:00:08", "1884019", "13D6D4FD239DB44ADCF4E9D8A578DB3B4B5A75D5D70830AD888ED79D522C1258", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "100", "False", "https://threatfox.abuse.ch/ioc/1873785/", "ClickFix,explorer.exe,injection", "0", "Phisto"
 "2026-08-22 07:00:15", "1883904", "e421ad53b169282b04e50e1b9d1faa9e", "md5_hash", "payload", "unknown_rat", "None", "Unknown RAT", "", "100", "False", "https://netresec.com/?b=268ee19", "BabaDeda,CNCMachineRMS", "0", "netresec"
+"2026-08-22 07:00:33", "1883894", "fe71af9ecf174de48d2b2ccc2c15fb04", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:34", "1883891", "f0e3f7eba2cde91e2dedb921bab47422", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:34", "1883892", "f8cf8c23ff597700d471fb7767df8bac", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:34", "1883893", "fa831c3c23824b99871163387bcda7ad", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:35", "1883889", "e9f3a0dab6949ce2cddab9e0aa80ae1a", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:35", "1883890", "ea24487996eb70c1780922fb3063bcc5", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:36", "1883887", "de77c3303e93c9450424759f1741441c", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:37", "1883886", "d63bacd6d6709dd68a10ef9d374c7835", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:37", "1883888", "e119845877089d6f4b0a70dc7388f316", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:38", "1883884", "bd80bd3c3d0e4bf6b5b4a825650d01f5", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:38", "1883885", "c6bfb1643ac7474ed8a7b4f96a187fdb", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:39", "1883882", "ba27951b4ee1c341f4415d033369ecd3", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:39", "1883883", "bd4d81cd27125ad3d9a114922d468499", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:40", "1883881", "b067d5b0dbecbd6498bcdfba45dba77e", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:41", "1883879", "9642ae619b3165d23c6349002d1abe24", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:41", "1883880", "a4223ce4288a230d1e6c3ff2c7639045", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:43", "1883877", "89ef78f716a75964539f2db6520be362", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:43", "1883878", "8b5e513144a6138a966ea59e68bf9da2", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:44", "1883876", "7a4d3ba2dacccfdda55859a5dfee2671", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:45", "1883874", "6c2e34b30da42085240ede53ab6107d4", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:45", "1883875", "71ab5517f71866279d0d87d37f2ae320", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:46", "1883873", "67dc78e544ebce16b85dc7c195dfbc58", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:47", "1883871", "412e9243f2981bbea3894254d105b3b8", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:47", "1883872", "44b6b213a6a3f299eaf88e078de95ecb", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:48", "1883869", "2a64c3efc11bf224aa54f24e876446c9", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:48", "1883870", "3AD4BF5A86D26FFBF09CAE42AF330A98", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:49", "1883867", "0fbaa7092204f4b1494e0b840b014774", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
+"2026-08-22 07:00:49", "1883868", "1dcf031c40ce456b6a36a00b0acf3d11", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
 0000bdd89d69a6dfad29d7463fc1f7dd,56ccdf82-bb98-4b52-9c86-52849062e56a
 0001195ed243f2d1198b685d0fbe1b1e,602ceed3-9144-4262-a1a5-30fd0aba047c
 00032a89a06581ca5e7a5cbf7d31bee5,56ccdf82-bb98-4b52-9c86-52849062e56a
@@ -1452,6 +1480,7 @@
 0a40bef77018d2971c0249a9cb32195c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0a40cb59fd08a11970a875d3bdc90446
 0a4282c5a5a2095d7c8f18fa7a1b6cf1,5d9094f3-4d08-4248-9f13-7d8cc0a8ab16
+0a45d621f16eb77cc1c75eae0d93d84f
 0a46b66a9f42d4d906060bf7dbcc031c,31de44de-304f-48c4-8ca0-38d1da0b8eba
 0a48d7ca15cbe5503ac199cdba6b0bfb,6021536f-a808-4b9c-8136-d7460aba047c
 0a48dca955141d351452371638d5385e,57eab741-2a10-4bb5-b177-80bfc0a8ab16
@@ -115123,6 +115152,32 @@
 2026-08-22 04:50:02,scanmalware,url,http://gfytvd-wiyn-np4qjd-g9ewg7.pages.dev,#ransomware,https://x.com/scanmalware/status/2091025078561452488
 2026-08-22 05:04:51,masaomi346,domain,macielsoaresimobiliaria.com.br,#phishing,https://x.com/masaomi346/status/2091028805095973316
 2026-08-22 05:04:51,masaomi346,url,https://macielsoaresimobiliaria.com.br/lolipop/,#phishing,https://x.com/masaomi346/status/2091028805095973316
+2026-08-22 06:58:32,TKemmerling,domain,indelibleaggravate.net,#phishing,https://x.com/TKemmerling/status/2091057413717958974
+2026-08-22 06:58:32,TKemmerling,domain,liveryfunky.org,#phishing,https://x.com/TKemmerling/status/2091057413717958974
+2026-08-22 06:58:32,TKemmerling,url,http://indelibleaggravate.net,#phishing,https://x.com/TKemmerling/status/2091057413717958974
+2026-08-22 06:58:32,TKemmerling,url,http://liveryfunky.org,#phishing,https://x.com/TKemmerling/status/2091057413717958974
+2026-08-22 07:05:35,TKemmerling,domain,gwzfish.org,#phishing,https://x.com/TKemmerling/status/2091059189724643531
+2026-08-22 07:05:35,TKemmerling,domain,vkvfaith.com,#phishing,https://x.com/TKemmerling/status/2091059189724643531
+2026-08-22 07:05:35,TKemmerling,url,http://gwzfish.org,#phishing,https://x.com/TKemmerling/status/2091059189724643531
+2026-08-22 07:05:35,TKemmerling,url,http://vkvfaith.com,#phishing,https://x.com/TKemmerling/status/2091059189724643531
+2026-08-22 07:06:18,TKemmerling,domain,itnessequipmentfor.info,#phishing,https://x.com/TKemmerling/status/2091059372206215597
+2026-08-22 07:06:18,TKemmerling,domain,twomenandatruckdaytons.com,#phishing,https://x.com/TKemmerling/status/2091059372206215597
+2026-08-22 07:06:18,TKemmerling,url,http://itnessequipmentfor.info,#phishing,https://x.com/TKemmerling/status/2091059372206215597
+2026-08-22 07:06:18,TKemmerling,url,http://twomenandatruckdaytons.com,#phishing,https://x.com/TKemmerling/status/2091059372206215597
+2026-08-22 07:06:40,TKemmerling,domain,flashstoreshopping.net,#phishing,https://x.com/TKemmerling/status/2091059460915740948
+2026-08-22 07:06:40,TKemmerling,domain,usdxag.com,#phishing,https://x.com/TKemmerling/status/2091059460915740948
+2026-08-22 07:06:40,TKemmerling,url,http://flashstoreshopping.net,#phishing,https://x.com/TKemmerling/status/2091059460915740948
+2026-08-22 07:06:40,TKemmerling,url,http://usdxag.com,#phishing,https://x.com/TKemmerling/status/2091059460915740948
+2026-08-22 07:07:05,TKemmerling,domain,edufloat.org,#phishing,https://x.com/TKemmerling/status/2091059567291781294
+2026-08-22 07:07:05,TKemmerling,domain,lesliebernini.org,#phishing,https://x.com/TKemmerling/status/2091059567291781294
+2026-08-22 07:07:05,TKemmerling,url,http://edufloat.org,#phishing,https://x.com/TKemmerling/status/2091059567291781294
+2026-08-22 07:07:05,TKemmerling,url,http://lesliebernini.org,#phishing,https://x.com/TKemmerling/status/2091059567291781294
+2026-08-22 07:07:25,TKemmerling,domain,bayberryalgebraic.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
+2026-08-22 07:07:25,TKemmerling,domain,landmailman.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
+2026-08-22 07:07:25,TKemmerling,domain,seen.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
+2026-08-22 07:07:25,TKemmerling,url,http://bayberryalgebraic.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
+2026-08-22 07:07:25,TKemmerling,url,http://landmailman.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
+2026-08-22 07:07:25,TKemmerling,url,http://seen.com,#phishing,https://x.com/TKemmerling/status/2091059652893225404
 2028b560f347823542042979e4e82b11
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
@@ -118201,6 +118256,7 @@
 3782779199b7851eaa04a4856e770dd9,5faf0670-ffa6-4da9-8329-935f9d48a687
 3783e3740ef61624b460e61c18148aed,defe99ff-e92c-4267-b446-0686d2c00559
 378567ecf13963c2ebd5826bcaab0595,5fd8a8d4-9d60-4620-bc24-e430c0a8ab16
+37872e46797e86469ac373f572c4b05e
 3789b609825138f2f40f631e15f44d02,d003529e-e30f-4233-a45f-22104cd9294c
 378b2f4ab51700a5edd3dcfa9f324d7b,28219fd4-56f3-470c-90ae-bdaeb006502e
 378bfcccc0944b8098fbea54a1453803,590c76a9-0bac-4d1e-b8af-416ac0a8ab16
@@ -125283,6 +125339,7 @@
 6cc563b051984ca540b290c0e3e34477,6181159d-d7e0-422f-b7f5-26cc0abe1822
 6cc5b52ee8e11e0f9557f6e1f18b7f70,f65efb02-c563-44a7-9036-516219a24243
 6cc664631023721370d6d8eedab46371,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+6cc6b3374fc63437cd32cbe4d82633c8
 6cca4cff4e3ae4fef746a287a8a8455e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 6cca8370a70f008bd544313c97fdfb40,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
 6ccaeaf9abd173d2589ee937e03b116a,f65efb02-c563-44a7-9036-516219a24243
@@ -130371,6 +130428,7 @@
 92f133d6dd6125055fa6ab57640c2dfa,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 92f26be8f28a07ba23f0931b4a28891b,5ccb48f2-acb4-4b42-a010-03c2c0a8ab16
 92f27bf684308c79148b61d491810454,a80e5be0-fedf-4d0a-b364-58e22b936b94
+92f3067f8f1d94cca862777828272ee3
 92f4078f4798c705458dea8240f3f011,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 92f9fdfd17d374c4112be622a672b239,83fd46e9-1f2c-47f3-ba6e-61b6f62ff75d
 92fb7af7b6013dd2123ffa99f5d523a0,57ebe7f0-0054-4b3b-b273-804fc0a8ab16
@@ -134006,6 +134064,7 @@ a9c4e1a99d7235b9cf0ad7880e7ed666,7abd1104-926c-490e-8514-898affae1279
 a9c57b225ac53e6c61c34cd7d930cdb3,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a9c5ba5e55d44950beea26575123f7f9,5b2bb735-fa94-44a7-8976-1e67c0a8ab16
 a9c5cbcce46d83cba90250edced202bc,f65efb02-c563-44a7-9036-516219a24243
+a9c5fc73ea801e89370044069fc5dca9
 a9c72124562aa5bdeb3d6506b4e2ca91298bd002
 a9c8123458398160af91056ce8aab274,f9db7f4c-b8d6-4ed9-b9f1-d1990a7e1668
 a9ca69affc5f77799d334c78f33d14d3,d8c0c469-2d3e-437a-80a1-a38bfe5998e8
@@ -137224,6 +137283,7 @@ c19e407c5fde838f47bdc3a559bd5ab1,f65efb02-c563-44a7-9036-516219a24243
 c19edf77b836c163c54ae83dfa602f4d,5877be48-e4b4-4634-b002-0799c0a8ab16
 c1a37746df45f31efd334a532f35604d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c1a3aeee231e6e0602f1ad5c1d8cca88,5faf0670-ffa6-4da9-8329-935f9d48a687
+c1a42f7f0b603afa25714a4b6b00eedac557c9aa
 c1a4ee6639a5351c7fea0ad3c30aa4a7,f65efb02-c563-44a7-9036-516219a24243
 c1a9016a2e4409d593605721e4187828,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c1a91a4d5ac4b095b29d8ee1bf6aa5de,67033954-cb9d-4aad-ae23-435b246b016e
@@ -138619,6 +138679,7 @@ cc1da8a9742929144867deb9afeaea2f,f65efb02-c563-44a7-9036-516219a24243
 cc20eae4a2fdac67003e8d035e2a4160,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
 cc2374266e1ac0401a4f9ce8045759b3,abfb5a93-e695-4ee9-bc10-541290bcd663
 cc24280bb6e97ffa6714a58d2c2e9059,f65efb02-c563-44a7-9036-516219a24243
+cc2653b9021b41a1554bdef6721631f9
 cc272c494078c4e1063fd848411855de,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
 cc27e6f56eb96fe7e52ce72d1f931419,a80e5be0-fedf-4d0a-b364-58e22b936b94
 cc2c4d2bf386e8232d1ceb319d326d1b,5a30207d-92d8-4817-9060-8d1bc0a8ab16
@@ -141360,6 +141421,7 @@ dfd10c456d105b2261bf0ac920608f32eb930ab7
 dfd3bd6b89c3597f07b51da70b560cee,45b9a29b-abf7-4343-bf56-b71e7f9d9279
 dfd4ab7f193f63210f5e03e9bafa8d19,496e1602-ea94-4556-b4cc-9a11a54bd730
 dfd769ed48d1115862b5e91563cebc5d,6021536f-a808-4b9c-8136-d7460aba047c
+dfd7de0fc7fd20c6fc0a21a921de0748
 dfd8a439deab433de60c4d20ac95109d,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 dfd92685593affc18b1432036c1f3fae,f65efb02-c563-44a7-9036-516219a24243
 dfda370779e4c49efef1d41afbaa57e6,56d7441a-0e0c-46df-b56c-5129c0a8ab16
@@ -142269,6 +142331,7 @@ e6dcc2ef964dbc3a0778047cbeb4d13f,575af97c-8ad0-4d72-9322-04a2c0a8ab16
 e6debf9d57cf5ce9d3846dbdcb62464d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e6e608a03b6b3556b6a249cb62661f57
 e6e99ba44bb2652403c87379f1aa069d,585822f9-9290-49f9-b036-04e4c0a8ab16
+e6ec0e65e7afae8e435a2f2a100b5ec50166e4e8
 e6ed711db8be11d4823bbdcb6936a249,592463f4-c2f8-40e4-888e-4a76c0a8ab16
 e6eeafb8830f9db190702d92d08546cd,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 e6efa3f56c417ec6151a75eb4b11a880,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -144095,6 +144158,7 @@ f529f13f3c5d2cb4199ddcd1c0c14254,f65efb02-c563-44a7-9036-516219a24243
 f529fa90ff9e159de12ed45b3fd3942c,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 f52ace7c91f1ad88a78ea62eab06e000e2f88f16
 f52d8afb87f6560a8249cc569998f3b5,5d3f036b-0f50-4499-af4c-695a0a016219
+f52f0852bf91d157880ed0ea02d467f6
 f5348b3bffa818d9262616a8afcfbe1c,62e17cb7-ff23-48f1-b00d-227ff9248e83
 f53cbb8b16edb326d530d5153dc0c752,f65efb02-c563-44a7-9036-516219a24243
 f544482100e93e1c3f3013bcbf76ac2b,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
@@ -144202,6 +144266,7 @@ f60cffa7744c2673bab43d7d9eb1a117,5b773e07-e694-458b-b99c-27f30a016219
 f61000287906b954c402e76c8f25c73e,99b108a2-e41f-4777-b535-658294e8250a
 f6117413027a3ddba78e3dcc7e975a626bf0e8f9ffe1dc5dd2387237b40f378f
 f612f95a2caf733b40e054778cd5027a,602ceed3-9144-4262-a1a5-30fd0aba047c
+f615219117598d854a5ba354bb3b41978a528cfc
 f617092479317985ce04631e46b1cc7d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 f618f0aa375860d69557c405550a3c4a,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 f61ab6d5d9b9536e3a3e1418c1e3e218,f65efb02-c563-44a7-9036-516219a24243
@@ -144783,6 +144848,7 @@ fa63e7f7acc1bd06953747759ab536cb,5cb5730d-220c-46d2-bd20-07fdc0a8ab16
 fa64c313f2a1cd5c8bf8cd0485821c8a,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 fa69effeb8de91f6996791ee36bed77c,f65efb02-c563-44a7-9036-516219a24243
 fa6c51439ef861e945cc83fffa5a7e2f,e365463e-b2b1-4e20-a9cb-c4698edf5c03
+fa6ca595498963eee9ed37444e89c383
 fa6dd9346a244c6d73460b3a8d533023,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 fa6e10b832c0852d8a574ff8bfa10bd8,56ccdf0d-fe6c-4163-9fa4-51299062e56a
 fa6e7034ba213cd998c4379f34d51bfd,4f0d74be-1bfa-4821-8095-756c50054833
