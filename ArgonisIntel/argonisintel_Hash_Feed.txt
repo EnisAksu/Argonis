@@ -1,46 +1,8 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-24 06:06:44 UTC
-# Total Hashes: 145261
+# Generated: 2026-08-24 07:22:46 UTC
+# Total Hashes: 145293
 
 "2026-08-12 12:00:05", "1872757", "ed44c0375058d416da981d3cb3cf9ca4fb5e506c36a2082a0b20ade834e1cbc1", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "2026-08-24 04:18:06", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 06:59:54", "1884144", "4fef263fa94dc0c45d65a24739d906d2144bb9b8022b5a93713a7fed4f715fba", "sha256_hash", "payload", "win.404keylogger", "404KeyLogger,Snake Keylogger", "404 Keylogger", "", "100", "False", "https://otx.alienvault.com/pulse/6a89200574bfcb832a32e59d", "404keylogger,amsi-bypass,crypter,etw-bypass,runpe,snake-keylogger", "0", "LinkusBlame"
-"2026-08-22 06:59:54", "1884145", "dc954b97b95d03465f0f981c3bfdb3bc26a3a9812ce74dbae7fdea6368cd8125", "sha256_hash", "payload", "win.404keylogger", "404KeyLogger,Snake Keylogger", "404 Keylogger", "", "100", "False", "https://otx.alienvault.com/pulse/6a89200574bfcb832a32e59d", "404keylogger,amsi-bypass,crypter,etw-bypass,runpe,snake-keylogger", "0", "LinkusBlame"
-"2026-08-22 06:59:55", "1884142", "eb68bdd63e187864711d98f6121bcb5f19d5483d0187150de77acc8a1097204f", "sha256_hash", "payload", "win.404keylogger", "404KeyLogger,Snake Keylogger", "404 Keylogger", "", "100", "False", "https://otx.alienvault.com/pulse/6a89200574bfcb832a32e59d", "404keylogger,jscript,malspam,mexico,rar,snake-keylogger", "0", "LinkusBlame"
-"2026-08-22 06:59:55", "1884143", "f067ff68e80f3f037c43069655689d284b587d52368e4f3b20a2d9466fec9f40", "sha256_hash", "payload", "win.404keylogger", "404KeyLogger,Snake Keylogger", "404 Keylogger", "", "100", "False", "https://otx.alienvault.com/pulse/6a89200574bfcb832a32e59d", "404keylogger,amsi-bypass,crypter,etw-bypass,runpe,snake-keylogger", "0", "LinkusBlame"
-"2026-08-22 06:59:56", "1884138", "686f82f9bc78135c559c77a9cddb2be1b893da7f8ee77eb935626a8f1eaef0d7", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "75", "False", "https://www.virustotal.com/gui/file/686f82f9bc78135c559c77a9cddb2be1b893da7f8ee77eb935626a8f1eaef0d7", "go,hostsailor,msi,socks5,tunnel,yamux", "0", "Lenny3BO"
-"2026-08-22 06:59:58", "1884137", "64ba3f3305da013c96a3cd2d3536949c1d7757f7eb2ea11c28bdd061da7e2296", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "75", "False", "https://www.virustotal.com/gui/file/686f82f9bc78135c559c77a9cddb2be1b893da7f8ee77eb935626a8f1eaef0d7", "go,hostsailor,msi,socks5,tunnel,yamux", "0", "Lenny3BO"
-"2026-08-22 06:59:59", "1884141", "3faadf0db8cb12791efc12956752a57d69e0ee52eecbe66cbbc70f2008e37626", "sha256_hash", "payload", "win.404keylogger", "404KeyLogger,Snake Keylogger", "404 Keylogger", "", "100", "False", "https://otx.alienvault.com/pulse/6a89200574bfcb832a32e59d", "404keylogger,jscript,malspam,mexico,rar,snake-keylogger", "0", "LinkusBlame"
-"2026-08-22 07:00:03", "1884043", "60786e24a45df08c6b53a35b485d6243371d43e6749390e7304e7c7a0d97d521", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "80", "False", "https://honeylabs.net/lookup/91.92.47.97", "elf,iot", "0", "HoneyLabs"
-"2026-08-22 07:00:08", "1884019", "13D6D4FD239DB44ADCF4E9D8A578DB3B4B5A75D5D70830AD888ED79D522C1258", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "100", "False", "https://threatfox.abuse.ch/ioc/1873785/", "ClickFix,explorer.exe,injection", "0", "Phisto"
-"2026-08-22 07:00:15", "1883904", "e421ad53b169282b04e50e1b9d1faa9e", "md5_hash", "payload", "unknown_rat", "None", "Unknown RAT", "", "100", "False", "https://netresec.com/?b=268ee19", "BabaDeda,CNCMachineRMS", "0", "netresec"
-"2026-08-22 07:00:33", "1883894", "fe71af9ecf174de48d2b2ccc2c15fb04", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:34", "1883891", "f0e3f7eba2cde91e2dedb921bab47422", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:34", "1883892", "f8cf8c23ff597700d471fb7767df8bac", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:34", "1883893", "fa831c3c23824b99871163387bcda7ad", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:35", "1883889", "e9f3a0dab6949ce2cddab9e0aa80ae1a", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:35", "1883890", "ea24487996eb70c1780922fb3063bcc5", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:36", "1883887", "de77c3303e93c9450424759f1741441c", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:37", "1883886", "d63bacd6d6709dd68a10ef9d374c7835", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:37", "1883888", "e119845877089d6f4b0a70dc7388f316", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:38", "1883884", "bd80bd3c3d0e4bf6b5b4a825650d01f5", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:38", "1883885", "c6bfb1643ac7474ed8a7b4f96a187fdb", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:39", "1883882", "ba27951b4ee1c341f4415d033369ecd3", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:39", "1883883", "bd4d81cd27125ad3d9a114922d468499", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:40", "1883881", "b067d5b0dbecbd6498bcdfba45dba77e", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:41", "1883879", "9642ae619b3165d23c6349002d1abe24", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:41", "1883880", "a4223ce4288a230d1e6c3ff2c7639045", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:43", "1883877", "89ef78f716a75964539f2db6520be362", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:43", "1883878", "8b5e513144a6138a966ea59e68bf9da2", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:44", "1883876", "7a4d3ba2dacccfdda55859a5dfee2671", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:45", "1883874", "6c2e34b30da42085240ede53ab6107d4", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:45", "1883875", "71ab5517f71866279d0d87d37f2ae320", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:46", "1883873", "67dc78e544ebce16b85dc7c195dfbc58", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:47", "1883871", "412e9243f2981bbea3894254d105b3b8", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:47", "1883872", "44b6b213a6a3f299eaf88e078de95ecb", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:48", "1883869", "2a64c3efc11bf224aa54f24e876446c9", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:48", "1883870", "3AD4BF5A86D26FFBF09CAE42AF330A98", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:49", "1883867", "0fbaa7092204f4b1494e0b840b014774", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
-"2026-08-22 07:00:49", "1883868", "1dcf031c40ce456b6a36a00b0acf3d11", "md5_hash", "payload", "apk.badbox", "None", "BADBOX", "", "50", "False", "https://threatcluster.io/cluster/new-malware-targets-android-based-car-infotainment-systems-b8b0f033", "None", "0", "threatcluster"
 "2026-08-22 08:07:07", "1884172", "86b7654226949a31ae3b98e93647dd583c06777f8d168381e910ca01096070e6", "sha256_hash", "payload", "js.clearfake", "None", "ClearFake", "", "90", "False", "None", "ClearFake,ClickFix,ErrTraffic,EtherHiding", "1", "anonymous"
 "2026-08-22 08:07:07", "1884173", "e5e0c20f0ecb7eb56737b2f8f85620ce477342b14a7cf95549ff362eac981173", "sha256_hash", "payload", "js.clearfake", "None", "ClearFake", "", "90", "False", "None", "ClearFake,ClickFix,ErrTraffic,EtherHiding", "1", "anonymous"
 "2026-08-22 08:07:07", "1884174", "956ccaefaab5947dbe338d64fca992f9511ac1593b2470ffaece6ef3c7452c2a", "sha256_hash", "payload", "js.clearfake", "None", "ClearFake", "", "90", "False", "None", "ClearFake,ClickFix,ErrTraffic,EtherHiding", "1", "anonymous"
@@ -2334,6 +2296,7 @@
 0e774bf284a85153fd583bdce3075d5f,5a717019-2b96-48ea-aad0-8532d4f1dad2
 0e776af2afbe725045df550453c99142,602ceed3-9144-4262-a1a5-30fd0aba047c
 0e78cfd45bdb1e4092fb18ab20d2abc6,f5281ebc-f6d7-48e5-8ced-375d21aec1ff
+0e7dbccb488bb8997775f9036fa9616c
 0e7e84af4f46363e3966bdcbc282baab,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0e807ebf8e63391d6033191233a70aae,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 0e8864921b72855d2952cac86c1a204f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -2373,7 +2336,6 @@
 0ecea7273ee7b01a4f2a08034c56308e,f65efb02-c563-44a7-9036-516219a24243
 0ed09734366fe22557a401cae1d37182,56ca497b-9924-4031-ad3b-4bad9062e56a
 0ed0aca570bca2ae34da8f1c91a1ba0d,f65efb02-c563-44a7-9036-516219a24243
-0ed26deb86ae9e2939e258b370c326c64338f843aa3912501b77a87efa398bc7
 0ed40678f575833d983bcff16fbc66d3,67033954-cb9d-4aad-ae23-435b246b016e
 0ed6716c7b10added9aea2112cdf6a43,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 0edbd282921281d13b8ea72f0b46836d,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
@@ -2667,7 +2629,6 @@
 10dc0d10249752a4d9fdec42553079fd,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 10de7dbb4b67064d3dde4e2290916ae4cd7bdddb4b32f264921482616e273f0f
 10df0f637277a767e44dc839ae3853bc,e46d4b20-b44a-4896-be41-0f4f251cde6a
-10e00b5609e2579472202fa80d3f7cb27d3d5f6e975c5497107dde55237b4ae0
 10e01ec766ad16b249052996423678e9,56d76936-0d34-44ff-a8c5-5280c0a8ab16
 10e0546d39575b9b1f932533c04d5a3f,f65efb02-c563-44a7-9036-516219a24243
 10e08f39199bbe9da29d5ba245e06417,56d7441a-0e0c-46df-b56c-5129c0a8ab16
@@ -4262,6 +4223,7 @@
 1ccaad9279e6dae72dbc1564bbb755fa,6181159d-d7e0-422f-b7f5-26cc0abe1822
 1ccdc24a7459e5452633e87301e283fb,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 1cce6bd96a2b984a71e3882c14318225,602ceed3-9144-4262-a1a5-30fd0aba047c
+1ccff61aa0c85063696fbb3e773a1b680375a02f
 1cd30b22a59a62ec120cf6bf72ebd81e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 1cd753dafe3cbcdb6a0cc63885a396f4,a80e5be0-fedf-4d0a-b364-58e22b936b94
 1cd84aff2b31b66d7a6596459e9155f1,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -4614,6 +4576,7 @@
 1f9771fa456b12494165a69adc709f5a,5f17a0c6-7b04-4f05-9fda-b5d435a8d6a4
 1f9786234178ad6322aabbaeed055c86,73ac6137-9ef4-4c30-8c0b-bda02a270491
 1f979cff75c9f99983474e27ff3c7757,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+1f97d1336a3c8c4f4ae6fa1cb8183b66
 1f995eb5a370f2ba367f7674d7f2a2f9,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 1f996174fb84fa4626ae6034e6bd753a,0ee87fb7-783d-40f5-824c-a334283d3809
 1f9a3f76e9a1ff8fbed2c9a3c7665704,60f6ea57-5534-4866-9677-44650abe1822
@@ -115243,6 +115206,43 @@
 2026-08-24 05:39:48,skocherhan,ip,110.42.106.225,,https://x.com/skocherhan/status/2091762376613802195
 2026-08-24 05:39:48,skocherhan,url,http://110.42.106.225:6666,,https://x.com/skocherhan/status/2091762376613802195
 2026-08-24 05:42:01,skocherhan,url,http://dev.epicgames.com/community/api/user_profiles/profile.json?hash_id=roAjr=>wsp.sm188dnsxx.top,#Vidar,https://x.com/skocherhan/status/2091762936142250307
+2026-08-24 05:51:56,skocherhan,domain,wsp.1234e.org,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:51:56,skocherhan,ip,45.91.168.240,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:51:56,skocherhan,url,http://45.91.168.240,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:51:56,skocherhan,url,http://steamcommunity.com/profiles/76561198652917381,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:51:56,skocherhan,url,http://telegram.me/s11yme,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:51:56,skocherhan,url,http://wsp.1234e.org,#Vidar,https://x.com/skocherhan/status/2091765432038387769
+2026-08-24 05:54:37,skocherhan,domain,aware-cr1.com,,https://x.com/skocherhan/status/2091766106264395980
+2026-08-24 05:54:37,skocherhan,url,http://aware-cr1.com,,https://x.com/skocherhan/status/2091766106264395980
+2026-08-24 06:00:39,nextronresearch,domain,litterbox.catbox.moe,,https://x.com/nextronresearch/status/2082465509560266820
+2026-08-24 06:00:39,nextronresearch,ip,217.60.77.63,,https://x.com/nextronresearch/status/2082465509560266820
+2026-08-24 06:00:39,nextronresearch,sha256,1cafe9068460d856d5646c4f8f775132c1142ffef7f4b8ea7dbfeb9fbd07ff96,,https://x.com/nextronresearch/status/2091767624145256933
+2026-08-24 06:00:39,nextronresearch,sha256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,,https://x.com/nextronresearch/status/2082465509560266820
+2026-08-24 06:00:39,nextronresearch,sha256,a2f65d7abc878ec3c0f2fd1ae67b9db766c3ba357fdfb30fdb1805d07d1ab3bf,,https://x.com/nextronresearch/status/2091767624145256933
+2026-08-24 06:00:39,nextronresearch,url,http://217.60.77.63,,https://x.com/nextronresearch/status/2082465509560266820
+2026-08-24 06:00:39,nextronresearch,url,http://litterbox.catbox.moe,,https://x.com/nextronresearch/status/2082465509560266820
+2026-08-24 06:09:31,skocherhan,domain,workingoptimus.theworkpc.com,,https://x.com/skocherhan/status/2091769857566028227
+2026-08-24 06:09:31,skocherhan,ip,103.79.16.76,,https://x.com/skocherhan/status/2091769857566028227
+2026-08-24 06:09:31,skocherhan,url,http://103.79.16.76,,https://x.com/skocherhan/status/2091769857566028227
+2026-08-24 06:09:31,skocherhan,url,http://workingoptimus.theworkpc.com,,https://x.com/skocherhan/status/2091769857566028227
+2026-08-24 06:12:26,skocherhan,domain,awesomeplace.theworkpc.com,,https://x.com/skocherhan/status/2091770588452868274
+2026-08-24 06:12:26,skocherhan,domain,internationaltionclients.theworkpc.com,,https://x.com/skocherhan/status/2091770588452868274
+2026-08-24 06:12:26,skocherhan,url,http://awesomeplace.theworkpc.com,,https://x.com/skocherhan/status/2091770588452868274
+2026-08-24 06:12:26,skocherhan,url,http://internationaltionclients.theworkpc.com,,https://x.com/skocherhan/status/2091770588452868274
+2026-08-24 06:31:16,Fact_Finder03,ip,72.56.241.175,#C2 #RAT,https://x.com/Fact_Finder03/status/2091775328897339638
+2026-08-24 06:33:04,Fact_Finder03,ip,144.202.20.30,#C2 #stealer,https://x.com/Fact_Finder03/status/2091775780409995650
+2026-08-24 06:33:04,Fact_Finder03,sha256,c60f829f9bf2d77cf86c06bb8511d0fe79b5088cbc8971da8aacaabf6148adcd,#C2 #stealer,https://x.com/Fact_Finder03/status/2091775780409995650
+2026-08-24 06:50:00,Fact_Finder03,ip,169.58.190.196,#C2 #RAT,https://x.com/Fact_Finder03/status/2091780042736931120
+2026-08-24 06:50:00,Fact_Finder03,sha256,52896134154dd284798acfed00b17a5d631a75a969661e1f9a8809e0ccbfdc99,#C2 #RAT,https://x.com/Fact_Finder03/status/2091780042736931120
+2026-08-24 06:53:58,nextronresearch,sha256,018c31af135a0bc5e068df26d866440b28164aa4a659ea7df47bcbaab4a898cd,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 06:53:58,nextronresearch,sha256,169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 06:53:58,nextronresearch,sha256,44dc1939dcaea681f5c39ed6f5f81a80ca5f59e72be7f938ac3afe5adb484042,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 06:53:58,nextronresearch,sha256,49000d685f7c2ae1ddd5d40ca754562318e49c3a2534540951490f22756a3227,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 06:53:58,nextronresearch,sha256,6e6addf3e7287cf160054ef4647f8c67754f3cdc6efbdf21f117cb98c4c95534,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 06:53:58,nextronresearch,sha256,864ed6df1ba1b615f2db460666e2aee72a025754f5d78be3d83ec8e3c41d4a09,#Kimsuky,https://x.com/nextronresearch/status/2091781040469672305
+2026-08-24 07:00:59,phishunt_io,domain,gk.bnznji.net,#phishing,https://x.com/phishunt_io/status/2091782807144042941
+2026-08-24 07:00:59,phishunt_io,ip,82.165.110.163,#phishing,https://x.com/phishunt_io/status/2091782807144042941
+2026-08-24 07:00:59,phishunt_io,url,http://gk.bnznji.net/Adobe/Adobe-digital-exe/download.html,#phishing,https://x.com/phishunt_io/status/2091782807144042941
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202b4d1cfa81ba32b2c86edf3118e4bcb2013722d998db717e558ce17c7ed9b6
@@ -116147,6 +116147,7 @@
 270e8b90566086abd34b70a7a558c49f,57b045d7-2a0c-44cf-86f0-1e0fc0a8ab16
 271023e8f08c9fc2901dc05b56b72215,5eeb995f-c570-4242-94c6-79870aba047c
 27129c5b4cd9d91853440c423ac7dc36,f65efb02-c563-44a7-9036-516219a24243
+2714ffd5a5b8aaefd67c25ea1a790f20ee10890f
 271b3a52e97b4e1f520b58027d8fe51d,866f2e50-efe5-4d58-85c7-33bf3a52443c
 271ebb75e19d863fa8256702cc2a1c22,8dbeaaac-a671-4a02-8dab-5eec2a1c935b
 2723ad931713fed865e1434a01b6c2b4815941d561b0bc7c72e3116fb54094de
@@ -118238,6 +118239,7 @@
 373d83ae3871cb47ebf5d411c0a74d08,5deffec0-ebec-439a-9a1b-a05ec0a8ab16
 373d83ae3871cb47ebf5d411c0a74d08,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 374044ab01b9b81106106716e27ada6e,f65efb02-c563-44a7-9036-516219a24243
+3741579bbc3272bffc2e00e493695e4c
 37468002cd763bf01cb4e4182e98c7de,87b36dbe-fb5a-46a0-97ba-e15adcbe785e
 37477f30701659a9b4308676cf7da105,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 374a72833e6a45582e1c00af2e0dd10c,d67bfbe0-e01d-4e2e-8a56-214805d85aee
@@ -118545,6 +118547,7 @@
 396c1e4562dd3fdec667d59e5dc3c584,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
 396fdf9fdaef8e4bc8ae8cb5b00f4841,f65efb02-c563-44a7-9036-516219a24243
 3970640db14957b72737396c8d912572,a80e5be0-fedf-4d0a-b364-58e22b936b94
+3972771753570b92203c2010d5e54f9af059bd80
 3973e4ccc2dc4f90d3a62a34da14ce0d,585822f9-9290-49f9-b036-04e4c0a8ab16
 3975ef605da71667a7b1e64449e5f61f,64be448c-53f0-4e74-a53d-4c3d0abe1822
 39770cfed93e9a96126cbcaa1b7c6e41,c5107fff-968b-4267-bc27-cafbc6553d1d
@@ -118867,6 +118870,7 @@
 3bf1bd6c00613c6bc9e4292063aa3334,5bf300da-6438-4372-a069-0b7b0a016219
 3bf2b0cb1d7dd5bc8d94be7183c46f79,5d3f036b-0f50-4499-af4c-695a0a016219
 3bf33eb3efef76d8a39a62a6a0e2069a,5723c7b6-e900-4cf2-9ebf-07a2c0a8ab16
+3bf6c2fb529e57c7a3e7e7a78b2d74e3
 3bf8274d3b7fee238934fead53be7754,f65efb02-c563-44a7-9036-516219a24243
 3bf926ef683ec95c70dfc0d36cedfa0a,31de44de-304f-48c4-8ca0-38d1da0b8eba
 3bf961007fa9a8de9ba4da1ce27a5fee,7c045c5e-dd4d-4cbc-b654-0866e380a521
@@ -120172,6 +120176,7 @@
 45f1fd9e095695f416d4a53465936464,5eeb348a-cb74-40eb-9678-7c1d0aba047c
 45f3b9488be732c44c858c9a3cff6d6d,59fb893d-fce4-4005-a1c3-2facc0a8ab16
 45f4957618d474dd02ef935afe8b0ac9c472b546
+45f8dbe023a461faff28c81ee7cc37b02cf6e4a8
 45f9610d8828003dc5bc4c422d17518a,e41e9a5e-11db-4999-bae0-0cc159299e3d
 45fb55faaa52f0414ac97c99d5e326ebc5496b63
 45fe16ae9f2d825714581ecc691741bd06ef2cfb
@@ -120271,7 +120276,6 @@
 46b5e20db30a706d9db9bd97f591c49d,571a5777-6664-46e9-8748-1478c0a8ab16
 46b6cca1af50433b1fe4bc00404085c3,5e7d198f-c638-46ad-b4f7-b3f0c0a8ab16
 46b6d0b9c0b615d47b7f08134b0feb0c,a80e5be0-fedf-4d0a-b364-58e22b936b94
-46bae65a3cde27eabcb853f22c6bbdbc60c7c9e0882cc7a4cb71bb75729e8daa
 46bcce9b62fc996d87f1d8337ea61762,a80e5be0-fedf-4d0a-b364-58e22b936b94
 46bd1ad5e4556de63c643c8fd5139d41,5a60481e-bcf4-4c6a-ac1b-0722c0a8ab16
 46bd23cbbd7d0ce96afc2ccba8bcb506,99b108a2-e41f-4777-b535-658294e8250a
@@ -120496,6 +120500,7 @@
 487076b15f77a8ccb32a5ce5cacff52f,f65efb02-c563-44a7-9036-516219a24243
 48719c2330d78fbcec979eb173bf64fbb2b90e2efcc89f53635d3fca76d8a554
 487608d58d87b1d07bfd37930b971e6ff6710235
+4878f4605acdf2ba1cd57072d13d1b19712e914799df5132f5397a550dca3427
 487a45d1501b2221a9ac61f71606ec9b,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 487bb0587a85736710398a9e85ea98d0,a80e5be0-fedf-4d0a-b364-58e22b936b94
 487c256a2a146b1e21ad2473da153914,cdc842aa-761d-48e2-9b97-c344bed8b3a8
@@ -120685,6 +120690,7 @@
 4a050be02cdcce2f38acd1e04ead6a32,f65efb02-c563-44a7-9036-516219a24243
 4a05f0cd01938603820d5bb5690fd4ec,f65efb02-c563-44a7-9036-516219a24243
 4a0977ce8e49881f4725ab7ab7792bd4,59fb893d-fce4-4005-a1c3-2facc0a8ab16
+4a0aa6b5efab737116a4e234eb9dd483a0b1b1ba
 4a0be55807ea012990f24ce26a70717f,571a5777-6664-46e9-8748-1478c0a8ab16
 4a0bfa2bee2e5be3bc70862a2045fa3b1ae602019b3b7399514d85ebf13459b2
 4a0c552772ab76e2ace8fa8344bb69cb,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -121092,6 +121098,7 @@
 4d392a35b3c3e2953146e83223ab69ae,5faf0670-ffa6-4da9-8329-935f9d48a687
 4d3bbee835d76b928d2ed6c41c6bf1cd,a80e5be0-fedf-4d0a-b364-58e22b936b94
 4d3c8d599fe69041aed19d3ef36fc692,f65efb02-c563-44a7-9036-516219a24243
+4d3d0cc55da0dea10820e54d8e35c0358e0a5314
 4d3e18230a7b6836657ef239ab3fcd63,f65efb02-c563-44a7-9036-516219a24243
 4d4036af84e443695f6030e3cce7eb06,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
 4d420cd56ce416176b0ddbb99ac778c5,56ca367a-5a88-4925-a309-4cd69062e56a
@@ -121381,6 +121388,7 @@
 4f6f24e852a0c4f69c66a114a456e31c,573d66a1-cc94-41aa-9684-07a6c0a8ab16
 4f6f80e6487eb440d8eee47dd185c81f,21db8eec-8797-439d-94c1-4de8a6dac7e2
 4f6f80e6487eb440d8eee47dd185c81f,e46d4b20-b44a-4896-be41-0f4f251cde6a
+4f6f82cdf8a0465462fcda4823aa186b1f278ac9
 4f6fea391bd21e20aa0daa0c6b1d9e1d
 4f7065f1d10e2acd97a3818c618d6b00,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 4f7094791c9bca0f21ecca4b877bb12e,57951afe-c678-425c-806e-068ec0a8ab16
@@ -122421,6 +122429,7 @@
 57110e222cf4c35e891659a24c00d849,ade7298a-84e8-4dc8-9cab-c215cc771629
 5712aedd65d726e674db3cbfc9ea95a9
 571371937cbaa9cbd309006f9186dcda,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+5719bb2d8c2bee99e18e330718c76b0f
 571ea6c21c54934ebbcbd2555344073e,f65efb02-c563-44a7-9036-516219a24243
 571eff24ad0b41d1d8fae929b9382c9c,f65efb02-c563-44a7-9036-516219a24243
 571f4fb671e28fcd9344aaffa1d932f2,cdc842aa-761d-48e2-9b97-c344bed8b3a8
@@ -123117,6 +123126,7 @@
 5c525a6aa766e594a62886b4552cb931,5d3f036b-0f50-4499-af4c-695a0a016219
 5c539d318ed2e940953909f07a9c7b81,662689f9-8510-480e-9e08-e3de0abe1822
 5c53e8ff732e2eaa643f218958ad53ab,571a5777-6664-46e9-8748-1478c0a8ab16
+5c55c757b15a73014794636af7761f62e69e379d7aa402969f107f4c9d7da9da
 5c575c2c43df2b2ec8935106f74b9150,e41e9a5e-11db-4999-bae0-0cc159299e3d
 5c59b9d441a86a70424fd5047168d345,abfb5a93-e695-4ee9-bc10-541290bcd663
 5c5ae3c1ef4bb177292a1791b40a4990
@@ -123354,6 +123364,7 @@
 5e1f480f024a6c6c3a65e6ae2ad7c1ce,7f79ab3b-6744-4857-85a0-ec2803a67372
 5e22614c74f677b60ea959a69c24fcee,fc8f98a6-daa5-42ef-b6f3-2db535c43c57
 5e22bccf3f05a6510853539699bc23cb,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
+5e24cdc5c64e552e7909f0775472c216
 5e2610e6840b99a647310528be72cd5e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 5e26df2d90d03fa6f90414df36425cec,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
 5e2958bebff23abadb732e7ead4ce7e3,7f79ab3b-6744-4857-85a0-ec2803a67372
@@ -123769,6 +123780,7 @@
 6162873d19b8dae8e006a6d4a251625a,5d3f036b-0f50-4499-af4c-695a0a016219
 6164334fce42c255a80dcc0e9fa0b430,f65efb02-c563-44a7-9036-516219a24243
 616536783db8163f863c7776baa8b72b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+6165f9419e34957b3fcaee0e0add451ed30f929c42151f078d5eed18b3641704
 6169c18d244babe0bdc1ecd098c01ebd,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 616c7a917f87e09019844142b094bf1d,b4a98411-68c8-46bf-aff8-1659046646b3
 616d878b012930c4d3a047ab98aebc83,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -125931,7 +125943,6 @@
 7206546831d66139c8391a817c143bd4972a98d5
 7207a3cf734605fd35b4f73952c96512,5a5e9125-fde0-4139-8668-03a7c0a8ab16
 72082b52b5ae2cf47b95d6e256f8b3ca,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-7209613918f030e482f347d38a604e8e75ade8c3a83801b740122a3790818cb7
 720af74c6ee3e188d0177a50d9aa8cd5,d003529e-e30f-4233-a45f-22104cd9294c
 720e0bab923e2032273c317a7c4855eb,f65efb02-c563-44a7-9036-516219a24243
 720e57d842f1fcb5899d8dd1d2f24628,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -126741,6 +126752,7 @@
 7814b165e1629b0e4d874ac08e4f9c60,f65efb02-c563-44a7-9036-516219a24243
 7815bceceffc30066a07fcf2e8cceadb,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 7816e9fc723588de8a946d517f071e3c,5877be48-e4b4-4634-b002-0799c0a8ab16
+781b10d3a4272395d3e4d1c04e673449437d42d2
 781c0f879ce98ce5d838998b0a2cf16b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 781d8a08e2c91820b7e93444b25263b6,56ca46f6-44ac-43bc-8898-4a5a9062e56a
 781d8a08e2c91820b7e93444b25263b6,56feb510-a81c-4bbb-b5c9-e4a6c0a8ab16
@@ -130043,7 +130055,6 @@
 916e75713654a615fab95e23ff1cea01,21db8eec-8797-439d-94c1-4de8a6dac7e2
 916e75713654a615fab95e23ff1cea01,e46d4b20-b44a-4896-be41-0f4f251cde6a
 916f7ac97ee36c6462df295ac0de9c17,ab78bd77-3121-46e7-86cc-2f9c06ca782f
-91702decfaf0d0501941ec71e9d9db522fb293aab485a766a5a9f0ccde3d983d
 917818e4ccc3e50d30bdc2138e7d5d2a,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 91785a625b26dbd74e511a244505251d,56ccdcaf-f7e4-40d8-bca1-51299062e56a
 9178e48003f37b1d0f7593d1ebfd8c0d,587fa022-52ac-485f-85cb-079ac0a8ab16
@@ -130920,6 +130931,7 @@
 97aeb5ccc1f557ce60a375f82eaf26cb,a80e5be0-fedf-4d0a-b364-58e22b936b94
 97af3df56660ced4f94eac329203d8e5,21db8eec-8797-439d-94c1-4de8a6dac7e2
 97afb6536830c5185ed7c1567e848d9e,56fe15ee-e478-459e-8cc4-c0cac0a8ab16
+97b2010e1866b7af4757962833bfb30e16ce03685591d4339b6c9eacb2cae281
 97b360d414ac0327bf15254582d67f99,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 97b493d1a8dffbaa0d6d243aea9a35cc,f65efb02-c563-44a7-9036-516219a24243
 97b95dd1e4dfbc91330ad24ef19a7a9e,f65efb02-c563-44a7-9036-516219a24243
@@ -131126,6 +131138,7 @@
 99413e3c65e1b7cf5c82558bb2986b43,602ceed3-9144-4262-a1a5-30fd0aba047c
 9941552865d24eb0e2e7dff259d779a3,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 994889a7e370372a113308ac0e00a3b5,662689f9-8510-480e-9e08-e3de0abe1822
+994961e91e77bcf700ea2e355bacf983
 994bec04cb39dda5fd9c7c44c914b3bd,5faf0670-ffa6-4da9-8329-935f9d48a687
 994e59ad3bdc81d9de7897c182466190,f65efb02-c563-44a7-9036-516219a24243
 9951736ec9afc25b4c517e706610dc48,5a047586-ade8-410e-a6af-2fadc0a8ab16
@@ -131527,6 +131540,7 @@
 9c6ffb86b77c12ba83a3f99788fa5ecd8fcfd8dd56c1dbde9e4392ec9d311dd4
 9c7071026fa1e62e4bc40813b3b45ce9,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 9c7393adaec525f6f10d54e8e604822a,57951afe-c678-425c-806e-068ec0a8ab16
+9c747cb42f715dd307c10585ac8c2a7c
 9c7601b2209fdc48bbb505ad2b4398d2,56cce169-b2e8-496a-a5b8-52849062e56a
 9c7b192f82287a5447986dd2128372c4,f65efb02-c563-44a7-9036-516219a24243
 9c805e1c0964a779bf78c20fd4d79af3,59f6f87b-868c-4d04-846f-052ec0a8ab16
@@ -132024,7 +132038,7 @@
 <link rel="stylesheet" crossorigin href="/assets/index-Cnqisf41.css">
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<script type="module" crossorigin src="/assets/index-yO8XJCmU.js"></script>
+<script type="module" crossorigin src="/assets/index-DN0OHKzZ.js"></script>
 <title>frontend</title>
 ANALYSIS-ON-APT-TO-BE-ATTACK-THAT-FOCUSING-ON-CHINAS-GOVERNMENT-AGENCY-,Analysis On APT-To-Be Attack That Focusing On China's Government Agency,Antiy CERT,https://app.box.com/s/zeacvn2ae7aunrlsfjm8kbt4nbf6yn0z,42917d2bb4535fc6369cdd68bf82b7e7d28ebadf,05/27/2015,2015
 ASERT-Threat-Intelligence-Brief-2014-07-Illuminating-Etumbot-APT,Illuminating The Etumbot Apt Backdoor,Arbor Networks,https://app.box.com/s/h8c0ds5etxke111s38r7rs3ltmpf2mot,51bb16ba51be3c144ac9e09a68732cbe0bb785d5,06/06/2014,2014
@@ -134296,6 +134310,7 @@ acff2dd5930b1351ba413addc957b140,56ccde59-af1c-437c-a9f5-51269062e56a
 ad0758658b7ffe9368be1acdde657b9a,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 ad08470c478979456309f78fc8f99d1e,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 ad0bdb53bd4ba76b8e783a620dca549d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+ad0d62889d4d9b950c14402ed04dc2528afdbc5d
 ad11622aab9c50ad6f228ef43cd22a51,5a2b0fe8-6900-412e-a9b6-2facc0a8ab16
 ad1196bd34201e35681795b2d4878080,585822f9-9290-49f9-b036-04e4c0a8ab16
 ad19b70c4e523ef24baf5e062d2200e139b619b56049219d41cd0397faff2c40
@@ -134605,7 +134620,6 @@ af85015207093f406e5a4f06a09eb171,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 af8acb85d394238e0e114cdaf9e0fffe,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
 af8e6fcd5014a1ac03d74b7953391647,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 af90e45dc91ea70db7edcd8a64fb6299,f65efb02-c563-44a7-9036-516219a24243
-af91c234f4439f88c6a1436b2f22404857ba5b31a011b7af61d21c352bdfad78
 af92d93114a2d93a1c277846ab96bc2d,f65efb02-c563-44a7-9036-516219a24243
 af9358e2a345286554535fc8583f5853,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 af942628669eec45503f8395d59e8679,0ee87fb7-783d-40f5-824c-a334283d3809
@@ -134955,6 +134969,7 @@ b23d8b4b7b93026651f1a81dd61faa30,56ca367a-5a88-4925-a309-4cd69062e56a
 b23e45c7fba619953a5a05874ea1b08d,a19c6aed-3c53-4597-971d-0bd01369f95d
 b24669aa25dea98469e72dc3d288a57f,5a60481e-bcf4-4c6a-ac1b-0722c0a8ab16
 b247ef4922ac2d28d21a86b4d331e96a,1a41895a-7759-450d-948e-32fdac6d1a36
+b24872db72aaad2eaf6cee5e03e63ae8
 b249bbec256f85184e0dba5c98cf125f,f65efb02-c563-44a7-9036-516219a24243
 b24b86deb6b6cd2442791d4ff6e95e43,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 b24d7092fe7abff8b4a263c00d09a6c6,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -135325,6 +135340,7 @@ b4c2075d72fbe7acec2a21047f1e9a05,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 b4c3c798ca0e38e0f0ad7cf6fcaeca2d,61236bfb-37d8-4a71-a68e-2dbf0abe1822
 b4c63faae558dfc20f930977686d2db2,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 b4cd3bc6776e72016d4153111bc9aff3,56cce206-fc70-436c-881b-52819062e56a
+b4ce5927fe12c1e2a017715f227e58c76258e0d459f22569bf2160fc953e221f
 b4cf56ae8f21922b8cfa17c051dc0f2a,f5281ebc-f6d7-48e5-8ced-375d21aec1ff
 b4cfc7936a09c99a5d0cdc10f88c598b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 b4d01ad09b57b243077312d4eddc6adc,99273d5d-d769-4b15-98b8-d87c6cce7d72
@@ -135715,6 +135731,7 @@ b7cfa24b83c39ab91d514a389d087fc0,585822f9-9290-49f9-b036-04e4c0a8ab16
 b7d1edc1d3ba443f4178007039c76cd2,56caac73-ad4c-401f-a8e3-52819062e56a
 b7d308aed04b8f5731afa4c9d2e07bf9,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 b7d3ce7f922ef1c860a287cc9e52ad88,6181159d-d7e0-422f-b7f5-26cc0abe1822
+b7d3d0fcfa60f0850b9ae0156a806469
 b7d5bfb8268ae3d34617b0b2350c8066,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 b7d90cb58e0f22919dc037efa736832b,0ee87fb7-783d-40f5-824c-a334283d3809
 b7d9f7e805840fbd3dbddf2c37ab0f83,f65efb02-c563-44a7-9036-516219a24243
@@ -135746,6 +135763,7 @@ b81c610b75882e0e7d4af8ede78d6f66,5faf0670-ffa6-4da9-8329-935f9d48a687
 b81f633464d282cb5cbeebeb910c60f2,56ca49fd-632c-4cd5-a66e-4c0f9062e56a
 b8212125ae08e188044baae7dd2d9641cfeb2fdca65fe870a1e0e7f39ad484a3
 b82381790d199b5e93c027a8858e961f,f65efb02-c563-44a7-9036-516219a24243
+b828157a7e6831d28589cb14fef8e9637c20b9c305f9c92d19a19746ed4ce2c1
 b82b0051800bcbfc17d59b7e6df7fe22,cf410edf-b437-4efa-841f-6106f07454bb
 b82f0baa9b3d9f4e3841a69b232f7d37,c279be56-bd74-434f-90a9-3e6f51dc2f48
 b831ba4a83379eacb587fe2de298aec3031c8970a23170ede2b57a08060605b2
@@ -136023,6 +136041,7 @@ ba36b5e2e9f7f545ba16289f797d1253,57951afe-c678-425c-806e-068ec0a8ab16
 ba39c46509fbe8575686f3b3f0824015,602ceed3-9144-4262-a1a5-30fd0aba047c
 ba3a9b4ce01b988f71c06de83c4064fe,f65efb02-c563-44a7-9036-516219a24243
 ba3c3a5f7effb313cb30085f9bb2be7a,28219fd4-56f3-470c-90ae-bdaeb006502e
+ba425803971bbd612fab8d127f940623
 ba43b92d40184afe33a4ac2582f7b3fb,5faf0670-ffa6-4da9-8329-935f9d48a687
 ba4a19e53852cf003ab722d35204bce6,585822f9-9290-49f9-b036-04e4c0a8ab16
 ba4c502d899f934e0ced62375da9ad89,662689f9-8510-480e-9e08-e3de0abe1822
@@ -136437,6 +136456,7 @@ bd94005950ffcf3f8f9b2d34f7d0ba03,f65efb02-c563-44a7-9036-516219a24243
 bd95ecc4d57dc1c49ab72bd727294896,e365463e-b2b1-4e20-a9cb-c4698edf5c03
 bd968e0802bebed83f3bbb01492a2f98,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 bd96e1c7670306a46282b10d9fcc971b,f65efb02-c563-44a7-9036-516219a24243
+bd98461bf7164df0a282703db44122fb887a910094a1e257fe17a13629f0d956
 bd9b24fd2afef1e440dac4d9a6a7a099,d003529e-e30f-4233-a45f-22104cd9294c
 bd9b7fecd03b725b28eb66bed3d31a2f,e41e9a5e-11db-4999-bae0-0cc159299e3d
 bda07798c5498106fcd0fab0e76a17a7,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -137225,6 +137245,7 @@ c34dbda9ea1d1ae71a4f71cca4a6b08f,574403bc-df24-4575-a198-04cac0a8ab16
 c34f11b37cd38487d42b635d63608953,5bf300da-6438-4372-a069-0b7b0a016219
 c3501ad411f6d325d71b1fa581ee6d14,5b646948-f79c-46e8-a53f-32abc0a8ab16
 c350898a6083ed901a7986115a81c1c7,a80e5be0-fedf-4d0a-b364-58e22b936b94
+c352c595e330832ec460496a72877e10
 c355466effca9c62d4758d0ad92b6948,f65efb02-c563-44a7-9036-516219a24243
 c35847f5f8e4a1d959476eb7945e9e97,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 c359979f09c4115f82aa67a30175421c,3ada8ae4-a7bd-4732-ad66-0ff8fc0f80f5
@@ -137580,6 +137601,7 @@ c63fabdaa71f4c64c725d31cd817080e,e5b080c1-f3c1-49c3-a7bc-446d2d023830
 c6402822319b0e7f6b2d873d07521719,f65efb02-c563-44a7-9036-516219a24243
 c6403479bf925277608caf5c07a5c765,03be663f-7037-4f68-a96a-362036e75637
 c6413ff1f5606db8eed3a78db328b07c,602ceed3-9144-4262-a1a5-30fd0aba047c
+c641df031f54df0ef3625219aca86b0c3972d546
 c643fd9268e09e3994a09983080dc053,f65efb02-c563-44a7-9036-516219a24243
 c646d4e03c84964e9fc2853a249cc018,5e7a8ebc-c808-488e-92b1-ad77c0a8ab16
 c64956cd4688b72197f9ad193e35e751,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -137791,6 +137813,7 @@ c7e3898b1fb63da8e4cdb75c569df6c8,56d74357-dd84-4512-895f-5281c0a8ab16
 c7e8b4342802844b7db0454bceb89669,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c7ebba662bb7bbb0333b9e60b27756e4,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 c7ed456349284bcd32b32a84b5b15556,28219fd4-56f3-470c-90ae-bdaeb006502e
+c7ef96dd4e55c807332fe99fe877530d7fccb7a6cfe0e39dc870d9e06964cac2
 c7efecb3c86390e35c2b852a3a8f9731,585822f9-9290-49f9-b036-04e4c0a8ab16
 c7f3774b6e56a0a707272d2ac85344b9,5a5fc388-48c8-48b8-9f08-043bc0a8ab16
 c7f4a1d19012c4f7b7f79c6193863162,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -138238,6 +138261,7 @@ cb61c7419d688c1e0fc0af6095918ec6,5fd7bbc9-4f68-4057-a6fa-e430c0a8ab16
 cb61c7419d688c1e0fc0af6095918ec6,5fd8a8d4-9d60-4620-bc24-e430c0a8ab16
 cb62c9a0521173926ad1cf0693e6728b,3ada8ae4-a7bd-4732-ad66-0ff8fc0f80f5
 cb64677c25f0deab53e5427c6af25f94,e46d4b20-b44a-4896-be41-0f4f251cde6a
+cb65f0e3cc600d43b6961e8f51d01c1286500fbaa76b1f6aaa576a36ae7567f2
 cb68bf0f7cd735d3393c4b043c00275d,f65efb02-c563-44a7-9036-516219a24243
 cb6ef919784ac5d0750d1bb303433a96
 cb6f6c9a23cc1fe04205786e6fac67c56984676f
@@ -138345,6 +138369,7 @@ cc2c4d2bf386e8232d1ceb319d326d1b,5a30207d-92d8-4817-9060-8d1bc0a8ab16
 cc2c7dc4c6266cbad3aecc29401d1275,56cce206-fc70-436c-881b-52819062e56a
 cc2eb2d0ae53bb6d006ab05109fa574e
 cc3023a475848e8a6cc279d8c563bd6f,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
+cc3076e1bd73dd6b86e41c10a5bccfa56df1bc8b
 cc317e5bd019d4c16dfcac6509aec45d,5faf0670-ffa6-4da9-8329-935f9d48a687
 cc333a44a6b63af0484a83ea89c4ed48,0945219a-00a3-4478-88f9-cdbb48215ee5
 cc33c4f05218a9d49f9c2c8839b2d0f8,e46d4b20-b44a-4896-be41-0f4f251cde6a
@@ -140187,6 +140212,7 @@ d959dddc8673c868a7cf9c51aaf2288da9bd059a51f3cc7636cd4f86e7d4fb0d
 d95acc1a745df19c045dccb191047ccc,a80e5be0-fedf-4d0a-b364-58e22b936b94
 d95b12e5d992c512157fd52bf17512c0,a80e5be0-fedf-4d0a-b364-58e22b936b94
 d95d6928901f7db3db0ea9a5b0b6307c,682055c7-fb73-4d29-be0f-ef00f55f3970
+d95ffd99c658cb4c0d02dea3b795fb11292f116a
 d96215e9795ab73ba30be8bbe3e86952,c279be56-bd74-434f-90a9-3e6f51dc2f48
 d9645d4038ac2a782f3b54ce5235f25f,f65efb02-c563-44a7-9036-516219a24243
 d964b64397996d3dcdc3acbf783c421c,27143d08-348b-4120-b285-063f6295259f
@@ -141103,6 +141129,7 @@ e0420de707ea80fac6000fcb57e4936e,602ceed3-9144-4262-a1a5-30fd0aba047c
 e042ee38b7f7accd8aaea10ffbb3164c,65ad9f8f-6330-4324-9170-7c729d524399
 e04579b7f05c5a9d7b8e72910202ac92,47d6a201-507c-4cb0-904e-2acebcd59a69
 e0497dcf500fbf7aab754afd334ad642,585822f9-9290-49f9-b036-04e4c0a8ab16
+e049d6a60e0c67689f78c66143528b369c4c0605b798b507e3f0dac2591fb545
 e04a6c4f16516d46a3fc023e90c43dea,f65efb02-c563-44a7-9036-516219a24243
 e04b0d6200a86b46585ea3eb0c1b067d,e41e9a5e-11db-4999-bae0-0cc159299e3d
 e04c0e7cf3becadf19162725514358e6,5d26d766-5d64-4dc1-b8b2-0904c0a8ab16
@@ -141532,6 +141559,7 @@ e3a98b45bab26eeb1cb562b032ee88fe,feff0215-623f-44c4-9538-c3220903a898
 e3ab004a1e0eca0671e641f87e4ba686,8b3e9108-0c15-4e5c-ab1e-57d91ab45181
 e3abab6912242d69bd7e8d765aec3cc5,f65efb02-c563-44a7-9036-516219a24243
 e3ac82741e4950b01fa89ce98df5b0b7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+e3ad7e3933cffbaf14dece08f9a90dbd2fad9ac41bc029eb9b1a6cc14f0878c7
 e3b0eae6ca2bc9bf452763fb73bb1dd1
 e3b0ec17797e06bf6a846188d87622bb,45ab9141-de79-4492-974b-1504bd6dfa13
 e3b675124a757c16594ffae5f272e28088fa4a900102062da3ab0ba26071c265
@@ -141608,6 +141636,7 @@ e44c348d3d8bf2c19025783ac7009d6a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e44f6473ab6ee30424478bc280d739c6,5a37a494-4030-4f5c-a710-8d1dc0a8ab16
 e4528334fa6ab5ed4a508a1a92a97a2b,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 e455156837ae8dd84fb22df5847c26af,28219fd4-56f3-470c-90ae-bdaeb006502e
+e458c85a829563ca5a5cbd56b50e321af87500ad0c93b185c4531e8e74a53e24
 e4590e99c434e0f0f627e195a351ae79,f65efb02-c563-44a7-9036-516219a24243
 e45a45224057e0fc0be68efb28d6b026,28219fd4-56f3-470c-90ae-bdaeb006502e
 e45cd8f965dd46b37d5634c545402b7f,e365463e-b2b1-4e20-a9cb-c4698edf5c03
@@ -143585,6 +143614,8 @@ f3d564bd4d69898e01bdeb783474acbe,5f63a2f3-0e08-439d-b6e6-ad77c0a8ab16
 f3d66a6ecd324c8843a710427f60cc9f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 f3d6aafb76678965cd448e9b0f9ce1d0,31de44de-304f-48c4-8ca0-38d1da0b8eba
 f3d8254bdab1f4034603692564f942b8,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
+f3dbcb7eaa5df2ad26448d112db6a4d067400ae1
+f3dbd82866bce87c5a89df9b2c1606bfe1cdb48c5764da9e2fa82ed2a0cc4f8d
 f3e096cda1ca937357ce05f81ac074b3,5e8b8990-909c-4875-8539-a755c0a8ab16
 f3e6b5b006099aceb0fe1703182054c3,f65efb02-c563-44a7-9036-516219a24243
 f3e75cffe3073ada2cd8916c5bed0f58,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -143608,6 +143639,7 @@ f4040d68a0dd4685f9081890bf458974,c5107fff-968b-4267-bc27-cafbc6553d1d
 f406bd06f020e78ceb00c1bbb4ca013d,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 f40a8a09ebce3fe70b0ff0fab3ae1ff9,f65efb02-c563-44a7-9036-516219a24243
 f40f53b5cd8d297aeb1e47583c334b38,f65efb02-c563-44a7-9036-516219a24243
+f40f549eff44146673fbb3324f013c87
 f40f65ca28434fd95d15c9b50b1ef9af,d5db3326-37a4-44ae-b023-3369bf6dd1ca
 f410588e48dc83f2822a880a68f78923,097a9dd2-e8db-467a-acb3-907f41f27044
 f410588e48dc83f2822a880a68f78923,3e089ded-cac6-4b7b-bbc6-be2161abd39f
