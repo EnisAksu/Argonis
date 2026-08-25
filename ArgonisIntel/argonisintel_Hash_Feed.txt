@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-08-25 10:59:25 UTC
-# Total Hashes: 144753
+# Generated: 2026-08-25 11:55:34 UTC
+# Total Hashes: 144683
 
 "2025-08-25 05:39:17", "1573704", "4293c1d8574dc87c58360d6bac3daa182f64f7785c9d41da5e0741d2b1817fc7", "sha256_hash", "payload", "elf.mozi", "None", "Mozi", "2026-08-25 00:20:31", "100", "False", "", "None", "0", "hb_n4l"
 "2026-06-19 06:49:25", "1834020", "f6c97b1e2ed02578ca1066c8235ba4f991e645f89012406c639dbccc6582eec8", "sha256_hash", "payload", "elf.mozi", "None", "Mozi", "2026-08-25 00:20:32", "80", "False", "https://honeylabs.net/lookup/27.37.111.24:48041", "elf,iot,Mozi", "0", "HoneyLabs"
@@ -44,108 +44,6 @@
 "2026-08-13 08:30:47", "1873451", "35bf80f0af528d458d53a7f7179e0ae284d6fb2be613bab904b8fe115e730b0d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "2026-08-25 00:20:19", "80", "False", "https://honeylabs.net/lookup/154.90.70.23", "elf,iot", "0", "HoneyLabs"
 "2026-08-20 13:15:00", "1883109", "c1c6011ad508835c5f06c76f8957c7ac5dd6525ff5f85b95e50e56cf0b594448", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "2026-08-25 00:20:18", "80", "False", "https://honeylabs.net/lookup/91.92.47.97", "elf,iot", "0", "HoneyLabs"
 "2026-08-22 07:00:03", "1884043", "60786e24a45df08c6b53a35b485d6243371d43e6749390e7304e7c7a0d97d521", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "2026-08-25 00:20:18", "80", "False", "https://honeylabs.net/lookup/91.92.47.97", "elf,iot", "0", "HoneyLabs"
-"2026-08-22 11:17:33", "1884342", "692dcba99a344de1a72c4f9241bd26197c1cf1b6bcd97fbcfea26785dd13edb6", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "2026-08-23 11:19:26", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:35", "1884344", "44b2d61d23b8d0e0517ec156cf952a39", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "2026-08-23 11:19:27", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:35", "1884345", "94bff010123a54c1435a63862e802c6a59d821be7d5ee0898f30b7dd83cef5b8", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "2026-08-23 11:19:27", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:38", "1884347", "6121ab3a7d1449f24971bd16dd854126", "md5_hash", "payload", "win.vidar", "None", "Vidar", "2026-08-23 11:19:29", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:38", "1884348", "fc9d4239c1570e3629d2ce849fb68d854b6021e1808e49816df9d797dc5090c3", "sha256_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "2026-08-23 11:19:29", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:39", "1884350", "919d26f0f845dbfa79bcbad25afd7f10", "md5_hash", "payload", "win.pure_rat", "PureHVNC,ResolverRAT", "PureRAT", "2026-08-23 11:19:29", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:39", "1884351", "e82ef52eacd50556a70b92faa957b021377506bc54d78bd4b8c7f9967fb747b9", "sha256_hash", "payload", "win.socks5_systemz", "ProxyBox", "Socks5Systemz", "2026-08-23 11:19:31", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:40", "1884353", "df8969bc674b50844b205bfbe8053ee7", "md5_hash", "payload", "win.socks5_systemz", "ProxyBox", "Socks5Systemz", "2026-08-23 11:19:32", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:40", "1884354", "0638be794bcc72c65d713483753dfd9b67a0af6095c90e0437c4e164a0eb0ec9", "sha256_hash", "payload", "win.stealc", "None", "Stealc", "2026-08-23 11:19:32", "95", "False", "None", "None", "0", "Grim"
-"2026-08-22 11:17:44", "1884356", "62cf91d0883273ad51ef19652e8105ab", "md5_hash", "payload", "win.stealc", "None", "Stealc", "2026-08-23 11:19:32", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:33", "1885213", "90af1515c34b6d16b4f41f70120e73ebfc034c1756bce8b570b17eb4cfb2f873", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:34", "1885215", "930c53034dadf3898a659e563d8603cc", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:34", "1885216", "0329b1f7f7d4c751749a2ecd742d2aff51a45ce17d379fc65551952e29fd309e", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:35", "1885218", "a71f46f1c851b18f397d33530469597e", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:35", "1885219", "900c6d0225ff5738b4d0893199fb53991886ed2a1158e5fb9997fd78a0b189ed", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:36", "1885221", "76055bf5046653c46f41b88b54e59611", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:36", "1885222", "10de7dbb4b67064d3dde4e2290916ae4cd7bdddb4b32f264921482616e273f0f", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:37", "1885224", "bdc4cebe690b1862c3c6792e2b0103bb", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:37", "1885225", "5aec6747c739a60918b2a427cfc5b2dee95159851a5fbf7faa8656fbc2279c25", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:38", "1885227", "c00f632e3611a91fa7545edc842f2bfd", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:39", "1885228", "da48892335940717dbde6b5134723ba6915ba8cfc8439f79cba8c06fe648ca3e", "sha256_hash", "payload", "win.arkei_stealer", "ArkeiStealer", "Arkei Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:39", "1885230", "ff2a1cc7cdd7b93afc47eed96b214f7e", "md5_hash", "payload", "win.arkei_stealer", "ArkeiStealer", "Arkei Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:40", "1885231", "d63e71109ca0a304312ddc21def555dc9f73c71ddae8d7bcd6f94a189a2d8f0b", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:40", "1885233", "31ac5ef2dc666ab821818fc716d66bf5", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:41", "1885234", "0bb70961853f4ce36650d296b7e945e0dda5a9ac2964e7a217cc35bbfbb1f253", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:41", "1885236", "43a2fd70c618f59ef00e86529a3bbfcd", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:42", "1885237", "fc0553851d495ff5b6aba8c8d472f210f5c5d7ac05dcb56c27c61941eaa3b7ea", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:42", "1885239", "15045b47099b04256ec19beef96fcb30", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:42", "1885240", "0325bda37ee3ae51de29b706986ee9345d9e110b14cdcbde615dd11f959c085a", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:43", "1885242", "7fa7935cb39e9dc9bbd93886c82bdae7", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:43", "1885243", "803af293617ebe93de009614e1b029fa7bd07616e9c1dda0019fd6c69fe409e6", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:44", "1885245", "2db3fa70d6f6dad930e9239281444f18", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:45", "1885246", "4772fcead4cf5168b4e26bebfc94df0f0bef08ba80871c13f23dc30ba788fa58", "sha256_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:46", "1885248", "3e1aad1fe43fca159fb616a2c2d72c42", "md5_hash", "payload", "win.wannacryptor", "Wana Decrypt0r,WannaCry,WannaCrypt,Wcry", "WannaCryptor", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:46", "1885249", "6ded9017cd432164a43b918aad495ca55bba80a5c0785db7f416276fbf85a135", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:47", "1885251", "02746f7f86387506be7c67fe1725b4f4", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:47", "1885252", "11f3beea1d73e12968f999281374286c16fa7649407ed5cbc068195142a631f4", "sha256_hash", "payload", "win.snappy_client", "SilabRAT", "SnappyClient", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:48", "1885254", "84e38378eaee827ee86bd112d3a7bc49", "md5_hash", "payload", "win.snappy_client", "SilabRAT", "SnappyClient", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:48", "1885255", "1d7c06f35efeffe0a9e614e88a0a718c82f64cdfb65f7598104cec612ce24a45", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:49", "1885257", "45c12638098dfeef4df009e59765ea6c", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:49", "1885258", "f48debf0e99b16130594458c82205af33785a97f7d3df4cfed7cd30acd266b2d", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:51", "1885260", "3f9d90923d2d9bba0de4e375d8f3cd11", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:51", "1885261", "20082d2052d2d406bb4193990d933dc9b78bf2ccc3f2618144ada1fb7e0a995e", "sha256_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:52", "1885263", "8adc5c25b4fe2bfe0fd5d623ade01b76", "md5_hash", "payload", "py.venus_stealer", "None", "Venus Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:53", "1885264", "9cfd1645a9ce589649c7821e75f72723a5e13d6dd3aab8a6bada7aa8d8651233", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:54", "1885266", "5fbeea9f24c9314ef0fdc36245f22054", "md5_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:55", "1885267", "d8a25c8e3928fe213f3d40f80f6bb75c3dc17da4d50655fd15bb1160c3f7e687", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:56", "1885269", "1316d93667bb04d22ddc89f99adb14a3", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:56", "1885270", "db576e0cfabd6fadfff0534e764a29d73e288939baad993cc07cc7a9cc67a633", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:57", "1885272", "3c58fb6eeaf990e39e2f04558125fda2", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:57", "1885273", "7dc2493b4e8680833bda7f854a2caf64743b8cf975fbd55b393636eef1867f08", "sha256_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:58", "1885275", "20b5814bb246b612cce7d1f4d13669bd", "md5_hash", "payload", "win.coinminer", "None", "Coinminer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:58", "1885276", "edfd37d6b17c72badfd6b1a42b9b2254ba799ae62274d1e944986a249e71a76d", "sha256_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:59", "1885278", "569d640788db16fad0c52f294c079c0e", "md5_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:18:59", "1885279", "3bd5d67962c2c260a0691c8b209a0d93ef40dddaee9cb048887b1070aa7a02ac", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:00", "1885281", "4f3f9bb347a2a6d2c5b1f35a677f5777", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:00", "1885282", "224863d550bc00850f8be7ea516d63d2004f167084dfc384cb0e1307159c082e", "sha256_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:01", "1885284", "f8b2925c5f3ec2cb2fdb9483fec2b2e8", "md5_hash", "payload", "py.stealler", "None", "stealler", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:01", "1885285", "796442361ec0029fc72ebf3fc4b67c69a4ed8214cce213602bff08e6bdfd3049", "sha256_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:03", "1885287", "0d03a3817d5b742f57d943dce6e01dc4", "md5_hash", "payload", "win.salatstealer", "None", "SalatStealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:04", "1885288", "73de504b1d7c769d4d6bacd193b06f90aaf2fadb0fb7d2065eb02760d7074fde", "sha256_hash", "payload", "py.akira_stealer", "None", "Akira Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:05", "1885290", "8e7b9a5759e4cd645017aff73c5a0034", "md5_hash", "payload", "py.akira_stealer", "None", "Akira Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:05", "1885291", "e173c3183c7624c28ca95956153be5206a560b07c2665507cb54a5e12efe6410", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:06", "1885293", "c996cc5447ccc6be86aefa2a78b2814f", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:07", "1885294", "f63453a6624e55650957b76802c76c24678821a145694e8dc86b61ab19681e0b", "sha256_hash", "payload", "py.akira_stealer", "None", "Akira Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:07", "1885296", "7e6bc763c08594604d8bd6c2bb55091e", "md5_hash", "payload", "py.akira_stealer", "None", "Akira Stealer", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:08", "1885297", "48719c2330d78fbcec979eb173bf64fbb2b90e2efcc89f53635d3fca76d8a554", "sha256_hash", "payload", "win.nanocore", "Nancrat,NanoCore", "Nanocore RAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:08", "1885299", "154688c11c0c478547761d5e541d0d5b", "md5_hash", "payload", "win.nanocore", "Nancrat,NanoCore", "Nanocore RAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:09", "1885300", "f07b7c03905657fe4ae3ebe52ffb81df7c04c520a1688bdaef2a2771240a086a", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:10", "1885302", "aa78486beff678d435e5b9e579f02b46", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:10", "1885303", "b640207e137661b17a4b3c62c836e0d40c74df8ab42f637edf5ac3e238ad383f", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:11", "1885305", "3647b40736728ce6d083dda87885affc", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:11", "1885306", "660966e3a75d5243ba66ef04e8aea4d66bfb325a4f3959c6d15b476351ad8d41", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:12", "1885308", "bf8bdad0876ea167c165929e0aaa17e2", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:12", "1885309", "e2f09c867cb0194c3d7de3c01c9895a14c53d1dd7442a8965248b3ada1b7b945", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:13", "1885311", "322d8fe630c940a272603e54f3ac5b46", "md5_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:13", "1885312", "b10aa8116a3f9666386596e4a8ba7b9e4a58355b2ce232cd8ff5468d3328d0c0", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:14", "1885314", "df9e3ef15f695a1fd62d76b3d30fd4e0", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:15", "1885315", "a99b053abcde0b4fc0421ce3dbf0ea59a21902f796824eb5df3ab2c35a5dac7f", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:15", "1885317", "2263785f56345bac53d0142c6b714db2", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:16", "1885318", "da8e26a61a3e854867aae352fe00da7df29ce57a7a3deca00691788b4bd1eaf1", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:17", "1885320", "031afabe40a283955c88f0fb08383729", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:18", "1885321", "5b45ba17b839dc914d6c02e67cfd38a5600ae5550e63fd63f97052fbedaca544", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:18", "1885323", "40701707d05ec2e5f9eb31bf03126125", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:19", "1885324", "aa35ff5e481184ac1c98143e3b8eb22564f1ab521c9fa1350b8854e6cc4f1f90", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:19", "1885326", "beee4965c9e7cabb84d6142dfe716c8f", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:20", "1885327", "a4440955d55656174bdd1bb56840065f108b14d62951fc20e03192e3cc2e4c4e", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:20", "1885329", "05272dc625735d8725f47aba527df940", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:21", "1885330", "cdcd5f2b289d8c9354c05b55e970218bceaf61d1decd05a628fc34799b7df0a1", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:21", "1885332", "c32a11c53e93dcf9fcf66847e3b1f48f", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:22", "1885333", "ffaf64672a89086ad11d0a290fa2468a2a16d7a0f54e57a1abf52b427f54ba0a", "sha256_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:22", "1885335", "0b55a6f1ae9d946ece71647dd09500b5", "md5_hash", "payload", "win.netwire", "NetWeird,NetWire,Recam", "NetWire RC", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:23", "1885336", "9d86ff6676fc5cb678c49c07ea88731b7016710b5a9666882042cbce1e3c51f2", "sha256_hash", "payload", "win.snappy_client", "SilabRAT", "SnappyClient", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:23", "1885338", "0c8ec07a41c4a82c234bf04287fd62a0", "md5_hash", "payload", "win.snappy_client", "SilabRAT", "SnappyClient", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:23", "1885339", "44c79975608861ee3a4bc452a4d643316d1d09641d40d8c9a63ed7536f3821a7", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:24", "1885341", "ce4ba16956b7c2802e7dba75244e0352", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:24", "1885342", "b3aa80f62cf946fa6d290d17d895c2885c8c628e698a786549a31f28bfd9aaa1", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:25", "1885344", "905c791b2ed300193fbc4248c5bca33d", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:25", "1885345", "496f3cba557efd0d708b008b906c45b985b996905b2f8eb922a23b892b57cfdf", "sha256_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:26", "1885347", "c4ed4c72d4e1cdfabeade9a6021d3ac9", "md5_hash", "payload", "win.valley_rat", "Winos", "ValleyRAT", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:30", "1885348", "cec1219e3640202c54a484ed3b88dd56fd26edfdb533c5eba8b2416e17ea6334", "sha256_hash", "payload", "win.crystal_ransom", "CrystalRansom", "Crystal Rans0m", "", "95", "False", "None", "None", "0", "Grim"
-"2026-08-23 11:19:31", "1885350", "092efbe07f739c831b8811c95bd4a506", "md5_hash", "payload", "win.crystal_ransom", "CrystalRansom", "Crystal Rans0m", "", "95", "False", "None", "None", "0", "Grim"
 "2026-08-23 16:11:16", "1884719", "32f85cbf0fcd2acf319137a643e58416ccb609570dccb7676a03d614f451d4c2", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "True", "", "info-stealer", "0", "ReformedDoge"
 "2026-08-23 16:11:16", "1884720", "66299f122474100fab00ce072a34d758fc7f11a04869f60f48cbac560bc8b403", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "True", "", "info-stealer", "0", "ReformedDoge"
 "2026-08-23 16:11:16", "1884721", "879c25948bc991a1b4f01f215163d99d1faa78345f056f168f65eaeb4b9e9f6a", "sha256_hash", "payload", "unknown", "None", "Unknown malware", "", "100", "True", "", "info-stealer", "0", "ReformedDoge"
@@ -248,6 +146,7 @@
 00a48356e5a4ea0cfb534513f249bbd5,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 00a6f9719024cd286bf2a0f42b25f209,f1dd9c3d-94ae-4da4-8ef3-d967315f9810
 00a731db18285a8191edabef63504dba
+00a7c96d7616b228caaa5dd0183065e1
 00a9208116b0d74f28eedc9771664e0a,c279be56-bd74-434f-90a9-3e6f51dc2f48
 00ab31e367c4633573a8db0dbdcb9e20,f65efb02-c563-44a7-9036-516219a24243
 00abb2be215519e84d288650895b0922,c279be56-bd74-434f-90a9-3e6f51dc2f48
@@ -798,6 +697,7 @@
 049446fa4a792685ab1fddc2bba68317,590e4167-aeb8-499f-ba54-4168c0a8ab16
 0497b738c1923c1acb3beaaf3db4b215c0fd93a9
 04995d8f6f303012b7fc474770201207,0ee87fb7-783d-40f5-824c-a334283d3809
+049aa4b383ecbaeeb0cb4707d01e2a1d926e58bf
 049c95e52edef3efc2fbd7ceb593d94a,1a41895a-7759-450d-948e-32fdac6d1a36
 049e6d10a25100160a6aa6954dfd7f79,5eec7d77-302c-45b8-ade6-c3d20aba047c
 049e6d10a25100160a6aa6954dfd7f79,6021536f-a808-4b9c-8136-d7460aba047c
@@ -3034,6 +2934,7 @@
 14fa820fc8d64439bf622c00015c6a3d,e365463e-b2b1-4e20-a9cb-c4698edf5c03
 14fbf660ef750c09e04cc6be7e3da0e9,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 14fdc9b4fdb9ef160e15a4318bfa0f47,5b5ac51f-63e8-4c8c-b78e-32a9c0a8ab16
+14fec08ad351a6c1b667647e8b051eb5
 14ff8013ba8fc695c6402dbd65b7e5ec,602ceed3-9144-4262-a1a5-30fd0aba047c
 15-2013-youonlyclicktwice,You Only Click Twice: Finfisher's Global Proliferation,Citizen Lab,https://app.box.com/s/bdtw7jyfdcr9snnt14ye7ukb9oj2gmn9,e33abbd24c9cbb57b3b4a97df165766e1fb42eeb,03/13/2013,2013
 1501f688ea6dc98f7a5ecc3d0a435060,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
@@ -3176,6 +3077,7 @@
 15e41fb9b2ea2fe26b677c7b127ba68f,5850fd1c-9d34-4983-ad28-06f6c0a8ab16
 15e44b0a1b56c8daf17a583fa63a08b3,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 15e60d5955fe3e9b7324f19746072638,d003529e-e30f-4233-a45f-22104cd9294c
+15e71f4e20634454a890c02d9494cc44b07e66cabea8d4bf3615dfde30d58e38
 15e7ccb6511c3da5ec436e0fdc1a5e1f,8b3e9108-0c15-4e5c-ab1e-57d91ab45181
 15ea5d667fc2bad13415c7b1f4f2a2b3,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 15eacf0a8859c2937a54e24b167932d7,f65efb02-c563-44a7-9036-516219a24243
@@ -3589,6 +3491,7 @@
 19-2013-acalltoharm,A Call To Harm: New Malware Attacks Target The Syrian Opposition,Citizen Lab,https://app.box.com/s/hydmfjuajj44kezw77k9nwj5qormpp9y,283e853a69cddd4b59b35fcc2a75205b1deb9b69,06/21/2013,2013
 19007656ff0f1f788c581bef8ad78bdc,5f17a0c6-7b04-4f05-9fda-b5d435a8d6a4
 190087b6f69581d16689fd1d201b54d7,62e17cb7-ff23-48f1-b00d-227ff9248e83
+1900a6c025d537a96f0c7343496070d9
 1903d6896c624ad6f161a975eb8a5520,5d3f036b-0f50-4499-af4c-695a0a016219
 1905f7eb1315af588782c01ed0f205b5,a80e5be0-fedf-4d0a-b364-58e22b936b94
 1907edd3d5b98bb6e631b3651ef7aeef
@@ -4159,6 +4062,7 @@
 1db4295b73b8f8aba8bffa291c63628b,45b9a29b-abf7-4343-bf56-b71e7f9d9279
 1db6b3f94e0fff97ad80c5e07302a8bf65fd2762
 1db80e2649fd9b38a153efa400d2c868
+1db8b9fa0bdcbfaab807f715c288c19a
 1db8cde2eb4960c28fca93caf8193fe6,c36977b6-fb28-4a34-b625-7b7d02d609cb
 1db99fd978235dd8095e167c04340bc0,5faf0670-ffa6-4da9-8329-935f9d48a687
 1dc3544cb7b3ffe94d13122e6be4642a,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -114887,6 +114791,9 @@
 2026-08-25 10:05:56,xeroxsec,ip,91.99.165.207,#malware,https://x.com/xeroxsec/status/2092191738245050751
 2026-08-25 10:05:56,xeroxsec,url,https://91.99.165.207:8080,#malware,https://x.com/xeroxsec/status/2092191738245050751
 2026-08-25 10:24:49,Fact_Finder03,ip,107.189.16.254,#C2,https://x.com/Fact_Finder03/status/2092196490035015964
+2026-08-25 10:48:33,nextronresearch,sha256,47adb40e9ee04ee3a50e099fecd488f6eaf78a6e3abb9653d346cc5ae4648126,,https://x.com/nextronresearch/status/2092202464401392078
+2026-08-25 10:48:33,nextronresearch,sha256,653520c24e3ad044c00503e3debccefaac3a6fdf76c5ca40b47b937fdbd389a7,,https://x.com/nextronresearch/status/2092202464401392078
+2026-08-25 10:48:33,nextronresearch,sha256,8be68dea337a1e7ab1224a10c3c6ca640d55292d135194a5e5ec9454b3bda906,,https://x.com/nextronresearch/status/2092202464401392078
 20265ca888d1b2d2f3fb94d2e9f5b06a20d073c6
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
@@ -115247,6 +115154,7 @@
 22d4723e56a4b3be5e2358a0c7336287,602ceed3-9144-4262-a1a5-30fd0aba047c
 22d502e3418bd3a4afb4567b88df8123,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 22d594eb3cc39fdcf838b34025c5aafd,f65efb02-c563-44a7-9036-516219a24243
+22d5e961804073435cd193c1a4b7d3f4c39a64c4
 22d93a7cee539b36fad24314257f65b3,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 22df05f18726b95f0122d5f50b2e34a1,5af9af43-7468-4b56-be4b-411cc0a8ab16
 22df8ed2287439c6ba7797fcf19e9c31,56fe15ee-e478-459e-8cc4-c0cac0a8ab16
@@ -115898,6 +115806,7 @@
 27d06362c39d0932b8ff2e8a916ab37c,56cce206-fc70-436c-881b-52819062e56a
 27d25537b424bd7ae57f59e214fe873e,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 27d25f20edb78febe2cb151abddcd508,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+27d351219ad62fc914c6c34eed8373fee6de294d
 27d38027f86e77857cc8290448a82a78,5ec81ab8-326c-4e96-91b8-68d10a019371
 27d3ef04dcff5af479d6e93cab1251da,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 27d5dd57d0e8203282d77a681f579477,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -116725,6 +116634,7 @@
 2e1f79eb0efb732e4c0c96548b57ba4a,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 2e20c40c7edff96af08c7e2493782da2,602ceed3-9144-4262-a1a5-30fd0aba047c
 2e25040aee7811e42f22e08bb91efc74,f65efb02-c563-44a7-9036-516219a24243
+2e26a2fbd74b1e40119e1031d4776d1c55efcf5c
 2e271160713a99b5917b2d363ce7989e,602ceed3-9144-4262-a1a5-30fd0aba047c
 2e28448e47778593a762434a0bea5b94,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 2e2aba9efcb6ca20cfe30b25f7494f65,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -117168,6 +117078,7 @@
 3199b5203ee35ad459384b842fdf796f,64380592-4bba-43f6-bcd0-eac80fb96a60
 3199ed3b4f381bb85d2cd53aa03c4072,57b045d7-2a0c-44cf-86f0-1e0fc0a8ab16
 319b123e68c69f7f4d3429cb4324ad48,858ffb55-b5f6-41da-a9e0-f8f5a818e9ac
+319ba24115e64ea4b714caf4e88d3d5a658defd51d714c2291b9758466925281
 319bf5e96e91ae2b60c9ce2de36be4f6,47d6a201-507c-4cb0-904e-2acebcd59a69
 319f163b5243e73e7da39f73d9d940b6,57951afe-c678-425c-806e-068ec0a8ab16
 31a21c42d809f9049a5b1719323fcdb7,57a98a69-abbc-419b-bb34-21cfc0a8ab16
@@ -117492,6 +117403,7 @@
 3434062cf8700f28618dae5d3f27a04e,7c045c5e-dd4d-4cbc-b654-0866e380a521
 343455cb045c5062da0310799d3ab67f,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
 3439c225fb0a6d4e16cbb7a24c04b0ab,f65efb02-c563-44a7-9036-516219a24243
+34460518cc414551d4a9a996fc7bdbf0d19f1e137825f84534609b09b3c7ab89
 3446b303e340025ca9f99796d5ca104a,544d142b-7863-453c-a444-b00ab9aba56c
 34496850aadb6ef002ca7be2eab21873,62213167-53e7-4a58-ba6a-8b24e88ae203
 344d79c358d4bcde3fde0268518a0a5e,585822f9-9290-49f9-b036-04e4c0a8ab16
@@ -117893,6 +117805,7 @@
 3754736596989a5c8c8d0b1412bafaae,c1bd5026-520b-45bd-9a79-82d38cf96c7b
 37548b720bea7dddd32e8783c8c8018c,6021536f-a808-4b9c-8136-d7460aba047c
 3754a6c66b66fcac94fd7bcfc73ca458,5877be48-e4b4-4634-b002-0799c0a8ab16
+37583076df4a8183b6d9ad95dadf4c68e794d72f
 37590e789eeb10febcb2a05ffa1a8db4,2017b845-f06b-48e4-b8a2-17d1fbd3dbb1
 375984e67cda5553ede91bc2b0d5275c,4154d3f0-5519-4b96-a2ba-9adcff7f7179
 375b4207f58a36ec045e138b12e93740,f65efb02-c563-44a7-9036-516219a24243
@@ -119387,6 +119300,7 @@
 42e1d9a50707a054f644ea63d80bf19d,a80e5be0-fedf-4d0a-b364-58e22b936b94
 42e3f7336d44fbda64b8080a97137f0d,56ca367a-5a88-4925-a309-4cd69062e56a
 42e5412c10dd98541ad03dbb58624bff,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
+42e83488d452064f0628a22bb038d36fc1e45d3e
 42e8c87f3900813f4450a75f42ae6904,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
 42e9ecb0d77f0abdea7b04d7cf68f1ca,5a717019-2b96-48ea-aad0-8532d4f1dad2
 42ea5d883983b6e71d1fd87baa44ae8f,5877be48-e4b4-4634-b002-0799c0a8ab16
@@ -119525,6 +119439,7 @@
 43e29891b0f43e632ba052b775210f71,ade7298a-84e8-4dc8-9cab-c215cc771629
 43e35c5362e7ffa1b410f0e6db4d24df,f65efb02-c563-44a7-9036-516219a24243
 43e5a0dab5a1ca9f16d1011d172c2e0d,7c045c5e-dd4d-4cbc-b654-0866e380a521
+43e6393d108ee3b198b3dd4c890c7b6fd07efcb725ea19ac56a08e21c6d35ee2
 43e9cc3f7606d6edd9bd062e2bcb84ea,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
 43eb2d63ca67be8bd30f410dd1a07cd4,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 43ec9a2b44c3de8e6bca55e2c8d81468,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -121040,6 +120955,7 @@
 4f9c45092f540fe574accc851e24a3bb,5faf0670-ffa6-4da9-8329-935f9d48a687
 4f9cc57850af1e8e516607afaf3232c8,571a5777-6664-46e9-8748-1478c0a8ab16
 4f9decb7c1bc9ed75da08ffe041df040,56ca3897-a370-42f8-9899-4bb19062e56a
+4f9df700891ba8fcf918a8bcdd527d9109c7888be2201876fa64d73bfdcfd98a
 4f9e4af1067d4d41e92ac810877a904c,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 4fa1a19d8494d0f2a3b4be0c04efe0d3,f65efb02-c563-44a7-9036-516219a24243
 4fa26a485afb44180fce32a76243d62a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -122471,6 +122387,7 @@
 5a059ee0af217e3afdd1e6666e5f77d0f7e843e5c2581db86417a70a7e6c2b75
 5a06aa0c8c0ec2e1be7c7f4df1cf51b9,5eeb995f-c570-4242-94c6-79870aba047c
 5a07b677743c30117e373b3090832eb4,28219fd4-56f3-470c-90ae-bdaeb006502e
+5a081c877716d922366a17238c18bcbb
 5a0a9b89bc131b841c781c6f9cf77d28,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 5a0bd7c37793c8eee6c420dfce643658,866f2e50-efe5-4d58-85c7-33bf3a52443c
 5a0ccb42e959371a9b461e5dbf434609,67033954-cb9d-4aad-ae23-435b246b016e
@@ -122870,6 +122787,7 @@
 5d4660233d8833ed1892cae8c5f34d4983451959
 5d466bc0858907ba23e81c091a53e613,095c4227-2a9e-45da-9268-cec186be53b1
 5d492155df7d11515b0faa87ec9c5c51,a80e5be0-fedf-4d0a-b364-58e22b936b94
+5d4be679ad5c4bfb5144f381d3308ab3
 5d4ecde643ebcda6840262c1c6847b82
 5d50bf0622e91c8d1e22d0088e9866ee,e46d4b20-b44a-4896-be41-0f4f251cde6a
 5d51e30f0382f64551d3b75309991fd4,592463f4-c2f8-40e4-888e-4a76c0a8ab16
@@ -123895,6 +123813,7 @@
 65212f10c52d93e5129612cf02e2d5c1,5b2bb735-fa94-44a7-8976-1e67c0a8ab16
 6524eb2deac0047e2747daf34ba21368,544d142b-7863-453c-a444-b00ab9aba56c
 6525a3f0cf46f0c0605afba791bfae89,a80e5be0-fedf-4d0a-b364-58e22b936b94
+6526705b685c2f221a6675118c73cba98c47d948169d81ea4544c3e3336b8f2b
 6526c2a9757012a3049e242feaff99b8
 6527bd1cc84fd53349fce5afb33c71a277f4ed36
 65297950f2f8c4ccdddf758fe93eecb8,b56e8fc8-3b8f-4c57-8474-fc05fbaf3486
@@ -124786,6 +124705,7 @@
 6c256a67d16c8a58f5a729b0a800904d,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 6c259906f2f0704aca7fa13dd252e342,f48f7c30-fe6f-4854-b27e-f86a308da714
 6c298fefb02d253ef3029466ed2b7c21,f65efb02-c563-44a7-9036-516219a24243
+6c2a884eb6c0c038a57f7a5009586b8edcbd4d20ccc8a886d5ddd40ac770d2ab
 6c2cc5708b13a40c16efc6e0f3b09609,f65efb02-c563-44a7-9036-516219a24243
 6c2d37e6f330883bb680adea0bfe242e,5ebfb899-22ec-467d-9b20-a754c0a8ab16
 6c2dcd627d8b00d3166dced4fab47597,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
@@ -125950,6 +125870,7 @@
 75251e2f2367a1a4b55d0f515a283b15,858ffb55-b5f6-41da-a9e0-f8f5a818e9ac
 75296fbb05aa05c98e386a7c7edd048c
 752baa082102aec74b5aff8341b99cf6,56ca497b-9924-4031-ad3b-4bad9062e56a
+752d5cdda2a1d93d27e38f98a5d23fc2
 752f5949b52546b7589fabe75d4a4d99,1a41895a-7759-450d-948e-32fdac6d1a36
 7530762ac1cd5a8acf7995286af8849d,f65efb02-c563-44a7-9036-516219a24243
 7530b1a1c2efed9e0683b964db5e15ec,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
@@ -126695,6 +126616,7 @@
 7ac26ff2824b9a67c18823400bc773aae66131a22e16e95114daae072a926b35
 7ac5850f4f19af92464996510b21f1ad,abfb5a93-e695-4ee9-bc10-541290bcd663
 7ac6079f46da7bb7517f55074dc5b5c3
+7aca9192a475179f4df8752ecd7eda05948dc6f4
 7acefce50433d6e5457c31c3493e9eee,54cfe842-09c0-4257-8fcc-3c1498bbd9f2
 7ad025c45b2046f265a903252ceadeb4,56ca497b-9924-4031-ad3b-4bad9062e56a
 7ad1f67ba3807267a1a34c09fffdc63c,5eec7d77-302c-45b8-ade6-c3d20aba047c
@@ -127222,6 +127144,7 @@
 7ede5bfdd5840c7d093607a62e5e829a,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
 7eded075e405ec5fb14a272a0562b212,5faf0670-ffa6-4da9-8329-935f9d48a687
 7ee0c611f222d7dd8b1ea9ce73954bfb,6038744c-e808-4278-9e06-b10f01422b67
+7ee2543520d72fd54827f3d11a21ef8d
 7ee369e64b61c671dc02099676ddfd33,56cce206-fc70-436c-881b-52819062e56a
 7ee54fd654321de1b8d58b40228fecc8,f65efb02-c563-44a7-9036-516219a24243
 7ee60f0f6f56934ca23a5cdc31c56a43
@@ -127240,7 +127163,6 @@
 7f124b9dc90fb4beffdfc0ff2d0e9286,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
 7f12b9d5ec414b62bb3f8fb987515cdb,0ee87fb7-783d-40f5-824c-a334283d3809
 7f1343ec3bc71514b6bdbdc0202a5eaf,28219fd4-56f3-470c-90ae-bdaeb006502e
-7f1ba284cb64ab60c3bcdc5841a537d6a54720e1d97c4308420d07ce7dbc78eb
 7f22777cefa04837fa7faad46f71f714,5c93da7f-9924-4959-9120-46edc0a8ab16
 7f2a40ba61d6397717541d73bccf333a51a74925
 7f2ae5def279cf26103802901a503393,56cce206-fc70-436c-881b-52819062e56a
@@ -128839,7 +128761,6 @@
 8b514ac8f67f68ff1e44bad2b041fab3,56ca38d3-7884-4bd8-a080-4bb19062e56a
 8b514ac8f67f68ff1e44bad2b041fab3,56d744b8-0260-4666-9282-5281c0a8ab16
 8b515988a6a24de6e9a13ed2b7baf6e7,5b4787b2-e904-4a11-8e41-1e69c0a8ab16
-8b56341696ec3fb5c7f6b4376e93de280e496a4f479024ce88ba779cf6a3c81b
 8b5860c8cab40e589bab4a4785334674,6021536f-a808-4b9c-8136-d7460aba047c
 8b5e21adb5051865729647e74b4168b8,602ceed3-9144-4262-a1a5-30fd0aba047c
 8b6328c1984200aa4d57864b2bae88d5,5badbf47-50c4-4f60-bdde-32aac0a8ab16
@@ -129523,7 +129444,6 @@
 90a14114fc615af4240921f4862b42db,5d3f036b-0f50-4499-af4c-695a0a016219
 90a43b537937c246585141fd8afd9b83,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 90a5d91a01f0904dcd99fdb1a19bdae0,7abd1104-926c-490e-8514-898affae1279
-90af1515c34b6d16b4f41f70120e73ebfc034c1756bce8b570b17eb4cfb2f873
 90b07ac428ddb7cc3eb61b781622d392,602ceed3-9144-4262-a1a5-30fd0aba047c
 90b13ff3d1e6e0265f017b96dd892e6f,f65efb02-c563-44a7-9036-516219a24243
 90b203cfd2b337b7bda8fbdeae804238,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -130947,6 +130867,7 @@
 9b85ffd138c0b112de910995bd34c616,a80e5be0-fedf-4d0a-b364-58e22b936b94
 9b89359e1234b3013fceaeddc2550963,f65efb02-c563-44a7-9036-516219a24243
 9b8bbb9e897ea29745e78db2de144877,f65efb02-c563-44a7-9036-516219a24243
+9b8ce30d11e82d25ee5b15c30ff42d7d1bfad2d605c414f9797a6e0d823af06c
 9b92d089cc5a0cbc083a648ef8dc9896,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 9b940b3b45e1dae6c4fbda229234ca2f,602ceed3-9144-4262-a1a5-30fd0aba047c
 9b94208c818ce02a1e1d1db46f6959d0,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
@@ -133633,6 +133554,7 @@ ab9009248389376e5159b7618903d90b,c5107fff-968b-4267-bc27-cafbc6553d1d
 ab938f2d3e811ff3c98262dbe9305dea,f65efb02-c563-44a7-9036-516219a24243
 ab9397e639a7582b42ace83cc549b3d5,f5281ebc-f6d7-48e5-8ced-375d21aec1ff
 ab93b54b8b7f48f49f855dab42a8a649,f65efb02-c563-44a7-9036-516219a24243
+ab9a2c07b3b1222f5ada4cb7c1fd144e
 ab9c983e716d7a02f0db9fa5e9469889,602ceed3-9144-4262-a1a5-30fd0aba047c
 ab9d4b73875c1c5e082d290922e58ca7,602ceed3-9144-4262-a1a5-30fd0aba047c
 ab9dc6cc0f78d677fea76f51b59b58edb6efee71
@@ -133826,7 +133748,6 @@ ad11622aab9c50ad6f228ef43cd22a51,5a2b0fe8-6900-412e-a9b6-2facc0a8ab16
 ad1196bd34201e35681795b2d4878080,585822f9-9290-49f9-b036-04e4c0a8ab16
 ad15f40771aeb982ad0b1ba84d4c90f7
 ad17cee875aa6c557deb7215e8192a79b6d07efb
-ad19b70c4e523ef24baf5e062d2200e139b619b56049219d41cd0397faff2c40
 ad1b3693e2bbb15c9b67f2a05ef25596,f65efb02-c563-44a7-9036-516219a24243
 ad1db082ccc3df23efa8a630f155f1e4,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 ad1e8602cc1e1389b093176209f89058,dcd04a4e-2e8e-4b48-9ab7-a454b66a4364
@@ -134312,6 +134233,7 @@ b0fad0df75982a36bed2453c7f1b9312,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 b0fbffc21b11248ccccbcbc51102c1ce,5b444853-db9c-4206-8df8-203ac0a8ab16
 b0fd959e2ddcd7ad4dc83386717bd85d,574403bc-df24-4575-a198-04cac0a8ab16
 b0fdb6abe09a1bf992f562d8baaf31a2,5badbf47-50c4-4f60-bdde-32aac0a8ab16
+b1003f3cfbc42d200be479b6e52f2081a5f1a22c
 b10431d6fdb5bcd5f25d94f0c23108ca,56cce206-fc70-436c-881b-52819062e56a
 b104cb636c38fd591a933e3cf9cf625d,5cc15780-29a8-4973-a485-4d8ac0a8ab16
 b107b51ddfcb257bd0f666f0cdfe7dc1,592981a5-3e1c-4ea5-bbfe-52e3c0a8ab16
@@ -135208,6 +135130,7 @@ b7a2aad2040561c88137657d70ca1416,abfb5a93-e695-4ee9-bc10-541290bcd663
 b7a326d7be947ab023a98663b1a19560,5a37a494-4030-4f5c-a710-8d1dc0a8ab16
 b7a3a6012053cc5864ce5eb4b8477b37,4bcf0465-4b53-4de4-8c53-fcc5f7d04dfc
 b7a5e7fc5ac6b544fd6e8ea7966e5547,602ceed3-9144-4262-a1a5-30fd0aba047c
+b7a6d14d4364725bc70671de791212604331823d
 b7a7297a92016f3f36d4209850ff5699,f65efb02-c563-44a7-9036-516219a24243
 b7a9ab31c13fdbab9d51bec48d30f1bd,5a5fc388-48c8-48b8-9f08-043bc0a8ab16
 b7ad96f891d3068bab8cfff3ea124d25,5faf0670-ffa6-4da9-8329-935f9d48a687
@@ -135259,6 +135182,7 @@ b801ecfeb7115c84bab812fa3c3e9138,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 b806444bea03b32776f84cc14e4f7430,f65efb02-c563-44a7-9036-516219a24243
 b80eee00b783688a3697299ba9e804d0,d81c3a80-018d-413d-9f11-59aa0c67e761
 b80fc1ba9130c9433d978f4e2e64a819,f65efb02-c563-44a7-9036-516219a24243
+b8100e5ab07983cbf82d721cf719576ca3f60e352628dcaabd42d428011fdedf
 b811075c6e7607ca57634d6d87c87291,c279be56-bd74-434f-90a9-3e6f51dc2f48
 b811a0dbca8241630f8f0cf7c1de8af6,f48f7c30-fe6f-4854-b27e-f86a308da714
 b8120d7f330906be4fd152b33a3ebb88,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -139095,6 +139019,7 @@ d4fb14d986ef09f60771860141427f0e,602ceed3-9144-4262-a1a5-30fd0aba047c
 d4fb4b39aced89aed08944e1e9bac651,71bcb1d9-d25d-4faa-a9b7-5f909c325fc2
 d4fb8d4159cf98257a3039738d228136,5877be48-e4b4-4634-b002-0799c0a8ab16
 d4fc100e7366485123238b52ccaa0f1f,e46d4b20-b44a-4896-be41-0f4f251cde6a
+d4fd4ff0709271323b8d401579270e6567b6e360
 d4ff61b93ecd44232c5bf176126c1bba,60f6ea57-5534-4866-9677-44650abe1822
 d4ff70a714d30103d4e1954b1762bbb2,f65efb02-c563-44a7-9036-516219a24243
 d4ff7bbfe308ff72f16d2c766b3588e6,0bfb40d7-c9e3-4cd3-a383-702cfefec39d
@@ -140373,6 +140298,7 @@ de56c9d719a511860a9cda156d0599c2,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
 de5733fbf4085a61d980fb9b0f689433,5b646948-f79c-46e8-a53f-32abc0a8ab16
 de589e094c792310ee998b7406b60647,f65efb02-c563-44a7-9036-516219a24243
 de58fddcb982779210bf6ad3e6b24af2,a80e5be0-fedf-4d0a-b364-58e22b936b94
+de5bf6024c840b27cd71b7d7cbfe4fb46dbee1ed
 de5dfcf2cbe148f63a8c3d5c96a0580c,5c8810d4-2404-4772-8a57-47d3c0a8ab16
 de60585e066e19e306abfb0e9fc09c78,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 de6326e95e204244be994c4c68d9108c,f65efb02-c563-44a7-9036-516219a24243
@@ -140457,6 +140383,7 @@ dee1de72f168b05cf60f676d68f5fc4b,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 dee21ff4df9c89f641fdf7b5f7e59243,a80e5be0-fedf-4d0a-b364-58e22b936b94
 dee335bc6a8cecef5cb69e5874f7b375,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
 dee42151cd8b58bc04da8bd55f7c7fb8,a80e5be0-fedf-4d0a-b364-58e22b936b94
+dee75b1f9f5bf18f8ae1d2a1d2cf1c825f2b11110ce0169892b00923675c116c
 dee77b8403ded0eba0bd21e217cf058c,45ab9141-de79-4492-974b-1504bd6dfa13
 deef20d7236a2981a1e255712c8d8fbc,5fda21d6-81cc-47b3-9117-c19a0aba047c
 deefe51756613e56dc731181ef87c68c,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
@@ -140955,6 +140882,7 @@ e2c805cbca2cf44961db9a3f75622ecf,56ca367a-5a88-4925-a309-4cd69062e56a
 e2c88082b4e1e0cd639587e07dd09b36,56ca4a6a-a7fc-429a-8768-4c0f9062e56a
 e2cc3da2725b8f1596ff6d2d7a72fe47,0ee87fb7-783d-40f5-824c-a334283d3809
 e2cd052f2a29bb1380bf5fb759adc7aa,f65efb02-c563-44a7-9036-516219a24243
+e2cd21c2dcb17fc0431f6b45788cbabf
 e2cd269f6c027060119c23e7e10bfd54,f65efb02-c563-44a7-9036-516219a24243
 e2ce58806698fc413e892fb2596bb512,cc55d271-bff7-4045-b449-ee50dd0149e1
 e2ce86e51d526759fcd620c64706927a,f65efb02-c563-44a7-9036-516219a24243
@@ -141548,6 +141476,7 @@ e791881529ebbdee1689d3c357405c2b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e791a16e6bd7e33e127c0f006f9ddf4e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 e793826bcc4c4ce8f0dfe44d5c7db1bd,5893689a-3acc-4752-a0cd-11fbc0a8ab16
 e79c7f7e808a3c281c086d6c23bb7ad2e9a2c26d
+e79d0d5d3076c47bc83cf4d60cd9e2471535f137
 e7a012a501dc1c998cc0b39207cd473c,f65efb02-c563-44a7-9036-516219a24243
 e7a0a44c59edc989384b5cf1ac5ef635,eb7a9efc-2098-4db9-a2ae-1f0f853ef803
 e7a14b9025a3eaf444c0a5c47b4484c4,5eeb995f-c570-4242-94c6-79870aba047c
@@ -142650,6 +142579,7 @@ f03c116d4ddffe783820f8611197bb01,273d8b6d-8d50-4bf2-b36d-1f306aabc438
 f03f2f1c5e0ca216e7fbcf9fa57fbc7f,28219fd4-56f3-470c-90ae-bdaeb006502e
 f042831442af17add55c077be9f3cc45,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 f04424e3f0c28bf4939f3e8e1d42e4b1,f65efb02-c563-44a7-9036-516219a24243
+f048400c23add8c75abe189393d33c873c02c74eeaf43d47b950c8d643763b35
 f04926445fddd90d88389f94c1d3c254,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 f050bc47eed7726ba22df72644a77a82,f65efb02-c563-44a7-9036-516219a24243
 f051577eda5260115e15f9e60a8bdc75,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -144393,6 +144323,7 @@ fddc902b7035674c3fd7f5593d1321ce,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 fde35725df041801390a56e0100e9c84,a80e5be0-fedf-4d0a-b364-58e22b936b94
 fde44fb7119be6ca835cdf779996f220,5df1e6c4-5340-4610-819b-a05fc0a8ab16
 fde4eb9994d2b68f1970d9e4d6961c60,56ccdf0d-fe6c-4163-9fa4-51299062e56a
+fde73710ce063bbf1e377c02a1a8615cf4da1c08
 fde73bbf367b41aed42cdb3f9f7d0ffe,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 fde82d3b05d3c5402d192c296c6e42a0,5d3f036b-0f50-4499-af4c-695a0a016219
 fdea2ebda3c0321d9d08778b4f827ea8,5c8810d4-2404-4772-8a57-47d3c0a8ab16
@@ -144610,7 +144541,6 @@ ff8d21b9fdac2c82802d06b3215dd47a,f65efb02-c563-44a7-9036-516219a24243
 ff8e9381f99e85dfcc28b39226220c64,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 ff9168eecd7c275a02aedb59ec49e159,602ceed3-9144-4262-a1a5-30fd0aba047c
 ff93196911880f51ba4a02fbe71342d8,f65efb02-c563-44a7-9036-516219a24243
-ff9ee656a7d7ccd45d68b318d1d325d73f15bac1683ac2451a7d4a549c7271e2
 ffa01de52ad27f463f814c771ace8945,57951afe-c678-425c-806e-068ec0a8ab16
 ffa2f75b3bfb80bd892c35e5aa0b7866,35457c1d-05e4-4b01-92f0-3433a6c12b81
 ffa44394453762ad996377fff5134069,5c8a8971-cb7c-41dd-a7bb-413ec0a8ab16
