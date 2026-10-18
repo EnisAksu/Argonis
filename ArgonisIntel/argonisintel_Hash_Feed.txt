@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-10-18 14:43:30 UTC
-# Total Hashes: 166985
+# Generated: 2026-10-18 18:19:33 UTC
+# Total Hashes: 166925
 
 "2026-10-01 16:45:50", "1944004", "b20f39fc00d242e706b6c30367ad811c676e0575050a4ec2f30104b696944b49", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "2026-10-18 10:00:25", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
 "2026-10-15 18:36:03", "1968162", "7f14767fdb38ced9ddc50b55d0d9d23d48aeac103e68c6c9c34c70fe6da18202", "sha256_hash", "payload", "win.ravenstealer", "None", "Raven Stealer", "2026-10-16 23:42:35", "95", "False", "None", "None", "0", "Grim"
@@ -13,188 +13,6 @@
 "2026-10-16 06:36:23", "1969063", "404e448f179f662439bd08b2abbcddcaaf0034d11d786cc878cce6f9ef57b570", "sha256_hash", "payload", "win.ravenstealer", "None", "Raven Stealer", "2026-10-16 23:42:27", "95", "False", "None", "None", "0", "Grim"
 "2026-10-16 06:36:24", "1969066", "fb799fbe2729fa88358d32375c15aa41b2de62e981655e60d4f53efb4e4fee73", "sha256_hash", "payload", "win.ravenstealer", "None", "Raven Stealer", "2026-10-16 23:42:31", "95", "False", "None", "None", "0", "Grim"
 "2026-10-16 06:36:25", "1969069", "cd0db04913047500d062f676d4099aced7ef039c7e12cebaddff6aac41def3ea", "sha256_hash", "payload", "win.ravenstealer", "None", "Raven Stealer", "2026-10-16 23:42:33", "95", "False", "None", "None", "0", "Grim"
-"2026-10-16 14:53:38", "1969972", "4180269c675c26e85d20a22f06587a5a45e6f4af5ee4a60fb73dc51317ce50e7", "sha256_hash", "payload", "win.agent_tesla", "AgenTesla,AgentTesla,Negasteal", "Agent Tesla", "", "95", "False", "None", "AgentTesla,exe", "0", "whack_sh"
-"2026-10-16 14:53:41", "1969973", "9afa2885bcb35aa5f012c7ad784b940b284ab968dad1eb8c4f3f2e1b6cda7572", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "95", "False", "None", "exe,LummaStealer,MillenuimRAT,stealer", "0", "whack_sh"
-"2026-10-16 14:53:42", "1969974", "32e167e167c82f04b203c220b56edb95bbc3869254c7b792521a490c97e9507a", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "95", "False", "None", "exe,LummaStealer,stealer", "0", "whack_sh"
-"2026-10-16 14:53:43", "1969975", "3ea66df0155ad39a658607c9eb1e035f0f8dd12dd75cc69725bdb15b73a4e5d4", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:44", "1969976", "ebb2f6d9ee6731d87d430b7c9114d4fa02ffb5adba565da3ffda7cca0afb2353", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "AsyncRAT,exe", "0", "whack_sh"
-"2026-10-16 14:53:46", "1969977", "88c5cf4e9d867c792efdc8cadac668b864a632deb887cf6d7d97a1cb79cd8dfd", "sha256_hash", "payload", "win.asyncrat", "None", "AsyncRAT", "", "95", "False", "None", "AsyncRAT,exe", "0", "whack_sh"
-"2026-10-16 14:53:47", "1969978", "f87bdcf2c41359b3e0501be8c69f6050c745f8dfad04cd1c87c7a5c71073cf9d", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "False", "None", "exe,Formbook", "0", "whack_sh"
-"2026-10-16 14:53:48", "1969979", "5101af2542f117d364de90661a235d98876c36c4d580888adc4907ad35d44f92", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:49", "1969980", "3c85c4a7b98e6e056357c7382a1c204a18d5049d78d2adccfaea64eb30c9f5ca", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:50", "1969981", "d0c90d540a7d42b4ea424a28559edcc443ad424a993a49986e5dec551c8a348d", "sha256_hash", "payload", "win.formbook", "win.xloader", "Formbook", "", "95", "False", "None", "exe,Formbook", "0", "whack_sh"
-"2026-10-16 14:53:51", "1969982", "4d50834c2d3c506e8e93a7a025a7ca7777d0509f2e878dbcf43beaec8d183c2d", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:52", "1969983", "001816f728d96a823a88e8243cba32486ff0207c123628fa767073bb4a49cd6e", "sha256_hash", "payload", "win.xmrig", "None", "xmrig", "", "95", "False", "None", "exe,xmrig", "0", "whack_sh"
-"2026-10-16 14:53:54", "1969984", "3aa39c83e94b66d7437bcba4f9c38f9f7131937d4f3e2d0f1e89a3fa84d21ace", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "exe,upx,Vidar", "0", "whack_sh"
-"2026-10-16 14:53:55", "1969985", "41c0b926d585a233471fd35953c36fca3d3cf7b83060bda5a41ffa6da8317b7a", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:56", "1969986", "3c285c3fd881cc3bfa5796593310c80844ce3c85cb4b8c033b8d4c033a0a7360", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "95", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:53:57", "1969987", "1cbad26e560805b31cdd674e17de876d2791a2534e25c6b6c87547d762b92ead", "sha256_hash", "payload", "win.zeus", "Zbot", "Zeus", "", "95", "False", "None", "exe,Zeus", "0", "whack_sh"
-"2026-10-16 14:53:58", "1969988", "6d06069a78cd7c68d8fb630ed788ccbf712a6ba63967692fb8beca4ac27605eb", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "exe,Vidar", "0", "whack_sh"
-"2026-10-16 14:53:59", "1969989", "7fd4d923b29136fc2537e156f78f0bcf4371c95b1cb1267a08780811c40aa8ec", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "95", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:54:00", "1969990", "ffbfda2b701f97bc5124e626234c848564185f6133ffaf007d87b94b99360c62", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,dropped-by-RemusStealer,exe,ZigClipper", "0", "whack_sh"
-"2026-10-16 14:54:01", "1969991", "d62618e33bfb74f02074ac9832c34b63bcd3bfef92a8d8039bd5c11c4269461c", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:54:02", "1969992", "586d98277d3edc99e37280a970d9a1cd1ad38cf22f8a77648c3bd1212387b550", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "95", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:54:03", "1969993", "fc02692a98927272e200e01eb80007cc03aedbdec8acfb68aa9730dabaa8fce1", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "exe,upx,Vidar", "0", "whack_sh"
-"2026-10-16 14:54:04", "1969994", "fe865bc1efd4c56a1f212d80e4d2e51589a884b5180da018e4cfaa3e9273d026", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe,ZigClipper", "0", "whack_sh"
-"2026-10-16 14:54:06", "1969995", "e724b8417dc081196b9892e5f7c8b30b06be04916fc05f887ccc080e5ba8f5af", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "95", "False", "None", "exe,LummaStealer,stealer", "0", "whack_sh"
-"2026-10-16 14:54:07", "1969996", "a564ca03842ac237973a6f07a1c25fb5a072d8fb7424b6ac8684888377391d9a", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:54:08", "1969997", "171e534cf5acfa8cda1d6f31268a757ba767686f218ac4649bfddef55b68e8c0", "sha256_hash", "payload", "win.lumma", "LummaC2 Stealer", "Lumma Stealer", "", "100", "False", "None", "54e64e,dropped-by-Amadey,exe,LummaStealer,stealer", "0", "whack_sh"
-"2026-10-16 14:54:09", "1969998", "fcbe9f2d0f07f6c40b258228148fb61e94f4dc59962f2fd4e3ed3051d90cfa3b", "sha256_hash", "payload", "win.clipbanker", "None", "ClipBanker", "", "100", "False", "None", "ClipBanker,exe", "0", "whack_sh"
-"2026-10-16 14:54:10", "1969999", "badb192a3c2285c27b7ce0e459fcd9c0d8d84e16137830a8d03e68ac9ac654e4", "sha256_hash", "payload", "win.vidar", "None", "Vidar", "", "95", "False", "None", "exe,upx,Vidar", "0", "whack_sh"
-"2026-10-16 14:54:11", "1970000", "14b0aceb0f1af0ec5470986cb6832634ae83cf851d87c28f7d7ab4df710672e1", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:12", "1970001", "6e55fc8ea2db42fdd70c8456394b9fd22875d361ff0f40fb6bb1e926e7b8182d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:13", "1970002", "02198bbfbede316cf98163f94625f578fc121a4a27969937d326a5e65eef829d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:14", "1970003", "c1bc342ee5c97787f469d398ef0ec64c59edaf275fbbfbe7a5633f238e83a3ea", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:15", "1970004", "8522dd99e4ea41eb22ebd4e2867d0a993e5c93ae2b3e55aad799808d9e01ca34", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:16", "1970005", "70c037b40986a30fea6f9f2ae504eee508c4e1ca0bd859e8a78237d130758cae", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:17", "1970006", "99a62a92f440a6f155cc6f21d1417e92e1fa4e77bcaa6252bdec4307d4b06c78", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:18", "1970007", "c302d091a1d13d1599df882ca1fbd86c6d2dc6bb284075439310c89c444e90de", "sha256_hash", "payload", "win.remus", "None", "Remus", "", "95", "False", "None", "exe,Remus", "0", "whack_sh"
-"2026-10-16 14:54:19", "1970008", "f66626b11eb9356a0cbcd048d2ac007493065019ec020473d135c39f7dbe93ac", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:20", "1970009", "abb086bee2b6e255446c1ce7a66251998957469974dd5e85caf7868f0b1644e0", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:21", "1970010", "149f1c8ac2a6a0dcb9118c93c9062ea9d24fc52a21c926695530ea365be378b6", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:22", "1970011", "52803cd6167142291a60774d48d493a8d3a7040ef7809eca22e060dd73ac96ce", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:23", "1970012", "5b5084b4b39023edccdd32a8f52a3605a78870a3045af91b57c8c7a31a041676", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 14:54:23", "1970013", "647836d5995d0b9a9edd844ca1110b3d0a137e31421c64c683215c5f958782ac", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:19:38", "1969558", "b86c9489a4936115c59924d359f5d2cc376605460270c15032037929ac4f0a13", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/b86c9489a4936115c59924d359f5d2cc376605460270c15032037929ac4f0a13", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
-"2026-10-16 15:19:39", "1969482", "5040ff62259cf8740de327d5980b20de915bcbdf6252bc7bfa1e2b662a6a2003", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/5040ff62259cf8740de327d5980b20de915bcbdf6252bc7bfa1e2b662a6a2003", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
-"2026-10-16 15:19:39", "1969552", "db5516564090e965e2eafee0a9dff3b71c7ef3a46aa9969e72305814886927a6", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/db5516564090e965e2eafee0a9dff3b71c7ef3a46aa9969e72305814886927a6", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
-"2026-10-16 15:19:39", "1969555", "40b46faa65a1757b46b426ed86e612ec293d5e36b6fee7e701d240a52c9ce990", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/40b46faa65a1757b46b426ed86e612ec293d5e36b6fee7e701d240a52c9ce990", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
-"2026-10-16 15:19:40", "1969477", "45fdeae9f2e04f037912eadd4716326268e666f27fcbcecad099bfb6e6a18001", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/45fdeae9f2e04f037912eadd4716326268e666f27fcbcecad099bfb6e6a18001", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
-"2026-10-16 15:19:40", "1969480", "0ecf1106c3f148601a5bb7c81fbcf49192a64201ee41e6b6a5a9ae130a07b2d1", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/0ecf1106c3f148601a5bb7c81fbcf49192a64201ee41e6b6a5a9ae130a07b2d1", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
-"2026-10-16 15:19:42", "1969951", "4bb96aa2be066fc800d624497479a135f8c3ea1fede0aabcc6f3ab9445b6c7e4", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/4bb96aa2be066fc800d624497479a135f8c3ea1fede0aabcc6f3ab9445b6c7e4", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
-"2026-10-16 15:19:43", "1969945", "2e4d616dcc7f0ea352d5eb45d301314e23a3cc8416dbde526aa3ad9f4523554c", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/2e4d616dcc7f0ea352d5eb45d301314e23a3cc8416dbde526aa3ad9f4523554c", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
-"2026-10-16 15:19:43", "1969949", "7b8217516a94208e67743c0692628d03942cf700a4c65629eb9cf1cf1ad32a7e", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/7b8217516a94208e67743c0692628d03942cf700a4c65629eb9cf1cf1ad32a7e", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
-"2026-10-16 15:19:44", "1969946", "8a7d7f9830eed676a490689cefe2c4d67376fab263e3ce80383e97e052d74bea", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/8a7d7f9830eed676a490689cefe2c4d67376fab263e3ce80383e97e052d74bea", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
-"2026-10-16 15:19:46", "1969888", "0a6e8e9e9228ec2120792daab607902cb5071bba0faaee8626ab64f972792088", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/0a6e8e9e9228ec2120792daab607902cb5071bba0faaee8626ab64f972792088", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
-"2026-10-16 15:19:47", "1969883", "f9b55b2953762b0e118b1bec799d0bddc9cfe49f170da2428b4e6ef5ae31b1ce", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/f9b55b2953762b0e118b1bec799d0bddc9cfe49f170da2428b4e6ef5ae31b1ce", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
-"2026-10-16 15:19:47", "1969886", "6e4e0b1a8238f55f313bf64bbc162a51d971e93811136a6fa402b7128278ea63", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/6e4e0b1a8238f55f313bf64bbc162a51d971e93811136a6fa402b7128278ea63", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
-"2026-10-16 15:19:48", "1969877", "c218c7836b22979e9889d464dc8a729ad407aa0f0ecb1e306305ed98d91b0e31", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/c218c7836b22979e9889d464dc8a729ad407aa0f0ecb1e306305ed98d91b0e31", "AMOS,ClickFix,Foxveil,haven,macOS", "0", "c4ffeine"
-"2026-10-16 15:53:39", "1970051", "10eadc6f82722246c8a54187df0ce5ccb47628c84e3714f1c81d9731b4c7abd0", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:40", "1970052", "794ce9bee4e8fa97135b4191afb34f5d1e1fa32e34f1b7f6797eebc9493185ac", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:41", "1970053", "0ca35cd5d29f2b83bda19aaf44346c514976aaffdfac683e715dedd7c545556d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:42", "1970054", "f10c00d90bdc9326b6f7f2adec8821e94df9888fe3c8d493881bd17ae90455f4", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:53:43", "1970055", "b05217f3563c087ce8abda1d22f073cfad05df35b86b48526855f2a7d489b24d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:44", "1970056", "40be1f86724f1c2a67ee47e4f1ade9a4007dc2c9b910260b75c9c1c08785c0cf", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:45", "1970057", "e1e58730773d236c30dd23f615e6d0a1d54d8cc16f1d9ddb4d24241d42540baa", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:53:46", "1970058", "6c23a44f0bb66ed004961a68a417cd762e2a4a6395d01c53908324f7e9e803c9", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:47", "1970059", "1ef4db362dc03450bc437972711c64ac18fa7b44bc9d8d91c2b7ce7f3211efd8", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:48", "1970060", "f8a153032344db5a97161cae8376763ba54c1a48645e0a5c489d518ae6673d17", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:49", "1970061", "a30bb2d9701ceab3cd0a49fcc7d474ecc6fccb8311fbe23a465a89a55c69d0eb", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:50", "1970062", "376c342dc4261ca7ab791d1830696d3b0401dba1210a4386d8e58f63cbd5aa97", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:51", "1970063", "3980f39b92f36760b7e4758d0c4261245d2572985942c97e22f3094493f5df84", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:52", "1970064", "7bca37198acb59b4fe2183161f5b8ad833df7e60b738594583335da44d723b0d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:53", "1970065", "bb0ef4d50edde0906f5fa696a3ba0b65be3ef43170ca8a2d587c5c47bb88ac46", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:54", "1970066", "85d13abbc39ecf5651d7912e955a85b6586624d6646864d74f260c878ad91b2d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:55", "1970067", "fe7cb6fa9d73b474e2256659d70a3bc71d20b9f38f2160bf0956166bb4131606", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:56", "1970068", "62550c7ec27b049999506513f37f06eb5e2e1bf3c8fd1d2487e15ef70cdb2949", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:57", "1970069", "60ec6d3aaa6f36ddfcec5c33f0d6c9d22cef9b15765868f5913ef6cfeeac29cd", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:58", "1970070", "4d24c9c629ce5e5a35544d656228de3ea15b8f4c42ac2497df926b3179ce30cc", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:53:59", "1970072", "5fa395bbe688fbbd6364f3d58fb14a8c1dca63933491e475b8740f77e1401b3d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:54:00", "1970073", "82b95344d95da717c3e487f7fe0d68e8308ba94439a0ef6bb1e0191367351991", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:01", "1970074", "60d59f27b6a1498829fe232f5c484d0317b300ab5c0d8bd0c530e3614c8b0f5e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:02", "1970075", "270267430c9c545640a214dca3efd60d9761c309969c2e728f9968f56719c46e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:54:03", "1970076", "336656fc6a31de7dda597b739354db26beea2315edc0628232d3972a8d65f98e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:04", "1970077", "d1d78a81d451f8ae2ac73fcf26696f8c364e3521106e56bbf41020f51fb54e70", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:05", "1970078", "09768b33697871b52d87d6422395568155e6bd39950785adf4d7dcd603c88470", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:07", "1970079", "b2070ddbecc03dbb26cdc2a72df88e9fc5f6bb7215ea3e12d0d1035704553bde", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:08", "1970080", "cd1dcfe992c4a4df8e5cb406d298c118e1f81ed9d3eebdc116e4bce9dc544367", "sha256_hash", "payload", "win.bobik", "None", "Bobik", "", "95", "False", "None", "Bobik,exe", "0", "whack_sh"
-"2026-10-16 15:54:08", "1970081", "4cd5a40c0388ed458e0dbdf744e5e7a1656e24e0dd2363dec07e1a331d832eef", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:09", "1970082", "04bdbc0fed8d71f86a0d29f0a34813ff1078c167e0ac7d7468be11d82f407a3e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:10", "1970083", "e3b410b16785aa991ed02206f3108ae3a5c7d888a181e590bdce09baeb5b8a39", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:11", "1970084", "d23fe671970092d435c8bfe13f766140243630adf231e65343a32027e3c1a6c4", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:12", "1970085", "785f500873a225e6c460e57521106c5cc2596839596354c7e3dda9aa3b24b791", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:13", "1970086", "4fc12fd350aacd9f83584de14694a746418d2a85b859d7a5c4acf2680aaa6e95", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:14", "1970087", "a7916bb3624a8fa44a55ccf5b8e9a82370faee42eb499b8904dbd6517b1dd468", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:16", "1970088", "e4d12208789f36efc5a1ff765088fed95d6bb5972d1a804a4536fd42366797d4", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:17", "1970089", "bef057527f8fbbb1ef79860ae831cfcc11b6e28dddeac6424cf7e7b70c14a491", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 15:54:18", "1970090", "4bec4b7cf78bfca1cfb3857492e944640e8aba60e593dfc7725eb936618f5c72", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:19", "1970091", "3d11f1b4703e85910c6f8e0087d97c106eb4e2db7496056125cbf675838180e7", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:20", "1970092", "d2ae3982f07f89253b21d45321e97f57b4b81c78164c2504b2578958ca186362", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 15:54:20", "1970093", "c34e21f04453953d337a285b52b7a7879354f0bdfc8136e9a69789f0c819b3de", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:39", "1970124", "aa684c1bf96f4c4aa06295c39bd7a08ae3a12b042e1d5407f921f665d6fb20d3", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:40", "1970125", "4a399646f454135212aace068aaf293f8a9a58d0e6b5fcc4c1e92fbd1ad2bdb1", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:41", "1970126", "654af773cded239c857900896dba786a64b567cce93d12019244bb7de7341555", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 16:53:42", "1970127", "2c1f3e995051cf76e5aecd36a0829ae4e215b31b982c5cf411c61b3cfa3c2f22", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:44", "1970128", "875dacb6ed5f9e4484c0abf13c4c58c11d707f90554a8514aac3a54644cb1d2c", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:45", "1970129", "03d1ff6dbb6c7e804f6591289a4d2e11fdf20fbbdbc6899a2498c383595c7581", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:46", "1970130", "7bc264b4a37d6ccac9176959cda22c0ea99a3a962849017e21dc8723a4e64fc9", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:47", "1970131", "7a72faae6674d55cf2a387467b9e68ba41e43ef7def5900dc7f2f45fcca1b8f2", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:48", "1970132", "f75b53a2ca1143821a72f92e033b95540ddf68de1bb37bc7f942976833ea99cc", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:49", "1970133", "2f38c27b7ed1530a27d294d5a0383f37713898db75d1da4aeba9a70828027198", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:50", "1970134", "e02b22dbb4074aa2aef9f606d7b86808f882ab9752dadd18bc486176d4c99da9", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:51", "1970135", "16578396dd92d8a06cab9cf3fa83ef4102ec9207a2f7557ea154fa01de368f23", "sha256_hash", "payload", "elf.bashlite", "gayfgt,Gafgyt,qbot,torlus,lizkebab", "Bashlite", "", "100", "False", "None", "Bashlite,elf", "0", "whack_sh"
-"2026-10-16 16:53:52", "1970136", "7ccd748e7cd3cc2cb747b87bdbdac4c23ad118837b496a19e7f69596dc256ed8", "sha256_hash", "payload", "elf.sshdoor", "None", "SSHDoor", "", "100", "False", "None", "elf,SSHdKit,SSHDoor", "0", "whack_sh"
-"2026-10-16 16:53:53", "1970137", "593e250c04a957ec6a260557e8e956cf9b2765614371f0e4d2af55f515e290a4", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:54", "1970138", "f49396d2d2313b5f8d0b775d38d19ef4155361169a1af1b622d0a3079f4a2741", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:55", "1970139", "8217c71bb455895cf4bf3824b8084449157b7a7e1134f8011c186191943485b8", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:56", "1970140", "c5ff2012e62f24d361b7bb5637ad1b70c95ef88c5e10a0e73a03a49af221d75e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:57", "1970141", "7bb72c87e151070f9af16dcb07db823602f0bb7ecd03f41871386c3256622c25", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:58", "1970142", "d132e113add4b9ba53e4812c39619b91717a0ba895c311ea002ecd555e34c3cd", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:53:59", "1970143", "4edf0f15b4bc5919472a932858d8c1d21540b28e0dfc2e560227b4b52a303908", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:00", "1970144", "e32122ad84f511843008e2d7f8c1f3f80df5f38ded4e7e3ae56bddefad0d6d11", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:01", "1970145", "1612a1488d22a1efa9662dc5f44695c654c3f8967ef89640849cfb80a2e6b999", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 16:54:02", "1970146", "b61279bc9d5e869ab4e47d56d463e47af898f5984871d6cc9aa90bdbbadb514e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:03", "1970147", "284e5ec8748f99fd1b8c331b699a5fe5fd4448bbaae0347a940f427f931c4d14", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:04", "1970148", "6581bf37184bb2db899b9893064d39dd314ea691adf3281cc0aa7e0a31e5138a", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:05", "1970149", "98e8621d5c2822da0ccae779f5025f56ea690e955d55ae9af7c8cad9a2658599", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:06", "1970150", "ac28bfc0d7037af9aed40d633a824f061d23374f86a4e2f422841a7cdc2f2bda", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:07", "1970151", "88aa8f801f7d3d108b371a131ded3e3d0375b2d87e5c428746f578d58b3f3456", "sha256_hash", "payload", "win.remus", "None", "Remus", "", "95", "False", "None", "exe,Remus", "0", "whack_sh"
-"2026-10-16 16:54:08", "1970152", "8338c7927e798188599cad921943f7b0d5277b058f0521bcca04f5e8b7414b25", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:09", "1970153", "310181ccdbc4129d5a8052af9101013df6e8e2871c6c42b6e86ef5a7f162caa3", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:09", "1970154", "e47e9bfa8d3e71d7a70a830292c92cd504b1c340e91c51a4384a67f0a0f352d9", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:11", "1970155", "985b25cec977ee124c1c37a61b11fd1aa1a9684c86e27d253d39e529152b99df", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:12", "1970156", "34803f07363342b0bdbce187af0d0aef13e7a65ffd42c8b4e0b304765cade633", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:13", "1970157", "14dde083fdf945a4ea87ad7aca1fbd4922f207d685c38379d81a9856c0e55128", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:13", "1970158", "98c3a5f5142672e5206dbe7c7858541f215686cf836a11ce729763de21db96f2", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:14", "1970159", "c5dd9e8c0208ef12b84edbb57362e2a07c5c0bf94b581036411dfa55962b6129", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:15", "1970160", "b8c3f93152fb40ecd08440d9a0808e6878c921a5ff0d38a2b66f145cc2ca48a6", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:16", "1970161", "15b63033ff22fae18a6fec5e1c5744b84c0f59dd204520b37bd899c887d6b8aa", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 16:54:17", "1970162", "e60956d9926d18dad03ca3fdf71dfe8e1ac47300c8fe12a4248354c60fbfba66", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:18", "1970163", "367bdaa77eb532aba8255f186161b89847f84b341dce7ba0da6fe9f6f19c9ffe", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:19", "1970164", "61d592aa652aa6ad168e9377b974774b4ecfc394e422d9dfab295bb82247d3ff", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 16:54:20", "1970165", "aedb747cefbff20e473b272d6b5867bbba7e70d473e9a81c3b4e14df08f922a0", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:40", "1970208", "9184d5f43df1e46d3c44d8020b1cb2d6d40c9a89c90440884abd5b49cfc9ee05", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:41", "1970209", "5c94555bf53b82433be016759b5d1500692d7f9fc813b7a4ef5c3f4cc9aee333", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:42", "1970210", "84086fcf6f9dd77c34bcfc2c7f4077336a29fdf6c6ad7200025f24f24362faff", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:43", "1970211", "fa94e79e7b8a1a632903ba308e009d5f00016f282c401fcf65248adc8b5256b1", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:44", "1970212", "72c10910f098611e04613c664716c5fd275d1f4b8d749409a24487148392ea7a", "sha256_hash", "payload", "elf.bashlite", "gayfgt,Gafgyt,qbot,torlus,lizkebab", "Bashlite", "", "100", "False", "None", "Bashlite,DDoSAgent,elf", "0", "whack_sh"
-"2026-10-16 17:53:46", "1970213", "f3ca837ed4fc8541cbf756e8cedf19b00e94ab63feb676e2e52d0809de52e273", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:47", "1970214", "dc4a18a63af8a3dffb52f60e93e229fa8bf3fef9e5f8cab98e0e0748adf13842", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:48", "1970215", "b68c2a6af863c98b91e172f21f4593f37d2cf25a39a3e216617e58124f0ada26", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:49", "1970216", "4fe7f204a45d73a2666d08ba34ca4a073a6dad0c6d19e19d46e7d560fd96c60b", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:50", "1970217", "d8f571d7e55069d0a905e158a683f8326ac18545fefbb4943e5602f28dd351a9", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:51", "1970218", "a66b28d03ec3f0c9b36b4c9a8f0058d2cef641a8ec4cef9e07a219d90909d6ef", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:53", "1970219", "e9ef72852871ea19efabf62c7a6300602f5a40fa393ead99e80cb998b09e5644", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:53", "1970220", "dafa3873caf9e75125ce79d6718ee998d6df3c00026f841c40b368222f2c20a3", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:55", "1970221", "8df261ce0672369e08e79f205a15e338b1196ebc0f15fa5692027b68d67da378", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:56", "1970222", "d255d939c7ffde66cc8e22dba91fdf403b91536b12f404d1f6bc417a7776a9f6", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:57", "1970223", "968d6684b22dd9b4b39f9e4e376c194c6f95a318850cd703300acdcefd96596e", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:53:58", "1970224", "7eb80330f0eef80972c7d27b32c10fca38f74b28cc0fcd9933d0ecfd78b65eed", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:53:59", "1970225", "381abe223780261b0c5316f43396b3bae7ce3f8030e287fc2558796a74762b34", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:54:00", "1970226", "3e38c5571de0b11bb4fa805dd6f63162d46befe27408bc545ad5445b7d88849f", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:01", "1970227", "ec590a91d30fc9696d4397a5844b689b6c9411c2f4146e0c33b4fe98dcc058fd", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:02", "1970228", "f7a587241abd491f7fcae95d20a63935fbb1f9aa09e78f61f34c37b1434aae0d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:03", "1970229", "eb9c029830935d18579ef3654d808d8360d55223869c67cd0c746bb3a609e39c", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:04", "1970230", "3f9f5987c3fd5e439f221faf0ef80009853e3ff4b366494b228de56f78e89cf1", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:54:05", "1970231", "77581bb0c0240474d2674a2401faa2d2d0f7f63a5f74713661d40b19b0f265e8", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:06", "1970232", "a81fe4c2a51958d1f6cefdef18905590ad507281dca2c87d73b6a26ea99327a5", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:54:07", "1970233", "12005831c060b0a64e2ccd1f490e1cf6b7601a4ba9b815b2962bf1c2f6627389", "sha256_hash", "payload", "elf.bashlite", "gayfgt,Gafgyt,qbot,torlus,lizkebab", "Bashlite", "", "100", "False", "None", "Bashlite,DDoSAgent,elf", "0", "whack_sh"
-"2026-10-16 17:54:08", "1970234", "21ca4510eb93651c8daabbac3c5f4726b27e5efe1faaf3a0072d63c9beac903d", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:09", "1970235", "79bb77fa4e79247e7e774dcb7b9b64d400ed8554f3edbc1200ca420c51a60af6", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:10", "1970236", "81edc0b4af09f855d026fac7cb8612cc760be4bda58bd5b6242effee69ea9bde", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:11", "1970237", "ccc0ba109fd1e38f414e9354d5afaf1f32cbef61118517fac5c36b0d3d93a743", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:12", "1970238", "f6d3a711793a1ef5f29a5f94b4a3f80b5af5487e7a60c166fb3d706593820c31", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:13", "1970239", "3f0589524d5a0d31a67fb77e7cb3fd34fd2530bedda5d22e753ed6f0aef5581b", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:14", "1970240", "17788162e4e8a1c611888fcdb7750e7d8f95825d50e754348e7612ce43ea52b3", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:15", "1970241", "84ebfb4b1c8c375ed9feb70c75651a4fc49feaa8c4acabd0a39048a0b2f0b4ab", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:16", "1970242", "cf8e43dcc8631aae983aa280ac3357bea61cc4b111d1fba34cffcca19c9e0af1", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:17", "1970243", "de6ffed413a98b92a71b3f298e437b8b438372e8239b62a3ead1c2bfc5e486e0", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:18", "1970244", "8edbfc6979fddbb9e65748ad45293732de87d4bb1e6437412f3335258f1045ea", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:19", "1970245", "fbbced1f2d352d3cccb1b0df63336c281b9594f49522c1552c8f4b961ba363c8", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
-"2026-10-16 17:54:20", "1970246", "d365851a71e08658275d82a2ab2c36d0221d9e3ac761d60175d9a9a89f4b7aef", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:21", "1970247", "b3100dc97574ac0082d717a9b24c79fdfaf103c22b0c51425b544c5b6ae1d7f3", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "95", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:22", "1970248", "bd659b795fa6b5afd7e2d63341a5f598cb02055d6d4e8721abcee9698bc53236", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
-"2026-10-16 17:54:22", "1970249", "cfe6b827390c1576cfb0b9263be76a72234efce52c1c2a7f3532a084a9a9dc0c", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
 "2026-10-16 18:53:40", "1970261", "3ae5aaf19ca804193a1fc773256c7aa0369369c0141ec50251e691c9bd75decc", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
 "2026-10-16 18:53:41", "1970262", "84fc61c65cb8f559575883fcab6431e82745bc8e7551a540fa6f3134a56efc77", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
 "2026-10-16 18:53:43", "1970263", "9d9f0d3402bbd8a90760c9615305249a3f6f55dcdaea21a41014da22b9227bc7", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "100", "False", "None", "elf,Mirai", "0", "whack_sh"
@@ -1217,6 +1035,35 @@
 "2026-10-18 13:54:03", "1972766", "27aad9ee9e8826402aaff1a5d130a1a94e6c485168636caef32573751b7f9758", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
 "2026-10-18 13:54:04", "1972767", "86dd9902594d24f9fa91da1be8625340d916b90830485e3d3a7df7d415d18cfb", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai,x86", "0", "whack_sh"
 "2026-10-18 14:31:35", "1972801", "7c95f72a14122c5a5bbcffdf834b7ac7540300673807da22fad705927ebc8a2c", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/7c95f72a14122c5a5bbcffdf834b7ac7540300673807da22fad705927ebc8a2c", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
+"2026-10-18 14:37:41", "1972803", "30e0a140a80d7788c2e3c8aa3dae112d3d8673d4481da474c7040539fe3e8d72", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/30e0a140a80d7788c2e3c8aa3dae112d3d8673d4481da474c7040539fe3e8d72", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
+"2026-10-18 14:43:47", "1972805", "0b00cbaf9c0107cdf47931ae31e287ae195c35b2a32f64137e206dabc58f951a", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/0b00cbaf9c0107cdf47931ae31e287ae195c35b2a32f64137e206dabc58f951a", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 14:49:53", "1972807", "fe134bfb3a11c51588a863598ee0ee7f45089a84e3cc2fcbf1c60406321fef40", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/fe134bfb3a11c51588a863598ee0ee7f45089a84e3cc2fcbf1c60406321fef40", "AMOS,ClickFix,Foxveil,haven,macOS", "0", "c4ffeine"
+"2026-10-18 14:54:00", "1972810", "f6982d30bcdf7cee1c926448372bd08180a8bfb0e2cc70f7639e2c76f76c716c", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 14:54:01", "1972811", "7b5024af9c8c4182e9f74061fc8ce96fd7d6349be9edb565ba2f62dc13fecdff", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 14:54:02", "1972812", "4a391d9fa86716f3619aa7c1b7591c81ebf987dec6f980474a3550997750e666", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 15:26:33", "1973000", "6e9fda95863ee943003d1b2ce25f4877f03c08d0cbfdaad1946450b6f4006fc2", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/85fce9826974549c2dd4c92a3207cf2543e10676ad2dfad7c8ea429f616cdf21", "AMOS,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 15:26:33", "1973001", "85fce9826974549c2dd4c92a3207cf2543e10676ad2dfad7c8ea429f616cdf21", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/85fce9826974549c2dd4c92a3207cf2543e10676ad2dfad7c8ea429f616cdf21", "AMOS,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 15:54:00", "1973190", "aa4483f7c2fc8243214121b162e0ea1f5a39c1b0d844c41b20c319baa98237fc", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 15:54:01", "1973191", "03698ec6483ef37988fea695c64416440d94fb120310467bd49284f0e38f52ae", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 15:54:02", "1973192", "ff5c2408081823c664f142b8485746d74b313f3b14469d5013b88561d3320537", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "cowrie,elf,honeypot,Mirai", "0", "whack_sh"
+"2026-10-18 16:01:08", "1973245", "fa15c35f814d821bd5214f34f31edf6f20ed25f4f2d98ccd568ea21d6d4159cf", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/fa15c35f814d821bd5214f34f31edf6f20ed25f4f2d98ccd568ea21d6d4159cf", "AMOS,ClickFix,Foxveil,macOS,nova", "0", "c4ffeine"
+"2026-10-18 16:07:14", "1973290", "b849d42ab6a6ef7945aba2643ca089a02a063d9fc42819b1267ab6f675ccceba", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/b849d42ab6a6ef7945aba2643ca089a02a063d9fc42819b1267ab6f675ccceba", "AMOS,ClickFix,Foxveil,frame,macOS", "0", "c4ffeine"
+"2026-10-18 16:13:20", "1973323", "d91e0a04c55c1618ba8ff660be422316d20370353b087f326a49406718b52a56", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/d91e0a04c55c1618ba8ff660be422316d20370353b087f326a49406718b52a56", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
+"2026-10-18 16:19:26", "1973395", "67c63f1b2d74c447114955236bace65fe7728b388ab068c1a7eddb81f0c43b01", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/67c63f1b2d74c447114955236bace65fe7728b388ab068c1a7eddb81f0c43b01", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 16:30:33", "1973406", "c329ef0e14c0f74937114a02f03bc8d39d7435fa62780c5b8d8c229e53f70022", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/c329ef0e14c0f74937114a02f03bc8d39d7435fa62780c5b8d8c229e53f70022", "AMOS,ClickFix,Foxveil,haven,macOS", "0", "c4ffeine"
+"2026-10-18 16:35:19", "1973408", "e78b3c0beda77217043f0510cc35231cd0404d395f0d2e4adbfa0ff31c2c9efb", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/e78b3c0beda77217043f0510cc35231cd0404d395f0d2e4adbfa0ff31c2c9efb", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
+"2026-10-18 16:42:08", "1973411", "71be71098e176e57aad7e2b862f293dceb06f4eba36712b92d4cb34e4a306525", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/71be71098e176e57aad7e2b862f293dceb06f4eba36712b92d4cb34e4a306525", "AMOS,ClickFix,Foxveil,macOS,nova", "0", "c4ffeine"
+"2026-10-18 16:48:14", "1973413", "7c9e8862ec166c1809583d31b69bcf2eefd24d824120470e68840154cb39a35b", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/7c9e8862ec166c1809583d31b69bcf2eefd24d824120470e68840154cb39a35b", "AMOS,ClickFix,Foxveil,frame,macOS", "0", "c4ffeine"
+"2026-10-18 16:54:01", "1973416", "26cfe0264d836092a1ac874c107b517c194a7c3cdd10548c6b4eaa270f0bcc43", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
+"2026-10-18 16:54:02", "1973417", "861946c9eca3fb11440db3d51868c9a4af6c75c48bfd70a8a34a55fae63feed0", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "elf,Mirai,upx", "0", "whack_sh"
+"2026-10-18 16:54:03", "1973418", "89b323a8bf22b5dc51851a4d1c63f0d01225429341724136dd1e32a15ba302fd", "sha256_hash", "payload", "elf.mirai", "Katana", "Mirai", "", "90", "False", "None", "elf,Mirai", "0", "whack_sh"
+"2026-10-18 16:54:20", "1973419", "c74a2059b01fc0f47030aaa14c724c9ebb3aab11c862eca4586c7bdf933e1c1e", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/c74a2059b01fc0f47030aaa14c724c9ebb3aab11c862eca4586c7bdf933e1c1e", "AMOS,ClickFix,Foxveil,macOS,quill", "0", "c4ffeine"
+"2026-10-18 17:00:26", "1973421", "1b96bdfd280780ae6bbd34dca2ff126b5c54bae57319e629592cf7aad36e6058", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/1b96bdfd280780ae6bbd34dca2ff126b5c54bae57319e629592cf7aad36e6058", "AMOS,ClickFix,Foxveil,macOS,willow", "0", "c4ffeine"
+"2026-10-18 17:31:36", "1973453", "b67dcc77e44af12e5f2371f823f55e9ba606ab3ed04e640d78abbff0a5ee403a", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/b67dcc77e44af12e5f2371f823f55e9ba606ab3ed04e640d78abbff0a5ee403a", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 17:37:42", "1973457", "2947ca3a68468ea4e90db4a519f97ce2a8336627f4687dff138ee05330e5731f", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/2947ca3a68468ea4e90db4a519f97ce2a8336627f4687dff138ee05330e5731f", "AMOS,ClickFix,Foxveil,haven,macOS", "0", "c4ffeine"
+"2026-10-18 17:43:50", "1973460", "ab09aa9cbe92e3fe0c44393d0dc483324392ee0bcbadf28e21365cdec657a6ae", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/ab09aa9cbe92e3fe0c44393d0dc483324392ee0bcbadf28e21365cdec657a6ae", "AMOS,ClickFix,Foxveil,macOS,nova", "0", "c4ffeine"
+"2026-10-18 17:45:40", "1973461", "818711b296a86b6305cc6435a754f1055ce99684916d70176f2ba24335f94faf", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/818711b296a86b6305cc6435a754f1055ce99684916d70176f2ba24335f94faf", "AMOS,chant,ClickFix,Foxveil,macOS", "0", "c4ffeine"
+"2026-10-18 17:55:22", "1973496", "e395c5343703a570d12620c81b9593ea6117d2f57c95bd8247704d9dbd256ce6", "sha256_hash", "payload", "osx.amos", "Atomic macOS Stealer", "AMOS", "", "100", "False", "https://www.virustotal.com/gui/file/e395c5343703a570d12620c81b9593ea6117d2f57c95bd8247704d9dbd256ce6", "AMOS,ClickFix,macOS", "0", "c4ffeine"
 0000bdd89d69a6dfad29d7463fc1f7dd,56ccdf82-bb98-4b52-9c86-52849062e56a
 0001195ed243f2d1198b685d0fbe1b1e,602ceed3-9144-4262-a1a5-30fd0aba047c
 0002b960dc11a15afe3021f3335fc914a0aa41ad
@@ -1938,6 +1785,7 @@
 02c00d28a551948116ec0ac0f550f5cd
 02c01ee13f002aff0e967e42f034a712
 02c0c16fab4a99bd680d4aade76c7c86,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
+02c0eaa619c3e84d84cfb4305db510f9
 02c1851c4cb116eed25279101f7bbba7
 02c372671bdedf050758dcb12d96ffb3,5faf0670-ffa6-4da9-8329-935f9d48a687
 02c469d22399c56afc9145dea2a2ad63e6c1c4b3
@@ -2155,7 +2003,6 @@
 039778564d983a67a6958d1ed6272b58
 03980c93d206102450a9b0bfc1bb2329,573d66a1-cc94-41aa-9684-07a6c0a8ab16
 03981a712bd45c50c469459cd278edbc
-0398e56d2ebebea6d479420903c0dc52d49cea8f2eb775a26f6915b5a76ae459
 0399137e13fb8bfb403b005e3363ba75752b7f46
 039a7f794f40e91fbb27c1a626d3ade5,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 039adb68088bc5d4dee97086ba9ff25c
@@ -2381,6 +2228,7 @@
 044250eef8bbd4c2c16222772d9c6f6f,5b444853-db9c-4206-8df8-203ac0a8ab16
 0442857867c0d5ea52faf77a5640e172
 0442c37fe88d2dc7ea28d08aedc00f19,5dc5cc9a-ce6c-4138-9afa-a37bc0a8ab16
+04431b15dcaed5be83e65dd0d5adc48f
 044417b79503c4aff5d7df3abe958a5ebc6c3d89
 04450f022fa66739355effa0db025d57
 044550d34883c05943ab30e68c15ccf6a615f863
@@ -2422,7 +2270,6 @@
 047489acae3daa6c545fb784813d2444,f65efb02-c563-44a7-9036-516219a24243
 04749bfc6197c95041e789f2df740890,662689f9-8510-480e-9e08-e3de0abe1822
 0475db7f28df8c93a5ddac14fd6ff88fed2bbf50
-0475f2831e60ac0b229f346036e339d20ad1d1165b005a89b634dc7c67318c74
 0476145a14eb389346f97f6516fecc17,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0478460f62381571984738185a1e7deb,57951afe-c678-425c-806e-068ec0a8ab16
 0479505c308eb4494d86a0cfd4bffa72
@@ -3414,7 +3261,6 @@
 082de64addb301c1594b2c49c7004206,cc90652d-048b-4e4d-923c-5ab8511ae51f
 082e2cc88f680184261519097bf41da9,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 082e6b5ebdd7cc9cd309180f405b1fd0
-08302ac73bd9427e59aca76baff9b0c9738618c4a83c014e9a234ecc5bdd1e4e
 08311f1146b328febc1e97f69914d4ed
 083164e837298d6584b2dc3186295f44,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 0832daf97db3c4010cbcfbfd7be88e4b4c762117
@@ -3851,6 +3697,7 @@
 09dadf0e6c2b9e53ee2c738243a8a108f72bb9ef
 09db349880b7db1013060d5c54c88097
 09dd70265a218b41b2f0af7b5cb1cbe4
+09dda7e35609f3d7c5a9fd9cd5d870d47fda6dcb5fe641b0741987399bc83193
 09de647c624f672c85cf5cd7e0070f88
 09e0270612b0d8283bc7d442879b482f
 09e090d3475d607921bd4f40c8f8afc1
@@ -4032,6 +3879,7 @@
 0a84bcc5f783b7982d96071321fe6f16
 0a84ca0adfa1d5ee18a5e61637ac1d270f25afba
 0a8517766b39da2697b66b1dfe4d30e3,f65efb02-c563-44a7-9036-516219a24243
+0a85be57d5feee7df1476afad3ce7b1207e25b5e43b3580347dd8b3506934d70
 0a85e9263cd4dc174ecdcc628447a2b5
 0a870f0dc51682dcc526a7025e044b0705eb3452
 0a893885c7e5c5eba663bd3f0b59e363,c4ff8fa3-9860-48da-a74a-f087aa0a76dd
@@ -4669,7 +4517,6 @@
 0cc35c1365ff4e0fd5f77f35e7149ac94451a052
 0cc39b48e91614f66207e39b19000d6d,5b0f0cea-222c-48e0-8417-03a3c0a8ab16
 0cc3ffcc29bef9a20a3330efac91d22755e1c7f3
-0cc42472a07cf14668e899b73adafe666d02495bf9349715613c8e7ba57244ea
 0cc4776235302252f9d6b28daf007366
 0cc58ef2dba2d1c4535022061b95236d
 0cc6c54bd927071078e435dea86eefdc,14e083b6-5d3f-4925-8b7c-19f1ec089859
@@ -4905,6 +4752,7 @@
 0d8d2d39ed90f0e61e596a11b3fc4264,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 0d8f8619434a2e14e7f4989a85d270f8
 0d90763d75d7399b2786db5276e10f66,a80e5be0-fedf-4d0a-b364-58e22b936b94
+0d914170244ab4e3ef202a385c13bb25badfd1285b426f236ac12ed4c9e30552
 0d917a4e0c373483c84690a124246168,a80e5be0-fedf-4d0a-b364-58e22b936b94
 0d922242698313b69a3013f58c8ea885a85d6e4a
 0d93035673c3f2ddbad70057bf479b24195a2073fa5e9d9a9af95202bc895429
@@ -5195,6 +5043,7 @@
 0ea280158d7333e23fc799377de0e322,c5107fff-968b-4267-bc27-cafbc6553d1d
 0ea28afb36fae76551612be52f39a997
 0ea2ed3a3cc04b43dc77c1d605f18593
+0ea3278fa7e40d1fe640fdd983fce90f5a1c64fb
 0ea35f09caf2e7bcc855d6dedf1b98f295b7f89b
 0ea384922650807ae070f7d8b21d43f1,5877be48-e4b4-4634-b002-0799c0a8ab16
 0ea409e2c6a5bbe80c11e0d09531658c,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -6479,6 +6328,7 @@
 134ebd89df4cb48eaed344d3c4a8fdee,544d142b-7863-453c-a444-b00ab9aba56c
 134fc93c2d83e322928a56c20b5bcdd0,585822f9-9290-49f9-b036-04e4c0a8ab16
 1352518335601d120f7b9f722b93a122
+13528693eddb7bb7bc9317f819f20895
 1352b01589d94b273892229e086990b7
 13538ff9ac55fe1dab0b7c1eab3cb57b07f3e3e3
 1353b45cbc6ca92c31687486c6ecac410e49bc38
@@ -6515,6 +6365,7 @@
 136e1999eacdadb188cb6a43af8f314e072ec42e
 136fbbb144218d9b311f3f4c07bd794a,f65efb02-c563-44a7-9036-516219a24243
 136ff2168ac4e65caa263c114a651829c5b446ec
+1370ab9c985a3ac25fedd9f2f92a6f32cb7d6871
 1370f14477e3d040e511c92821688a41
 1373c971a3e37c01db4a7f2c4355d653
 1374d9f542062494695e7a599d45d0dd
@@ -6635,7 +6486,6 @@
 13dad3adc79aa304cc880f1ddd9f42456505e2f6
 13dbef3e81732112f0e427dc6b540a44bfe8203c
 13dc383fbb58349b85d4ecd89fe43327,5723c8bd-8fb0-494a-ba67-07a4c0a8ab16
-13dd0a262149fa32eeb7a6f4af7264a65684eb524f3874ab79f7b1008892e9fd
 13de1c7c0596d5f557cca70c8ed375ab
 13de2f4ada6c47f70037ced93cf01b16957a884c
 13e07c20dc2e25f48cb91682f2d5f97b9e398148
@@ -7241,6 +7091,7 @@
 15f2afda727fa65f5d04916f8e75deae039b89e5
 15f32c1e3ab26c6df154973cdc2dbc14e7093748
 15f393f77d1f1f1cc9aa660a598ff431
+15f78d427064b1cd769a5a5591a875552c32e8bf5f563c629c071509fde20ad0
 15f97b4efe8fa0459311f21ceda47c81
 15fa75c8d487b37fb930611c0d5d670297592a91
 15fb215dccc828850319fec10010cd6a,6021536f-a808-4b9c-8136-d7460aba047c
@@ -7738,6 +7589,7 @@
 17bbcb1528698f475288ec94724975a11db54af9
 17bcc66a3fb9f89a9178d7fb8d605dbe,5c94adad-f4e8-4410-812a-604ffa9137a7
 17be77cd36f6148af8a320df256ea0b6
+17bf039a9a73ecb31518e497cf516bdb7fa2468e156d352712cb928eb3e33fa1
 17c31cd90a689ff711330ffc9cc0cb2ecff27339
 17c46f8222ae707b82582cf23ccf82c8
 17c4d6e51c52e59ada1d644411d33015
@@ -8198,6 +8050,7 @@
 198d245817df8a8f8d9cb54c0110a056,4154d3f0-5519-4b96-a2ba-9adcff7f7179
 198f4d2ab043e50dd7fc7987e905e41bfb3a2394
 199119d11e0ae93437b04a581f63f94a
+1992c8b901ef229cbb4673bc70ea061275a3c121
 1992ee831eb0b8be43d6638d6d53d70c,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 1993bcb30d8ea3cb65e1d42fff9bd63b,6265f228-1b56-46ef-9bd7-dbd3d02048ef
 1993f9cae528faabcbc324f743f8b170,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
@@ -8832,6 +8685,7 @@
 1c26555822974bbc98e06194032702a6
 1c26d6aa76a5f139c143cbf9d86feca4,64be448c-53f0-4e74-a53d-4c3d0abe1822
 1c28c9e6a5355780fce9c2b5905e7920
+1c2972ea59fa21f1fb23e5ef294630d38f238e3edde70dd67a9ac0aef5bbee05
 1c2a9c403d3f7e4cecbcc11ed3afe783faf277b7
 1c2ba658a49ee085a1872bcd962c8329,f65efb02-c563-44a7-9036-516219a24243
 1c2d5f170df1e1de4ed3c53e19e70fc5
@@ -8966,6 +8820,7 @@
 1c8c522f7927b8f2e99f1000a7ae74a5
 1c8d9f3f68ff16b812f16832a21f4465a1fb7cdd
 1c8e370c6cf9b6615500b2c86c646f5c,5eeb995f-c570-4242-94c6-79870aba047c
+1c8e7e52298c8c9203c182e34c01fdc1
 1c8f4cf081cef3c1a59b74935787e205,f65efb02-c563-44a7-9036-516219a24243
 1c911532faf0861df6f68488df204d61,f65efb02-c563-44a7-9036-516219a24243
 1c91eb844cf660a70796e88b97d653de0bdacc08
@@ -9203,6 +9058,7 @@
 1d780a23ac2ee405635871d160ee19b1,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 1d785aa0d53fa00d95a017bc5887efcf,56cce206-fc70-436c-881b-52819062e56a
 1d789d594126b9cfd934dc99dcb89ad5f012a869
+1d78a96f98a707c3aaba5badf6caea0f0296fcb8de09134a41899800243a1651
 1d79555d901761a22cd03ef6daa86ca5
 1d79a744c5eb90c0ee635fff6ebb7aa84d63ee43
 1d7a57b0bee307b756fc1b40d03a81be
@@ -9395,6 +9251,7 @@
 1e2d256b6437d1dc03a1a1baa98619d5,f65efb02-c563-44a7-9036-516219a24243
 1e2f8602fdfdbc0ad783829d18a06c90
 1e2fbe4a14e4644dad8568b4681f60d6,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+1e314db70b9dc248e7c12bdfda06a602b2d5f7e9
 1e315abb2267529a8df02fd6f39c4af4,5b483d26-6ed4-4009-9ea1-2f70c0a8ab16
 1e316a062fd19a8ba3b289658693b539ddc8557f
 1e333068b17a2fe4bd087428d9bb0bda0a08cba9
@@ -9664,6 +9521,7 @@
 1f22fcc962f98ff6d770bd610ca4775d,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 1f23c185349c7dc9cece6ab0160f488b,5aa80665-f728-45e9-b232-42f8c0a8ab16
 1f24f71a3be7eec5329c8dd4ed598fb0,5fd7bbc9-4f68-4057-a6fa-e430c0a8ab16
+1f26298b4b77c74f066fd82da2be29be64e02cc3
 1f272d7bb21bb591ee60eab8a8d7c6cd,3b79b739-7d41-4788-b4bb-5c8d3a6a0a26
 1f2808401ba2a0fa6870b093508c8e0724feeb6a
 1f2992628342294a17731224fece53b98f0477ae
@@ -107066,6 +106924,24 @@
 2026-10-18 13:51:24,orlof_v,ip,167.99.227.197,#malware,https://x.com/orlof_v/status/2111817425150964152
 2026-10-18 13:51:24,orlof_v,url,http://130.94.1.88,#malware,https://x.com/orlof_v/status/2111817425150964152
 2026-10-18 13:51:24,orlof_v,url,http://167.99.227.197,#malware,https://x.com/orlof_v/status/2111817425150964152
+2026-10-18 15:35:40,etugenio,ip,91.92.241.101,,https://x.com/etugenio/status/2111843665941307591
+2026-10-18 16:03:35,Fact_Finder03,ip,153.75.85.28,#C2,https://x.com/Fact_Finder03/status/2111850688670281745
+2026-10-18 16:12:49,Fact_Finder03,ip,184.174.97.127,#C2,https://x.com/Fact_Finder03/status/2111853012478206307
+2026-10-18 16:43:00,Fact_Finder03,ip,84.54.47.141,#C2,https://x.com/Fact_Finder03/status/2111860608652222899
+2026-10-18 16:54:27,curious_drac0,domain,liveeee365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,domain,outlook365livee.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,domain,portalmsn365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,domain,renovar365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,url,http://liveeee365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,url,http://outlook365livee.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,url,http://portalmsn365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 16:54:27,curious_drac0,url,http://renovar365.dothome.co.kr,#Kimsuky,https://x.com/curious_drac0/status/2111863490621354029
+2026-10-18 17:15:00,Fact_Finder03,ip,94.154.172.98,#C2,https://x.com/Fact_Finder03/status/2111868661548171309
+2026-10-18 17:34:00,Fact_Finder03,ip,153.52.111.73,#C2,https://x.com/Fact_Finder03/status/2111873443398287762
+2026-10-18 17:45:17,PhishStats,domain,1300762.us8.myftpupload.com,#phishing,https://x.com/PhishStats/status/2111876283474813368
+2026-10-18 17:45:17,PhishStats,ip,160.153.0.148,#phishing,https://x.com/PhishStats/status/2111876283474813368
+2026-10-18 17:45:17,PhishStats,url,https://1300762.us8.myftpupload.com/wp-content/de/auth/de/,#phishing,https://x.com/PhishStats/status/2111876283474813368
+2026-10-18 17:48:00,Fact_Finder03,ip,206.187.222.63,#C2,https://x.com/Fact_Finder03/status/2111876966303543451
 202663ee3921fec096b3ca8e56382d1c
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 2029fc6d73338a79c5541104e3d48bc4bff789b2
@@ -107403,7 +107279,6 @@
 215f866e5091b11c4ca89c7180e70e60988e4897
 216194c0de2150d3a374251401816d38e098f045
 2162241348e659989eea2b9d874edcc4
-216280939f26f9860c0c1b0f426582bfa79dd2fe34bddac726b6e718b99f23b6
 21639332125d263d22deb5391fbde61e
 21640c959f153f143a008410b8340aa4,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 2164bb648e8ebb093c47cac63210d991687b41e8
@@ -108027,6 +107902,7 @@
 23aec0e2b9237af1794c91356d58335d,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 23aede8df528fc962a3332dfcb0de1aa,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
 23af7a5137f54c0e9238349a47827ecf32d17a90
+23b0b8e9dc65899cc9866af010a792ce
 23b2d3309cdd901c85e833e20dd6db84,17a29b8e-11ca-42f7-9adf-886a25412b77
 23b338c96ac02895b41f0fd4dd790aec05bcfe55
 23b3396f400ea07c1cbbcd4a89449cdb,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -108734,6 +108610,7 @@
 264dfa0768be9f2af0d663991870ee79
 264e686f794c849c57a8e7d1e009dd3b04cc7950
 264f35b8ec33b19af19d7bee00877608,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+264f53e33f2fe376600543ac4a5f8af1b991a09f7682d29b836b328deb5afe34
 264fd578c6a823b043307adfd7a8dbcf10a0ac81
 264fe968a27d3fc44270ad1b1319a964,602ceed3-9144-4262-a1a5-30fd0aba047c
 265122f9431477a4633e49d41199e240,17a29b8e-11ca-42f7-9adf-886a25412b77
@@ -108875,6 +108752,7 @@
 26cb2dd35e5f1948163a546d2ada63f1ff460318
 26ccb7027d7bfad98073dd357316143f,602ceed3-9144-4262-a1a5-30fd0aba047c
 26cd747d0bb7c0bbc3f5e2023049acd66bbd498f
+26cfe0264d836092a1ac874c107b517c194a7c3cdd10548c6b4eaa270f0bcc43
 26d03a35f39d6dce3ef4fcf04b0ba6c115a8bcc2
 26d0598984431bc2992c6b67f3ec0cd1,f65efb02-c563-44a7-9036-516219a24243
 26d47515d5b0a5f10f49630d80cb498a,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -109475,7 +109353,6 @@
 2933eee809c214ce287d076a9f77aba4b5ef45c2
 2934a773271b508f9a258353df2e2f85ea4ced0f
 2934c8ae46837193bc81675516106c0ecc2d67aa
-2935b3d7fe05f60261e5a0d57f78f2b12961126ba4caee260f720d2f15f35d8f
 29378850922396960d47d8b8afeecc5a,5d9b516c-e5f0-4e7c-a958-5d8c0a019371
 2937e2f0ed70f710af050174eea6e9a9
 293816fb3da0da8540c31ffae3aacdce,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -109562,6 +109439,7 @@
 297ce0b3c836ae307023d7c2c3a7b1ec,e46d4b20-b44a-4896-be41-0f4f251cde6a
 297d1116389f0827884eb60794205309
 297d2f8627238a6c5cd7217b0a1bda7e
+2981100ec0c4342d4c7b535f30dc0d9885b6abd0dae85d5364341c6eec2c978d
 2984c96791dcf168ff4d9f0a7d645459675aaa47
 298537812102673ab8896ac1ff994dd4
 298551544f41d56718caad2fac061af7
@@ -109645,7 +109523,6 @@
 29ce04b835267fc5e2e929164c50af3f,f65efb02-c563-44a7-9036-516219a24243
 29ce794e8417dcc819d28957bbc29008,5fd8a8d4-9d60-4620-bc24-e430c0a8ab16
 29ce7d6ee04b0de9db1e806855ed5a84,d003529e-e30f-4233-a45f-22104cd9294c
-29cea1720479b5e7e692d4e1021c863179f3b8cfea0a7133df0aa9dc7cb9570d
 29cebbf92ea5af5974d4dbd3c5a8b575
 29d2c653dacb3a0e80221ed9e5b53eef,5df1e6c4-5340-4610-819b-a05fc0a8ab16
 29d3a119402caa60f262804bb7b097c1,7f79ab3b-6744-4857-85a0-ec2803a67372
@@ -110189,6 +110066,7 @@
 2bb8d896054449ad9cdb4bf8dfbb216e,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 2bbb6debd91040a576ba1450a27b4208
 2bbb6ed90cae746fafb1ccb0665ba8ae,5faf0670-ffa6-4da9-8329-935f9d48a687
+2bbbdde62f2b4ceb29e62fb20197bdd140f354ac51c346a8bf505cee059f6465
 2bbc64f326d8361302770e5b59193e31,a80e5be0-fedf-4d0a-b364-58e22b936b94
 2bbcf73469d7c81350cc711af3c0127a
 2bbd2d4e15121b19fc47635d8140547d,585822f9-9290-49f9-b036-04e4c0a8ab16
@@ -110241,7 +110119,6 @@
 2be55d078081922cfa5087d6100cf711
 2be675d8e6d536c095a4729903ebbb52,2d2af096-edea-4dde-8be3-0224205b1074
 2be8077e9e87577e74150a20bd7b07a2,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
-2be8883b922700fb70e170b76a8892ff16df3cd98da1c157d41694699d9bfd7d
 2be8d6396c1563f1e61f8a8e6107581f
 2be91b6b60c1415fca090dc5f29f8387
 2be96569ef1135a330af9e893ae62fae,57951afe-c678-425c-806e-068ec0a8ab16
@@ -110725,6 +110602,7 @@
 2da42f9e295b099ddd1c44ba97dad248
 2da7c366c270f278afcb31013d73de429425a85f
 2da9c4d3a908f9d67630b06ebdbae730
+2daa631d10be84d142eacd00ae6fb8f367d92b5c
 2daa65c08c7dd46f5ea776e445cd5354,f65efb02-c563-44a7-9036-516219a24243
 2dad33e8836a5fe2648b53c35ccd106e,a80e5be0-fedf-4d0a-b364-58e22b936b94
 2dad3c1828a14b463b0b467f12c8113a
@@ -111930,6 +111808,7 @@
 320c11dc255e53472cb8a2869a6dfd209847dbf8
 320db846e8b43e514041f8770959cce7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 320e82adbf7108db1d9aa47d058e405c,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
+320fcbc86ed3a412938be292f9f192bcd42ec449
 3210378e173898db1d3aa43268d695b2,62167543-c4e0-4f39-a23e-c09f0abe1822
 3211138c723a2175900ad42499edc669,5faf0670-ffa6-4da9-8329-935f9d48a687
 321131976e674a67bd9a72559a0b2b90
@@ -112669,6 +112548,7 @@
 34d8054a787dea343e82e3794d8e1c95bbf66190
 34d8d6bf48225c986223c82f57ff7840
 34d9426347013a64c50b7e01b15beef8,abfb5a93-e695-4ee9-bc10-541290bcd663
+34d9775f38c82bd47193f4217530b80da205f292
 34d97831dd65930a5b6c0a46a25da4d9,858ffb55-b5f6-41da-a9e0-f8f5a818e9ac
 34dae7496776d7ba1afba67c90f2d0eb
 34dc64a9334636d6c5ef97411feaf5ac,5eeb995f-c570-4242-94c6-79870aba047c
@@ -112720,6 +112600,7 @@
 350079a36c0e81911cc3cda143047b2514c27e5a
 3500d3fb4ad8ad2179b8bc17cbcb7fe2,5ef79d21-7e30-46fc-934c-ad77c0a8ab16
 35012bf295523523396aebca9d34bc24
+3501eeb421bf85fbc120e7a1900861e0
 3503109e4bbac3779c21cc7a649bd795
 3504a8233a731320ee2a21e28e6ca957
 3505a3203416203d1f94de077092ae30
@@ -113686,7 +113567,6 @@
 389590e08f7f7fc9dbeb3ea5c88708dd,a80e5be0-fedf-4d0a-b364-58e22b936b94
 3895a3afa2a234755e467a32590a26028933eeb0
 3897df2d9b4ecb94d6d0aa7eff2438bc,31de44de-304f-48c4-8ca0-38d1da0b8eba
-38998321833db1caf49016f12d6dc3672e1aa81c6c47c4f28d425ba3de63cdc6
 3899ff36bb160dbedec2f0ee61944d4b,88fc5757-d527-45b0-8666-0f7e3140408b
 389ad5ee0caa7bde1663997341ddf62ce7779484
 389b283cf2534346a584321dd3cb1ad2,c9aed93d-4023-40c3-92a4-7e8607cd6cb6
@@ -114369,6 +114249,7 @@
 3b29d83a6ec04d1ae76a4b6f9cb33084,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 3b2bb5789301ae56b3a124c7710c9f1d
 3b2ca573079327edb4f0c86f8bf20abb,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+3b2f161e3096f8e23a973b105034e99b36b762d6ad5df9e2826996a82382049c
 3b2f50b6aa09c202e23c12987a792441
 3b2fb0ad23b214754d950519986d2526,f65efb02-c563-44a7-9036-516219a24243
 3b2fda0b5ea761b1a0084915088d3331
@@ -115259,7 +115140,6 @@
 3e6a6cde48817b2a457ddfa06469a429,f65efb02-c563-44a7-9036-516219a24243
 3e6bb7a1f16122f60209a386b59775a886ec1f8f
 3e6bcfc6a14a1e60459cce6625b6354ce5428493
-3e6c1a057313b81056f0c32084a82e127034c871a0cac1dba2bd2836263a0071
 3e6c20b7ef42fa2faec7a0505ea04aeeef362c0e
 3e6c61433b8ccce6f012689c6bc90887e3830b13
 3e6c967da2efd110f953fd2ad186d0c2dd2eb497
@@ -115429,6 +115309,7 @@
 3f0dce32775f0c0bd379918d87296e48,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 3f0f90f3579fa6801886875e7aaa3624,67033954-cb9d-4aad-ae23-435b246b016e
 3f10c6a2e4cf4ce5f913f0cf908cb82e,6181159d-d7e0-422f-b7f5-26cc0abe1822
+3f131beb55eb9d5cf9c136d9a047091b5dd617c8
 3f14f533d79b45ab92e6d9ce6298eb03c9a1a14b
 3f1515afe068d469d68a7d52d9ed0aea,0ee87fb7-783d-40f5-824c-a334283d3809
 3f15208c22bfbd920518f57ddd699e55,99273d5d-d769-4b15-98b8-d87c6cce7d72
@@ -115793,6 +115674,7 @@
 406ae8d6dd86e5f0c4ebdc05ded16852
 406bff569b9f233da35749e8d97a355a
 406c0f2b58cd31984cf93c4364c8578cf0e960ca
+406c6b387e33eda397f2dd8ca1b8256d0a062fab
 406f6190517a3f110332dd923f60640f
 4071124718e6f9afec422be27a7a21f3
 40727586770b04e5d0495f1c6f206e4e,4f0d74be-1bfa-4821-8095-756c50054833
@@ -116018,6 +115900,7 @@
 413506632a457fd76f447af5366e4928,56caad9a-f220-4baf-8bcc-52819062e56a
 4135b2e130a25f924b9306bbecbd0ce5,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 4137bfd48248bff7e9bd835eaa38d9e3
+4138fb8d75c933ebbd21aee406ee28b4
 413967a5c1d591969c9b6c72c5bc0bb6e7e99f70
 413a91c4e1a868a85364416a72113e18
 413af1f553721dae4996d11ac19f2978
@@ -116345,6 +116228,7 @@
 42732d7868757683f561a7a774483500
 427511b22ec26a7824b120452bd4697d,56e1d652-a310-47a3-9017-b527c0a8ab16
 4276e56ce6490f8ef5d8834f7f6c7fafb33ca6c8
+42770443526f77e809f3a84a558cc181
 42791e2c86adf0c8f1807b5959dafcd6,56cce169-b2e8-496a-a5b8-52849062e56a
 42793e37c673c4b55abf5fcf77dfaee5,5faf0670-ffa6-4da9-8329-935f9d48a687
 427a24fc2f4a0f7cf0f8a1a2313a784a,56cce206-fc70-436c-881b-52819062e56a
@@ -116513,6 +116397,7 @@
 43195059a14e84a7f3344a59c7e3432a
 4319e495492aa0601f701f8b22fd8e76,b891b584-a5bb-48d5-9b70-95cd02ac544c
 431a58e22ea5fa26e7b45167cf6e6e76,e9043805-992c-4132-b687-2d0736901818
+431a80353f122542ac80b0252f249ece
 431a854425cf9b177a6fccc0a7a4ef3f
 431b50183b2854f97537cfc84f1ada69,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 431e5cce94667f15ca73cc70f3594ab4
@@ -116530,7 +116415,6 @@
 4327fc091d64448ed53ad44557208754,5d3f036b-0f50-4499-af4c-695a0a016219
 4329591b4a01314f11e35e7c5167d8cb,0ee87fb7-783d-40f5-824c-a334283d3809
 432cd1cf3fbf1b100178aec71723bf79,ade7298a-84e8-4dc8-9cab-c215cc771629
-432d35552fab5f79fe7f4af9ea62b2f9e777583d8bff12dda0b1f86b60799243
 432f3bd7d20f1c305d1630f2895f8d06bf3a82ee
 43311cca7a379d4f3048baac99e63e95,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 4331e1226021853db05e05dc28790ecd384e55ab
@@ -118527,6 +118411,7 @@
 4ad0dc930388c679d8ce6e3b50990e98,f65efb02-c563-44a7-9036-516219a24243
 4ad1956e66524edb889ba69a83d364bf
 4ad22cc59138d9eaf4feb63eff7cee9e
+4ad5d906f920e84c0bf3973db5c47c0b753408ad
 4ad621c45f6edbbe428ca372d91259fe1c2079e7
 4ad65f02495a4e58bc62bde4e4bfc40f,ee6d58e9-e09d-43d0-b364-93b509742247
 4ad6879a582af530710965d8892b1697,1a41895a-7759-450d-948e-32fdac6d1a36
@@ -118726,6 +118611,7 @@
 4b8092abfb63a563d11967701a494ce9,602ceed3-9144-4262-a1a5-30fd0aba047c
 4b80da9687ca9dbd7fb1bec163591ac4,28219fd4-56f3-470c-90ae-bdaeb006502e
 4b81bc6a870ad7192716a5fff6c0b0e7db4b38b6
+4b81cb9517d2809253c69d530d57a5f5
 4b82474ffaf7589c8f4aaf678316703f,a80e5be0-fedf-4d0a-b364-58e22b936b94
 4b83d7087dcc96a7bf80c5d038a4e109,97daee3e-020b-408b-bc9f-b058d42bb746
 4b83e04a9fdf288a62edeeae22331f73
@@ -119200,6 +119086,7 @@
 4d6ca6f91d4d8b08dde4a988241c81db,573d66a1-cc94-41aa-9684-07a6c0a8ab16
 4d6e84e4899148daf251cf60569019cbb8f2da79
 4d6f4c3978cf6066293e363273dc3bf8
+4d6f9ef89a5b50c5eed5047c0a8a1ec766f16e22a567b0f365b3e44c339842e2
 4d6fa314b7a4b0846506cf02ddc628e5
 4d70cba16a6f28262e89bb3d68acf424,0bfb40d7-c9e3-4cd3-a383-702cfefec39d
 4d71cab55816e6f45dba51172a0ab81b
@@ -119253,6 +119140,7 @@
 4d97725bdff17f13d24a33400ad23e33
 4d9829d26b9a59a1e11db1b391122f44
 4d98f3ba3082e9bb2c8a2bd620c27835
+4d99ac7f50852ddfcb725330c2f2411d800be149
 4d9c5814e5c213307c76b399d703e6aa,99273d5d-d769-4b15-98b8-d87c6cce7d72
 4d9fdb377b23d3415b2578c62506d42d,31de44de-304f-48c4-8ca0-38d1da0b8eba
 4da1046bd7db8df39bdacc39faaf82ab,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -119613,7 +119501,6 @@
 4ef7570c3b894d64cc066d0d53cfcbc0601a32d1
 4ef7e3ec43594c40f4ede34d008a859ed9dea34b
 4ef8466e411a45a6fdbbd09268b329f8,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
-4ef9958a07791b8dd453998adf8a1eb443127bd63ae77f4f3b448ef5d5fd6b40
 4efa4d9a25fb75dc85a2bdc1c861ece81f30db3f
 4efce2de4ef04ea92581515f38067535,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 4efdab47a32788d3431a34721ef7375d,571a5777-6664-46e9-8748-1478c0a8ab16
@@ -119956,6 +119843,7 @@
 504b67fe68f96b1a83c734fc36cfa9a1,f65efb02-c563-44a7-9036-516219a24243
 504b85bb48ca13b8182199fb222ba317eb30f24f
 504c326cf05fd94763a2a6b37658c382,56cce206-fc70-436c-881b-52819062e56a
+504c5db185124417ed999977a4f5e68a
 504d5b2cb6c9cd96e160284df94800b0
 504f44c7ed8df33ee8f92234b3df5fde,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 50509d61c4c34b9618db650eda8a5f34,5faf0670-ffa6-4da9-8329-935f9d48a687
@@ -120814,7 +120702,6 @@
 536644d6f9364a480b1cca1312c25209,99b108a2-e41f-4777-b535-658294e8250a
 536701ee3de20be8d2cbbe6bdcd98337,5badbf47-50c4-4f60-bdde-32aac0a8ab16
 53699ff3886488e4a7daa39845bb9e2a,591f51f7-0ba0-407b-87dd-4a76c0a8ab16
-536a376337fed899e58a86baca1fc584d570be8e708b6c302cc6f24626dfcfd7
 536a831588fc38d928bf71fd18221b1f,f65efb02-c563-44a7-9036-516219a24243
 536a9ef364bdcbd9e48383048af6e892381e6801
 536dfb53d4223cb425b53608d3dc78e1
@@ -121505,6 +121392,7 @@
 55e33706f57108668e2de1d108085d4b897c2a08
 55e43a64318d30f09fb503560356ed02,feff0215-623f-44c4-9538-c3220903a898
 55e69f110553e83bc98aa05ed6dd4663
+55e752670ec450ecb29c3c21f3f683e13ce7d51d0025fcff2c5f7d70ee045487
 55e76c646275a3041a00f69c0aab1b68,5d3f036b-0f50-4499-af4c-695a0a016219
 55e7f9508a73cc4b6aec67f85c7cae44,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 55eb7d833444d97dff6a4c23427177d2
@@ -121517,7 +121405,6 @@
 55fb3a4d60c6fe7105ec187ecdd9135a,9ceb0659-15fc-4732-a8ef-bfcfebd1f068
 55fb933f7e3aa509e19f495f2b1e17c006770d76
 55fde63f0f9382c070ba1204fd4458d9,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-56002b2bf21427afc8d603de500c4f38064e46dacdf9add9381015fdb306a2d0
 56010b272c44e02cd230f0b823c30579,f65efb02-c563-44a7-9036-516219a24243
 560175e331c91df3710c36d8df7b27d2,e46d4b20-b44a-4896-be41-0f4f251cde6a
 5602dc4aa00061e23a78f4ac91db868f,f65efb02-c563-44a7-9036-516219a24243
@@ -121724,6 +121611,7 @@
 56c5c9b283a3248519935b9e1563d159,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 56c5edfaa329a384dc28a3a26e5951b9
 56c69ef76ab7c1824861557727c0ff68,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+56c6fd0a590a5bc2686194e6f889646f06ff2f636434ebcc59e52c695a894d25
 56c95c8f3b51980716e010896a77f06e,1a41895a-7759-450d-948e-32fdac6d1a36
 56ca740414b1b652c7879bae9b69512203ee2ad5
 56cb1c9899332c50481f5faae994a8f2,5c94c07b-0944-4adf-9395-4e9ec0a8ab16
@@ -122404,6 +122292,7 @@
 5949e9b0d2db9dd6ed2a13d18ec0322a
 594a317e89cb5578f156612f96307288c48b00446d1da268ff01b25b60295399
 594c936e742fa4fa89239d2e4e45ca17b7172b07
+594da4cf0e1c77ac193abbb3753392725c6cb7c767b8576553383277cfdfe575
 594f2d27f06b49390b8d65f95a9218b8,602ceed3-9144-4262-a1a5-30fd0aba047c
 5950a48623cbbe8488bc110e95ba7f11,5b646948-f79c-46e8-a53f-32abc0a8ab16
 59515c1befb7e256edad9f3982eb40a8deb4138c
@@ -122722,6 +122611,7 @@
 5a645610800160678f7a02b5e7a4c071
 5a65e2fa5864a2c8109c479a85576c84,56caac73-ad4c-401f-a8e3-52819062e56a
 5a690975ead93de66dc736545fe37e2c,f65efb02-c563-44a7-9036-516219a24243
+5a69242b703d3fbec994a927016a0e3f09bc4241011d0a6a5e61e41f1e589e38
 5a6a7c1443ed5e8c6236de5247125665,67d11e59-bda7-4258-a5c4-b6efb280bb89
 5a6b3ce04575e7c2092bcca6c0ee774c
 5a6f8b7a823c164948ded4f9d7bcfa4b5b5f190baac4eb554adb032b4dc68686
@@ -123029,6 +122919,7 @@
 5b94f9fe2461b4efd02a65815dd12f3a,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 5b95bcc4f60d8653f0374f607d7ce67b1b5a2817
 5b976f46144b5952fd14ac03b5bcbe95b1180114
+5b988a2dd43b8e4d492815fcaeee7dbe0f5ae6fb
 5b99a99d3b513b2ccc0015be482f5b2d469bc4ca
 5b99e05ca6aca276a49c4c3e2feec535,62167543-c4e0-4f39-a23e-c09f0abe1822
 5b9a6b558bab98f37b703b3deba6e6be
@@ -123653,6 +123544,7 @@
 5df4c4f49b8a6b82b72a25c27cae88ae
 5df6afcdb7597269174e8db4345c5890
 5df8a467787199b10ad9fea8f55132a4
+5df8f267b1f30e624ef14a65e8a9d928
 5df9c487170650d1f1a5d059da4899cf
 5dfa3d5c25ca095c89c71788a65609bc,a80e5be0-fedf-4d0a-b364-58e22b936b94
 5dfa6f4097c1fe3627927db4329dbebfcdc02aac
@@ -124456,7 +124348,6 @@
 6104de77d08b93425640f6be1a101a3aecff9943
 610562acebc911ae271ea25be34cdd58,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 61074ba1cabfd8db0548ccd740f90379
-6107eb831d4fe329c38dfd958e0ea66f1439bc6fba9b41914bdda8ad04af0eea
 610869ca82861f9dd8148f57e607d566
 610a32282837cfe9c0d42e9c90b31196,2d2af096-edea-4dde-8be3-0224205b1074
 610af3da5daaada14bc93c002a327223,2d2af096-edea-4dde-8be3-0224205b1074
@@ -124566,6 +124457,7 @@
 61772329d20f959355ee301b0109f1b3,f65efb02-c563-44a7-9036-516219a24243
 61772558d023a483e7425e2f1c8d38679208e21d
 61797c9f87d34ea7dda0a93166db2a5c5adcbf1c
+617aec4b793f439c2dac557740d6e1e03e26c40da858d1e4ed3df818bfc37952
 617bdc10ddb1d96d37b6d40721fe43f7,56d7df53-b4bc-4739-aa3e-a874c0a8ab16
 617ca19b923e04c96607dbf7df514834,f5281ebc-f6d7-48e5-8ced-375d21aec1ff
 617d8e8255a2e4762e4329fdb21486fd,3ada8ae4-a7bd-4732-ad66-0ff8fc0f80f5
@@ -124574,7 +124466,6 @@
 617e7fcc0633ed820a69b7536a88c027,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 617eefdf794a84776ab30b1df7dc47e564a27a8c
 617f02919004f1a36fcd0f3d267fa56dd67f2d30
-617f49731ec94e41d229f5686f587f00b979b9c5b2e881a0d0b4c24e579bd34d
 617fc8f174349ed47874f45dec8e4966
 61831ca85ad6f8413891ec75f4366b12763b8be2
 61835c6889c17c9dcfe675a25bac349b,5ebfb899-22ec-467d-9b20-a754c0a8ab16
@@ -125114,6 +125005,7 @@
 6384a37947e61cf136a039dd948e325b
 6384c8fd8cf6c01dd7790b0e774649a0,f65efb02-c563-44a7-9036-516219a24243
 63850c27394e9f45137b6391e96d62f0
+638532c032e56ca0fed0c8ace2fa9311
 6385fdf5f2357dc416e791c1a52cdc5776eff488
 638602deee7a044b35702aa45bc80d97
 638744c271ba8c034828e2d303f6beb4730e2bcd
@@ -125437,7 +125329,6 @@
 64ab0734849346a0ee167d08b295e8a4fa269bba
 64ac64c38e3bfa81e2b9b145ea98443c,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 64ae175c544dba9552b2da361eb09314,a80e5be0-fedf-4d0a-b364-58e22b936b94
-64ae4dc18d3ff543bac7bb4eea180e2bcd438fd2cb573905d1fe3ad40bc6e6e9
 64aeb544fc4fbf43b0744dfc2c1f877e,6021536f-a808-4b9c-8136-d7460aba047c
 64aeb9afffac414f48ccb094da65417a,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 64af200cf9d76ab0731f04e6cd88f4bb
@@ -126049,6 +125940,7 @@
 670966f79f3c4eb35855c8edd813f2de,f65efb02-c563-44a7-9036-516219a24243
 670a01255f9af8c59f00603f6550bd2a
 670a1b400870d9156acb6a4c42bd57d6
+670a700bf70b389a1e13602cf0f593e1a27d40e2
 670b3dfc3b473f47348016738a64269d,d5db3326-37a4-44ae-b023-3369bf6dd1ca
 670caf630ac66654597df993320d08d1
 670cdb46252afabf9005e7a2f060debaba5c4888
@@ -126392,7 +126284,6 @@
 684fef1117c775a8999fbbcd57435252e60062d1
 6850bcaac4d7f922686d868135fc17e1f81401e6
 6850dbfbaf3fa29943336d294804a7fa
-6852a8d5b1f77d33c61f781227372f94e889bfc18b767519bc51341483857660
 6852ea82893514fe596673b5c243c1f807d5b566
 685336248011c729e11619c6b5a4b6a5c70485ed
 68533bf2160f132978fadaed049d9cb09571d913
@@ -126486,6 +126377,7 @@
 68b8cc419546efc56ca8137fb2edb844,5ec81ab8-326c-4e96-91b8-68d10a019371
 68b8e8b7a1fea22fe9c366479658777b,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 68b9415636d02f0375681a6279b796af30982825
+68b9d368f16635e0f983e56c89bf3cf307ae4b3f42d6577be114567642832f27
 68bb0b86af6e3a92310614f42178ffa4,56cce206-fc70-436c-881b-52819062e56a
 68bb3b8c67101ef95ea97d93fe1f0c00,5d3f036b-0f50-4499-af4c-695a0a016219
 68bb4dfd88a76f1f8cfc9b12d910f686,f913a9b4-f577-43d5-ba87-f4b2a40eda1e
@@ -126612,7 +126504,6 @@
 6934255b1ba10cde7a761574d72d4dee
 69349d5b6e990c7717053c67b8cec6cbe5374858
 6936a91d988e6dd3284938722c17753d,c279be56-bd74-434f-90a9-3e6f51dc2f48
-6936dc93d7ff405bdb88e808f91330a18326de46da7a9bd1599c0666c0021fd8
 6937b2c1d579bf02e747656819141c3c,5faf0670-ffa6-4da9-8329-935f9d48a687
 6937c9a15c9572b94c883602bb20fe46ecadbced
 6938bbcb70f03ad92ddf6c921aa6933e
@@ -126695,6 +126586,7 @@
 6976c75310991d14cdb739b1d826d4dabd850cda0794a928c9b23c71bbf0f2a3
 6977a3893a0ecdd7320286b6eb853090
 6977c7c0e880cef05352481db6e6e00166ac1487
+697bd640f1764661f154a65f11405b85
 697cb69bdffa6f108328cfaae16d8cad,5818d672-8ad0-4d07-b0ba-0a59c0a8ab16
 697f3ed2757af9a1278b8e646cdf20ef,5b059df2-6e64-4971-96d6-0f8fc0a8ab16
 697fdacce01b1b7ade4c84843725cb12
@@ -126769,10 +126661,13 @@
 69c1f0d089501ca82e4c58c5a7a23641,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 69c2870613985bd8d43d9ad15d9b500c098efaf0
 69c317009be2e44689ae79b7c54f46b3b8b3f7cf
+69c31bb1ccb62dc616eaacd7dfca34913070d98cb2075239fabe809bddd01439
 69c3e474da0fe1b98eb99d4ef78c3f66
 69c52eb81c883fe81bd02f1fa3017eb0,602ceed3-9144-4262-a1a5-30fd0aba047c
 69c62cf09e4cdd85f889a0d98bfd4c27,602ceed3-9144-4262-a1a5-30fd0aba047c
+69c7923ed59fb2c2b98952e2388c152b
 69c80000694f8c7a9142bc84f39fdfb5,5dc5cc9a-ce6c-4138-9afa-a37bc0a8ab16
+69c96a185b001c24585ec2d3382cd5b46dba50a1b4cfa91506196ed03204a2f1
 69ca38fb159accb212ca0bf25e61db71,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 69cac38a5c37100ddce023181a9bd89f
 69cb7e288f6c55924068334f993625bee897f2f1
@@ -128024,6 +127919,7 @@
 6e9d9a712486551da1c2ebd0ae462257
 6e9da596d8fc285f795e116e05a5b3a7
 6e9f3bafbfc578255273b94e5344646e
+6e9fda95863ee943003d1b2ce25f4877f03c08d0cbfdaad1946450b6f4006fc2
 6ea009db720d1a57aab74977418f9f38,f65efb02-c563-44a7-9036-516219a24243
 6ea05c465732ea0869a87bbe794a15f2,d2f7a394-66b7-45ff-98ad-b5357adbe115
 6ea0bcc9e584004da589b56719c0ab94,662689f9-8510-480e-9e08-e3de0abe1822
@@ -128163,7 +128059,6 @@
 6f1e44df0b48fc57ee8ff9b73cbfae77,313eb1b6-1b2c-43d9-8bc0-be422cfc8b45
 6f20df39307f8c563d1e338071515a18
 6f20f106b8e6969fb1ee451e9689d6c6,5d9094f3-4d08-4248-9f13-7d8cc0a8ab16
-6f236d7a4f50652e28d57c10445bf1860b414346371b7550282b9192cbb12035
 6f24caf6d667430086c1639e2bb20ff3,abfb5a93-e695-4ee9-bc10-541290bcd663
 6f280aaabb2646da4165ad4d5147eedc,5cb5730d-220c-46d2-bd20-07fdc0a8ab16
 6f291f397ba5bdba53c257d4e0ed9402,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -128414,6 +128309,7 @@
 701fd54d78336fe2a908bc425072f33b
 701fd7cbf22c14077bdd70883dd2eafbdd0074b3
 70200a357a81b00df832299e1bc8c6fc,a19c6aed-3c53-4597-971d-0bd01369f95d
+702011abe0b2f179384d8108c79258ee590e83ea
 7020c045e98a32fd9fcafc229d61db3587a2098e
 7020ee7627b36a13af960b44f7e85422,5b059df2-6e64-4971-96d6-0f8fc0a8ab16
 702112c3371bc9dbcd86b455555f244e0102aabb
@@ -128530,6 +128426,7 @@
 7098b34585c27349d10db0830d88376d
 709b5ea9953d9be3ec70b49132946fdb
 709bf05647da8baef4989b280ea264c7,56ca367a-5a88-4925-a309-4cd69062e56a
+709d88377d8449259b11bb86255e6271
 709e9ed7741cdc8df4b83a7ef39c4da8c62d89d7
 709f3bb80b41c187881f20ebae3cde3c,f65efb02-c563-44a7-9036-516219a24243
 709fa72d059aafdb962e11c9b9a77ca3,f1d310ba-7e51-41d8-97a8-d9a7c1f973ab
@@ -128669,6 +128566,7 @@
 7126279622f7f0cafe9fe3f42129de5b,636fd943-5631-4cc9-890a-4f400563533c
 712704f8f3ceeb971555b9ce2154329dcbb57aa9
 7128154a43bde52efbbd4318e0d99367,a80e5be0-fedf-4d0a-b364-58e22b936b94
+71282f83d7bed2acaf686eca7786f4b0
 71296e715b66a57f192e5500a5b9cdc7,f65efb02-c563-44a7-9036-516219a24243
 712aa4452cebdd2ff967f3df79312f30
 712c5ac1158ab95a9715bc93dd301798
@@ -128883,7 +128781,6 @@
 7207a3cf734605fd35b4f73952c96512,5a5e9125-fde0-4139-8668-03a7c0a8ab16
 72082b52b5ae2cf47b95d6e256f8b3ca,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 7209b35b3915ed78d73f69d0f490c8b2
-720ab5b61603944d0ab6022de5e531ddc42191f2bcb2d93f6942e17bc892cb51
 720af74c6ee3e188d0177a50d9aa8cd5,d003529e-e30f-4233-a45f-22104cd9294c
 720cb876170f3907d7296a8d32a710be
 720e0bab923e2032273c317a7c4855eb,f65efb02-c563-44a7-9036-516219a24243
@@ -129174,6 +129071,7 @@
 7311fd1eac503c57245a87cad84ee101,f65efb02-c563-44a7-9036-516219a24243
 73140e600d6aee264cf8bfcc04a72a50b6ec5188
 73144e5378193a119392fc63cff658585ba9ec5d
+7314fb9db5a41092b03ac2bb5fd9f3ea
 73154615ca14f36f9ce62005ae72861f,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 73165735974737d7bf5d784a7aadf6b2,827e941e-4a99-4e2c-a578-bfcec2d40552
 73179d138cde4bb314f7f919a100afb1a7d78fdb
@@ -129328,6 +129226,7 @@
 73a2c7493b51f4a6c810397ceecc892f
 73a4360ad7ae89078cc4e5ee1218a1e7,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 73a5013ef263c492e038d11c26d8da2a,0ee87fb7-783d-40f5-824c-a334283d3809
+73a753ab526dde6bc6e995259f3655d1884b676e1fa9b516a4497c7accd5461a
 73a91e17634e2ccb39426fe1c9817d72,43ea5673-3bd8-4996-8d2f-66e5d6e75914
 73a95ca6c230b59ce9664a94817081c1f9aa09a7
 73a97034aab3d95e1d560a7f1f6910f9,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -130113,6 +130012,7 @@
 769a124797d0e395872d95a52f70fa4b,d2a62c19-a7ee-41bd-984a-4098fdd30e48
 769cf491df71601b030361de4b858783fa5799fd
 769d3c3ce59d82b5c541b600aff6bbac,a80e5be0-fedf-4d0a-b364-58e22b936b94
+769e0c052b02f59fc8194ef710a82062
 769e3c166134a31f7db00e810537faade3318ef7
 769fc9d8b94f6be74ab0b6dc0cf541b0,4321ea24-f944-4225-8f1e-a4e0ef184b75
 76a01816fc5e82b269e083b59b273d8611030cce
@@ -130230,6 +130130,7 @@
 770a6b11e60e7840269e9469d25aaad5
 770b3816a1f45e6803ffce1ac7891ffeac8b906f4e4c518a47c997b928a05378
 770b74aa11bd2fa129fc542b616434e0,866f2e50-efe5-4d58-85c7-33bf3a52443c
+770b94cae272e11f22af498e12a215a83f9dd432
 770df8c45be2052c6a13e4d51d1211ac
 770e477b5f8cd94a6783140a3bb62225
 770e7152ebed75bed36863794399d219,5ccb48f2-acb4-4b42-a010-03c2c0a8ab16
@@ -130703,6 +130604,7 @@
 78c0449eee0957b36aa27b9cc9a306f1,e1e5d5e4-8405-423b-af90-bce32e20c37f
 78c04aff4bebe8b0d96bf56021831935
 78c0f2817338b10c16fe063c034d529a
+78c10bf439ca86514cdb770eb75b511d
 78c20906388700dc7c85cfdf2b9e73aa,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 78c348f362fc9b14828b00a0cbe06045,f65efb02-c563-44a7-9036-516219a24243
 78c3885faad1e2f026ac2a8296b363c9,56d7441a-0e0c-46df-b56c-5129c0a8ab16
@@ -132449,6 +132351,7 @@
 7f6e618f013e098cf149253de46d9570,f5281ebc-f6d7-48e5-8ced-375d21aec1ff
 7f6e6ae3ff8f82ea529feeaf42bf61cf,662689f9-8510-480e-9e08-e3de0abe1822
 7f6ed6bed9685026777a65f7d4b5f002
+7f6ff86479eb4a619bc78502fd57144b4a8effdf
 7f7009615b0f88e70d0417b93b7a1a374b5f6036
 7f7064f23057c74802fe3f727c74ce1e47378045
 7f723b0c3564c6c452474b2ec939c8dc
@@ -132554,6 +132457,7 @@
 7fcd70b06a7cbe9afcc62837c5be4258fb33459e
 7fcda8893c196e666416e20bd71b6aeb8386451f
 7fce7a57717d41ad31f1fb673c4db020
+7fd01201050cc2b0b06200556895efe7
 7fd05a6ee3936444bcbaa2e4dc6c4ac4
 7fd177ec3c6556025582c5cd76352bf0281b97f3
 7fd21d93658797957136e2fa439acdfb738b8901
@@ -132690,6 +132594,7 @@
 80533132219fc8afdf0cbcc7ddaf0932,f65efb02-c563-44a7-9036-516219a24243
 80540b5d30f9a1d6f440c12c995c5ca572ea4d65
 80546da72021fa4cea297e0b89d0204e17a941f2
+805490915853f38e7a5433c49c4ac272
 80561700cf444e7338d0e2af0e60d776,1a41895a-7759-450d-948e-32fdac6d1a36
 80561afcbf9a56ce2e2402851b4456b2,5e7a8ebc-c808-488e-92b1-ad77c0a8ab16
 8056c7145f480d2bb07456607d2e5314
@@ -132766,6 +132671,7 @@
 8095e444c9463ffcc238ee55f1780370dffeacee
 80999bb580dbf5f82ce80946a602772f,e46d4b20-b44a-4896-be41-0f4f251cde6a
 8099a4f1f1c50252928c1d69bb96d405,0f71e17b-1630-4ecb-8d07-cf0d8e90124f
+8099fedaccf89c21b4b1436a8d4944bd
 809b5838a5f3405a47b88f6f54bb61a9,56cce206-fc70-436c-881b-52819062e56a
 809cbe93f5ac53416492a65805195df98a4be7f6
 809ce43f3a92d3e50b80ab0727b88cff89ffa9ad
@@ -132812,6 +132718,7 @@
 80cad546d6eb70bea2c8bcdf6332e8ad,602ceed3-9144-4262-a1a5-30fd0aba047c
 80cb45c1a8d056cc19e5dbaded5b49de
 80cc60448b72868a64351bf37a835a79,57951afe-c678-425c-806e-068ec0a8ab16
+80ccb21d5461a8a512f1b125e14a2bf5b56a11eb
 80ce80b20bec251b856ff133d0a8cf1b
 80cfb6184c0a142369b3e7a02775406772f4518e
 80d0202533b936689b6c05ef58ef5ff0,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -134142,6 +134049,7 @@
 85fbbe29ce2773d83296bc692b74c0eb,31de44de-304f-48c4-8ca0-38d1da0b8eba
 85fbf8364d669729e0629c83304d2cb9
 85fc083ad01f5d40820e41ac3734b5e0
+85fce9826974549c2dd4c92a3207cf2543e10676ad2dfad7c8ea429f616cdf21
 85fd45bb3b2bdd5dcc5415f44494eadc,ee6d58e9-e09d-43d0-b364-93b509742247
 85fe7fa305497fa0f48a83e5454af513,59f835da-4aa0-4a5b-b187-2f0ac0a8ab16
 85ff31b155f62e5c9ded1aca34ae182b
@@ -134173,6 +134081,7 @@
 861687f7f9233aca138bafecb77defdcc13930c8
 8616e915af108553283d229e338a6944,5faf0670-ffa6-4da9-8329-935f9d48a687
 8619327aa75bdd13359140a52a8fcb3b,5a717019-2b96-48ea-aad0-8532d4f1dad2
+861946c9eca3fb11440db3d51868c9a4af6c75c48bfd70a8a34a55fae63feed0
 861952d1ea908f76fd9f581881e5a63a
 861af1aab9a42f4a9dc1c8d68cadf444,f65efb02-c563-44a7-9036-516219a24243
 861b2dd7f8daa17b344d88c4a976c0e8,f65efb02-c563-44a7-9036-516219a24243
@@ -134420,6 +134329,7 @@
 870f083be2f6c79fc3fc9ee83b4227d6,5c93da7f-9924-4959-9120-46edc0a8ab16
 870f22c415f3c9d5a599ed21c2854b688aa233a4
 8713a283cc528bc79ea13cf7b85a0da3,5b483d26-6ed4-4009-9ea1-2f70c0a8ab16
+87145fd9e10bcdc6d767ebda206567b9
 87160ac2e557d4303d86983d56b8571c27b31068
 8717504624114161be160d5975bf4db1,b4c819a4-f4df-4618-bb39-fa1d8365b7dd
 8717a310d440e427d35c2979e71b1305,5b9a1334-6460-47ad-b561-32aac0a8ab16
@@ -134820,7 +134730,9 @@
 8885f95847fd35bcc115392058ac5789,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 8887c65035893d99996991282553fc19
 888a37a13edcbdf29f63e47508a3ee50,602ceed3-9144-4262-a1a5-30fd0aba047c
+888bda116c77c26d84f0bcdfcf14ab9af09444ae
 888c9531d913b0920f6f6db93b15d372,d67bfbe0-e01d-4e2e-8a56-214805d85aee
+888d245e689dbcb40a1b41187991ce0320a78014968230b9f14283cdea445aba
 888d5ea4e0bcf2b2d0f45d3f2900439d,56cce03c-9fd0-48bd-958b-52849062e56a
 888d809f949bab73d5f58176a9be28f0c228509a
 888e24af050f55f95a95a05ca11bd22f,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -135121,6 +135033,7 @@
 89b18adde0bd2198131a4d46a7236cd3
 89b23eeb71fd57e5f3eb42603003a842,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 89b2546c60de21bee37d8c0baa14824bbcdb19cf
+89b323a8bf22b5dc51851a4d1c63f0d01225429341724136dd1e32a15ba302fd
 89b3a2807a2c675cb7948c9318184fe3491bb64f
 89b40021747b730fd2ea38a7312f985f
 89b514450c4214d0a0e138863febf2d1,5f573f53-5ac0-44f3-9756-d686c0a8ab16
@@ -135438,7 +135351,6 @@
 8ade8bf9175b15adf5e88e256f47e45c,0ee87fb7-783d-40f5-824c-a334283d3809
 8adf0ce8ae638c5c63415ef355c83182,5faf0670-ffa6-4da9-8329-935f9d48a687
 8ae001005612d25716220277569bc4e93a95d882
-8ae023cbba95eb6b1abd41dd87ef30c767f2f5f4665b1e02c45bf062fbabd9fc
 8ae0e988bbd97af193982dc39da4fae2
 8ae1ecf08caa5ae6d083f6d71923a968,a80e5be0-fedf-4d0a-b364-58e22b936b94
 8ae2d404e775382a83d208e5731122c6,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -135752,6 +135664,7 @@
 8c06dbad6cd5794af67372f86e48b233
 8c0739441765248d56d129ba2e3898ee7f4a9a6f
 8c07970d284d2a2005f1299717889841
+8c090cde816528fb5681a84aab40ddb0
 8c0914974b5a595467b82b2e9a0d7c37,28219fd4-56f3-470c-90ae-bdaeb006502e
 8c098872ce22c2d951ef4e7fbf52498d,d67bfbe0-e01d-4e2e-8a56-214805d85aee
 8c0b38e80efc63227a69b833126d8f329b5df128
@@ -135771,7 +135684,6 @@
 8c1a43318256eb087a5cdab9c352a979,a80e5be0-fedf-4d0a-b364-58e22b936b94
 8c1b3899af9b05a9b1cb881619176166,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 8c2017125ac523189111cf487fb8618b
-8c21db937a85cf7ed804501cdfee7d1c543aa9a56d4d1187951b8f8048af1c10
 8c224bd3347c99685ac39d0322fbcde5
 8c228422202b10c1fa9eb84144884312e7b0072b
 8c22f73fd0f546c503be90590a66657c,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -136333,7 +136245,6 @@
 8e4e46b50a394f3586ec2c217d7ce559,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 8e50953b46b7bd046ca5d76e37f19cd98a1e9bba
 8e51bb6c64b18b177041013cad466939,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
-8e5214c220d8b78bb694ec350dbcabaeba5b1597df13805570ff1b6ba17610c1
 8e529539dadfcc9ad86b16692d36864f36d76737
 8e531dd165a031844baca4a5e744651f
 8e53c9ba3916f99a88bf190b63d4f331
@@ -136562,6 +136473,7 @@
 8f2e8f0d1a853e9262bcf8b6708174a85b80f63c
 8f2f85cfdc04bbe8534a08e9935a8e846c9ce7e0
 8f309f03d19f89298bdabd82641efb6a,5877be48-e4b4-4634-b002-0799c0a8ab16
+8f30ded316da245a4782fc052d8e5fb2be1a5662
 8f31d209fd2946f598648b5960dbbeed
 8f31f5241d06d2f35da33678f7d8a3d3,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 8f34fd4f8a39993d4d9ac7794c8d35f4,a80e5be0-fedf-4d0a-b364-58e22b936b94
@@ -136986,6 +136898,7 @@
 90e4151e65c996152b172dc61bf3e1f9eaf284bb
 90e4b41f08adef7a6056f87b37332946cb7481f8
 90e4f9168484efd42de39106966af81a
+90e5428595b72d0feba72204b5414349c553dea0e59fce5a1ef2580cfbbc03c4
 90e651cc5a6c21cc94d83bb37a6db359,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 90e6dc8f3c097c027f34852138cea577,592463f4-c2f8-40e4-888e-4a76c0a8ab16
 90e7a16db065ad1b8d962fc6bab0fa6a
@@ -137086,6 +136999,7 @@
 9140f0df69c6fd82f86b5dcceaa5b971,831d2060-6bb9-467c-9f2c-961ae0651829
 9141a4e7964d7cc590d0dff8f3ae1f6f,585822f9-9290-49f9-b036-04e4c0a8ab16
 91426044643a216874087ebca1a71d10
+9142aec3857a264e4250d74b500ce0dfdf09be549fd6918b9266772b3c0abeba
 9143402b50772c1e0d6c437f14744dfa
 9143ae92108ef5ef257ead3edbe98b5db2e95382
 9145d0e48b05a48c348e6381b7b6af4f
@@ -137379,6 +137293,7 @@
 926819f2feb29c1b96cb59b55727fc21,5a37a494-4030-4f5c-a710-8d1dc0a8ab16
 92681c7b8bb46526d0dbe2f0313d3ee6,27143d08-348b-4120-b285-063f6295259f
 92686651af4bba1375ed127d6c341701
+926a11f320ed2755243305e9cc8ab1394346ec9b297dd38523d5669fedaaa98a
 926a95ba38a3cb3b83477aaa37d2073f,59124126-4c4c-4ef8-910b-4567c0a8ab16
 926b0e90f7f25f23648cdbd2983cbc96,5bf300da-6438-4372-a069-0b7b0a016219
 926b0ea5f3472e5e863734fc82bf057a
@@ -138165,6 +138080,7 @@
 95492246aa4768925a954e928413fc57e50457a29334d35a8fb3591e25b9ff62
 954a7cddbbbcc53439cf8700d596a26fde0dafb9
 954ab1286523024bb111084eed590f28
+954b11a1b80b84c2c5cf88d5f0739ab3
 954b1ab3aab26483563d782f92b8145a
 954b8427d0bba6c9f32fca637904657faa1b7844
 954c57d4c27af676ba2664b99b8002b25b5d6029
@@ -138922,6 +138838,7 @@
 97ff1503cd5ce36e7b9cafe2d9a2123f383a0939
 97ffd6827615bf0e982206e69b945c2a,602ceed3-9144-4262-a1a5-30fd0aba047c
 98014e61658bffdaefa5dc4c42cf6676
+9801ca2085729af02edc83918f2ccb8a
 9801f95a18bf88cdcd7b33af7af71c6f
 980338815ec52cc86c1c725568820139,590e3eb7-f4ec-4483-bf53-4155c0a8ab16
 9803e21b56ed9c41df7183f13ed18871,585822f9-9290-49f9-b036-04e4c0a8ab16
@@ -139682,6 +139599,7 @@
 9af2fca046ac476a68e5018c16ff47ee,f65efb02-c563-44a7-9036-516219a24243
 9af3219524f4b6336c49a48549b77141
 9af59eac7d5cc9a22bd81ed556df2851,5850fd1c-9d34-4983-ad28-06f6c0a8ab16
+9af7b019d2eec68e5ac23de89013dcae5c850a60afcdb56fe6f7d782818f869e
 9af9569a7efda715238927c9655fdf7a,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 9af9eb74b280cf98bc9b690610709fac
 9afb03b5c45df15b5c7c9fc38543797e,99138053-ae5d-4bcf-b2f8-0954edb204bc
@@ -140121,7 +140039,6 @@
 9ca9b52db2972f2bcce57a1b6d61d6ba,e5b080c1-f3c1-49c3-a7bc-446d2d023830
 9caa9dd55a742d8860cbc35eb0948920,5a30207d-92d8-4817-9060-8d1bc0a8ab16
 9cab859e82da146d259c0ef638c82f85,739fc559-c1ea-427b-9dd6-4999276f537c
-9cac520482618631b6a5bb7773f903cc01701625223b13ea90cfc43d92347907
 9cadb708a3c2c888f9d285149b73bbfe9991ae80
 9caecde13970820e408e3b78293232c8,5bf300da-6438-4372-a069-0b7b0a016219
 9caf3e2d08f2d2acbe5f2effd75eb032,f48f7c30-fe6f-4854-b27e-f86a308da714
@@ -140225,7 +140142,6 @@
 9d070f2feeef2cf41f5626e8e81ed70a,9db70e24-8bd4-4b1e-a13a-cd82cefb6947
 9d0725e62f1c1d8072e7ae4c819f8387
 9d088335a01634fe87ef840a4e7983fc,c5107fff-968b-4267-bc27-cafbc6553d1d
-9d0891f849ccc8c0eff4ea961702087eeeceeb00cff94a7cb0542839be3421f5
 9d08ae3892dc3ad5cd09d42749642536,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 9d08b2db1a3818ac15c59c703fe20ca2,f65efb02-c563-44a7-9036-516219a24243
 9d096b140e38a6d880e0960725e4abbd47ea4582
@@ -140819,6 +140735,7 @@
 9f4b2e1530ee264f07e06c8950e2748f
 9f4b7051ecbd6bdfc3565ffb9f2ea60a,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 9f4c2d1aec365af25a881b44c1baea7a
+9f4cca82342316b9c3a9ebe199fbedd17b5e3eac
 9f4d4ec19982917ecc393e1c261f489410072cad
 9f50c5a47be77dd22c9b3aa7127572ba
 9f539c20968ec54382b898a4f26968d2,592463f4-c2f8-40e4-888e-4a76c0a8ab16
@@ -142508,7 +142425,6 @@ a362eb78c1b398a519df34cf56e1bbca,f65efb02-c563-44a7-9036-516219a24243
 a36470b46d08be784614f27654db23ed,57951afe-c678-425c-806e-068ec0a8ab16
 a365b948747983b2e756c8b9388329c1
 a36682a7daa3ca21f283017a6521138e
-a368f5dbaf842d673adcc1dee6805bdb415b30cf7301550fd84949f73f02c526
 a36b531e4a1006c76057f0b6b03a9208
 a36be9f2f9d731dead01291d87062ddc,88fc5757-d527-45b0-8666-0f7e3140408b
 a36edec24ad2f6ad8dd9a5d38f6a9051,36559390-ef6a-4800-b572-9d98483c525d
@@ -143387,6 +143303,7 @@ a6d1f5015c115b93540215837569d7fc,5b646948-f79c-46e8-a53f-32abc0a8ab16
 a6d269d80209338816a4e1d06184b60a1e116ed6
 a6d436ce6f2f3e7e3a50e4843065701cead899fe
 a6d4c8bc5416301685a92bcac164d8d0,5a5395d1-40a0-45fc-b692-334a0a016219
+a6d6161b1eae37093aedf4be123158aaab0f8935
 a6d6bdf9ad8f94cd92a14eb2bda59cb928735119
 a6d9743cd195d5bb74c5e5a2086bb00ea52af002
 a6da800f2fc8e7d1e32fd0b2ae0728c7,f48f7c30-fe6f-4854-b27e-f86a308da714
@@ -143455,6 +143372,7 @@ a716796cdd6fa729c0d0a447766b4eb3b901b0dc
 a718a3426bf6f8786a11c85464897e47,5c93d7f7-7de4-4548-ae4c-403ec0a8ab16
 a7193f7ed5d42025cba16929753c8957,f65efb02-c563-44a7-9036-516219a24243
 a71959ea01e0031d387188ba08ea7e38189f87c22face7ecc9cd825422897d59
+a71a40a8fb188efdb89819b26ab61785
 a71bddbfe4d7e7b8bfe462925be5aa82,5b646948-f79c-46e8-a53f-32abc0a8ab16
 a71bf6ce907d1c175dc66b0d5b3c44c81b3e930d
 a71f23677254108fd06b1afcedbcc0f5,f65efb02-c563-44a7-9036-516219a24243
@@ -144062,6 +143980,7 @@ a9529cbb29fbaea90b77732a226e5a3b5e3e3b83
 a953cd08f2ee3e2d0c259bdd4b871e3851d6974a
 a95505f748561c7955efca7abfd191fe,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 a956b239d8d64e09797cb0075a85c964e2b5db04
+a9574b1b2c720301650bc679937976ac
 a959c270f6cc1d129695f4b5a5b487ff,58e5ecdc-2cdc-4db4-8bb8-1455c0a8ab16
 a95aa7e489d47b0ad28c277ec353a9402bd95f83
 a95b1ebb1dfdf1f4cfb2af01dcd61f2d6eba8fcc
@@ -144821,6 +144740,7 @@ ac2d54c21f5d29e7c8c5f6185c5610f2
 ac2da933d4ecdf2a7b7dfcbe85075abbeffa9684
 ac2e0dfd0c275a943937e2bc49e875e0
 ac30f309e010aacf6bc1bc4d8a99c677
+ac3482f70c57d9db4bd19c8ecba6ffdb45d63631ab842fc41db756d78634fd32
 ac368ea08392e56cd4af1e700e60232c,d81c3a80-018d-413d-9f11-59aa0c67e761
 ac36af27beb5119310fc81b03d7aad8b,8b3e9108-0c15-4e5c-ab1e-57d91ab45181
 ac3818fbdd205e8199b533b130646ae0,f65efb02-c563-44a7-9036-516219a24243
@@ -145378,7 +145298,6 @@ ae5cc080d1c3b37d555da179dc0d2246,6021536f-a808-4b9c-8136-d7460aba047c
 ae5d8f3fe873cb11f1ec21c901923aee,e41e9a5e-11db-4999-bae0-0cc159299e3d
 ae5e7c9d928914c736ce3679326e414a
 ae5f5ec992a71083131e8ea6961273eb,ade7298a-84e8-4dc8-9cab-c215cc771629
-ae60900bdab2138230f1908ca57faa66052de78c3a2f99213662be20dfab44cb
 ae609fe6b3db439d8589ba5ee1c02821,602ceed3-9144-4262-a1a5-30fd0aba047c
 ae60a15a6b51ce9b04ff1f0325532670,f65efb02-c563-44a7-9036-516219a24243
 ae61ecaf103e58d722ed9a28d7ce74f106011689
@@ -146530,7 +146449,6 @@ b2e45f20b1070d89282c23996b253734,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
 b2e565954663e8c69c4bce463ac624d6,5850fd1c-9d34-4983-ad28-06f6c0a8ab16
 b2e7ea04a6ae7c4478016feb39dd155d,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 b2e8733598ee7607998dd125b5314904,64be448c-53f0-4e74-a53d-4c3d0abe1822
-b2e940b3562cacfaaf98cde758f7981b4b18f826f4a0ec302f853eb8e5ac4782
 b2e9766f22ba397c798b5b63069a04c9,abfb5a93-e695-4ee9-bc10-541290bcd663
 b2e9ac671718d57c333c58575d3a2f76a13fbeba
 b2eaaff5e15f0f969c71ad1ad48e8d71,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -146728,7 +146646,6 @@ b39151d290069960a92104fa98feb788
 b3916783e52089a3e4328e998ccb8644b2da501b
 b391792ee4766c8de67e5dfa0b93fe8b
 b391bbeec437852d0077e9a790de529e
-b392cfe229033d34ac873353e6ccabfbe83f0fdc3d325dbeb61ffdb26576fdf7
 b39359a1617a7b77eccd21b574ff9ef7
 b393bed81b86b5059dae16c29e7608b1,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 b39542626ed3318f0e12fd95fbc80b7d,5eeb348a-cb74-40eb-9678-7c1d0aba047c
@@ -148685,6 +148602,7 @@ bad3b516062477556477c6feb8e4f875,89c7d350-43f3-4aa9-ab02-c50d70339baa
 bad5a717bffbdc2ac72401f4407f20452c3ef242
 bad9d0851f51785857d2e843a0290de2,e3e245fa-1e8e-41db-94d3-6991edd0eaee
 badaf17ed3d6e2a474f7ccf7f58ae783,5f573f53-5ac0-44f3-9756-d686c0a8ab16
+badb85fd8c034d0a7893771fabbac428f76e30936c86722ceb87d1e4aa2382a2
 badbc528d70cdaf0073f25925c632e41,f65efb02-c563-44a7-9036-516219a24243
 badbf71f3e1da4dc4c36061843de499f,58b86ceb-cc1c-47bc-8f8c-1f82c0a8ab16
 badbf7f86834fca16610045cb7c13159932bcd4b
@@ -148735,6 +148653,7 @@ bb0d07301d09eb78070f41435854c2c84aac89b6
 bb0d9e601fe1e545f8f553d0491bb3ba61842413
 bb0dcb6f9736019e21c2f108b6422c1e1bc5cd1e
 bb0dcf3d8c5b92188e36bd48584fa59f77a22b37
+bb10d37f19a9fbcbb57a310afc48d57744e47f78
 bb12f3ff899fc7b611198d7e607da382a4e16e9d
 bb13591d4fa11184a50cffa4cda80fbd,a80e5be0-fedf-4d0a-b364-58e22b936b94
 bb13b4831018df5d90d28828965e7d15,28219fd4-56f3-470c-90ae-bdaeb006502e
@@ -148881,6 +148800,7 @@ bb8d4d88332e5951ac9599c01a43091c,a19c6aed-3c53-4597-971d-0bd01369f95d
 bb8d5d1ecc11c955bbb5a2bf45d2edcd,602ceed3-9144-4262-a1a5-30fd0aba047c
 bb8d7c3b562f70b4a15c1c1ddce914bd
 bb8e5ba66b66e4e13699bdc4596388a7d3f7b242
+bb8ed75591b278468f4a73ea343c15c32bcfab25
 bb8fb998f4e2147a4b91e668d68859da,56ccdcaf-f7e4-40d8-bca1-51299062e56a
 bb9056f433b46d50ec8f0ba33630b6e9,570bedd7-4eb4-4757-ae7d-0799c0a8ab16
 bb9083ec84869ddc0641e1135949236dde4e2ae8
@@ -149067,6 +148987,7 @@ bc349ddb48c2c0419330006c0fb426b7,34582dfc-d0bf-403d-8419-2d4fa7a76466
 bc351a6796493b30ec036b9b1e68b304
 bc36fa1ea058eba961ea2d4e09333a25,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 bc387cab34e40037256543cc9e8a4946,a80e5be0-fedf-4d0a-b364-58e22b936b94
+bc3996a23e1fed9a174f152b657313d09da77fb0
 bc3b4585f050f07a2b257f6b171cb829,f65efb02-c563-44a7-9036-516219a24243
 bc3ba9feddc78c129369cfb771ec653a8cdc8da555117e4036fa39f20c01c78f
 bc3be5e614274a19df3448ff563ee768424e79ee
@@ -149392,6 +149313,7 @@ bd88c8ad503ec7529aa695c61f5997bf,28219fd4-56f3-470c-90ae-bdaeb006502e
 bd8b620caa45b63b59ba99f6d5d201d1,abfb5a93-e695-4ee9-bc10-541290bcd663
 bd8bab7bb25e6b5308ebcc95634899f9
 bd8e31f382793b0c13c97b28043fbeeadedb872a
+bd8e5d7d8d02f831163745a9ec7214bb6fd54c73
 bd8e861b39eb0e09f111e2bb2ef605de242e7376
 bd8ecf133b61ad6acfc8f7a2c2bfa91cc65031c4
 bd90b742908dec4cd7a1ab54cc6b3e7e36498ee112fd788c1679471eccc59a95
@@ -149552,7 +149474,6 @@ be1302a50fd827a8db79303b4c1ba8bf
 be156e081b5a4b0c62c8afdd6e80aedd
 be164de263a52c0e2432364cf12059a5,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 be17aea968f4474f33fefe90153b9f0b
-be181fda1892fb98a22967486f153b70b2435c01c88229070b1a830c7620d0c7
 be1973cf1fa44b13f7136ce3b5fa4f97,45ab9141-de79-4492-974b-1504bd6dfa13
 be1a44a7d017e83beb33ef49c6c7d2dcfbacb2b9
 be1a7a0d88d857d1b98a9d35e9650eef93951b86
@@ -149600,6 +149521,7 @@ be41cf7a1e6f096175aae247e48cb98c
 be4404050abdf94ae482919eff5b9db0ade2704b
 be455a60f0e4e44ba7a1a8b29678ef74,d81c3a80-018d-413d-9f11-59aa0c67e761
 be45798f06e71d0fe8ba7ec188fb44a0
+be45f8326b67a9aa7e39db4251569ecf
 be476892d3cba21f5ccac64f81460df1,bb52569e-ddce-445c-8c24-c5f52dfdf9c0
 be4cc75ac89f9c7ef02976103111402f,56ccdf0d-fe6c-4163-9fa4-51299062e56a
 be4d8bdf3cbbeed25cf39b767b5b3bdf806c4621
@@ -149613,6 +149535,7 @@ be54162105342869497560da88c1a2ac,feff0215-623f-44c4-9538-c3220903a898
 be5601d0a4dc2c2349135ddbced21846e7acf10d
 be5a86c046e79f0e8e26f5ace3162257,72abe76b-b1ce-4ac0-9029-ec5736c5033c
 be5bb51ee31c9db844588731f6f6b5f5
+be5be4192d2df4114d39001d35f7c11f
 be5c18ffef8b63f63d956215b3e06011,4c885688-92fe-4498-be89-69aa6bdcc5eb
 be5cbbb489b0493b9aec38fa85be0f38,0ee87fb7-783d-40f5-824c-a334283d3809
 be5f310e1d0ddd709b152956777e0431,5faf0670-ffa6-4da9-8329-935f9d48a687
@@ -149890,6 +149813,7 @@ bf82c53837ae948a12e7c58e92a7a335e696d1eb
 bf8307e09eafc97d575551a56be76b07
 bf851ea6647e52685457be8a5b2441da,d003529e-e30f-4233-a45f-22104cd9294c
 bf85f179d788757945982c1d077260e9,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
+bf86adb1dc76bf77b1c6c1031f9a4fa031ca4c3b
 bf86b74d41997c8641f250e2c4d88133,f65efb02-c563-44a7-9036-516219a24243
 bf87d97ad28d72f2b51512ae0bb7edc6,56fe15ee-e478-459e-8cc4-c0cac0a8ab16
 bf88d68bdd21b9fa86cc3859a68f5bdc,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
@@ -150503,7 +150427,6 @@ c1b5ea1e8540757ee72d83d52b99f526
 c1b678878a9bb29660bc136845a226e5
 c1b6a2cdeac21da5ddd1dab9494b4d38
 c1b875f82f3fc33e58647d71d4931352
-c1b8982db3c892a26a89f92339c48277cd0e0d9992a2b669eb4e28eaef098274
 c1b952f299beaf683a39952d15f83e0c,f65efb02-c563-44a7-9036-516219a24243
 c1ba0eb36e51d7d7f08856ebf9d45314
 c1ba5848a69c0b734c14da27a65760a0,f65efb02-c563-44a7-9036-516219a24243
@@ -151642,6 +151565,7 @@ c60907aa24b19bed23246f10c6b5d1d1370e6727
 c60aa127c64709cbb4a6fefedce6b6f0,f48f7c30-fe6f-4854-b27e-f86a308da714
 c60b4ab65fbeffe48493d40e66cc5c18
 c60c40f753a1bb60f76e1231cced94ff
+c60c805e5330e6217a2acb15faf4565431fa116a
 c60c8ce68a748936ca2d954bfad1da8f
 c60cff3b9dc7c2f438abf57c4991ff7b,e46d4b20-b44a-4896-be41-0f4f251cde6a
 c61122acf54a56a39262b64276d31ab4d3bc4404
@@ -151731,7 +151655,6 @@ c66806009cb9ab25e73b77a223d7b06c,56ccdf0d-fe6c-4163-9fa4-51299062e56a
 c66842319d183e9834931ed4cd039aec,f65efb02-c563-44a7-9036-516219a24243
 c668d3b74693feedc821099919f8cd6d
 c6694ca56c082f5f63cccc95d1fc8f58
-c66acbde1809e7b659d681e2e57ac3a1f19a322fc889ae459c815f443ecd4a4a
 c66e6690b50ecd8511addf31c4758337,f65efb02-c563-44a7-9036-516219a24243
 c67089b9ef24f329a188443bf53514ba,5d3f036b-0f50-4499-af4c-695a0a016219
 c67106295d7626124b299649ab8097f0,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
@@ -152093,6 +152016,7 @@ c7ca207e0b068efc1215dee80ae617b7
 c7ca4859def3f2554b541cf4202b0d4d33be6b42
 c7cd05501a6dfd5237805e51a23ee5ba
 c7d0e8d2d992577675b84af6681eb315,a80e5be0-fedf-4d0a-b364-58e22b936b94
+c7d36b20f45777461e151e99c4013188b78fe64f
 c7d71ad31771236d20b4b88b12586655
 c7d72dec612548de65c4dce7fe7c498a89100715
 c7d790648b7bc4b87ba2b9e67898ddf5327ded0c
@@ -152278,6 +152202,7 @@ c88e2b991983883e668dd8fbfb1d99d3a73d322e
 c88efcd6e0fcacf603ad1a54c1c68903,13456cca-75ce-4443-bf65-90b13f6f7aab
 c890551096599361618415728958285965639658
 c8909d4ca3383f068bcb32bf35b40d2f
+c8913c895f8ae2fc1ec6162850c0843f875f7882b6742550d68b101cbf662898
 c8918d4cbc3f080db337d5efde2b8a75c493a208
 c891b2061999272628eec5b4f0dfecd8
 c891fb774a4931a98397091cbc2152b9
@@ -152750,6 +152675,7 @@ ca40d7c30245202d4b80b3b7204037c7
 ca40f9143aa48985ef67b3331af729bf198ce962
 ca4270dee1d3c8f977b601931a2f33d6734ebf0a
 ca44f1a6b37e6868fd6d62d37e99e89c
+ca46637ce69961ef381de3e431e8ea18
 ca46d2a9d306411dc0d856af434e3331,17a29b8e-11ca-42f7-9adf-886a25412b77
 ca47e2201db9376ff3765ebb05d436c2d50e0d0d
 ca4885cd14c6a612c7a3430aa6711240,570bedd7-4eb4-4757-ae7d-0799c0a8ab16
@@ -153642,6 +153568,7 @@ cd896cbf510f75554445d00285675a19,585822f9-9290-49f9-b036-04e4c0a8ab16
 cd898abc71b3540ae0fb26514432b8cd07196f08
 cd898ffdf0cca71d7f14d5a959dc3217
 cd8ac8b96b37c2ba968d6e04b954e0f4,5877be48-e4b4-4634-b002-0799c0a8ab16
+cd8d9ade93df4f46144baf3e04896b2d
 cd8e7333a00ce47a6b3921da5ab5e5b6,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 cd8f4c83fc25269b8ecbdcd4d4723ff5fe62133d
 cd91a4727ed111137bd4a9cb07f0b69f77940360
@@ -153999,7 +153926,7 @@ cef835accdedec235a54b63a41502ef96e0ba339
 cef8b26005b0d6762e97079bf76c6fc01760f5e9
 cef8bd0d387e269e845379bdb3239a9f,590c76a9-0bac-4d1e-b8af-416ac0a8ab16
 cef90a85bfea451bdcfa6cadf77505bf
-cefb465886bc813ac91e9ad5b1835eefe9828f251b58eb0da012ee4022ff6d98
+cef9d67dcc91bb23a9167ffcc57a1e33
 cefbb50d5eed3b0ac6cd999221bd59e1a536fe6a
 cefcffbb6952763994b1a97d4980929816bbeb82
 cefd120189ce8ac5ab9a81c16dbf14dc,5877be48-e4b4-4634-b002-0799c0a8ab16
@@ -154176,6 +154103,7 @@ cfa46fd33741722e17a78e9516dea3db
 cfa6098beb30d5e5d3de0f4cd2f2354cc9dc05d4
 cfa6d68a1f11511effebcff35bd8c82e
 cfa99128b0e7c7fd7fda58db532f7079
+cfa9d4b8e689f87abdfad84a0813aa63
 cfaa9eead8f27ecc01803a5eb9fc463c
 cfaad7dc2c6bd88cbf4b595f4d4d51e2,56cce169-b2e8-496a-a5b8-52849062e56a
 cfadf6ca03310d78eb3eaf48b3bfeed00765558e
@@ -154294,6 +154222,7 @@ d01892292cd8f60a07aaf10a18bbe353
 d01b225678beafbe289d2eb77be89495a6c70562
 d01c2d3ec44aa9e0df2dded916587401,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 d01cc70a22c947594e6c0fa22cbae6f1,5badbf47-50c4-4f60-bdde-32aac0a8ab16
+d01d6a5ae13395dbb373d81898a808df3c927f1356573b6a077cabd4fa8968f6
 d01db7d11b285fd3f07fa649ff08531fa5ad7757
 d01e1dff599dbbdc8c87e0f0ed168317,d81c3a80-018d-413d-9f11-59aa0c67e761
 d01eb36ce32357a6d7f8c5703a32034c2ec2755e
@@ -154799,6 +154728,7 @@ d1dff2ab8899571bbe2e2863ee328090,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 d1e010c722552b33745b68b64a09c848,57951afe-c678-425c-806e-068ec0a8ab16
 d1e0698a5daf122b6c2032fce92bf99a,583fc655-e660-4b7c-b17b-09c6c0a8ab16
 d1e26907ae93121de2992786b98265f0
+d1e38db8f4270ad2e8a43327c6b811a1
 d1e58b1dfc4693304c40d29b2b3cdfde
 d1e79f6c3f673dd3e9dee8d387dcb2a1a236e993
 d1ec2c9a87984673423382b1c7f8193f
@@ -155278,7 +155208,6 @@ d3a84b4504fe3ab4136ebc1c82e4bdb7
 d3a98977db6366864b0563576a4ea34e96f1518e
 d3aa1c3f8ee1384df740918f7e3caf85,d003529e-e30f-4233-a45f-22104cd9294c
 d3ab1b4f41597368a504187e5558c785,60f6ea57-5534-4866-9677-44650abe1822
-d3ac1e52b34c67274f000880489a6318ff771b747e524c66a8766bfc2648f2ea
 d3ac41c92e96ef16de32b849f0a72fba,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 d3acebf61074387a761fdd1e895c16447dd072364fb83ce90c12ff0a8c6773f4
 d3adc09bebeb7a58eac6df96baf8b827,f65efb02-c563-44a7-9036-516219a24243
@@ -155768,7 +155697,6 @@ d56db429b05d8ef2a32f0049f18fa8b6
 d56e8b4ad30f6a0c16982ce2b938fb62
 d56f1ddb7463b79a34cb54926f50a8074e1b1cf0
 d570380db958147bf58540579c62d2ff62d4e6fa
-d570a1702448fac805fe39e9a49fd1ca24e4505161eec68cf6e7f5e2b6a34ce0
 d570a5c8f35c598a716809067de2deebad19d509
 d57186b53298d6f6e547c8a2afe5fbf9,a80e5be0-fedf-4d0a-b364-58e22b936b94
 d5724842b1920974563d0c8624734271
@@ -156152,6 +156080,7 @@ d6be02fa858de688928bb11c0e7cdbca,71bcb1d9-d25d-4faa-a9b7-5f909c325fc2
 d6beb4f1de9f7cdef083adba4976b110c23e4639
 d6bf6dc03b3014c3efd85c3b01443e2f,72abe76b-b1ce-4ac0-9029-ec5736c5033c
 d6bfe638a41ab85def9f362d2dfa4a27,5eeb995f-c570-4242-94c6-79870aba047c
+d6c02a64caa896c59393195ce3ecb4fbbb696172
 d6c15a0052fabbd3975f20db13f004a7,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 d6c1cbb3a6508fa71053833067702394,2a80cc08-196d-4ae0-831a-58a53f9e865d
 d6c1e117cd4ed39c860aca612f9f7789
@@ -156433,6 +156362,7 @@ d7a9f595270ddc83f37bd553a1935a6ef9c6ed47
 d7abe3ccfa4f3617a6bcdb6c2491e7dd82a34baf
 d7ac59c2b489f1fa753f9772382f82c3cca0a8be
 d7ad75df1ae5cbccd240dd319d8af4dd,5faf0670-ffa6-4da9-8329-935f9d48a687
+d7ae50c0f6dfe860f11b460e6954188a412f1b0c
 d7b34c56a9957170bd0aa98db9f90109,602ceed3-9144-4262-a1a5-30fd0aba047c
 d7b3b1581d9b53b0088b388380fd082d9b17bd8d
 d7b3d48a79cfa292c8c51635a78062c2
@@ -157451,7 +157381,6 @@ dbb9d1314858ddf3e58254778601de79,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 dbbc16aab833a061761f7c1b8afbc81e,57951afe-c678-425c-806e-068ec0a8ab16
 dbbf1427b347ba8a48bc9c1a1a11de80,b4a98411-68c8-46bf-aff8-1659046646b3
 dbc01ac8646144de3cbb95cf22be33053a4bed3e
-dbc032fe60b321173186600c4ef7461a0df8f3eb44d6f414c876988d98e9563e
 dbc0fce4f7b470ced2c171ad6e6dc4cb
 dbc20c52798b2524a3a7ee8671ab8e35
 dbc2e6c9a6a17bbf9ad094499770c044,56caac73-ad4c-401f-a8e3-52819062e56a
@@ -157525,6 +157454,7 @@ dc0605232a824984e5d59c7a1f482522,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 dc0858a283f53a7a8acf423553fdf24a
 dc0933c1ed1e729dd239b92cb90ecbe8,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 dc097f52667fbbe9f8e9c99e043438d4,0ee87fb7-783d-40f5-824c-a334283d3809
+dc0ae99ef602d7b3b1676bc4df82aa95e1cdb6cc
 dc0be37117dbc1a79c4ec961e70e8c16af1c9128
 dc0c019d986de64e77c7f8a855043387,b370b5ff-98f2-484e-923f-f6f7c0358bdc
 dc0c090dbfa1f7b54077bff3b88ef08c,56ca497b-9924-4031-ad3b-4bad9062e56a
@@ -159249,6 +159179,7 @@ e2710374c31c3494424705b4518662ef183038ed
 e271917186a63042a031618647792a98461ed694
 e273eb678b8ce2eb5c486bb0541dba0290b005e1648e900d5a7b9200c846545b
 e2744dd4de1600e4f78de2aa5026c5a0,31de44de-304f-48c4-8ca0-38d1da0b8eba
+e274e87047d1e7e4945db781ff10ff46bb7b61af
 e2757701d641176323436d7375cd9b367a39489b
 e27750329521fb08813416968f3d00c1,45b9a29b-abf7-4343-bf56-b71e7f9d9279
 e277734b5e13902e60a73355722526e0c1dace62
@@ -159507,6 +159438,7 @@ e36609d054b13c01fefabe1a921f8896
 e3678a0bff956cab30061b02f8760608ebccb5b7
 e3694fdaf6ab70dfcb1582f76f083811,585822f9-9290-49f9-b036-04e4c0a8ab16
 e36a4fc0e472dce294ceb89875d08683,cdc842aa-761d-48e2-9b97-c344bed8b3a8
+e36aadc969f067287c2e7a9d6075a97ca7003c4f
 e36c0fe7bbfa1e6fbd4d7a5e2cfb098f
 e36c15f72e163ad7cb64436857d5f66b,9912f2b3-3a2b-4b33-a3df-a3ed0ccdbc69
 e36c6eb04f78c071f012003646d5719b,3059dd82-41b6-418b-b3bc-6cc6dcc5e742
@@ -160073,7 +160005,6 @@ e592f0cd8de88aece819fa588a11fddc392ab245
 e592fbb6f6881cd2b6723073720dd3ea
 e593e707f0776832a72f03546213edea,fe78f9f1-49e2-4e84-bad3-ae97b077d4f7
 e594c909717e82c2cc0fea686a1bcbe81da021eb
-e59547abdff8019da736bcb8c252cbf5ce96b9695775031b10da334867b59b62
 e59857642eaf0ae6559a508a378508ef,bb8cb785-6587-4b8c-9280-981b485b9f4e
 e5996a2360b2ab09968232940ce92751691fe467
 e59a0ff7bdeef5279f35a1b5c19e24b980844613
@@ -160140,6 +160071,7 @@ e5d84500e3c5fb0d2d1e7a03c8ffb125,56d7441a-0e0c-46df-b56c-5129c0a8ab16
 e5d8575ade28c3e90cc9176a64eaaeeaaeda81f0
 e5d8ca677643cff1a34ecc09bce11e09,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 e5d9f9f504a92b2e6439d2d7fb77f58e,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
+e5daac3f279415932bca4d5208085269
 e5de4c6188d67924b17d5514d7e284c588ac2480
 e5df03ee44fda158df84f12672f06866,cb617be5-1f7e-4e1d-aff0-e654c1c75a8c
 e5dfcd34572182c71c1d2e6890acfb73
@@ -160174,6 +160106,7 @@ e5ffdd217dda01576e460852e3d4214d,f65efb02-c563-44a7-9036-516219a24243
 e6019aa3e688abcac954bb42d7defd4a
 e6030a8473e3f593421ff5c9c4efa5c9,5877be48-e4b4-4634-b002-0799c0a8ab16
 e6035add513a58ba3cef324d0ebfb403
+e603982fe35403a864cf615aed3d7cfb
 e604da0e30a1f80bdc968f846ecc3684,62e17cb7-ff23-48f1-b00d-227ff9248e83
 e6067618f4a77263f8918488084ccb1d,f65efb02-c563-44a7-9036-516219a24243
 e6070a40add940f354725bff392b8ad4
@@ -160229,6 +160162,7 @@ e63049400e03a2a011a1437ce6a4cfd1
 e63058c63ab40c61f2dcb0d23ddc3fcb
 e63277aabe96af65eeaa0dd07a49f944,a80e5be0-fedf-4d0a-b364-58e22b936b94
 e6337517b03602a4c18bdfad83706e51
+e63383d91db1517ab14d0244e6afa4ca086d79785ebe79f7248fd74e86045aef
 e634fe6d9bc4871241c7c671fd936dea8067a41c
 e6362aba4d2950dae977e71c0ac94d483494d4cd
 e6365d9226891da772733500d23f4a8a
@@ -162317,6 +162251,7 @@ ee3f563ca0e20bedb98d2f251c943e045e583a7e
 ee3f9514ff661eab45d5cbeeab12dbd4
 ee3ff210516f02b69271077a63a2653f,f65efb02-c563-44a7-9036-516219a24243
 ee404a74388c847332bbd9a65fde97ff,cf410edf-b437-4efa-841f-6106f07454bb
+ee43bcd4265210f107e27800eddc07e561adad9c
 ee4a5ef78605e9eb10e17b0918db052e,f65efb02-c563-44a7-9036-516219a24243
 ee4aad8cc9897abf5043304a2ec15807
 ee4b390b4debe61be66e081a8d6b057f
@@ -162677,6 +162612,7 @@ efabe461411a71f24daac85a9614f3a1,593e3879-46a0-4cd1-a7e0-52e3c0a8ab16
 efac76cabacc4a92493ca182119c6d6084cc0eb1
 efacdbeac2583adc11f100846b57468b,f00dcbc5-4636-4e9b-ae88-185e2269d1c2
 efad61bfbd4dce0b75e7b0833cade39d98e021fc
+efaf187fcda9b23e5df60934755d33e0f03981f3826de0b3944f694c40e79d80
 efb008fce982bb52579906adc4e3641b,56cce206-fc70-436c-881b-52819062e56a
 efb11e6c6b2d00aef0c5002cc601846f
 efb12cd936ab6f1499ff20a9fcca122f8af7081d
@@ -163062,6 +162998,7 @@ f11fe371f71eb910768190ab6005d507
 f12372da6e62fa3c511adcb18b460372,56cb2bd3-5525-46bd-a454-ea895a5b4d0d
 f12382394dd6e45302f1126a111da121,5a5e9125-fde0-4139-8668-03a7c0a8ab16
 f1267361098d34b4d503606050418145
+f1273af519116fe94390f50029c3d7d0c4868937
 f128f9f136658fb3a302c604b4b743cde68ede18
 f1291583ac33c054013d49df1228baa0,f65efb02-c563-44a7-9036-516219a24243
 f1293c4a3b91ed25aac03bef2ec7bf25
@@ -163646,6 +163583,7 @@ f3668cb7b8748db4142d660a75f15bfa51936fbe6717093a770c57f51d33eb79
 f369d31c4fd1cbc16128367adeae5193,67033954-cb9d-4aad-ae23-435b246b016e
 f36b44288bb9b4cc9db328d3f7a7f8cd
 f36b47f165162078504646cd4f72bac8,f65efb02-c563-44a7-9036-516219a24243
+f36c38c0bc237aa2dfd272a61aaff579f9f1cbd405d7ac5846db6efc10e28583
 f36c3bb555ed2d90c116dea4a07fbb52718b7d79
 f36c9c0e5d3285342c9652e228070705,5877be48-e4b4-4634-b002-0799c0a8ab16
 f36f163974147bd470114290386e1a211f4da884
@@ -163686,6 +163624,7 @@ f3898349636275786a361b715c58a636,5893689a-3acc-4752-a0cd-11fbc0a8ab16
 f38b04bdc8074f92138f80776e94ba63,59140a0f-6060-4814-ae44-4567c0a8ab16
 f38bad7c16c266b57d09c9e5d833ddaa,57951afe-c678-425c-806e-068ec0a8ab16
 f38bd1342a1977400629a2968c149fa8,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
+f38cbf013bc2dfc1e6c75dfb40690a9ed5fb15e8157549068d6cf70e09c01138
 f39312997f5155fb55b92da908ebcaea,73ac6137-9ef4-4c30-8c0b-bda02a270491
 f39428e918a2a717d60e0c09d38cc2a7
 f3952db56336964871916e14311c3e5a,d2a62c19-a7ee-41bd-984a-4098fdd30e48
@@ -164252,7 +164191,6 @@ f5cb52fce9d712c5e56ad485131c4edca169301d
 f5cde22c467883c552d9b80439306f95,582b43a2-03f0-4dae-ae21-04e3c0a8ab16
 f5ce2e7a7241f673d36e41bb2071d3e3,033e3332-eb5b-45d3-9a5c-68ca17aa9a8d
 f5ce8ce8631cfb6a55f91f1efa0ecff2,5a722b97-31d8-4e4c-b860-03a7c0a8ab16
-f5cf1b8ee8ddced3fb5e081dc1543669c3b62767c45da63002032da87632839d
 f5cf202d883eda08095ae73e2fd72995,5f573f53-5ac0-44f3-9756-d686c0a8ab16
 f5d181c82f26570191bdf59098df7545,f65efb02-c563-44a7-9036-516219a24243
 f5d20533e82028319e35ac3991c9049e
@@ -164600,6 +164538,7 @@ f729bbf3d9019c9dbf64e1cd9c01ba51,0945219a-00a3-4478-88f9-cdbb48215ee5
 f729da5cc31e418e6eb1351cea9a28b4
 f729fc07c9934f288892dc665c9be7bb6e34627e
 f72a89f3da4e3a05e1fe063a7de25ac6
+f72d2cc00fed9e43b6c90e9369a5f339
 f72d5d0670d7d8e0e012dbd9f4e9f901
 f72df07d86afeb2524733def02a7e280
 f72ed348f7cb63e176bef54fd6548c8b,28219fd4-56f3-470c-90ae-bdaeb006502e
@@ -166728,6 +166667,7 @@ ff67d7fb1635a927e472264d6aed6aa3,56ccdcaf-f7e4-40d8-bca1-51299062e56a
 ff67ee8075c6981ed044c02c5521bca6
 ff69a8f1f3ed77808c887be025342941,14e083b6-5d3f-4925-8b7c-19f1ec089859
 ff6a3f67a360cb834330c150cf05f84f,585822f9-9290-49f9-b036-04e4c0a8ab16
+ff6b4d9528adaf6de64aba4961a2e338126040ac1307594cb8429141e98622f9
 ff6b743b65a4da597d7466ec38aafbf4
 ff6c354a690664e53318f0dbe72a88af
 ff6cd9772b36e537e9b88b9a881af3222c4bddf3
