@@ -1,6 +1,6 @@
 # Argonis Intel Hash Feed
-# Generated: 2026-10-28 11:35:04 UTC
-# Total Hashes: 133808
+# Generated: 2026-10-28 18:28:30 UTC
+# Total Hashes: 133842
 
 0000bdd89d69a6dfad29d7463fc1f7dd,56ccdf82-bb98-4b52-9c86-52849062e56a
 0001195ed243f2d1198b685d0fbe1b1e,602ceed3-9144-4262-a1a5-30fd0aba047c
@@ -102253,7 +102253,6 @@
 2026-10-26 16:19:19,l0rdmalware,ip,162.35.99.94,#PHP2Shell,https://x.com/l0rdmalware/status/2114753751605240257
 2026-10-26 16:19:19,l0rdmalware,url,http://15.204.59.70,#PHP2Shell,https://x.com/l0rdmalware/status/2114753751605240257
 2026-10-26 16:19:19,l0rdmalware,url,http://162.35.99.94,#PHP2Shell,https://x.com/l0rdmalware/status/2114753751605240257
-2026-10-26 16:54:06,phantmradar,ip,1.48.4.0,#PHP2Shell,https://x.com/phantmradar/status/2114762506061353447
 2026-10-26 17:41:30,smica83,sha256,9c8f7ed3d0431cc8446828df9a47e10ec713a7859fb079a37399271725302eae,,https://x.com/smica83/status/2114774434049413625
 2026-10-26 17:51:59,malwrhunterteam,ip,91.92.33.67,,https://x.com/malwrhunterteam/status/2114776145359151186
 2026-10-26 17:51:59,malwrhunterteam,url,http://91.92.33.67,,https://x.com/malwrhunterteam/status/2114776145359151186
@@ -102580,6 +102579,41 @@
 2026-10-28 11:03:59,malwrhunterteam,ip,103.49.62.246,,https://x.com/malwrhunterteam/status/2115398347859300635
 2026-10-28 11:03:59,malwrhunterteam,url,http://103.49.62.246,,https://x.com/malwrhunterteam/status/2115398347859300635
 2026-10-28 11:03:59,smica83,sha256,abb5cc5cfb9dedcce43acdecce4b34bfefbd03edf6fc0b421a1f2b8e48c17cd6,,https://x.com/smica83/status/2115399173428126083
+2026-10-28 11:25:12,skocherhan,md5,0bed6030ebde445f332b005bb09c5a2a,,https://x.com/skocherhan/status/2115404510084407691
+2026-10-28 11:33:13,smica83,ip,74.207.198.39,,https://x.com/smica83/status/2115406529889202594
+2026-10-28 11:33:13,smica83,sha256,158632455cb5165778c2a7dc0499ece1bf9e6129c455e4833129f04f77e76b21,,https://x.com/smica83/status/2115406529889202594
+2026-10-28 11:33:13,smica83,url,http://74.207.198.39/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,,https://x.com/smica83/status/2115406529889202594
+2026-10-28 13:00:47,malwrhunterteam,domain,web-static-cdn.od-files-repo.workers.dev,,https://x.com/malwrhunterteam/status/2115428565214744745
+2026-10-28 13:00:47,malwrhunterteam,url,https://web-static-cdn.od-files-repo.workers.dev,,https://x.com/malwrhunterteam/status/2115428565214744745
+2026-10-28 13:02:36,phishunt_io,ip,206.209.210.20,#phishing,https://x.com/phishunt_io/status/2115429024755306699
+2026-10-28 13:02:36,phishunt_io,url,http://206.209.210.20/yahoo/,#phishing,https://x.com/phishunt_io/status/2115429024755306699
+2026-10-28 13:24:11,midnight_comms,ip,23.165.56.186,,https://x.com/midnight_comms/status/2115434453342544293
+2026-10-28 13:27:07,PhishStats,domain,account.payoneer.com,#phishing,https://x.com/PhishStats/status/2115435194249335295
+2026-10-28 13:27:07,PhishStats,url,https://account.payoneer.com/apps/opalandingpage/?t=2D6D144A88644B7F8785C2432549C853&src=pl,#phishing,https://x.com/PhishStats/status/2115435194249335295
+2026-10-28 13:27:25,masaomi346,domain,pregnantkha-jp.com,#malware #phishing,https://x.com/masaomi346/status/2115435268694319148
+2026-10-28 13:27:25,masaomi346,sha256,879f278b3ecf8341c63e338ff1c91c5eab7dd25d8c6f1dd54f24151b3b71fa51,#malware #phishing,https://x.com/masaomi346/status/2115435268694319148
+2026-10-28 13:27:25,masaomi346,url,https://pregnantkha-jp.com,#malware #phishing,https://x.com/masaomi346/status/2115435268694319148
+2026-10-28 13:30:23,anyrun_app,domain,anthropic.rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436014458081332
+2026-10-28 13:30:23,anyrun_app,domain,register.rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436014458081332
+2026-10-28 13:30:23,anyrun_app,domain,rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436016840368582
+2026-10-28 13:30:23,anyrun_app,domain,us968web-zoom.us,#phishing,https://x.com/anyrun_app/status/2115436016840368582
+2026-10-28 13:30:23,anyrun_app,url,http://anthropic.rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436014458081332
+2026-10-28 13:30:23,anyrun_app,url,http://register.rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436014458081332
+2026-10-28 13:30:23,anyrun_app,url,http://rsvpconnect-events.com,#phishing,https://x.com/anyrun_app/status/2115436016840368582
+2026-10-28 13:30:23,anyrun_app,url,http://us968web-zoom.us,#phishing,https://x.com/anyrun_app/status/2115436016840368582
+2026-10-28 14:06:59,prasad_dhakad,md5,112159f69ff2f3fdd0b4869c40cb904e,#ransomware,https://x.com/prasad_dhakad/status/2115445225057661125
+2026-10-28 15:00:01,phatomcandle,ip,27.102.137.57,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2115458571773034886
+2026-10-28 15:00:01,phatomcandle,url,http://27.102.137.57,#APT #C2 #Kimsuky #malware,https://x.com/phatomcandle/status/2115458571773034886
+2026-10-28 15:17:23,skocherhan,domain,moneyhub-cebicuzotoy.click,,https://x.com/skocherhan/status/2115462941600276847
+2026-10-28 15:17:23,skocherhan,domain,moneyhub-juzozohagid.click,,https://x.com/skocherhan/status/2115462941600276847
+2026-10-28 15:17:23,skocherhan,sha256,f69a313141c32546b5267a7fd80e1a4f54f5a883710473704806586d1e32327c,,https://x.com/skocherhan/status/2115462941600276847
+2026-10-28 15:17:23,skocherhan,url,http://moneyhub-cebicuzotoy.click,,https://x.com/skocherhan/status/2115462941600276847
+2026-10-28 15:17:23,skocherhan,url,http://moneyhub-juzozohagid.click,,https://x.com/skocherhan/status/2115462941600276847
+2026-10-28 16:00:41,Malwarehunterr,domain,flipkarrt-helu-sale.shop,#phishing,https://x.com/Malwarehunterr/status/2115473838180090231
+2026-10-28 16:00:41,Malwarehunterr,url,http://flipkarrt-helu-sale.shop,#phishing,https://x.com/Malwarehunterr/status/2115473838180090231
+2026-10-28 17:03:48,smica83,sha256,a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b,,https://x.com/smica83/status/2115489721149513931
+2026-10-28 17:51:34,Malwarehunterr,domain,guarda-login.click,,https://x.com/Malwarehunterr/status/2115501744516121044
+2026-10-28 17:51:34,Malwarehunterr,url,http://guarda-login.click,,https://x.com/Malwarehunterr/status/2115501744516121044
 202934322370ce986da326a98509c772,b10a7cdb-d833-4e83-b0ca-62e66cee42aa
 202ae7769b9778e8272bd9c77a712d6f,db9d401f-8ecb-44f9-a414-d57bbd21d728
 202cc6dc207b880f24ab58afea83a0e4,d7ebcacf-76c8-4c78-a63e-b0bde7c82094
